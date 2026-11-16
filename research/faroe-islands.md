@@ -43,3 +43,17 @@ In a retrospective Q&A published on 18 September 2008, Elin Brimheim Heinesen sa
 The Faroese National Library's web archive collects .fo domains and selected Faroese sites on other domains, but it is not open access; researchers must apply for access. This offers a practical route to testing whether an early personal site survives. Source: https://landsbokasavnid.fo/fao-web-archive?_l=en
 
 Next actions: identify the 1997 homepage URL through author contact or old link directories; request Faroese Web Archive access for known candidate domains; search 1996–2000 .fo directories for residents' own pages.
+
+
+## Contemporary network evidence — January–July 1995
+
+The NSRC archive provides a more precise service chronology than the later institutional summaries:
+
+- **19 January 1995 — externally visible .fo routing:** a contemporaneous traceroute from Imperial College London reached `dk-gw.sleipnir.fo` (130.227.128.1) through the Danish/NORDUnet route. This demonstrates that a Faroese-labelled gateway hostname was visible and reachable from abroad by that date; it does not prove a locally operated public service or personal page. Source: https://nsrc.org/db/lookup/report.php?fromISO=FO&id=890202446086:497432752.
+- **25 January 1995 — connected, but no mail-capable machines yet:** Erik Lawaetz at UNI-C reported that the Faroe Islands were connected, but that his contacts had not yet brought up mail-capable machines. This is a useful warning against equating routing/domain visibility with a functioning local email service. Source: https://nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445976:497434210.
+- **31 July 1995 — operational institutional mail and user access:** University of the Faroe Islands network administrator Jógvan Martin Grastein reported that the university and research institutions in Tórshavn had a 64 Kbit/s leased line to UNI-C via CANTAT-3; approximately 100 PCs, three Suns and one PC/SCO system were present. Campus and dial-in users used the university-maintained **SLEIPNIR** server for mail across the participating institutions. The named institutional domains included the university administration, Faroese-language, history/social science and natural science departments, museums, National Archives, National Library, food/environment institute and fisheries laboratory. A combined Web/FTP server was still being prepared and was expected within about a month; do not backdate that server to January. Source: https://www.nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445799:497435668.
+- **29 February 1996 — planned private/commercial dial-up:** a contemporary Ariadne article says the Faroese Telephone Company would begin private Internet access on this date, estimating roughly 500 users. Source: https://www7.ariadne.ac.uk/issue/2/faroe/.
+
+### Interpretation
+
+This documents three distinct milestones: early routing visibility (January 1995), a working shared institutional mail service (by July 1995), and planned broader private/commercial access (February 1996). SLEIPNIR was a multi-institution mail server, not a personal website. The Web/FTP server mentioned in July was prospective, not yet verified as live.
