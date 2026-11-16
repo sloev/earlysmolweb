@@ -71,23 +71,29 @@ A high-confidence "earliest known" claim normally needs at least one A source or
 
 ## What counts
 
-Include personal expression made by an individual or a small personal project, including:
+Include the earliest documented examples of internet-based activity, regardless of whether they were personal, institutional, commercial, governmental, academic, or community-run. Record the medium and function accurately. Examples include:
+- first connectivity, network nodes, gateways, public access points, and early internet service provision;
+- email, mailing lists, discussion groups, Usenet/netnews, IRC/chat, and other networked communication;
+- FTP archives, software distribution, Gopher menus, Telnet-accessible services, and online databases;
+- BBS/FidoNet and other dial-up systems when there is evidence of an internet connection, gateway, or meaningful interconnection; also record important local precursors separately and label them as non-Internet;
+- BITNET, EARN, UUCP, and academic/research networks where they formed part of the local route into or interaction with the internet;
+- institutional, government, commercial, educational, cultural, activist, community, and personal websites or online publications.
+
+Personal expression remains an important category, including:
 - personal homepages and self-authored sites;
 - personal diaries, journals, weblogs, photo pages, fan pages, art pages, and experimental sites;
 - personal pages hosted on university, employer, ISP, community, or free-hosting accounts;
 - early personal publishing on local networks or services when it clearly connects to the public internet story.
 
-Usually exclude:
-- corporate, government, institutional, and commercial homepages unless they preserve a personal page or provide essential context;
-- official artist/celebrity promotional sites with no meaningful personal authorship;
-- forum profiles or social-network accounts alone, unless they represent a notable early form of personal publishing;
-- pages merely hosted on a country's domain without a defensible connection to a person or community there.
+Do not exclude an example merely because it is institutional, commercial, governmental, academic, or collective. Instead, classify its operator and function so that different kinds of "earliest" claims are not conflated. A university Gopher server, a national email gateway, a commercial ISP, and an individual's homepage are different milestones.
 
-Do not impose a narrow definition of "website": record precursors and adjacent forms, but label their medium accurately (BBS, Usenet, Gopher, FTP, personal page, web diary, etc.).
+Do not treat every dial-up BBS or proprietary online service as internet activity. Include it in the internet chronology only where connectivity, a gateway, or interconnection is evidenced; otherwise place it in a clearly labelled adjacent/precursor context section.
+
+Do not impose a narrow definition of "website": label the medium accurately (email, mailing list, Usenet, FTP, Gopher, IRC, BBS/FidoNet, BITNET, UUCP, website, etc.).
 
 ## Country and territory attribution
 
-Country is a research facet, not a claim about identity. A page may be connected through the author's residence, local hosting, language/community, or explicit self-description. Record which connection applies and do not infer nationality from a domain suffix.
+Country is a research facet, not a claim about identity. An example may be connected through local infrastructure, operator location, user community, institutional base, language/community, author residence, hosting, or explicit self-description. Record the exact connection basis and do not infer nationality from a domain suffix, server location alone, or a network's country label.
 
 Use the 195-state baseline in `COUNTRIES.md`. Track Greenland and the Faroe Islands as separate research jurisdictions, as well as other territories when evidence warrants it. Denmark remains its own country entry. Where sovereignty or status is contested, record the chosen scope and explain it neutrally; do not erase local internet histories.
 
@@ -104,7 +110,10 @@ url_original:
 url_archived:
 country_or_territory:
 connection_basis: author-residence | local-hosting | language-community | self-described | other
-medium: personal-homepage | diary | blog | art | community-page | bbs | usenet | gopher | other
+medium: email | mailing-list | usenet | ftp | gopher | telnet-service | irc-chat | bbs | fidonet | bitnet | earn | uucp | website | web-publication | online-database | internet-access | gateway | other
+activity_type: connectivity | infrastructure | communication | publishing | file-archive | community | service | personal-expression | other
+operator_type: individual | community | academic | government | commercial | nonprofit | institutional | collective | unknown
+network_status: internet | internet-connected | inter-network | precursor-non-internet | proprietary-online-service | unknown
 date_claimed:
 date_type: creation | first-publication | first-capture | last-updated | inferred
 date_precision: exact | month | year | range | unknown
@@ -128,7 +137,7 @@ Do not fill unknown fields with guesses. Use `unknown` or leave them blank.
 
 1. **Internet context:** first public connectivity and local hosting context, with sources.
 2. **Personal web ecology:** ISPs, universities, clubs, free hosts, directories, web rings, language/script issues.
-3. **Earliest known personal expressions:** dated entries, ranked by strength of evidence rather than false certainty.
+3. **Earliest known examples by category:** dated entries for connectivity, infrastructure, communication, publishing, archives, communities, services, and personal expression, ranked by evidence strength rather than false certainty.
 4. **Evidence and chronology:** what survives, what does not, and how dates were established.
 5. **Gaps and next leads:** local archives, people, terms, institutions, and unresolved claims.
 6. **Bibliography / evidence log:** source URLs, archive captures, access dates.
@@ -145,3 +154,8 @@ Do not fill unknown fields with guesses. Use `unknown` or leave them blank.
 ## First research wave
 
 Begin with a distributed first wave across Greenland, the Faroe Islands, Iceland, Denmark, Iran, and Uruguay, while a parallel researcher/agent explores the United States as a comparative/control case. At the same time, keep scouting and accepting leads from every other country; do not serialize work or require one country to be exhausted before moving to another. Use `COUNTRIES.md` as a flexible heuristic and rebalance effort according to lead quality, documentation gaps, and diminishing returns. The list is a discovery strategy, not a ranking of cultural importance or technical sophistication.
+
+
+## Scope clarification — 2026-11-16
+
+The project is not limited to personal expression or to the World Wide Web. Seek the earliest documented internet-based examples in each country/jurisdiction across multiple categories and media. Include institutional, academic, government, commercial, nonprofit, collective, community, and individual operators. Non-Web activity (email, mailing lists, Usenet, FTP, Gopher, IRC, connected BBS/FidoNet, BITNET/EARN/UUCP and similar networks) is in scope when its relationship to the internet is evidenced. Record local non-Internet BBS/proprietary online services as adjacent precursors, not as internet activity. Keep separate chronologies/categories so an early network node, first email gateway, first public Gopher service, first website, and earliest personal homepage are not mistaken for the same milestone. Preserve the evidence standard and distinguish event dates, surviving records, and retrospective claims.
