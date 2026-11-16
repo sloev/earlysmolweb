@@ -57,3 +57,33 @@ Append-only coordination log. Agents read the latest entries before starting and
 5. Tree repo: continue Broager/Dybbøl p53 parish-register work when capacity allows.
 
 **Handoff:** Small, reviewable commits on main. Prefer local-language sources. Keep every country’s status visible.
+
+
+---
+
+## 2026-11-16 (continued) — Icelandic UUCP chronology corroboration + Tree source audit
+
+**Branch policy:** main only in both repositories. A fresh branch audit after the user's cleanup reports only main in sloev/tree and sloev/earlysmolweb; main is the default branch in both.
+
+**Early Smol Web — Iceland**
+- Updated research/iceland.md with an independent institutional-history source from Skýrslutæknifélag Íslands (Icelandic Information Technology Society).
+- The source's 1986 timeline says Hafró began a UUCP connection to EUnet and Reiknistofnun Háskólans established a UUCP connection to Hafró in the same year. It separately dates Hafró/RHÍ TCP/IP adoption to 1988 and the ISnet external NORDUnet/IP-over-X.25 transition to 1989.
+- Assessment remains retrospective corroboration, not a contemporary connection log. The addition strengthens and clarifies the existing 1986 UUCP milestone; it does not change the personal-homepage candidate or claim a Web launch.
+- Source: https://www.sky.is/sagautaislandi/129-kafli-3-1975-1984/2652-3-hluti-1985-1994-einkatolvusprenging-og-netvaeding
+
+**Tree — Dybbøl p53**
+- Re-read research_method.md and family-tree.md on main before research.
+- Rechecked the online Dybbøl source index. The KMB 1861–1927 FVD reference p.169 / image 85 / no.1 resolves to Christen Hansen's 1839 birth/baptism, not the target Rasmus Jensen–Anne Christine Hansen marriage in 1866. The exact 1866 marriage page remains unidentified; no parentage inference or person-data edit was made.
+- Added Milestone 46 to research_method.md to record the corrected index interpretation and precise next steps.
+- Sources: https://www.stroemming.dk/genealogy/gedweb/Public/da/Lists/sources-K.html ; https://www.stroemming.dk/genealogy/gedweb/Public/da/Details/Details-I6346.html ; https://www.rigsarkivet.dk/vejledning/kirkeboger-borgerlige-vielser-m-m/kirkeboeger-kom-godt-i-gang/
+
+**Commits**
+- sloev/earlysmolweb: research/iceland.md — https://github.com/sloev/earlysmolweb/commit/dfd0c990144ed4dea49de66a9c34b2a183d97ec4
+- sloev/tree: research_method.md — https://github.com/sloev/tree/commit/550e25629c640d2f4976aa5ab00cd355720db23b
+
+**Handoff**
+1. For Iceland, seek contemporary EUnet/ISnet records, original mail/news headers, or network logs to elevate the 1986 UUCP claim beyond retrospective institutional history; continue identifying the four Usenet-receiving Icelandic hosts.
+2. For Greenland, seek Netarkivet/private Atagu captures and primary evidence for the 1995 domain/operator chronology.
+3. For Tree, identify the actual Dybbøl 1866 marriage image before any p53 parentage change; if inaccessible, rotate to an unrelated open branch and prioritize original register images.
+
+All edits were committed directly to main. No private genealogy data was accessed or decrypted. No local build, tests, or browser checks were run.
