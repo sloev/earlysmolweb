@@ -60,3 +60,18 @@
 3. Ask or search for Heinesen's original 1997 homepage URL; test it in Wayback and Netarkivet.
 4. Use the Royal Danish Library's 1992–1997 WARC corpus to extract more individual and family homepages, not only .dk domains (early pages may be hosted on CompuServe or other foreign services).
 5. Search Danish-language terms and contemporary directories: personlig hjemmeside, privat hjemmeside, min hjemmeside, familie hjemmeside, hjemmesider på nettet, private hjemmesider.
+
+
+## Pre-Web network-service chronology — DIKU, DKUUG and DEnet
+
+The early Danish chronology predates personal homepages by more than a decade. It is important context for locating individual authors, but network services are not themselves personal publishing:
+
+- **2 January 1983 — international email from DIKU:** the University of Copenhagen's Department of Computer Science (DIKU) documents that Keld Simonsen sent a test email from Denmark to a contact in the Netherlands and received a reply through the European network. The department's history says email was processed when systems dialled one another, roughly every four hours. By 1984 ten additional Danish computers had joined and access to email was offered to researchers for DKK 200 annually. Source: https://di.ku.dk/english/about/department_history/new_opportunities_in_research/.
+- **1983 — EUnet/DKUUG connection and broader UUCP services:** Keld Simonsen's archival collection reproduces contemporary documents from 1982–84, including EUnet maps, correspondence, invoices and the 1987 .dk registration. This is a particularly valuable primary-source route for reconstructing the earliest network topology. Source: https://www.open-std.org/keld/internetstart/.
+- **1980s — UUCP mail and Usenet:** a Danish retrospective by Lars P. Fischer says DKUUG initially provided Usenet to members using a UUCP feed between Amsterdam's mcvax and DKUUG; member companies could obtain UUCP email and news. It also records a DAIMI UUCP feed to DIKU and onward to IESD in Aalborg, and says UNI-C began supplying IP traffic on the first research network in 1987. Treat this as a participant recollection and use the surviving maps/logs to verify node-level dates. Source: https://www.usenet.dk/firserne.html.
+- **1988–89 — DEnet and NORDUnet:** a 2015 Danish infrastructure history says Copenhagen University joined DEnet in 1988 through EUnet in the Netherlands, initially supporting email and Usenet discussion exchange; interactive terminal access followed in 1989 when DEnet connected to the first-generation NORDUnet. Source: https://deic.dk/sites/default/files/2025-09/DeiC_A%CC%8Arsrapport_2015.pdf.
+- **1 February 1994 — commercial/academic Internet service catalogue:** a contemporary contact directory describes UNI-C's Internet Service as offering email, Gopher, Veronica, Archie, FTP, Telnet, Usenet, personal file areas and resource information, via modem or DEnet. This documents a broad service ecosystem, but is not evidence that every service was hosted in Denmark or that users had personal websites. Source: https://cds.cern.ch/record/2806515/files/Dimou-email-contacts-1994.pdf.
+
+### Interpretation and research value
+
+The strongest early milestone is the dated 2 January 1983 DIKU email, supported by the university's institutional history and a surviving documentary collection. The 1980s UUCP/Usenet evidence supplies concrete routes into named nodes and operators. Keep email, UUCP, Usenet, research-network IP and later Web hosting as separate categories. Next, inspect the 1982–87 primary documents and surviving UUCP maps for individual system operators, personal accounts and early home-directory services; continue the separate Madsen Smed homepage capture search.
