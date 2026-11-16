@@ -191,3 +191,13 @@ The 15 June 1999 *Iran's Telecom and Internet Sector: A Comprehensive Survey* st
 ### Interpretation and remaining distinction
 
 The two milestones should not be collapsed: the October 1993 NSRC record documents a reliable EARN/BITNET link since January 1993, while the 1999 survey dates IPM's TCP/IP conversion to mid-1994. A 1996 retrospective survey's “four and a half years” phrasing remains imprecise and is not sufficient to move the TCP/IP date earlier. Continue seeking original IPM/IREARN records, surviving mailing-list archives, Usenet/news access records, Gopher menus and FTP archives. These network milestones do not establish a personal homepage or public web service.
+
+
+## Contemporary corroboration — EARN/BITNET link (29 October 1993)
+
+A contemporary NSRC Connectivity Providers Database entry titled **“OCLB IR - EARN/Bitnet Link to Iran”** was last updated 29 October 1993. It identifies Ali Shokofandeh in the Computer Division of the Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, and says explicitly: **“the bitnet link has been up and reliable since January 1993.”** It provides two further IREARN contacts. This independently corroborates the January 1993 EARN/BITNET milestone with a contemporaneous, direct-contact technical listing, rather than relying solely on the 1999 retrospective survey. It still documents a BITNET/EARN link, not a national TCP/IP Internet connection. Source: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488551:497423506.
+
+### Evidence-grade update
+- January 1993 IPM/IREARN EARN-BITNET link: **contemporary, direct-contact record; high confidence for link being operational by January 1993**.
+- January 1993 first email anecdote: remains from later retrospective technical survey; corroboration of the network link does not independently verify the “first email” claim.
+- Mid-1994 IPM TCP/IP gateway: remains supported by the 1999 survey, not by the 1993 NSRC listing. Keep it as a separate milestone and seek contemporary 1994 RAU/IREARN technical notices or routing evidence.
