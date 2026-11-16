@@ -126,3 +126,29 @@ The project now records non-Web activity as well as websites. Uruguay has a much
 **Research implication:** for Uruguay, the first email, first community-network service, first remote Internet service access, first direct IP connection, first public ISP, and first public Web publishing are different milestones. Do not compress them into one “Internet arrived” date. The 1992 NSRC report is the strongest contemporaneous evidence so far; the detailed 1986–1995 Chasque chronology is founder testimony and should be corroborated with contemporaneous Chasque/ITeM/RAU documents where possible.
 
 **Next actions:** locate the original INCO 1988 letter cited by the 2026 synthesis; inspect the original Chasque/ITeM and SeCIU records; identify the precise March 1994 RAU/ANTEL connection record; seek surviving Chasque BBS, mailing-list, Gopher and Telnet documentation; retain the existing 1995–1997 web-page candidate work as a separate track.
+
+
+## Broadened chronology — primary INCO/Incouy UUCP and email evidence (16 November 2026)
+
+### 2 December 1988 — experimental UUCP node operating regularly
+
+The 2014 Universidad de la República / Facultad de Ingeniería volume *Aportes para la historia del Instituto de Computación* reproduces the original letter from Juan José Cabezas, Director of INCO, to the Faculty Dean, dated **8 December 1988**. It states that the experimental Uruguayan UUCP network node had been installed and was functioning regularly from **2 December 1988** on the fifth floor of the Faculty of Engineering. The letter says it was maintained by INCO's Programming Department and established with assistance from staff at the University of Buenos Aires. This is unusually strong documentary evidence for the local node and its start date (the surviving publication is a 2014 reproduction of the original letter).
+
+The same volume reproduces early message headers and routing paths. It identifies a message from Gastón Gonnet at the University of Waterloo dated 1 December 1988, addressed through the route atina!dcfcen!InCo!jcabezas, and a message dated 2 December 1988 from INRIA routed via uunet!mcvax!sabre-madonna.inria.fr!steffen to the Uruguayan node. The book's narrative says the first non-Río de la Plata email received was Gonnet's message; the headers establish the message's send date and route, while the installation letter establishes the local node's operational date. Preserve this nuance rather than describing a single message as the first connection event.
+
+- Source: https://www.fing.edu.uy/sites/default/files/Aportes_para_la_Historia_del_INCO_0.pdf (pp. 45–48; reproduced letter and mail headers).
+- Evidence grade: **A/B** (reproduced contemporaneous administrative letter and original message headers; published in a 2014 institutional history).
+- Category: UUCP node / international email / academic inter-network communication; operator: academic; network status: inter-network (UUCP), not native TCP/IP Internet.
+- Additional detail: the volume says the node was the first Uruguayan node operating regularly and the only one until 1990; it later had more than 100 users from the Faculty of Engineering, the University of the Republic and other institutions. Treat the “first/only” characterization as retrospective testimony by the node's director, supported by the reproduced letter for the local node's operation.
+
+### 1991-era UUCP registry record preserved in the same history
+
+The volume reproduces an international UUCP map entry for InCouv / InCouy, identifying the operator as the University of Uruguay, Faculty of Engineering, INCO, naming Fernando Carpani and Juan Cabezas, and locating the node in Montevideo. The entry includes a #W update timestamp of 14 June 1989. This is useful corroboration of the node's identity and international registration, although the displayed historical alias/domain strings vary (InCouv, InCouy, InCouv.edu.ar).
+
+The same volume quotes a May 1998 email saying that the Faculty's Gopher contained a list of Uruguayan academic institutions and preserved a 5 November 1991 UUCP registry entry for the Centro de Matemáticas (cmat) in Montevideo. This establishes a surviving Gopher-based institutional directory by the 1998 message, and a dated underlying UUCP registry entry from 1991; it does **not** establish that the Gopher service itself was online in 1991.
+
+- Source: https://www.fing.edu.uy/sites/default/files/Aportes_para_la_Historia_del_INCO_0.pdf (pp. 46 and 52–53 in the extracted volume).
+
+### Interpretation
+
+Uruguay's chronology now has a stronger primary documentary base for the 1988 academic UUCP/email node. Keep it distinct from Chasque's 1989 local dial-up forums, 1990 automatic external email exchange, 1993 remote Telnet/Gopher access via X.25/Alternex, and 1994 direct SECIU Internet link. The INCO volume also provides names and host conventions for further discovery, but the listed user accounts are not public personal publishing evidence. Next: seek contemporaneous UUCP maps, SeCIU/RAU Gopher records, early mailing-list or Usenet archives, and Chasque service documentation.
