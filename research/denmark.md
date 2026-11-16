@@ -95,3 +95,12 @@ The Royal Danish Library's DR archive catalogue provides unusually specific cont
 2. Search 1995 Danish Internet directories and contemporary press for “Michael Maardt”, “Brug din PC optimalt” and his homepage address.
 3. Search Netarkivet/Internet Archive for the recovered URL and compare its earliest capture with the 23 October 1995 `knowware.dk` registration.
 4. Keep the Madsen Smed November 1995 claim in the register: it may still be the earliest *family homepage* candidate, while Maardt is an earlier documented *individual personal homepage*.
+
+
+## Unverified personal-homepage URL lead — Peder Madsen
+
+A recent Danish teaching slide deck labels **Peder Madsen** “the father of Denmark's first private homepage” and gives the URL `http://smed.dalgashave.dk/peder/forside.html`. The deck supplies no launch date, contemporary attribution or supporting citation. This is a **low-confidence lead only**: it does not establish a 1995 page or a national-first claim. Preserve the exact historical URL and seek a dated Internet Archive/Netarkivet capture plus independent authorship and residence evidence.
+
+Source: “Websider for begyndere”, https://mdmensing.dk/itk/files/slides2024.2025/Bniveau/1.%20Websider%20for%20begyndere.pdf.
+
+The Royal Danish Library's Danish Web 1992–97 project reports that it uses WARC files acquired from the Internet Archive and made available through SolrWayback. This is a practical archive route for this URL and Maardt's still-unknown February 1995 URL; a first capture is only a latest-by date, not proof of launch. Source: https://www.kb.dk/services/kulturarv-til-forskning-og-studier/det-danske-webs-historie-1992-1997.
