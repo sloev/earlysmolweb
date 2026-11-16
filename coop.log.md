@@ -20,3 +20,9 @@ _None yet._
 
 ## Findings and handoffs
 _None yet._
+
+## Research updates — 2026-11-16
+- [2026-11-16] UPDATE — Track A scouting — Greenland — found 1995 connectivity/ISP and local-institution leads (NSRC; Nordic library technology report); no personal homepage verified. See `research/greenland.md`.
+- [2026-11-16] UPDATE — Track A scouting — Faroe Islands — found January 1995 university/research connectivity lead; no personal homepage verified. See `research/faroe-islands.md`.
+- [2026-11-16] UPDATE — Track B context — Iceland — University of Iceland reports its institutional site went online November 1992; 1994 is its oldest surviving version; no personal page verified. Vefsafn offers open access to Icelandic web material from 1996 onward. See `research/iceland.md`.
+- [2026-11-16] HANDOFF — Greenland/Faroe/Iceland — these are infrastructure and archival leads only, not earliest-personal-web findings. Next researcher should extract named individuals and personal URLs from NSRC records and Vefsafn/Internet Archive captures, then record evidence grades.
