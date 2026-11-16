@@ -47,3 +47,14 @@ This establishes a much earlier Chilean network-service history than a Web-only 
 2. Locate contemporary BITNET node directories and mailing-list archives from 1987–1991.
 3. Search 1992–1994 REUNA/Unired records for named FTP, Gopher, Telnet and mailing-list services.
 4. Search early Chilean Web directories separately from the pre-Web network chronology.
+
+
+### 1985 — first documented domestic email (clarification)
+
+A later first-person account by Jorge Olivos, director of the University of Chile's Department of Computer Science during 1983–1988, says the department helped connect Unix systems at the University of Chile, Universidad de Santiago and Pontificia Universidad Católica via UUCP in 1985. He identifies the first email sent in Chile as a message between the University of Chile DCC and Universidad de Santiago. The account explains that UUCP used store-and-forward dial-up: this was domestic inter-university email, not yet international Internet email and not a website.
+
+- Source: Jorge Olivos, “El DCC 1983–1988: refundando el Departamento,” *Bits de Ciencia*, Universidad de Chile: https://revistasdex.uchile.cl/index.php/bits/article/download/1771/1716 (see “El primer email de Chile”).
+- Status: **probable** (first-person retrospective testimony; contemporary 1985 logs or message headers not yet located).
+
+This refines the 1985 milestone: distinguish the first reported domestic email from the international UUCP connection established in 1986 and its email/Usenet access. Do not conflate either with the later direct TCP/IP Internet connection in 1992.
+
