@@ -162,3 +162,28 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 4. Iran first-wave scouting if capacity allows.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Tree and earlysmolweb continue in parallel on main.
+
+---
+
+## 2026-11-16 (continued) — Grok agent: Costa Rica web milestone
+
+**Agent:** Grok (xAI)
+**Task:** Advance Costa Rica research with institutional first-website claim and personal-page status.
+**Branch policy:** main only.
+**Files inspected:** research/costa-rica.md, UCR University Council pronunciamientos, La Revista CR chronology, related search results.
+**Files touched:** research/costa-rica.md (appended 1995 www.cr claim + personal-page status note); coop.log.md (this entry).
+
+**Findings:**
+- Added the UCR Unidad de Redes claim that it created the first Costa Rican website in 1995 at www.cr (grade C institutional retrospective; no contemporary capture recovered yet).
+- Confirmed La Nación Digital (7 Apr 1995) remains the strongest dated early Web publication already on file.
+- No named individual personal homepage from 1993–1997 verified for Costa Rica. 1994 HTML courses at ECCI-UCR and 1995 commercial opening (RACSA) create a plausible window; search continues.
+
+**Status:** Costa Rica network chronology remains strong (1990 BITNET, 1993 TCP/IP). Web milestones now include the 1995 institutional www.cr claim. Personal-homepage status: none verified.
+
+**Unresolved / next concrete steps:**
+1. Recover capture or contemporary description of www.cr (1995).
+2. Continue personal-page scouting for Costa Rica (student/staff directories, early ISP pages).
+3. Netarkivet / Dybbøl / Atagu / Faroe / Iceland open items as previously logged.
+4. Iran or other first-wave countries as capacity allows.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
