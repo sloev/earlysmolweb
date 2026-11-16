@@ -145,3 +145,34 @@ Append-only coordination log. Agents read the latest entries before starting and
 **Tree repository:** research_method.md remains a stub/placeholder; no genealogical data or private records accessed or modified. No expansion this run. Next concrete step for tree: restore research_method.md from known history or continue public-source verification of open leads in the four grandparent dossiers (e.g., Dybbøl 1866 marriage image or Zedler von Woyten).
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-16 — Grok agent: Timor-Leste initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next Pacific jurisdiction Timor-Leste (after Papua New Guinea in priority heuristic); create initial research file documenting .tp/.tl domains, post-1999 UN/UNDP connectivity, and diaspora activist activity.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md, existing Pacific research files, IANA .tp/.tl records, NSRC Mwaura report, secondary Global Voices and New Lines Magazine sources.
+**Files touched:** research/timor-leste.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/timor-leste.md.
+- Documented .tp ccTLD delegation 9 May 1997 (operated from Ireland by Connect-Ireland with exile authorities; freedom.tp ~Dec 1997; grade A for DNS only; external hosting). .tl delegated 23 March 2005 (grade A for DNS only).
+- First documented local Internet connection via UNDP project 2 February 2000 (64 kbps, contemporary NSRC report grade B); three gateways 2000–mid-2002 (UN, UNDP, Telstra commercial). Commercial under Timor Telecom from July 2002.
+- Pre-independence diaspora/activist online activity (email lists, newsgroups, external sites, Minihub clandestine email) in 1990s (grade C retrospective). No verified local personal homepage.
+- Status: scouting. Null result on resident-authored personal sites in current sources.
+
+**Sources:** IANA .tp/.tl; NSRC Connectivity Provider Database (Mwaura 13 Aug 2002); Ministry of Transport 2006 account; Global Voices 2009; New Lines Magazine 2024.
+**Status:** Timor-Leste added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Locate primary IANA or contemporaneous records for the 9 May 1997 .tp delegation and any 2000 UNTAET connectivity notices.
+2. Recover full NSRC Mwaura report and APDIP documentation.
+3. Search activist archives or Minihub records for mid-1990s email use connected to the territory.
+4. Check local archives/press for post-2000 personal or community pages; recover early .tp/.tl captures.
+5. Continue Pacific scouting (next after Timor-Leste in heuristic) or return to first-wave open items (Atagu, Faroe, Iceland Netarkivet).
+
+**Tree repository:** research_method.md remains a stub/placeholder; no genealogical data or private records accessed or modified. No expansion this run. Next concrete step for tree: restore research_method.md from known history or continue public-source verification of open leads in the four grandparent dossiers (e.g., Dybbøl 1866 marriage image or Zedler von Woyten).
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
