@@ -43,3 +43,28 @@ Source: https://www.montevideo.com.uy/Archivo/25-anos-del-Portal-cuando-los-much
 2. Search Internet Archive for Chasque and RAU pages from 1995–2000; inspect link pages for personal homepages.
 3. Explore the SeCIU/RAU and university hostnames for student/staff personal directories.
 4. Use Manya Page and Montevideo Portal as link-discovery paths, not as personal-homepage findings.
+
+
+## New primary-source leads — 16 November 2026
+
+### 5. NSRC's contemporaneous Chasque and RAU records (1995–1996)
+
+The Network Startup Resource Center's Uruguay archive preserves three especially useful contemporary reports:
+
+- **12 June 1995 — “UY Chasque update (6/95)”**: an email from Graciela Pastori identifies Chasque as the host/node of the Instituto del Tercer Mundo in Montevideo. This is an infrastructure record, not evidence of public personal-page hosting by itself. https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529656:497425929
+- **4 November 1995 — “WWW de la RAU, Uruguay”**: Luis E. Castillo announces that the Red Académica Uruguaya WWW server went live on 1 November 1995 at http://www.rau.edu.uy, maintained by SeCIU. This confirms a dated institutional web presence and provides a contemporary contact/link route, but is not a personal page. https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529463:497423571
+- **23 April 1996 — “Instituto del Tercer Mundo & Chasque (4/96)”**: Chasque's Gabriel Sere describes Chasque as the Uruguayan node of APC, online since 1989, providing users interactive and PPP/SLIP access to Internet services. The report lists www.chasque.apc.org and gopher.item.org.uy. It gives the service's network context and confirms it was a user-facing provider, but does not itself enumerate member homepages. https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529316:497425062
+
+The NSRC country index itself is a useful research map: it lists the three reports alongside later 1996 and 2000 connectivity updates. https://nsrc.org/db/lookup/country.php?ISO=UY
+
+### 6. “Quinquenio” — named individual creator and a dated personal football site (November 1997)
+
+A surviving GeoCities mirror of “Q U I N Q U E N I O”, a Peñarol supporter site, identifies its designer as **Sebastián Mateos**, gives the contact address aalvarez@chasque.apc.org, and says it had been online since November 1997. Its subpage penta.htm is dated 29 November 1997; the main page's archived search extract records an update on 16 February 1998. This is a promising individually authored fan-site candidate, rather than merely an institutional or commercial site.
+
+- Main page: https://www.oocities.org/colosseum/stadium/4409/
+- Dated subpage: https://www.oocities.org/colosseum/stadium/4409/penta.htm
+- Discovery evidence: search extracts for the main page and subpage surfaced the designer/contact, “Desde Noviembre de 1997”, and the exact subpage update date.
+- Provisional status: **candidate / probable personal expression**, not yet a verified earliest known personal site. The creator's name and Chasque email are explicit, but the email domain alone does not prove residence in Uruguay. The page is a fan project with individual design attribution; clarify whether it was a solo-authored personal site or a collaborative fan publication, and establish the creator's Uruguay connection.
+- Important distinction: this is later than the 1995 Chasque opening and cannot establish the earliest page. It is the first concrete individually attributed personal-expression candidate found in this scouting pass.
+
+Next actions: seek creator/author corroboration for Sebastián Mateos and the account holder behind aalvarez; inspect any surviving guestbook, page metadata, reciprocal links and GeoCities captures; search Chasque's 1996–1998 users and local web directories for earlier individually authored pages.
