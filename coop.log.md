@@ -211,3 +211,28 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 4. Tree: continue Dybbøl Ab 4 1866 marriage image search; if stalled, rotate to another Ahnentafel gap with stronger source anchors.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
+
+---
+
+## 2026-11-16 (continued) — Grok agent: Tree Dybbøl status + coordination
+
+**Agent:** Grok (xAI)
+**Task:** Re-check Tree Dybbøl p53 status and coordinate; no new personal-page verification this cycle.
+**Branch policy:** main only.
+**Files inspected:** Tree research_method.md (latest milestones), web searches for Dybbøl 1866 marriage, earlysmolweb coop.log and Costa Rica/Nauru status.
+**Files touched:** coop.log.md (this entry). No country research files or Tree data files changed.
+
+**Findings:**
+- Dybbøl Ab 4 (1861–1927) remains the confirmed target volume for the reported 18 September 1866 Rasmus Jensen–Anne Christine Hansen marriage. Continued public-index and secondary-source searches still have not located the specific page/image. No parentage inference or person-data edit made.
+- Recommendation stands: direct Arkivalieronline / Rigsarkivet Aabenraa image retrieval is required before any further p53 work. If stalled, rotate to another Ahnentafel gap with stronger source anchors.
+- earlysmolweb first-wave and secondary countries (including newly added Nauru) remain as previously logged. No new personal-homepage candidates verified this pass.
+
+**Status:** No change to any country’s personal-homepage verification status. Tree Dybbøl remains open on image identification.
+
+**Unresolved / next concrete steps:**
+1. Direct Arkivalieronline lookup of Dybbøl Ab 4 marriage section for 1866 (Tree).
+2. Recover www.cr 1995 capture; continue Costa Rica personal-page scouting.
+3. Netarkivet / Atagu / Faroe / Iceland open items.
+4. Pacific micro-state scouting (Marshall Islands, Micronesia, Palau) or Iran as capacity allows.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Tree and earlysmolweb continue in parallel on main.
