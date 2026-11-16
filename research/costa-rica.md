@@ -59,3 +59,13 @@ A 1993 CRNet user report reproduced in Ignacio Siles's historical study records 
 - Source: CRNet user statistics reproduced in Ignacio Siles, *Por un sueño en.red.ado* (201iles edition), excerpt: https://es.scribd.com/document/599585706/4Por-Un-Sueno-en-red-Ado-Ignacio-Siles (tables 1.1–1.2; source credited to CRNet).
 - Evidence grade: **B** (contemporary underlying CRNet statistics reproduced in a later historical study; original report still to be located).
 - Qualification: distinguish 1991 estimates of 1,500 users from the April 1993 count of 1,734; do not merge them as one snapshot.
+
+
+## 7 April 1995 — La Nación Digital, early national Web publication
+
+The newspaper *La Nación* dates its first online edition to **7 April 1995**, under the name **La Nación Digital**. Its 2021 anniversary history says the paper formally began publishing on the Internet that day and identifies it as the first digital newspaper in Costa Rica and Central America. A contemporaneous second-anniversary article from 7 April 1997 confirms that the electronic edition had existed since April 1995 and describes its online archive as holding material published from 7 April 1995 onward. A 2005 anniversary retrospective identifies **Manuel Quesada**, then a newspaper IT employee, as the developer who put the first experimental version online on that date; the initial page was a simple HTML version of the printed paper.
+
+- Sources: *La Nación*, “Dos años en línea,” 7 Apr 1997: https://www.nacion.com/archivo/dos-anos-en-linea/EP22PVANDJGXHMFWPMZ7LW5NUU/story/ ; *La Nación*, “'Nacion.com' celebra hoy diez años de labor informativa,” 7 Apr 2005: https://www.nacion.com/ciencia/nacion-com-celebra-hoy-diez-anos-de-labor-informativa/JVMIM6MJDVFXXLBGRGXXGQH4XU/story/ ; *La Nación*, “'La Nación', 75 años en papel, 26 años en digital,” 12 Oct 2021: https://www.nacion.com/el-pais/la-nacion-75-anos-en-papel-26-anos-en-digital/W3537QSMXVDRLH3EHV4MM6RYUU/story/.
+- Evidence grade: **B** (publisher's own anniversary retrospectives, including a near-contemporary 1997 account; seek original 1995 page or archive capture for A-grade verification).
+- Category: newspaper website / online publication; operator: commercial publisher; attributed first-version developer: Manuel Quesada.
+- Qualification: this supports an early digital newspaper and its first-publication date, **not** a claim that it was Costa Rica's first website overall or the earliest personal homepage. The 1995 first experimental version and the 23 May 1995 public presentation are separate milestones in the secondary literature.
