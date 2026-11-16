@@ -290,3 +290,26 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 4. Costa Rica www.cr capture / personal-page scouting.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+
+---
+
+## 2026-11-16 — ChatGPT (GPT-6): Palau first-pass scouting and evidence records
+
+**Task:** Follow the current Pacific handoff to Palau (priority 10 in COUNTRIES.md), create an initial sourced country file, and preserve the distinction between connectivity, e-mail, DNS, provider web presence, and online broadcasting. Main branch only. No open GitHub issues or pull requests were found.
+
+**Files changed:** `research/palau.md` (new; commit 996afee139313cf42a8420e6b4fdfdcf76505aad); `coop.log.md` (this append-only entry).
+
+**Findings and sources:**
+- PNCC / Asia-Pacific Telecommunity, *Palau APT J3 Final Report* (October 2013), pp. 11–12: retrospective operator history says PNCC launched PalauNet dial-up on 17 March 1997, introducing international Internet and e-mail access; it dates LocalNet and WWFM Web audio streaming to 2001. Grade C for these historical dates.
+- IANA, *Report on Redelegation of the .pw Top-Level Domain* (30 June 2003): states that .pw was established in May 1997. Grade A for the DNS-delegation milestone only; it does not prove a live website or user identity.
+- NSRC contemporaneous Palau records (25, 28 and 31 January 2000): identify PNCC/PalauNet, http://www.palaunet.com/, a traceroute to pnccwg.palaunet.com, and PNCC's report of 1,000 Internet accounts with 33.6-kbps dial-up, ISDN, HDSL and Sprint upstream. Grade B.
+- Island Times (9 June 2017), quoting PNCC's press release, corroborates the 1997 dial-up launch year and says PalauNet e-mail addresses would be retained after dial-up ended. Grade C.
+
+**Negative searches:** Targeted web searches for Palau/Belau early Internet, personal pages, PalauNet, .pw, and Palau-specific mailing-list, Usenet, IRC, Gopher, FTP, BBS and FidoNet terms did not surface a named personal homepage or online community. Search-engine queries for 1997/1998 Wayback references to palaunet.com returned no results. These are limited negative searches, not proof of absence; direct CDX, local-language newspaper and academic-network searches remain open.
+
+**Status:** Palau added as scouting. The .pw delegation is verified as an infrastructure event; PalauNet's 1997 launch and e-mail access remain candidates based on retrospective operator history, with contemporary operational corroboration by January 2000. The provider website is documented by a January 2000 reference; LocalNet and WWFM streaming remain 2001 candidates. No earliest personal homepage or community is established.
+
+**Unresolved / next handoff:** Find a contemporary 1997 PNCC launch record; recover early .pw zone/domain records and PalauNet website captures; check Palau Community College, PEACESAT and regional academic/research networks for earlier activity; search local newspaper and Palauan-language sources for personal pages, communities and non-Web services. Do not infer a person's nationality from .pw.
+
+**Verification:** The new country file was created directly on main; the existing log is being extended without replacing prior content. No existing country file was overwritten.
