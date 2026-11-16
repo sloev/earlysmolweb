@@ -104,3 +104,15 @@ A recent Danish teaching slide deck labels **Peder Madsen** “the father of Den
 Source: “Websider for begyndere”, https://mdmensing.dk/itk/files/slides2024.2025/Bniveau/1.%20Websider%20for%20begyndere.pdf.
 
 The Royal Danish Library's Danish Web 1992–97 project reports that it uses WARC files acquired from the Internet Archive and made available through SolrWayback. This is a practical archive route for this URL and Maardt's still-unknown February 1995 URL; a first capture is only a latest-by date, not proof of launch. Source: https://www.kb.dk/services/kulturarv-til-forskning-og-studier/det-danske-webs-historie-1992-1997.
+
+
+### DR broadcast recovery route — recording metadata and collection status
+
+The Royal Danish Library catalogue gives the exact transmission window for the Harddisken programme featuring Michael Maardt: **19 February 1995, 15:00–17:00, DR P1**. The catalogue description explicitly identifies the “Nyt fra nettet” segment as a feature about displaying one's private life on a personal homepage and names Maardt. This provides exact retrieval metadata for a targeted archive request, rather than a generic request for a 1995 broadcast.
+
+The Library's Radio and TV Collection says DR broadcasts have been systematically collected from **1987 onward**, while a substantial part of the pre-2006 collection remains undigitised. Its DR-arkivet guidance explains that older material is being prepared and added progressively. Consequently, failure to find this 1995 episode in the current public online archive is not evidence that the recording is missing from the collection. Request the specific 19 February 1995 P1 recording (15:00–17:00) from the Radio and TV Collection and ask whether the “Nyt fra nettet” segment survives separately or within the full programme.
+
+- Programme catalogue: https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59.
+- Collection scope and digitisation status: https://www.kb.dk/find-materiale/samlinger/radio-og-tv-samlingen.
+- DR-arkiv access and older-content status: https://www.kb.dk/find-materiale/soegeindgange/dr-arkivet.
+- **Status:** contemporary broadcast metadata is strong; actual recording and homepage URL remain unrecovered. No national-first claim.
