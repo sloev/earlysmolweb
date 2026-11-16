@@ -96,3 +96,16 @@ Several sources identify **Atagu** as Greenland's first Internet newspaper:
 1. Locate an original or archived `atagu.gl` capture and establish its first capture/publication date.
 2. Check whether the 2017 chapter's `sermitsiaq.gl` reference is a typographical error or a distinct December 1995 publication.
 3. Search 1995–96 Q-Data/Greenet host and service directories for Gopher, FTP, Web and user-homepage evidence.
+
+## Atagu identification strengthened; conflicting domain attribution narrowed (2018–2026)
+
+Two further Greenland media references now support the **Atagu / atagu.gl** identification and operator chronology:
+
+- The 2018 report *Tusagassiuutit 2018: en kortlægning af de grønlandske medier*, produced by Ilisimatusarfik and hosted by Roskilde University, states that **Kamikposten (formerly atagu.gl) had existed since 1995** and was run by former Atassut politician **Anders Nilsson**. This gives an explicit continuity chain from the early title/domain to a later successor and a named operator. See printed report pp. 12–13 / PDF lines 374–386: https://rucforsk.ruc.dk/ws/portalfiles/portal/63776085/dktusagassiuutit2018rapport.pdf.
+- The current Lex.dk national encyclopedia entry “Grønlandske medier”, authored by Martine Lind Krebs and last changed 21 September 2026, states that Kamikposten began as Greenland's first internet newspaper in **1995** under the name **atagu.gl**, operated by the Atassut party. It distinguishes the later, unrelated kamikposten.gl site. https://lex.dk/gr%C3%B8nlandske_medier (see lines 73–81).
+
+These are retrospective sources, not a surviving 1995 capture or contemporary launch notice. They materially strengthen the attribution of the 1995 internet newspaper to **Atagu / atagu.gl**, Atassut, and Anders Nilsson, but do not supply a launch day or prove that no earlier Greenlandic Web site existed.
+
+**Conflict update:** the 2017 chapter's isolated wording that the December 1995 site was `sermitsiaq.gl` while operated by Atassut is now in tension with the 2018 research report and 2026 Lex entry, both of which identify Atagu/atagu.gl and its continuity into Kamikposten. Treat the `sermitsiaq.gl` string as a probable naming/attribution error unless a separate contemporary capture or primary source establishes otherwise; do not silently rewrite it as fact.
+
+**Next evidence target:** recover original Atagu pages, domain registration/DNS records, party publications or contemporaneous newspaper notices from 1995–96. Search for the earliest Wayback/Netarkivet capture of `atagu.gl` and any preserved server/FTP directory.
