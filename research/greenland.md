@@ -1,6 +1,6 @@
 # Greenland — early personal-web research
 
-**Status:** infrastructure leads found; no personal-site candidate verified yet.
+**Status:** infrastructure leads found; no personal-site candidate verified yet. Atagu (atagu.gl) remains a probable 1995 institutional web-news publication; earliest public archive capture is 1999.
 **Priority:** first wave.
 **Research jurisdiction:** Greenland (Kalaallit Nunaat), within the Kingdom of Denmark.
 
@@ -109,3 +109,14 @@ These are retrospective sources, not a surviving 1995 capture or contemporary la
 **Conflict update:** the 2017 chapter's isolated wording that the December 1995 site was `sermitsiaq.gl` while operated by Atassut is now in tension with the 2018 research report and 2026 Lex entry, both of which identify Atagu/atagu.gl and its continuity into Kamikposten. Treat the `sermitsiaq.gl` string as a probable naming/attribution error unless a separate contemporary capture or primary source establishes otherwise; do not silently rewrite it as fact.
 
 **Next evidence target:** recover original Atagu pages, domain registration/DNS records, party publications or contemporaneous newspaper notices from 1995–96. Search for the earliest Wayback/Netarkivet capture of `atagu.gl` and any preserved server/FTP directory.
+
+## Wayback Machine calendar check — atagu.gl (2026-11-16)
+
+Direct inspection of the Internet Archive Wayback Machine calendar for `atagu.gl` shows:
+
+- **119 captures** between **21 April 1999** and 11 March 2023.
+- **No captures** in 1995, 1996, 1997 or 1998.
+
+This is negative evidence only: the absence of early public crawls does not disprove a 1995 launch, but it confirms that no surviving public archive snapshot from the claimed launch year is currently available via the Wayback Machine. Any verification of a December 1995 start must therefore come from other sources (Netarkivet if it holds .gl material, party archives, contemporary press, or private server backups).
+
+Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-16).
