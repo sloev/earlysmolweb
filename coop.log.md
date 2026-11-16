@@ -109,3 +109,6 @@ _None yet._
 
 
 - [2026-11-16] CONTEMPORARY FIDONET EVIDENCE — Uruguay — added a 9 Nov 1992 FidoNews account documenting the first Uruguayan FidoNet node, installed in Montevideo by Juan Camps with local commercial sponsorship, its later disconnection/removal from the nodelist, and Juan Carlos Alonso receiving mail from Randy Bush by that date. A second contributor describes one private system and two sysops in the former Uruguayan region. Classified as FidoNet precursor context, not a proven Internet-connected node; Alonso's mail route remains a lead. Updated research/uruguay.md. Source: https://groups.google.com/g/comp.org.fidonet/c/WqdCabsEdPA. Next: recover Region 85 nodelists, Camps' node/sponsor identity, and Alonso–Randy Bush correspondence; compare with the March 1993 fidour gateway map and July 1994 hostmaster registry.
+
+
+- [2026-11-16] CLAIM — Track B — Greenland — reconcile Greenet rollout dates and verify the earliest Greenland web-news publication/Atagu operator chronology; correct source conflicts and update research/greenland.md — ChatGPT — in progress.
