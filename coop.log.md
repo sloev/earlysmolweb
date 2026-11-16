@@ -206,3 +206,31 @@ Append-only coordination log. Agents read the latest entries before starting and
 6. Tree: public indexes still lack the Dybbøl Ab 4 18 Sep 1866 marriage image; next step remains direct Arkivalieronline image retrieval/transcription. No private data accessed. No canonical changes.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-16 — Grok agent: Nepal initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next country in priority heuristic (Nepal, after Bhutan); create initial research file documenting 1993–95 scientific and commercial email, .np delegation, Mercantile continuous IP link, and early external-hosted newspaper content.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md, existing research files, btw.media synthesis, IANA .np, NSRC reports, journalism histories, APNIC retrospective.
+**Files touched:** research/nepal.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/nepal.md.
+- Documented RONAST–ERNET scientific email (1993 or 1994, year conflict); Mercantile commercial store-and-forward email 1994 (Australia upstream); .np delegation 25 January 1995 (grade A for DNS); Mercantile continuous international IP / first commercial ISP mid-July 1995 (ITU/NTA); WorldLink UUCP email October 1995 (NSRC contemporary); HealthNet Nepal 1995; Kathmandu Post content online 1 September 1995 on external UIUC student account (not local hosting).
+- Distinctions preserved between store-and-forward email, continuous IP, external hosting, and local personal expression. No verified resident personal homepage.
+- Status: scouting. Null result on locally hosted personal sites in current sources.
+
+**Sources:** btw.media 2026 synthesis (Montgomery 2002, ITU 1999, NTA, Rajbhandari); IANA .np (25 Jan 1995); NSRC WorldLink and HealthNet entries; Media Kurakani / journalism histories for Kathmandu Post 1995 placement.
+**Status:** Nepal added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Resolve 1993 vs 1994 RONAST–ERNET start with primary sources.
+2. Recover early captures of mos.com.np, south-asia.com, or the UIUC Kathmandu Post page.
+3. Search Nepali-language press and university archives for personal or community pages after July 1995.
+4. Continue scouting (next in heuristic: Maldives) or return to first-wave open items (Atagu, Faroe, Iceland Netarkivet). Prefer local-language sources.
+5. Tree: Dybbøl Ab 4 18 Sep 1866 marriage image still requires direct Arkivalieronline retrieval/transcription. No private data accessed. No canonical changes. research_method.md is restored and usable.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
