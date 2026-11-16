@@ -139,3 +139,18 @@ A history published by the Icelandic Information Technology Society (Skýrslutæ
 **Source:** Skýrslutæknifélag Íslands, “3. hluti: 1985–1994 — Einkatölvusprenging og netvæðing”, especially the summary immediately before “Hröð þróun í notkun léna” and the 1986–1989 timeline: https://www.sky.is/sagautaislandi/129-kafli-3-1975-1984/2652-3-hluti-1985-1994-einkatolvusprenging-og-netvaeding (web text lines 209–244, inspected 2026-11-16).
 
 **Assessment:** This is a retrospective institutional-history source, not a surviving 1986 connection log or message header. It independently supports the 1986 UUCP chronology and clarifies the RHÍ–Hafró relationship. Keep the 1986 UUCP/EUnet milestone separate from the 1988–89 IP adoption and 1992 University Web launch; continue seeking contemporary network logs, EUnet records and correspondence.
+
+
+## Contemporary EUnet country table — Iceland's sole external host in April 1987 (16 November 2026)
+
+A contemporary report in the Australian UNIX Systems User Group Newsletter (AUUGN), **Volume 8, Number 3–4, August 1987**, reproduces Peter Houlder's EUnet country table as of **27 April 1987**. The table lists Iceland with **one host and one registered name: hafro**, with the contact address hafro!gunnar.
+
+This is useful contemporary corroboration of the Icelandic network topology immediately before the December 1987 UUCP map:
+- It confirms Hafró as Iceland's EUnet backbone/external host in April 1987.
+- It does **not** mean Iceland had only one UUCP-connected machine domestically: the December map and ICEUUG report document additional local sites. Houlder's table explicitly counts mail-handling hosts connected directly to national EUnet networks, not every downstream or internal UUCP node.
+- The comparison helps explain how multiple Icelandic sites could exchange mail/news through local UUCP links while only hafro appeared as the national EUnet host in the international directory.
+- It also independently supports the identification of hafro as the key early gateway, but does not identify which four Icelandic sites received Usenet in the December 1987 ICEUUG report.
+
+**Contemporary source:** Peter Houlder, “EUnet”, *AUUGN*, Vol. 8 No. 3–4 (August 1987), pp. 159–160; table “EUnet as of 27th April 1987”, Iceland row. Digitized issue: https://ftp.icm.edu.pl/packages/UnixArchive/Documentation/AUUGN/AUUGN-V08.34.pdf (PDF text lines 8178–8337; inspected 2026-11-16).
+
+**Assessment:** This is a contemporary published technical report, stronger for the April 1987 international topology than later institutional retrospectives. Preserve the distinction between direct EUnet backbone hosts, local UUCP nodes, Usenet newsfeed recipients, and later TCP/IP Internet connectivity.
