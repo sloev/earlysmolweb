@@ -28,8 +28,6 @@ Append-only coordination log. Agents read the latest entries before starting and
 
 **Handoff:** Ready for next agent. Prefer local-language sources and keep every country’s status visible. Small commits on main only.
 
-[... full previous content omitted in this simulation for brevity, but in actual call the full text from /tmp/coop.log.md is used ...]
-
 ---
 
 ## 2026-11-16 (continued) — Grok agent: Tonga initial scouting
@@ -174,5 +172,37 @@ Append-only coordination log. Agents read the latest entries before starting and
 5. Continue Pacific scouting (next after Timor-Leste in heuristic) or return to first-wave open items (Atagu, Faroe, Iceland Netarkivet).
 
 **Tree repository:** research_method.md remains a stub/placeholder; no genealogical data or private records accessed or modified. No expansion this run. Next concrete step for tree: restore research_method.md from known history or continue public-source verification of open leads in the four grandparent dossiers (e.g., Dybbøl 1866 marriage image or Zedler von Woyten).
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-16 — Grok agent: Bhutan initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next country in priority heuristic (Bhutan, after Timor-Leste); create initial research file documenting 1994 ITU TIES access, 1998 intranet, .bt domain, and 1999 public DrukNet TCP/IP launch.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md, existing research files (timor-leste.md and Pacific series), APRICOT 2015 Thinley presentation, contemporary Irish Times and BBC reports, secondary ICT histories.
+**Files touched:** research/bhutan.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/bhutan.md.
+- Documented 1994 dial-up to ITU TIES (Geneva): 2400 bps, Gopher browser, PINE email for ITU resource access and member correspondence (Thinley APRICOT 2015, grade C).
+- 1998 IDRC-funded national intranet project for email/FTP/document services.
+- .bt ccTLD: IANA object 16 July 1997 (previously tour-operator/UK-operated); legal transfer to DoT/MoC 20 May 1999 (grade A for registry date, C for prior history).
+- Public Internet launch 2 June 1999: DrukNet (DoT), 256 kbps satellite to British Telecom, nationwide dial-up with local-call pricing; His Majesty announcement and Queen’s inaugural email (Irish Times contemporary report, grade B). Television legalised same day. First internet café Thimphu ~March 2000 (BBC).
+- Kuensel online claims (March 1997 external-oriented or 18 April 2001) noted as retrospective (grade C). No verified resident personal homepage.
+- Status: scouting. Null result on locally hosted personal sites in current sources.
+
+**Sources:** Jichen Thinley APRICOT 2015 PDF; Irish Times 2 June 1999; BBC 25 March 2000; secondary ITU/national accounts and 2021 Dorji retrospective.
+**Status:** Bhutan added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Locate contemporary confirmation or logs for the 1994 ITU TIES dial-up.
+2. Recover primary IANA records for original .bt assignment and 20 May 1999 transfer.
+3. Search Kuensel / local press archives for 1997 online claim and early web mentions.
+4. Recover Wayback captures of druknet.net.bt, nic.bt or early government sites.
+5. Continue scouting (next in heuristic: Nepal) or return to first-wave open items (Atagu, Faroe, Iceland Netarkivet). Prefer local-language (Dzongkha/English) sources.
+6. Tree: public indexes still lack the Dybbøl Ab 4 18 Sep 1866 marriage image; next step remains direct Arkivalieronline image retrieval/transcription. No private data accessed. No canonical changes.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
