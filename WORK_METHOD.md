@@ -6,6 +6,19 @@ Find, document, and preserve the earliest discoverable **personal expressions on
 
 This is a historical research project, not a contest. "Earliest" is a working hypothesis that must be qualified by the surviving evidence. We do not equate the first surviving page with the first page ever made.
 
+## Global coverage and priority heuristic
+
+The commitment is worldwide coverage: **all 195 baseline countries are in scope**, alongside the separately tracked research jurisdictions listed in `COUNTRIES.md`. The priority register is a heuristic for allocating attention, not a country-by-country completion sequence.
+
+- Work across multiple countries concurrently; do not wait to exhaust one country before opening or advancing others.
+- Use priority to guide initial scouting, scarce researcher time, and where to dig more deeply—not to exclude, defer indefinitely, or rank the historical value of any place.
+- Follow strong leads wherever they arise, including countries later in the list. New evidence can change priorities at any time.
+- Use diminishing returns as a practical stopping rule: when a round of searches is producing few new leads, record the gaps and move effort elsewhere. Do not declare a country exhausted or complete merely because obvious sources have been checked.
+- Keep every country's status visible (not started, scouting, active, evidence review, low-yield for now, revisited); low-yield is provisional, not closed.
+- Revisit countries as new archives, local-language sources, contacts, tools, and cross-border leads become available.
+
+The goal is a continuously improving worldwide map, not a sequential checklist.
+
 ## Two tracks, run simultaneously
 
 ### Track A — Leads
@@ -131,4 +144,4 @@ Do not fill unknown fields with guesses. Use `unknown` or leave them blank.
 
 ## First research wave
 
-Start with Greenland, Faroe Islands, Iceland, Denmark, Iran, and Uruguay, while a second researcher/agent explores early personal-web evidence in the United States as a rich comparative/control case. Continue down the priority order in `COUNTRIES.md`. The list is a discovery strategy, not a ranking of cultural importance or technical sophistication.
+Begin with a distributed first wave across Greenland, the Faroe Islands, Iceland, Denmark, Iran, and Uruguay, while a parallel researcher/agent explores the United States as a comparative/control case. At the same time, keep scouting and accepting leads from every other country; do not serialize work or require one country to be exhausted before moving to another. Use `COUNTRIES.md` as a flexible heuristic and rebalance effort according to lead quality, documentation gaps, and diminishing returns. The list is a discovery strategy, not a ranking of cultural importance or technical sophistication.
