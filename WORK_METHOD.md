@@ -2,9 +2,9 @@
 
 ## Mission
 
-Find, document, and preserve the earliest discoverable **personal expressions on the internet** associated with every country and separately tracked territory. The emphasis is on people making a corner of the network their own: personal homepages, hand-built sites, web diaries, personal blogs, homepages hosted by universities/ISPs, GeoCities-style pages, personal web rings, and early independent online publishing.
+Find, document, and preserve the earliest discoverable **internet-based activity** associated with every country and separately tracked territory. Include infrastructure and connectivity; email and email-based document services; mailing lists and Usenet; UUCP, BITNET/EARN and other academic networks; FTP, Gopher, Telnet, IRC/chat; internet-connected BBS/FidoNet gateways; online publications, databases, communities, and the Web. Include institutional, governmental, commercial, academic, NGO, collective, community, and individual operators. Personal expression remains in scope but is not a prerequisite.
 
-This is a historical research project, not a contest. "Earliest" is a working hypothesis that must be qualified by the surviving evidence. We do not equate the first surviving page with the first page ever made.
+This is a historical research project, not a contest. "Earliest" is category-specific and must be qualified by surviving evidence. Do not call every network service a website, or collapse email/UUCP/BITNET, TCP/IP Internet, Gopher, FTP, BBS gateways and Web publishing into one milestone. Distinguish local non-Internet BBS/proprietary services as precursors unless an Internet connection or gateway is evidenced. Do not equate the first surviving artefact with the first activity ever performed.
 
 ## Global coverage and priority heuristic
 
