@@ -43,3 +43,18 @@ ISNIC's institutional history provides a precise account of Iceland's transition
 ### Interpretation
 
 Do not describe 1989 as the start of all Icelandic network activity: email and Usenet preceded the direct IP link. Nor should the 1989 Telnet/FTP capabilities be mistaken for a Web site. This chronology is a useful lead for SURIS participants, university computing staff, and early personal home-directory services, while the University of Iceland's November 1992 institutional Web site remains a separate milestone.
+
+
+## Named individual homepage — Björn Bjarnason, February 1995
+
+A strong, author-attributed personal-site lead is now documented:
+
+- **Author:** Björn Bjarnason, Icelandic writer and public figure.
+- **Original URL:** `www.bjorn.is` (the author's biography says he opened the site in mid-January 1995; the site's own history says its first design appeared in February 1995).
+- **Date:** first recorded article 19 February 1995; the author biography says the site opened in mid-January. Preserve both dates as different milestones rather than forcing them into one.
+- **Creation:** Björn says Arnþór Jónsson and colleagues at Miðheimar/centrum.is encouraged him to publish; Gunnar Grímsson designed the site. The author says he has maintained it continuously and that 1995 material remains accessible.
+- **Personal-expression evidence:** the author describes it as his own site, with articles, speeches and regular opinion columns, and notes that only he could publish content to it.
+- **Sources:** author history, https://www.bjorn.is/um-vefinn/ ; author biography, https://www.bjorn.is/aeviagrip/ ; contemporary tenth-anniversary report, https://www.visir.is/paper/fbl/050219.pdf (19 February 2005).
+- **Status:** **probable, strong author testimony with contemporary anniversary corroboration**. A dated 1995 web-archive capture or original server record would independently verify the first published version. Do not claim this is the earliest Icelandic personal homepage without comparative evidence.
+
+The author history further says the site was designed by Gunnar Grímsson, appeared in its first form in February 1995, and was later redesigned in October 2000. The biography says the first recorded article is dated 19 February 1995. These details make it a high-priority candidate for Vefsafn/Wayback capture recovery and for identifying the early Miðheimar hosting arrangement.
