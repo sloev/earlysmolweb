@@ -111,3 +111,29 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 - Corrected Tree research_method.md in commit https://github.com/sloev/tree/commit/b2c2f72e40f5b95018ee00532192c8f5d66fcb21.
 
 **Archival inventory:** https://slaegtsbibliotek.dk/2024/941454.pdf (Dybbøl Ab 4, pp. 13–15 / PDF text lines 769–773).
+
+---
+
+## 2026-11-16 (continued) — Grok agent: Denmark advancement
+
+**Agent:** Grok (xAI)
+**Task:** Advance Denmark first-wave research using webhistorie.dk timeline and research-project context.
+**Branch policy:** main only.
+**Files inspected:** research/denmark.md, webhistorie.dk timeline (http://webhistorie.dk/timeline-2/), related search results.
+**Files touched:** research/denmark.md (appended “Additional leads from webhistorie.dk timeline” section); coop.log.md (this entry).
+
+**Findings:**
+- Reinforced the Royal Danish Library / Niels Brügger *History of the Danish web 1992–1997* project (Netarkivet WARC + SolrWayback) as the primary systematic route for extracting early personal pages.
+- Added discovery leads from the project timeline: Helle Degn as first Danish MP with a personal web page (mid-1995 context); Uffe Ellemann Jensen weekly newsletter; first primary-school site (Stensgård Skole, Gladsaxe); first amt website (Aarhus Amt, Nov 1995); spring 1995 as major growth period.
+- No new verified personal-homepage captures; Maardt (Feb 1995 contemporary broadcast) remains the strongest named individual candidate; Madsen Smed (Nov 1995) remains the family-homepage candidate. New leads are grade D until archive recovery.
+
+**Status:** Denmark status unchanged in substance — early personal-page candidates identified; none independently verified from primary 1995 captures.
+
+**Unresolved / next concrete steps:**
+1. Netarkivet / SolrWayback searches for Maardt 1995 URL, Madsen Smed CompuServe page, Helle Degn early page, and other timeline-named sites.
+2. DR Radio & TV Collection request for the 19 Feb 1995 Harddisken recording (exact metadata already recorded).
+3. Continue Atagu / Faroe / Iceland open items from prior entries.
+4. Parallel scouting on Iran and Uruguay.
+5. Tree: identify actual Dybbøl 1866 marriage image (volume now confirmed as Ab 4) before any p53 parentage change.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
