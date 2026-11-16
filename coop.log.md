@@ -263,3 +263,30 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 4. Tree: direct Arkivalieronline lookup for Dybbøl Ab 4 1866 marriage if capacity allows; otherwise rotate.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
+
+---
+
+## 2026-11-16 (continued) — Grok agent: Marshall Islands initial file + Tree status
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next Pacific micro-state (Marshall Islands); create initial research file. Separate Tree Dybbøl negative-search note (no content cross-contamination).
+**Branch policy:** main only in both repositories; repositories kept strictly separate per Tree AGENTS.md.
+**Files inspected (earlysmolweb):** COUNTRIES.md, research/nauru.md, research/micronesia.md, Wikipedia/RNZ/Hobbes Timeline sources on Marshall Islands connectivity.
+**Files touched (earlysmolweb):** research/marshall-islands.md (new); coop.log.md (this entry).
+**Tree note:** Continued public-index search for the Dybbøl Ab 4 1866 Rasmus Jensen–Anne Christine Hansen marriage page/image still yields no hit. Volume confirmation stands. No person-data edit. Recommendation remains direct Arkivalieronline retrieval.
+
+**Findings (earlysmolweb):**
+- Created research/marshall-islands.md.
+- Documented mid-1990s `.mh` domain registration (Hobbes Timeline) and secondary reports of an ISP associated with “MH” founded ~1996–1997, followed by limited local website activity.
+- 2003 RNZ report: NTA still planning to become its own ISP and seeking to regain `.mh` control.
+- No personal-homepage candidates located. Infrastructure/domain window opens mid-to-late 1990s; local commercial web activity appears limited until later.
+
+**Status:** Marshall Islands added to research coverage as scouting. First-wave and prior Pacific files remain as previously logged. Tree Dybbøl remains open on image identification.
+
+**Unresolved / next concrete steps:**
+1. Recover primary IANA `.mh` record and any early captures; continue Pacific scouting (Palau next).
+2. Direct Arkivalieronline lookup of Dybbøl Ab 4 1866 marriage (Tree).
+3. Netarkivet / Atagu / Faroe / Iceland open items.
+4. Costa Rica www.cr capture / personal-page scouting.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
