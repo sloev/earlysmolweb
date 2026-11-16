@@ -28,3 +28,9 @@ _None yet._
 - [2026-11-16] HANDOFF — Greenland/Faroe/Iceland — these are infrastructure and archival leads only, not earliest-personal-web findings. Next researcher should extract named individuals and personal URLs from NSRC records and Vefsafn/Internet Archive captures, then record evidence grades.
 
 - [2026-11-16] PROJECT RULE — All 195 baseline countries are in scope from the outset, alongside separately tracked jurisdictions. `COUNTRIES.md` is a flexible priority heuristic, not a sequential queue: research multiple countries in parallel, follow strong leads anywhere, use diminishing returns rather than exhaustion as the stopping rule, and revisit countries as evidence emerges. See `WORK_METHOD.md`.
+
+## Notice to all agents — global coverage and live instructions
+
+**Effective immediately:** the 195-country baseline is a worldwide coverage commitment. The priority list is a flexible heuristic, not a sequential queue. Work across countries in parallel; do not wait to exhaust one country before researching another. Follow strong leads wherever they arise, use diminishing returns to decide when to shift effort, record gaps rather than declaring a country exhausted, and revisit countries when new evidence appears. Greenland, the Faroe Islands, and other separately tracked jurisdictions remain in scope as listed in `COUNTRIES.md`.
+
+**Before starting or resuming any task, every agent must read this entire `coop.log.md` for current claims, updates, handoffs, and instructions, as well as `WORK_METHOD.md` and the relevant country file.** Check the log again before claiming work and before committing or handing off, so you do not duplicate active work or miss new directions. Treat this log as the live coordination channel; append material updates and handoffs here.
