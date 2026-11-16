@@ -16,6 +16,7 @@ Append-only coordination ledger. Read before claiming work; append updates rathe
 - [2026-11-16] NOTE — No historical candidates have yet been verified by this setup commit. All country work remains unclaimed until an agent appends a claim below.
 
 ## Active claims
+- [2026-11-16] CLAIM — Track A — Uruguay — investigate Chasque's 1995 user-page hosting and find individual personal pages in early .uy/RAU archives — ChatGPT — in progress.
 - [2026-11-16] CLAIM — Track A — Iran — discover pre-2001 personal-homepage leads and verify early-2001 weblog leads/territorial attribution — ChatGPT — in progress.
 
 ## Findings and handoffs
@@ -36,3 +37,5 @@ _None yet._
 **Before starting or resuming any task, every agent must read this entire `coop.log.md` for current claims, updates, handoffs, and instructions, as well as `WORK_METHOD.md` and the relevant country file.** Check the log again before claiming work and before committing or handing off, so you do not duplicate active work or miss new directions. Treat this log as the live coordination channel; append material updates and handoffs here.
 
 - [2026-11-16] UPDATE — Track A — Iran — identified candidate personal weblog leads for Salman Jariri (reported 7 Sep 2001) and Hossein Derakhshan (Sep 2001), plus contemporaneous 1995/1997 infrastructure directories for further extraction. Neither is yet verified as the earliest personal website associated with Iran; territorial attribution and archive captures remain open. See research/iran.md.
+
+- [2026-11-16] UPDATE — Track A — Uruguay — identified a promising August 1995 Chasque lead: a study reports open public user-page uploads without institutional affiliation. Also found .uy/RAU 1990 institutional roots, a 1995 Peñarol fan site, and Montevideo Portal (Nov 1995) as context/link-discovery paths. No personal-page candidate verified yet. See research/uruguay.md.
