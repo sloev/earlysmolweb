@@ -272,3 +272,16 @@ Two NSRC records dated **19 January 1993** add useful detail to the earlier EARN
 | Mid-1994 | IPM TCP/IP gateway conversion | Retrospective technical survey; remains separate from EARN node status |
 
 The new records strengthen the academic-network chronology, but do not establish a personal homepage or public Web service.
+
+
+## Public academic mailing-list participation — 24 February 1994
+
+A preserved issue of **NA Digest, volume 94, issue 9**, dated 26 February 1994, contains a message submitted two days earlier by **Saeed Abbasbandy** from `babolian%IREARN.BITNET@utkvm1.utk.edu`. The message, dated **24 February 1994**, asks colleagues for numerical methods and software for solving first-kind integral equations. The sender identifies himself as a PhD student who had completed coursework at the Institute of Mathematics of Teacher Training University (T.T.U.) in Iran. The same author appears again in NA Digest issue 37 on 11 September 1994, explicitly giving his affiliation and address at Teacher Training University, Tehran, and the `babolian@irearn.bitnet` address.
+
+This is a dated, individually authored public mailing-list contribution associated with an Iran-based academic and the IREARN EARN/BITNET node. It is evidence of an Iranian academic's participation in an international scholarly email forum by February 1994—not proof that the message originated physically in Iran, nor a first-ever Iranian mailing-list post. The first issue's institutional affiliation is stated as “T.T.U. University at IRAN”; the September follow-up independently anchors the author to Tehran. The message is archived as part of the NA Digest mailing-list archive, not Usenet.
+
+- 24 Feb 1994 message: https://na-digest.coecis.cornell.edu/na-digest-html/94/v94n9.html (message by `babolian%IREARN.BITNET@utkvm1.utk.edu`, lines 813–822).
+- 11 Sep 1994 follow-up: https://na-digest.coecis.cornell.edu/na-digest-html/94/v94n37.html (lines 156–175).
+- Evidence grade: **A/B** (dated public mailing-list archive with author-supplied academic affiliation and IREARN address; residence/location on the exact February send date is not independently established).
+- Category: public mailing-list participation / academic communication; operator: individual; network status: EARN/BITNET email inter-network.
+- Significance: currently the earliest individually authored, Iran-affiliated public mailing-list contribution located in this research pass. Treat as a located example, not a national “first” claim.
