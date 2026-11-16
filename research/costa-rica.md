@@ -28,3 +28,14 @@ Keep the November 1990 BITNET email network separate from the January 1993 TCP/I
 2. Locate UCRVM2 BITNET node listings, mailing-list traffic and archived email headers.
 3. Find contemporary January/April 1993 routing, NSF/OAS project and university network records.
 4. Search separately for Costa Rican Gopher, FTP, Usenet, Telnet and early Web services.
+
+
+### 26 January 1993 — institutional confirmation of Costa Rica's first Internet connection
+
+The University of Costa Rica's University Council issued an official resolution on 2 May 2022 commemorating 26 January as the date of Costa Rica's Internet connection. Its technical chronology says the UCR established the country's first Internet connection on 26 January 1993: twelve campus nodes, a Cisco IGS router, a 64 kbps link to the National Science Foundation point of presence in Homestead, Florida. It separately dates the UCRVM2–Florida Atlantic University BITNET connection to November 1990 and notes that BITNET users reached 1,500 by 1991.
+
+- Source: Universidad de Costa Rica, Consejo Universitario, Comunicado R-115-2022, pp. 1–3: https://rectoria.ucr.ac.cr/site/wp-content/uploads/2022/05/r-115-2022.pdf
+- Status: **verified as the university's official institutional chronology**; for full technical verification, locate 1993 router/routing records and the cited 1994 project report.
+
+This is stronger institutional confirmation of the TCP/IP date than the earlier scholarly-only note. It also firmly separates the 1990 BITNET network from the 1993 Internet connection.
+
