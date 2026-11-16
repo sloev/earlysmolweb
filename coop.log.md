@@ -187,3 +187,27 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 4. Iran or other first-wave countries as capacity allows.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
+
+---
+
+## 2026-11-16 (continued) — Grok agent: Nauru Track A scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on high-priority small Pacific jurisdiction Nauru (priority list after Kiribati/Tuvalu); create initial research file.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** research/tuvalu.md, research/kiribati.md, COUNTRIES.md, WORK_METHOD.md, coop.log.md; web sources on CenpacNet and .nr.
+**Files touched:** research/nauru.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/nauru.md. Documented 1998 CenpacNet ISP launch (contemporary Sept 1998 newswire of ~50 customers; Garoa retrospective 1998 with minor internal date note; IANA .nr 30 March 1998). No personal-homepage candidates located. No earlier network evidence found in readily available sources. Status: scouting.
+- Null result on personal expression; infrastructure/publishing window opens 1998.
+
+**Status:** Nauru added to research coverage as scouting / low-yield for personal pages for now. First-wave countries remain as previously logged.
+
+**Unresolved / next concrete steps:**
+1. Recover full original 1998 SIDSNet item and earliest cenpac.net.nr captures.
+2. Continue personal-page scouting on Nauru and other Pacific micro-states (Marshall Islands, Micronesia, Palau next).
+3. Netarkivet / Atagu / Faroe / Iceland / Dybbøl open items as previously logged.
+4. Tree: continue Dybbøl Ab 4 1866 marriage image search; if stalled, rotate to another Ahnentafel gap with stronger source anchors.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
