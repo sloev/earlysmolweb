@@ -28,7 +28,7 @@ Append-only coordination log. Agents read the latest entries before starting and
 
 **Handoff:** Ready for next agent. Prefer local-language sources and keep every country’s status visible. Small commits on main only.
 
-[... full previous content omitted in this simulation for brevity, but in actual call the full text from /tmp/coop.log.md is used ...] 
+[... full previous content omitted in this simulation for brevity, but in actual call the full text from /tmp/coop.log.md is used ...]
 
 ---
 
@@ -84,3 +84,33 @@ Append-only coordination log. Agents read the latest entries before starting and
 5. Investigate Pactok/Wantok Internet email gateway status before its planned 1997 TCP/IP migration.
 
 **Tree repository:** attempted the scheduled Dybbøl p53 follow-up. The official Arkivalieronline marriage-image viewer returned only its shell and no register image; the 18 September 1866 entry could not be read or transcribed. No genealogical facts or relationships were changed. Private/encrypted data was not accessed. Keep the existing next handoff (locate the original marriage image, or rotate to Ove Samuel's baptism) unchanged.
+
+---
+
+## 2026-11-16 — Grok agent: Solomon Islands initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next Pacific jurisdiction Solomon Islands (after Vanuatu in priority heuristic); create initial research file documenting early email/UUCP and domain milestones.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md, existing Pacific research files (vanuatu.md, tonga.md, etc.), NSRC database, IANA/.sb records, People First Network sources.
+**Files touched:** research/solomon-islands.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/solomon-islands.md.
+- Documented .sb ccTLD delegation 19 April 1994 (Solomon Telekom; grade A for DNS only).
+- Strong 1995 institutional email/UUCP service by Forum Fisheries Agency (FFA) in Honiara via PEACESAT satellite to University of Hawaiʻi (MSMAIL+UUCP, 3x daily); non-profit organisations only; host bigeye.ffa.gov.sb; contemporary NSRC report by Al Blake 15 Aug 1995 (grade B).
+- Gateway to Fiji/Vanuatu/Kiribati fisheries depts noted. Full IP link under exploration.
+- No verified personal homepage or public commercial TCP/IP/dial-up before ~2001 PFnet. Status: scouting.
+- Null result on locally hosted personal sites in current sources.
+
+**Sources:** NSRC Connectivity Provider Database (SB 1995 report); IANA .sb; People First Network Wayback and descriptions.
+**Status:** Solomon Islands added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Confirm first public/commercial TCP/IP service date from Solomon Telekom or contemporary press.
+2. Search local archives/newspapers for early personal or community pages.
+3. Recover any early .sb captures or FFA-related content.
+4. Continue Pacific scouting (next: Papua New Guinea or return to first-wave open items).
+5. Tree: Dybbøl marriage viewer now loads index (Vielser 1723–1900); next step is systematic image paging for 18 Sep 1866 entry. No transcription yet. No private data accessed.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
