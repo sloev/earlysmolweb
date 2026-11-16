@@ -58,3 +58,17 @@ A strong, author-attributed personal-site lead is now documented:
 - **Status:** **probable, strong author testimony with contemporary anniversary corroboration**. A dated 1995 web-archive capture or original server record would independently verify the first published version. Do not claim this is the earliest Icelandic personal homepage without comparative evidence.
 
 The author history further says the site was designed by Gunnar Grímsson, appeared in its first form in February 1995, and was later redesigned in October 2000. The biography says the first recorded article is dated 19 February 1995. These details make it a high-priority candidate for Vefsafn/Wayback capture recovery and for identifying the early Miðheimar hosting arrangement.
+
+
+### Date reconciliation — contemporaneous 1995 account establishes 23 January
+
+A previously overlooked source materially sharpens the start date. In a speech delivered on **14 December 1995**, Björn himself says that, with Miðheimar's help, he set up his homepage on **23 January 1995**, and that he had since maintained it with weekly columns, speeches and articles. This is contemporary testimony only eleven months after launch and is stronger than the later biography's broad “mid-January” description.
+
+There is, however, a genuine date discrepancy in the retrospective record: the 2005 anniversary article says the first article appeared on 19 February 1995; the author's biography gives mid-January as the opening and 19 February as the first recorded entry; his 2017 site history says the first design appeared in February; and a 2015 anniversary post identifies 23 January as the first preserved post. The 1995 speech establishes a 23 January homepage setup, but does not settle which date marks the first public page or first surviving post. Record **23 January 1995 (site established, author testimony in 1995)** separately from **19 February 1995 (first article according to the 2005 anniversary account)** until the archive itself resolves the difference.
+
+- Contemporary speech, 14 December 1995: https://www.bjorn.is/greinar/nr/585 (see the account of the 23 January launch).
+- 2015 anniversary post: https://www.bjorn.is/dagbok/2015/nr/7370.
+- 2005 anniversary article: https://www.visir.is/paper/fbl/050219.pdf.
+- Site-history page: https://www.bjorn.is/um-vefinn/.
+
+**Status remains probable/strongly supported**, not verified by a surviving dated original capture. The date distinction is retained rather than silently choosing one source.
