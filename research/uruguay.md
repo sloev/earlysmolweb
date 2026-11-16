@@ -170,3 +170,15 @@ A message by Luis E. Castillo dated 4 November 1995 says the Red Académica Urug
 | RAU / SeCIU Gopher | Advertised 4 Nov 1995 at makenda.edu.uy | Confirmed operating by that date; start date unknown |
 
 These records reinforce the need to track the date an example is documented separately from its actual launch date. They also show that Uruguay's early Internet history included NGO information services and academic Gopher/Web services, not only personal homepages.
+
+
+## Contemporary 1996 evidence — Chasque Internet access and UUCP-connected BBS transition
+
+A 23 April 1996 message from Gabriel Sere of Chasque to the Network Startup Resource Center describes the three main Uruguayan services and their network topology. It says Chasque (the Instituto del Tercer Mundo / APC node) had been online since 1989 and provided users interactive and PPP/SLIP access to all Internet services. It gives Chasque's Gopher and WWW addresses (gopher.item.org.uy and www.chasque.apc.org) and states that Chasque connected to ADINET over a 64 Kbit/s link, with a planned upgrade. The same message says that some BBSs were already doing UUCP with Chasque and were preparing to obtain leased lines to ADINET.
+
+- Source: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529316:497425062
+- Evidence grade: **A/B** (contemporary provider/operator message).
+- Category: ISP / public Internet access / PPP-SLIP; Gopher and Web endpoints; BBS-to-UUCP interconnection.
+- Interpretation: the record confirms that local BBS systems were participating in UUCP exchanges with Chasque and preparing a transition to leased-line Internet access. It does not identify the BBS names, prove that every BBS was already connected to the Internet, or date the start of the UUCP exchanges. Treat those BBSs as inter-network leads, not as automatically verified Internet nodes.
+
+This is a valuable next discovery path: identify the BBS operators and their UUCP feeds from Chasque's user community, then search for surviving message areas, echo-mail groups, FidoNet/Usenet gateways and local operator recollections. The 1992 NSRC report remains an earlier checkpoint describing Chasque's roughly 120 users and the proposed rfmail link with Fido enthusiasts; the 1996 report shows a later, more explicit BBS/UUCP-to-ISP transition.
