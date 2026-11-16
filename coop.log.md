@@ -1,1 +1,1 @@
-$(cat /tmp/coop_current.md)
+PLACEHOLDER
