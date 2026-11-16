@@ -70,3 +70,29 @@ This is now one of the strongest named early personal-homepage records in the pr
 2. Ask Miðheimar/centrum.is successors or former staff for the original server path, hosting details and January–February 1995 deployment records.
 3. Check Vefsafn from its 1996 starting point for the earliest surviving archived version and compare its page structure with the current migrated archive.
 4. Search 1995 Icelandic newspapers and link directories for the February public announcement and other individual homepages; retain 23 January (setup), 19 February (first regular post/public notice), and 29 January (later stated founding date) as separate claims.
+
+
+## Contemporary evidence — Icelandic UUCP network and Usenet, 1986–87
+
+A contemporary international UNIX-user-group newsletter provides a valuable snapshot of the early Icelandic network, beyond later institutional timelines:
+
+- **November 1986 — ICEUUG founded:** Marius Olafsson's report says the Icelandic UNIX Users Group was founded in November 1986, with about 60 people at its first meeting. This documents an organized local technical community, not by itself a public Internet service.
+- **By December 1987 — eight Icelandic UUCP sites, four receiving Usenet:** the same report says Iceland's UNIX network then consisted of eight sites, four of which received Usenet. It names three executive members and their institutional affiliations:
+  - Gunnar Stefansson, Marine Research Institute, Reykjavík (gunnar@hafro.uucp)
+  - Sigurdur Hjalmarsson, Hughonnun Inc., Reykjavík (shh@hugh.uucp)
+  - Marius Olafsson, University of Iceland (marius@askja.uucp)
+  These are direct contemporary operator/site leads. The .uucp addresses should not be mistaken for .is Internet email addresses or public personal pages.
+- **1986–87 international routing:** Iceland's Computer Society chronology records a 1986 UUCP connection from the Marine Research Institute (Hafrannsóknastofnun, Hafró) to EUnet in the Netherlands, with the University of Iceland and Hafró interconnected locally. It describes international email and Usenet access as services made possible by these connections. The 1987 ICEUUG report independently confirms that the local UUCP network and Usenet reception were operating by that year.
+- **1988 expansion (retrospective chronology):** the Computer Society's detailed timeline says 15 institutions were connected by 1988, including Kópasker school by UUCP dial-up, while Hafró and the University Computing Centre adopted internal TCP/IP. Treat this as retrospective context, not a contemporary 1988 log.
+- **21 July 1989 — direct IP link:** as documented above, SURIS established IP-over-X.25 connectivity to NORDUnet; Telnet and FTP joined existing email and Usenet.
+
+**Best contemporary source:** Marius Olafsson, “Report from ICEUUG,” Australian UNIX Systems User Group Newsletter, vol. 8, no. 6 (December 1987), pp. 77–78. The report is dated by the issue, identifies the author as University of Iceland Computing Center, states the eight-site/four-Usenet count, and lists the three executive members and their .uucp addresses: https://mirror.math.princeton.edu/pub/unixarchive/Documentation/AUUGN/AUUGN-V08.6.pdf (printed pp. 77–78; PDF text around lines 4225–4282).
+**Corroborating institutional chronology:** Ský / Icelandic Computer Society, “Þróun nettenginga við Ísland”: https://www.sky.is/sagautaislandi/139-serkaflar-1/2663-throun-nettenginga-vidh-island.
+**Short chronology:** Ský, “Annálar 1981–1990”: https://www.sky.is/?catid=20&id=115:annalar-1981-1990&view=article.
+
+### Assessment and next leads
+
+- **1986 is a probable earliest documented Icelandic EUnet/UUCP email milestone**, supported by institutional histories; a surviving original UUCP map, routing log or message header would raise it to primary-source verification.
+- **By December 1987, Icelandic Usenet reception is verified by a contemporary technical report**, with four receiving sites among eight local UUCP sites. The report does not name the four Usenet sites individually.
+- ICEUUG's named executive members and the hafro, hugh, and askja hosts are useful leads for finding surviving mailing-list posts, Usenet contributions, UUCP maps and early account directories.
+- Keep the 1986 UUCP/EUnet service distinct from the 1989 direct IP connection, and both distinct from the 1992 institutional Web site.
