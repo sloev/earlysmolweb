@@ -297,13 +297,13 @@ The arXiv records establish a concrete early example of Iran-affiliated online s
 - **“Q-Boson Representation of the Quantum Matrix Algebra Mq(3)”**, arXiv:hep-th/9305086: v1 submitted **19 May 1993** (marked withdrawn); v2 submitted **12 June 1993**. The official record confirms author and version dates; the full text identifies IPM and Sharif University in Tehran.
   - Official record: https://arxiv.org/abs/hep-th/9305086
   - Version history: v1 19 May (withdrawn), v2 12 June 1993.
-- Related Karimipour preprint **hep-th/9305084**, “Representations of the Quantum Matrix Algebra Mq,p(2),” also appears in the 12 June 1993 version and carries Tehran affiliations and an IREARN address in its preserved text: https://arxiv.org/abs/hep-th/9305084.
+- Related Karimipour preprint **hep-th/9305084**, “Representations of the quantum matrix algebra Mq,p(2),” is dated **19 May 1993** on its official arXiv record and its preserved full text carries Tehran affiliations and an IREARN address. It is now the earliest located Iran-affiliated record in this pass; its version status is distinct from the withdrawn v1 records 9305085/86. See the correction section below: https://arxiv.org/abs/hep-th/9305084.
 
-This is a distinct milestone from the January 1993 EARN/BITNET node and the February 1994 NA Digest message: it documents public scholarly file publication through an Internet-accessible preprint archive, with an author and institutional base in Tehran. The metadata's 19 May v1 submissions are marked withdrawn; use **12 June 1993** as the conservative date for the surviving public versions, not 19 May as a confirmed public release. The records establish Iran-based institutional affiliation, not the author's physical location at the instant of upload.
+This is a distinct milestone from the January 1993 EARN/BITNET node and the February 1994 NA Digest message: it documents public scholarly file publication through an Internet-accessible preprint archive, with an author and institutional base in Tehran. The 19 May v1 submissions of **9305085 and 9305086** are marked withdrawn, so use **12 June 1993** as the conservative surviving-publication date for those two records. Do not apply that withdrawal history to **9305084**, whose official page is dated 19 May and whose preserved text is accessible; see the later correction section. These records establish institutional affiliation, not the author's physical location at the instant of upload.
 
 - Evidence grade: **A** for the arXiv submission/version metadata and surviving full texts; country connection: author institutional affiliation in Tehran.
 - Category: scholarly preprint / online publication; operator: academic/individual; network status: Internet archive publication.
-- Significance: earliest located Iran-affiliated public preprint publishing in this research pass; not claimed as Iran's first online publication.
+- Significance: earliest located Iran-affiliated public preprint publishing in this research pass; not claimed as Iran's first online publication. The earliest located record is hep-th/9305084, 19 May 1993.
 
 
 ## Newly surfaced evidence — first EARN access and the IRNET/IRANET naming problem (16 November 2026)
