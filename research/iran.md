@@ -201,3 +201,43 @@ A contemporary NSRC Connectivity Providers Database entry titled **“OCLB IR - 
 - January 1993 IPM/IREARN EARN-BITNET link: **contemporary, direct-contact record; high confidence for link being operational by January 1993**.
 - January 1993 first email anecdote: remains from later retrospective technical survey; corroboration of the network link does not independently verify the “first email” claim.
 - Mid-1994 IPM TCP/IP gateway: remains supported by the 1999 survey, not by the 1993 NSRC listing. Keep it as a separate milestone and seek contemporary 1994 RAU/IREARN technical notices or routing evidence.
+
+
+## Provider-level chronology — Neda and Virayeshgar (1994–1995)
+
+### Spring 1994 — Neda's Persian BBS opens; autumn 1994 Internet email
+
+The 13 November 1995 NSRC report reproduces a Neda announcement dated 2 March 1995 by Mani Shahrir. It describes Neda as Iran's first Persian BBS, started in spring 1994, with Persian email, chat, file transfer and databases available from its first release. The announcement says Neda's first Internet email service began in autumn 1994 over a PPP connection; initially messages were queued and transferred at set times by an operator. A later improvement, described as using SLIP over a leased line via IPM, made mail transfer continuous rather than operator-mediated. The announcement calls the BBS itself free and distinguishes it from the separately charged Internet email service.
+
+- Contemporary source: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202487943:497427936 (13 Nov 1995 archive entry; reproduced Neda announcement dated 2 Mar 1995).
+- Evidence grade: **A/B** for the dated 1995 announcement and its retrospective service chronology.
+- Categories: Persian-language BBS/community; Internet email gateway; chat and file/database services. Do not call the BBS itself an Internet service merely because it later offered Internet email.
+
+The same 1995 NSRC report includes an IPM announcement dated 14 February 1995 saying Neda offered mail and offline network services over two leased lines to IPM, with 16 initial dial-up lines and the option to expand. This corroborates Neda's provider role and the early distinction between online BBS access and Internet services delivered through email.
+
+### June 1994 — Virayeshgar BBS, UUCP email and Usenet echoes
+
+The 15 June 1999 *Iran's Telecom and Internet Sector: A Comprehensive Survey* describes Virayeshgar (Vira), a Tehran-based software company, as operating a local BBS with Internet email service from **June 1994**. The BBS used two 33.6 kbps modems and UUCP twice daily to exchange email through HOLONET in the San Francisco Bay Area. Users received addresses in the firstname.lastname@vira.com form. The service also offered offline FTP/Archie/WWW/news by email and echoed some technical Usenet newsgroups. The report explicitly lists “No web presence – email services only.”
+
+- Source: https://nsrc.org/regions/MIDEAST/IR/internet-iran-2001.pdf (section 4.3.30, pp. 78–79; extracted lines 2950–2977).
+- Evidence grade: **B** (detailed 1999 provider survey, retrospective to 1994).
+- Categories: UUCP email gateway; offline Internet information retrieval; Usenet newsgroup echo; local BBS. Network status: inter-network via UUCP; not evidence of a public website or a direct TCP/IP link at launch.
+- Attribution: provider based in Tehran; the report also lists a US mailing address, so retain the local operating base and overseas relay distinction.
+
+### April 1994 snapshot — domain registration did not equal working Internet access
+
+A contemporaneous NSRC response dated 18 April 1994 says Iran's domain had been registered and four IPM hosts appeared in DNS, but external observers could not reach the connections that morning. It lists the IPM network contacts and name servers. This is a useful negative checkpoint: registered domain names and DNS host records preceded, or at least did not guarantee, usable end-to-end connectivity at that date.
+
+- Source: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488412:497424948
+- Evidence grade: **A/B** (contemporary operational observation, though a single-day check cannot prove that no connectivity existed anywhere in Iran).
+
+### Chronology interpretation
+
+Keep the provider-specific routes distinct:
+- Spring 1994: Neda's Persian BBS begins (local dial-up service).
+- June 1994: Vira's BBS begins UUCP-based Internet email, offline FTP/Archie/WWW/news delivery and some Usenet echoes (1999 retrospective).
+- Autumn 1994: Neda begins Internet email over PPP, initially in scheduled batches (1995 contemporary announcement).
+- February 1995: Neda's improved SLIP/leased-line email service is described as continuously online; the NSRC's 2001 survey dates Neda's broader Internet access to February 1995.
+- Mid-1994: IPM's EARN gateway is converted to TCP/IP for IREARN members (1999 survey); the 18 April 1994 NSRC observation cautions against assuming that DNS registration meant a working public connection earlier in that year.
+
+These are distinct BBS, UUCP, email-gateway and TCP/IP milestones. None independently establishes an early personal homepage. The Vira record does, however, open a concrete route into Iranian Usenet history: identify which technical groups were echoed and search surviving posts/archives for Iranian authors and node headers.
