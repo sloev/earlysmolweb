@@ -99,3 +99,15 @@ All edits were committed directly to main. No private genealogy data was accesse
 **Commit:** research/iceland.md — 2bafb1d2543c8c3a13dffe19881c71dde2c99382
 
 **Handoff:** Cross-check the April EUnet table, December ICEUUG report and 2 December UUCP map without treating their different host counts as contradictions. Search for original Icelandic mail/news headers or surviving ICEUUG records that identify the four news-receiving nodes.
+
+
+## 2026-11-16 — correction to Dybbøl page-169 interpretation
+
+A follow-up check of the 1976 archival inventory corrected the previous Tree handoff's description of the Dybbøl page reference:
+
+- The inventory *Nordslesvigske præstearkiver V: Sønderborg provsti* (Landsarkivet for de Sønderjyske Landsdele, Åbenrå, 1976) lists Dybbøl Ab 4 (1861–1927) as containing marriages from 1861 to 1906 (PDF text lines 769–773).
+- Therefore the KMB 1861–1927 FVD p.169 / image 85 / no.1 citation attached to Christen Hansen's profile is in the marriage section, not a birth entry. It is likely a marriage relevant to Christen's family evidence; do not call it a baptism or confuse it with p53's reported 1866 marriage.
+- The exact 18 September 1866 marriage page for Rasmus Jensen and Anne Christine Hansen is still not located. The correct volume is now firmly identified as Dybbøl Ab 4, 1861–1927; page/image identification and transcription remain open.
+- Corrected Tree research_method.md in commit https://github.com/sloev/tree/commit/b2c2f72e40f5b95018ee00532192c8f5d66fcb21.
+
+**Archival inventory:** https://slaegtsbibliotek.dk/2024/941454.pdf (Dybbøl Ab 4, pp. 13–15 / PDF text lines 769–773).
