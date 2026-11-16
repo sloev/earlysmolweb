@@ -237,3 +237,37 @@ A second contributor in the same issue describes the former Uruguayan region as 
 - Evidence grade: **B** (contemporary FidoNet community newsletter; participant testimony, not a surviving node log or nodelist).
 - Category: FidoNet node/community; operator: individual/community; status: **precursor context**, not yet a verified Internet-connected node. The reference to Alonso receiving mail from Randy Bush is a promising interconnection lead, but the route and protocol are not specified in this account. Do not assume that the earlier Juan Camps node was Internet-connected.
 - Follow-up: seek FidoNet nodelists for Region 85 / Uruguay, Juan Camps' node name and sponsor, and messages between Alonso and Randy Bush; compare with the March 1993 `fidour` map and July 1994 hostmaster gateway registry.
+
+
+## Primary FidoNet nodelists — Uruguay Region 85 (1991–1992)
+
+The preserved weekly FidoNet nodelists make the 1992 newsletter's brief account much more concrete. The 1991 archive's **24 May** nodelist does not contain Region 85, while the **7 June 1991** nodelist already lists:
+
+- **Region 85 — Red Banda Oriental**, Uruguay; regional coordinator **Juan Camps**, Montevideo phone contact.
+- **Host 850 — FidoNet Uruguaya**, Montevideo, also operated by Juan Camps.
+- **Node 4:850/1 — Datamatic**, Ciudad Vieja, Montevideo, Juan Camps.
+
+The **13 September 1991** nodelist still lists Camps and Datamatic. By **27 December 1991**, the same host has three nodes: Camps / Datamatic (4:850/1), **Andrés Borthagaray / Superandres (4:850/2)**, and **Juan Carlos Alonso / Iosys (4:850/3)**. This identifies Alonso's actual FidoNet system and demonstrates that the Uruguayan region expanded beyond the single initial node during 1991.
+
+The **13 November 1992** nodelist no longer contains Region 85, consistent with the 9 November 1992 FidoNews participant account that the region had been removed after its small number of nodes went offline / stopped communicating. The nodelists therefore establish an operational Uruguay FidoNet region no later than 7 June 1991, its three named systems by 27 December 1991, and its absence from the global list by 13 November 1992. They do not independently date the first installation or prove continuous operation between weekly snapshots.
+
+- 24 May 1991 nodelist (negative checkpoint): https://nodelist.fidonet.cc/download/nodelist/fidonet/1991/NODELIST.144
+- 7 June 1991 nodelist (Region 85 and Datamatic): https://nodelist.fidonet.cc/download/nodelist/fidonet/1991/NODELIST.158
+- 13 September 1991 nodelist (Region 85 persists): https://nodelist.fidonet.cc/download/nodelist/fidonet/1991/NODELIST.256
+- 27 December 1991 nodelist (three Uruguay nodes, including Alonso/Iosys): https://nodelist.fidonet.cc/download/nodelist/fidonet/1991/NODELIST.361
+- 13 November 1992 nodelist (Region 85 absent): https://nodelist.fidonet.cc/download/nodelist/fidonet/1992/nodelist.318
+- Archive index: https://nodelist.fidonet.cc/nodelists/fidonet/1991
+- Evidence grade: **A** for the nodelist entries (contemporary operational directory); **B** for interpreting the missing entry as a region-wide shutdown, which is independently described by the 9 Nov 1992 FidoNews account.
+- Category: FidoNet BBS / store-and-forward community network; country association: Montevideo, Uruguay. This is not itself evidence of TCP/IP Internet access or personal Web publishing.
+
+### Alonso's mail from Randy Bush — a possible inter-zone route, not yet a proven message path
+
+The 9 November 1992 FidoNews discussion says Juan Carlos Alonso was receiving mail from Randy Bush. The 18 April 1994 FidoNews later includes a direct explanation by Randy Bush: mail for Zone 4 had been held at his FidoNet node **1:105/42** for **4:4/1** since about 1991, after he stopped delivering mail to Argentina. This provides a plausible FidoNet inter-zone mechanism that could explain cross-zone mail reaching Uruguay, and makes the Alonso clue more specific. However, the 1994 explanation is about Zone 4 routing generally and does not explicitly identify Alonso or his 1992 message. No header or routing log yet proves that Alonso's mail traversed 1:105/42 → 4:4/1.
+
+- FidoNews 11-16, 18 Apr 1994, “Routing Z1 to Z4”: https://groups.google.com/g/comp.org.fidonet/c/qMKZzzq8I6Y (Randy Bush's explanation at pp. 13–14 / lines 657–679).
+- Evidence grade: **B** (participant's contemporary explanation of Zone 1–Zone 4 FidoNet mail holding/routing).
+- Interpretation: keep this as a route hypothesis until the original message headers, a Zone 4 gateway log, or a contemporaneous nodelist entry for 4:4/1 confirms the exact chain.
+
+### Revised milestone
+
+**7 June 1991** is now the earliest located contemporary global FidoNet nodelist listing for Uruguay in the preserved weekly archive; the 24 May 1991 issue is a negative checkpoint. This is a dated FidoNet network milestone, not a date for Uruguay's first Internet connection, first email, or first personal website.
