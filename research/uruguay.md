@@ -152,3 +152,21 @@ The same volume quotes a May 1998 email saying that the Faculty's Gopher contain
 ### Interpretation
 
 Uruguay's chronology now has a stronger primary documentary base for the 1988 academic UUCP/email node. Keep it distinct from Chasque's 1989 local dial-up forums, 1990 automatic external email exchange, 1993 remote Telnet/Gopher access via X.25/Alternex, and 1994 direct SECIU Internet link. The INCO volume also provides names and host conventions for further discovery, but the listed user accounts are not public personal publishing evidence. Next: seek contemporaneous UUCP maps, SeCIU/RAU Gopher records, early mailing-list or Usenet archives, and Chasque service documentation.
+
+
+## Contemporary primary-source additions — 16 November 2026
+
+### 19 February 1993 — NGONET email document library
+A contemporaneous announcement, distributed on 3 March 1993, reproduces the original 19 February message from `ngonet@chasque.apc.org`. It states that NGONET's UNCED / Eco 92 document library was available through an **Electronic Mail File Server**: users requested documents by email and received them automatically. Collections included NGO alternative treaties, Agenda 21 in four languages, and NGO background papers and critiques. The service charged for traffic and gave a Montevideo post-office address and telephone number. This is direct evidence of a Uruguay-based online information service and NGO document distribution before Web publication. The announcement is preserved in the NSRC Connectivity Providers Database. Status: **verified as a contemporary announcement of the service**, but exact service launch date and server topology remain unknown. Source: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534901:497426495.
+ 
+### 1 November 1995 — RAU WWW server goes live; Gopher already advertised
+A message by Luis E. Castillo dated 4 November 1995 says the Red Académica Uruguaya (RAU) WWW server was activated on **1 November 1995** at `http://www.rau.edu.uy`. The same message explicitly gives the Gopher address `gopher://makenda.edu.uy`. The server was maintained by SeCIU at the Universidad de la República in Montevideo. This is a high-confidence contemporary date for the RAU website and proof that a Gopher service was also in operation by 4 November 1995. It does **not** establish when the Gopher service first launched. Source: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529463:497423571.
+
+### Category-specific status refinement
+| Category | Earliest located evidence | Status / qualification |
+|---|---|---|
+| NGO document distribution by email | 19 Feb 1993 announcement; circulated 3 Mar 1993 | Contemporary evidence; launch date unknown |
+| RAU institutional WWW server | Went live 1 Nov 1995; announced 4 Nov 1995 | Contemporary evidence; high confidence |
+| RAU / SeCIU Gopher | Advertised 4 Nov 1995 at makenda.edu.uy | Confirmed operating by that date; start date unknown |
+
+These records reinforce the need to track the date an example is documented separately from its actual launch date. They also show that Uruguay's early Internet history included NGO information services and academic Gopher/Web services, not only personal homepages.
