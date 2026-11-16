@@ -216,3 +216,12 @@ The map's embedded August 1993 version includes node records with update dates r
 ### Interpretation
 
 Uruguay's network chronology now includes a concrete FidoNet-to-Internet gateway by March 1993, in addition to the earlier INCO UUCP node, Chasque's APC/X.25 links, and the later RAU WWW and Chasque PPP/SLIP services. The gateway record gives a named operator and a specific daily route through Chasque, so it should be retained as its own milestone rather than folded into the general “BBS precursor” category.
+
+
+### Independent corroboration — FidoNet's approved Internet gateway list (July 1994)
+
+A second, independent route confirms fidour's gateway role. A FidoNet gateway registry, reproduced in a Serbian FidoNet conference archive in a message dated **5 September 1995**, carries a source-list revision date of **6 July 1994** and includes **fidour 4:850/0** among the sites approved by the FidoNet hostmaster to gate mail from FidoNet to the Internet. The accompanying text explains that listed gateways had passed hostmaster tests and were authorized to carry the GUUCP flag. This corroborates that the Montevideo node was not merely labelled as a gateway in a local UUCP map: it was also present in the wider FidoNet gateway approval list by the July 1994 revision.
+
+- Source: https://oldsezam.net/Conference/KOMUNIK.8/email?p=18 (message email.1824, dated 5 Sep 1995; embedded gateway list revision 6 Jul 1994).
+- Evidence grade: **B** (contemporary FidoNet conference repost of an automated hostmaster registry; underlying list is explicitly revision-dated).
+- Qualification: the source confirms approval/listing by July 1994, not the gateway's exact launch date or whether it accepted both directions of mail. The 1993 UUCP map establishes the Chasque daily route; the 1994 registry independently establishes its recognized FidoNet-to-Internet gateway status.
