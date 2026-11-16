@@ -126,3 +126,16 @@ The UUCP Map format guide defines `#U` as the site's Usenet/news neighbours and 
 **Source archive:** UUCP Mapping Project, Iceland country map distributed 2 Dec 1987: https://github.com/encse/uucp-map/blob/main/files/1987/u.isl.1-1987-12-02T04:18:49-05:00.txt-5943_rutgers.rutgers.edu. The archive README states that the maps were distributed to `comp.mail.maps`, were obtained from Usenet Archives, and explains the `#U`, `#W`, and pathalias fields: https://github.com/encse/uucp-map/blob/main/README.md.
 
 **Assessment:** This is a strong contemporary directory of named Icelandic network operators, host institutions, UUCP/news neighbours and routing structure by December 1987. It sharpens the 1986–87 institutional chronology and supplies named contacts for further archival searches. It does **not** identify the four Usenet-receiving sites counted in the ICEUUG report by name, prove that every listed host was simultaneously active, or establish any personal homepage. Continue to distinguish this network layer from Iceland's 1989 direct IP connection and the University of Iceland's 1992 Web site.
+
+
+## Independent Icelandic technical-history corroboration — 1986 UUCP links (16 November 2026)
+
+A history published by the Icelandic Information Technology Society (Skýrslutæknifélag Íslands) independently sharpens the early network chronology:
+
+- Its timeline states that in **1986 Hafró (the Marine Research Institute) began using a UUCP connection to EUnet**, and that the University Computing Centre (Reiknistofnun Háskólans) established a UUCP connection to Hafró in the same year.
+- The same account says the direct external connections of the University of Iceland and other ISnet participants used **UUCP from 1986** and **TCP/IP from 1989**. Its timeline separately notes that Hafró and RHÍ adopted TCP/IP in 1988, while ISnet's international connection moved to NORDUnet/IP-over-X.25 in 1989.
+- The source therefore corroborates the 1986 email/news network as a distinct pre-direct-IP layer and identifies a concrete institution-to-institution link (RHÍ ↔ Hafró), not merely a generalized national start date.
+
+**Source:** Skýrslutæknifélag Íslands, “3. hluti: 1985–1994 — Einkatölvusprenging og netvæðing”, especially the summary immediately before “Hröð þróun í notkun léna” and the 1986–1989 timeline: https://www.sky.is/sagautaislandi/129-kafli-3-1975-1984/2652-3-hluti-1985-1994-einkatolvusprenging-og-netvaeding (web text lines 209–244, inspected 2026-11-16).
+
+**Assessment:** This is a retrospective institutional-history source, not a surviving 1986 connection log or message header. It independently supports the 1986 UUCP chronology and clarifies the RHÍ–Hafró relationship. Keep the 1986 UUCP/EUnet milestone separate from the 1988–89 IP adoption and 1992 University Web launch; continue seeking contemporary network logs, EUnet records and correspondence.
