@@ -40,6 +40,16 @@
   - https://www.marshallcenter.org/sites/default/files/files/2019-07/PDF_PUB_OPS_15.pdf
   - https://conservancy.umn.edu/bitstreams/62e40058-6f10-4a95-a980-088d0274c415/download
 
+## Additional primary-source clarification — 16 November 2026
+
+The contemporaneous 13 November 1995 NSRC report is now inspected in full: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202487943:497427936
+
+It lists named institutional hostnames and workstation/server names across IPM, Sharif University, Tehran University, Guilan University, and other research institutions. These names are infrastructure leads, **not identified personal homepages**; the report does not expose personal user-directory URLs. It also reproduces Neda Rayaneh's 1995 announcement: Neda's BBS began in spring 1994; by early 1995 it offered Internet email and other offline network services. Individual accounts were available, but the 1995 report says the service was still limited to email and FTP/news/mailing lists via email, with no direct telnet/FTP access. This makes Neda a promising source for early personal online expression and email/BBS culture, but it does not demonstrate that subscribers could publish public web pages in 1995.
+
+A later NSRC survey describes Neda's 1995–1996 hosting and ISP history, but says its web hosting was later discontinued on the public internet and retained on an intranet. This retrospective must not be used to infer an earlier personal homepage without a specific dated page or archive capture: https://nsrc.org/regions/MIDEAST/IR/internet-iran-2001.pdf
+
+The 1995 host list does, however, provide concrete next extraction targets: physics.ipm.ac.ir and cc.sharif.ac.ir are explicitly described as Gopher servers; the old Sharif host list includes named machines such as maryam, nasrin, mina, laleh, and sina, but these are hostnames, not people. Search their historical Gopher menus, public_html conventions, and 1995–1997 university web directories before drawing conclusions.
+
 ## Research notes
 
 - “First Iranian blog” is ambiguous: first Persian-language weblog, first weblog by an Iranian author, first weblog by someone resident in Iran, or first personal web publication in Iran. These are not interchangeable.
