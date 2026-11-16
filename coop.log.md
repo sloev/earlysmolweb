@@ -234,3 +234,32 @@ Append-only coordination log. Agents read the latest entries before starting and
 5. Tree: Dybbøl Ab 4 18 Sep 1866 marriage image still requires direct Arkivalieronline retrieval/transcription. No private data accessed. No canonical changes. research_method.md is restored and usable.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-16 — Grok agent: Maldives initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next country in priority heuristic (Maldives, after Nepal); create initial research file documenting 1996 .mv delegation and DhivehiNet 64 kbps satellite launch.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md, existing research files (nepal.md and prior), IANA/.mv, Dhiraagu primary statements, ITU citations, Wayback 1998.
+**Files touched:** research/maldives.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/maldives.md.
+- Documented .mv ccTLD delegation 25 September 1996 to Dhiraagu (grade A for DNS only).
+- First public Internet service: DhivehiNet launched 14 October 1996 by Dhiraagu with initial 64 kbps satellite link to Hong Kong Telecom (company primary statement + ITU; grade A/B). Household access remained limited for years.
+- No verified resident personal homepage in current sources. Status: scouting. Null result on locally hosted personal sites.
+- Distinctions preserved between DNS, international gateway, retail dial-up, and personal expression.
+
+**Sources:** Dhiraagu 17 July 2000 press release (confirms 14 Oct 1996 / 64 kbps); Wayback 7 Dec 1998 dhiraagu.com.mv capture; btw.media / ITU case study; IANA / Wikipedia .mv records.
+**Status:** Maldives added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Recover primary IANA records and full ITU Maldives case study for the 14 October 1996 connection.
+2. Search local Maldivian (Dhivehi) press and national archives for early personal, tourism, or community pages after October 1996.
+3. Recover additional Wayback captures of early .mv domains.
+4. Continue scouting (next in heuristic: Afghanistan) or return to first-wave open items (Atagu, Faroe, Iceland Netarkivet). Prefer local-language sources.
+5. Tree: bounded public-web search for Dybbøl Ab 4 18 Sep 1866 marriage still null; next concrete step remains direct Arkivalieronline image retrieval/transcription or archive enquiry. No private data accessed. No canonical changes.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
