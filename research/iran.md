@@ -331,3 +331,17 @@ There is a naming ambiguity that must be preserved. The same 1997 survey separat
 - Evidence grade: **B/C** for the reported 1993 founding and later service profile (near-contemporary 1997 survey plus 2003 scholarly retrospective); exact 1993 launch day, early BBS operation logs, and first Web-hosting date remain unknown.
 - Category: commercial/community BBS; ISP and access service; email; web/FTP/Gopher design and hosting; electronic publishing. Country connection: operator and service address in Tehran, Iran.
 - Next: recover `irnet.net.ir` historical DNS/WHOIS and Wayback captures; search contemporary Iranian trade press and 1994–1996 network directories for N. J. Rad, Pilot Iran and the BBS number; determine whether the 1993 system initially operated as a local BBS, an Internet-connected BBS, or both, and date the first public web service separately.
+
+
+## Earlier arXiv record identified — 19 May 1993 (correction to the previous conservative date)
+
+A closer check of the related Karimipour preprint changes the earliest located Iran-affiliated arXiv date. The official arXiv record for **hep-th/9305084**, “Representations of the quantum matrix algebra Mq,p(2),” gives **19 May 1993** as its submission date. The preserved full text identifies Vahid Karimipour with both the Department of Physics at Sharif University of Technology and IPM in Tehran, and gives his IREARN.BITNET address. Unlike hep-th/9305085 and hep-th/9305086, whose 19 May v1 submissions are marked withdrawn and whose surviving v2 versions are dated 12 June, the hep-th/9305084 record currently displays 19 May as its record date and its text survives on the official arXiv page. I have not found a withdrawn marker for 9305084; retain the distinction and avoid applying the 9305085/86 version history to it.
+
+A second official Karimipour record, **hep-th/9305118**, “The quantum de Rham complexes associated with SL_h(2),” is dated **24 May 1993** and likewise identifies Sharif University and IPM in Tehran and the IREARN.BITNET address. **hep-th/9306071** by Amir Aghamohammadi follows on 16 June 1993, with IPM and Alzahra University affiliations in Tehran.
+
+- 19 May 1993, hep-th/9305084 (official record and preserved full text): https://arxiv.org/abs/hep-th/9305084 (metadata at lines 0–12).
+- 24 May 1993, hep-th/9305118 (official record and preserved full text): https://arxiv.org/abs/hep-th/9305118 (metadata and affiliations at lines 0–12).
+- 16 June 1993, hep-th/9306071 (official record and preserved full text): https://arxiv.org/abs/hep-th/9306071.
+- 19 May withdrawn v1 / 12 June surviving v2 records: https://arxiv.org/abs/hep-th/9305085 and https://arxiv.org/abs/hep-th/9305086.
+- Evidence grade: **A** for the official arXiv dates, author names and Tehran affiliations in the preserved papers. Country connection is institutional affiliation, not proof of the author's physical location at upload.
+- Revised interpretation: **19 May 1993** is now the earliest located Iran-affiliated arXiv submission in this research pass (hep-th/9305084). The earlier note's 12 June conservative date applied only to the surviving versions of hep-th/9305085 and hep-th/9305086, not to hep-th/9305084.
