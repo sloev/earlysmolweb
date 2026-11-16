@@ -304,3 +304,30 @@ This is a distinct milestone from the January 1993 EARN/BITNET node and the Febr
 - Evidence grade: **A** for the arXiv submission/version metadata and surviving full texts; country connection: author institutional affiliation in Tehran.
 - Category: scholarly preprint / online publication; operator: academic/individual; network status: Internet archive publication.
 - Significance: earliest located Iran-affiliated public preprint publishing in this research pass; not claimed as Iran's first online publication.
+
+
+## Newly surfaced evidence — first EARN access and the IRNET/IRANET naming problem (16 November 2026)
+
+### Late 1992 — first EARN access, before the January 1993 operational checkpoint
+
+A 2009 Persian-language interview with **Siavash Shahshahani**, IPM's deputy director and a participant in the project, adds a first-person chronology. Shahshahani says Iran first connected to the University of Linz by dial-up telephone in **late 1992**, then moved to a leased line to the University of Vienna, an EARN hub. The contemporary NSRC node record independently lists IREARN's EARN connection date as **1 December 1992**, with membership dated 1 November and a record update of 9 December; the January 1993 NSRC report then documents the registered node and a successful reachability check. The combined evidence supports a cautious sequence: initial EARN access by late 1992 (retrospective participant testimony), registered node connection dated 1 December 1992 (contemporary registry metadata), and independently confirmed EARN/BITNET reachability by 19 January 1993.
+
+The same interview says IP/ICP was enabled in **late 1993**, which would place TCP/IP earlier than the mid-1994 date in the 1999 NSRC technical survey. It also says early addresses ended in `.univie.at` before Iran obtained `.ir` in April 1995. This is an important first-person conflict, but the interview is retrospective and does not give a dated router record or packet trace. Retain **mid-1994** as the best-specified TCP/IP milestone for now, while explicitly recording the late-1993 recollection as an unresolved alternative; do not silently reconcile them.
+
+- Shahshahani interview (Persian, published 2 May 2009): https://news.gooya.com/technology/archives/2009/05/087038print.php (questions on initial connection and IP/ICP at lines 9–16).
+- Contemporary NSRC IREARN node record (19 Jan 1993; embedded connect date 1 Dec 1992): https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488663:497420738.
+- Contemporary NSRC BITNET/EARN reliability report (29 Oct 1993): https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488551:497423506.
+- Retrospective technical survey (15 Jun 1999; mid-1994 TCP/IP gateway conversion): https://nsrc.org/regions/MIDEAST/IR/internet-iran-2001.pdf (section 4.3.12).
+- Evidence grade: **A/B** for the 1992 registration date and January 1993 reachability; **C** for the late-1992 Linz dial-up and late-1993 IP/ICP recollection.
+
+### 1993 founding claim — Pilot Iran's IRNET / “Information and Communication Network of Iran”
+
+Payman Arabshahi's survey, updated **9 June 1997**, has a provider entry titled **IRNET**. It says the service was founded in 1993 by N. J. Rad as a subsidiary of the private Iranian company Pilot Iran; describes a large dial-up BBS (telephone number recorded in the survey) that was then porting its content onto the Web; and lists Internet access, email, server hosting, website design (WWW/FTP/Gopher), electronic publishing and commercial online services. It gives a Tehran address, the domain `irnet.net.ir`, and describes the then-current international link as DCI's 64-kbit/s route via Gulfsat/Kuwait. This is a substantial lead for an early commercial BBS-to-Internet provider and online-publishing service, but the source's present-tense wording does **not** prove that full Internet access or Web publishing was already operational in 1993. Use 1993 only as the reported founding date; the survey is a 1997 snapshot of the later service.
+
+There is a naming ambiguity that must be preserved. The same 1997 survey separately calls the **national academic network** “IRANET” (associated with IPM), while its commercial provider entry is spelled **IRNET** and expands the name as “Information and Communication Network of Iran.” A 2003 article instead spells the Pilot Iran commercial service **IRANET** and describes it as a large BBS with Internet access, email, electronic publishing and website design. Until a contemporary corporate or domain record resolves the spelling and identity, refer to this as **Pilot Iran's IRNET (also rendered IRANET in later secondary accounts)** and do not conflate it with the academic network label.
+
+- Payman Arabshahi, *The Internet in Iran: A Survey*, updated 9 June 1997: https://www.iranian.com/WebGuide/InternetIran/InternetIran.html (IRNET provider entry, lines 242–265; academic IRANET label at lines 72–76).
+- Babak Rahimi, “Cyberdissent: The Internet in Revolutionary Iran,” *MERIA* 7.3 (September 2003): https://ciaotest.cc.columbia.edu/olj/meria/meria03_rab01.pdf (pp. 101–102 / PDF lines 28–33; calls the private service IRANET and dates its creation to 1993).
+- Evidence grade: **B/C** for the reported 1993 founding and later service profile (near-contemporary 1997 survey plus 2003 scholarly retrospective); exact 1993 launch day, early BBS operation logs, and first Web-hosting date remain unknown.
+- Category: commercial/community BBS; ISP and access service; email; web/FTP/Gopher design and hosting; electronic publishing. Country connection: operator and service address in Tehran, Iran.
+- Next: recover `irnet.net.ir` historical DNS/WHOIS and Wayback captures; search contemporary Iranian trade press and 1994–1996 network directories for N. J. Rad, Pilot Iran and the BBS number; determine whether the 1993 system initially operated as a local BBS, an Internet-connected BBS, or both, and date the first public web service separately.
