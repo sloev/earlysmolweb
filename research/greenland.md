@@ -1,0 +1,33 @@
+# Greenland — early personal-web research
+
+**Status:** infrastructure leads found; no personal-site candidate verified yet.
+**Priority:** first wave.
+**Research jurisdiction:** Greenland (Kalaallit Nunaat), within the Kingdom of Denmark.
+
+## Context leads (not personal-page claims)
+
+- **1995-08-01:** A 1997 Nordic library technology report says Greennet, the Greenland part of the Internet, was commissioned as a pilot project on 1 August 1995; public nationwide access through TELE Greenland began 1 January 1996. It identifies early Greenland information providers including Pilersuiffik/Inerisaavik, KANUKOKA, TELE Greenland, and Home Rule authorities. This is useful for reconstructing the first local hosting and institutional network, but it does not identify a personal homepage.
+  - Source: [State-of-the-art of information technologies in libraries in the Nordic countries: 1997](https://librarytechnology.org/docs/21695.pdf)
+- **1995-09-01:** An NSRC connectivity archive preserves a contemporaneous announcement by Q-Data's Ivan Andersen describing a Greenland-connected network and internet browsing/email access, with a link spanning Qaanaaq to Nanortalik. The post calls it probably the world's northernmost Internet site; treat this as an ISP/company announcement, not a personal site.
+  - Source: [NSRC — Internet goes north - to Greenland](https://www.nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496237%3A497432310)
+- NSRC's Greenland index lists further contemporary leads from February and January 1995 ("Greenland Internet"; "Gossip GL - Greenland with Full Internet Link"), plus Q-Data, TELE Greenland, Pilersuiffik, and ATAGU. These may expose link directories, early users, or local technical correspondents.
+  - Source: [NSRC — Greenland connectivity archive index](https://www.nsrc.org/db/lookup/ISO%3DGL)
+- A 2017 scholarly chapter says Sermitsiaq.gl began in December 1995 as Greenland's first web-based news site. This is useful chronology/context, but it is not a personal expression.
+  - Source: [Searching for Greenland's youth culture before the Internet age (PDF)](https://www.uni.gl/media/4957793/mediespejlet.pdf)
+
+## Track A — next lead-finding actions
+
+1. Retrieve the NSRC reports "Greenland Internet" (1995-02-14) and "Gossip GL" (1995-01-23); extract all named people, addresses, providers, and linked sites.
+2. Search old .gl directories and local-language terms: Kalaallit Nunaat, Grønland, hjemmeside, privat hjemmeside, personlig hjemmeside, hjemmeside for, internet, webside.
+3. Follow personal links and author names outward from Pilersuiffik, Q-Data, TELE Greenland, Sermitsiaq, and early local ISP pages.
+4. Search university, school, library, and municipal staff/student home directories for `~username`, `/~username`, and early personal pages.
+
+## Track B — evidence and write-up
+
+- The 1995/1996 access dates above are contextual chronology only.
+- No "earliest personal website" date is asserted.
+- Preserve archived captures and primary sources for any named individual page before promoting a lead.
+
+## Candidate register
+
+_No personal-page candidates verified yet._
