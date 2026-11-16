@@ -28,3 +28,18 @@
 ## Candidate register
 
 _No personal-page candidates verified yet._
+
+
+## Pre-Web network chronology — indirect services and 1989 IP link
+
+ISNIC's institutional history provides a precise account of Iceland's transition from indirect network services to direct IP communication:
+
+- Before July 1989, Iceland's international Internet connection was indirect and already carried **email and Usenet**.
+- **21 July 1989 — first direct IP communication:** SURIS, an informal association of Icelandic networking practitioners (later incorporated as ISNIC Internet á Íslandi hf.), established direct IP communication between Iceland and the NORDUnet point of presence in Lyngby, Denmark. The link used IP over X.25 over satellite, with reported bandwidth of only 300–1,200 bits per second.
+- The direct link added interactive **Telnet** and direct **FTP** file transfer to the existing email and Usenet services. It operated for about one year, then was replaced by a 9,600-bit/s leased line from Reykjavík to Stockholm.
+- Source: ISNIC, “20 years of Internet in Iceland” (21 July 2009): https://www.isnic.is/en/news/view?id=143.
+- Status: **verified as ISNIC's institutional chronology**; the underlying 1989 SURIS/NORDUnet technical records would provide independent contemporary corroboration.
+
+### Interpretation
+
+Do not describe 1989 as the start of all Icelandic network activity: email and Usenet preceded the direct IP link. Nor should the 1989 Telnet/FTP capabilities be mistaken for a Web site. This chronology is a useful lead for SURIS participants, university computing staff, and early personal home-directory services, while the University of Iceland's November 1992 institutional Web site remains a separate milestone.
