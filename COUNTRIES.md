@@ -1,231 +1,233 @@
 # Country and territory research order
 
-This is a **research-priority order**, not a judgement of importance, worth, culture, or internet sophistication. The first group is deliberately discovery-led: small, overlooked, under-documented, linguistically distinctive, peripheral, or historically difficult-to-index places. Better-documented mainstream cases are placed later as comparative "gem mines" and controls.
+This is a **research-priority order**, not a judgement of importance, worth, culture, or internet sophistication. The first wave intentionally prioritizes small, overlooked, under-documented, linguistically distinctive, peripheral, or historically difficult-to-index places. Better-documented mainstream cases are later as comparative "gem mines" and controls.
 
-Baseline: 193 UN member states plus the two UN non-member observer states (Holy See and State of Palestine) = 195 country entries. Greenland and the Faroe Islands are added as separate research jurisdictions, while Denmark is also retained as a country entry. Other territories and disputed/de facto jurisdictions can be added when useful; do not silently conflate them with sovereign-state entries.
+## Separate research jurisdictions (outside the 195-state baseline)
 
-## Wave 1 — Start here
+- Greenland — within the Kingdom of Denmark; separate research jurisdiction.
+- Faroe Islands — within the Kingdom of Denmark; separate research jurisdiction.
+- Kosovo — additional disputed/de facto jurisdiction; document status neutrally.
+- Western Sahara — additional disputed territory; document status neutrally.
+- Taiwan — additional separately tracked jurisdiction; document status neutrally.
+- Hong Kong and Macao — separately tracked jurisdictions, not sovereign-state entries.
 
-1. Greenland (separate research jurisdiction; within the Kingdom of Denmark)
-2. Faroe Islands (separate research jurisdiction; within the Kingdom of Denmark)
+Denmark is also retained as a country entry. These distinctions are about research coverage, not political endorsement.
+
+## First wave — begin immediately
+
+1. Greenland
+2. Faroe Islands
 3. Iceland
 4. Denmark
 5. Iran
 6. Uruguay
 
-## Wave 1 parallel comparative track
+**Parallel comparative assignment:** United States of America is deliberately last in the main queue, but should be researched concurrently as a rich comparative/control case. Its extensive surviving early-web ecosystem can help test methods and reveal well-documented personal pages.
 
-- United States of America — place near the bottom of the main list as requested, but research in parallel. Its extensive surviving early-web ecosystem is useful for comparative methods and likely to yield many well-documented personal pages.
+## Main country queue — 195 entries
 
-## Wave 2 — Under-documented, small, peripheral, or especially interesting histories
-
-7. Tuvalu
-8. Kiribati
-9. Nauru
-10. Marshall Islands
-11. Federated States of Micronesia
-12. Palau
-13. Samoa
-14. Tonga
-15. Vanuatu
-16. Solomon Islands
-17. Papua New Guinea
-18. Timor-Leste
-19. Bhutan
-20. Nepal
-21. Maldives
-22. Afghanistan
-23. Tajikistan
-24. Kyrgyzstan
-25. Turkmenistan
-26. Uzbekistan
-27. Mongolia
-28. Laos
-29. Cambodia
-30. Myanmar
-31. Bangladesh
-32. Sri Lanka
-33. Pakistan
-34. Iraq
-35. Syria
-36. Lebanon
-37. Palestine (State of Palestine)
-38. Yemen
-39. Oman
-40. Bahrain
-41. Qatar
-42. Kuwait
-43. Jordan
-44. Armenia
-45. Azerbaijan
-46. Georgia
-47. Moldova
-48. Albania
-49. North Macedonia
-50. Bosnia and Herzegovina
-51. Montenegro
-52. Kosovo (additional disputed/de facto jurisdiction; not part of the 195 baseline)
-53. Serbia
-54. Belarus
-55. Ukraine
-56. Lithuania
-57. Latvia
-58. Estonia
-59. Cyprus
-60. Malta
-61. Andorra
-62. San Marino
-63. Monaco
-64. Liechtenstein
-65. Luxembourg
-66. Malta
-67. Cabo Verde
-68. São Tomé and Príncipe
-69. Comoros
-70. Seychelles
-71. Mauritius
-72. Madagascar
-73. Malawi
-74. Zambia
-75. Zimbabwe
-76. Mozambique
-77. Angola
-78. Namibia
-79. Botswana
-80. Lesotho
-81. Eswatini
-82. Rwanda
-83. Burundi
-84. Uganda
-85. Tanzania
-86. Kenya
-87. Ethiopia
-88. Eritrea
-89. Djibouti
-90. Somalia
-91. Sudan
-92. South Sudan
-93. Chad
-94. Niger
-95. Mali
-96. Burkina Faso
-97. Senegal
-98. Gambia
-99. Guinea-Bissau
-100. Guinea
-101. Sierra Leone
-102. Liberia
-103. Togo
-104. Benin
-105. Ghana
-106. Côte d’Ivoire
-107. Cameroon
-108. Central African Republic
-109. Republic of the Congo
-110. Democratic Republic of the Congo
-111. Gabon
-112. Equatorial Guinea
-113. Mauritania
-114. Morocco
-115. Algeria
-116. Tunisia
-117. Libya
-118. Egypt
-119. Western Sahara (additional disputed territory; status to be documented neutrally)
-120. Belize
-121. Guyana
-122. Suriname
-123. Paraguay
-124. Bolivia
-125. Ecuador
-126. Peru
-127. Venezuela
-128. Guyana
-129. Haiti
-130. Jamaica
-131. Trinidad and Tobago
-132. Barbados
-133. Saint Lucia
-134. Saint Vincent and the Grenadines
-135. Grenada
-136. Dominica
-137. Antigua and Barbuda
-138. Saint Kitts and Nevis
-139. Bahamas
-140. Cuba
-141. Dominican Republic
-142. Guatemala
-143. Honduras
-144. El Salvador
-145. Nicaragua
-146. Costa Rica
-147. Panama
-148. Mexico
-149. Brazil
-150. Argentina
-151. Chile
+1. Iceland
+2. Denmark
+3. Iran
+4. Uruguay
+5. Tuvalu
+6. Kiribati
+7. Nauru
+8. Marshall Islands
+9. Micronesia
+10. Palau
+11. Samoa
+12. Tonga
+13. Vanuatu
+14. Solomon Islands
+15. Papua New Guinea
+16. Timor-Leste
+17. Bhutan
+18. Nepal
+19. Maldives
+20. Afghanistan
+21. Tajikistan
+22. Kyrgyzstan
+23. Turkmenistan
+24. Uzbekistan
+25. Mongolia
+26. Lao People's Democratic Republic
+27. Cambodia
+28. Myanmar
+29. Bangladesh
+30. Sri Lanka
+31. Pakistan
+32. Iraq
+33. Syrian Arab Republic
+34. Lebanon
+35. State of Palestine
+36. Yemen
+37. Oman
+38. Bahrain
+39. Qatar
+40. Kuwait
+41. Jordan
+42. Armenia
+43. Azerbaijan
+44. Georgia
+45. Republic of Moldova
+46. Albania
+47. North Macedonia
+48. Bosnia and Herzegovina
+49. Montenegro
+50. Serbia
+51. Belarus
+52. Ukraine
+53. Lithuania
+54. Latvia
+55. Estonia
+56. Cyprus
+57. Malta
+58. Andorra
+59. San Marino
+60. Monaco
+61. Liechtenstein
+62. Luxembourg
+63. Cabo Verde
+64. Sao Tome and Principe
+65. Comoros
+66. Seychelles
+67. Mauritius
+68. Madagascar
+69. Malawi
+70. Zambia
+71. Zimbabwe
+72. Mozambique
+73. Angola
+74. Namibia
+75. Botswana
+76. Lesotho
+77. Eswatini
+78. Rwanda
+79. Burundi
+80. Uganda
+81. United Republic of Tanzania
+82. Kenya
+83. Ethiopia
+84. Eritrea
+85. Djibouti
+86. Somalia
+87. Sudan
+88. South Sudan
+89. Chad
+90. Niger
+91. Mali
+92. Burkina Faso
+93. Senegal
+94. Gambia
+95. Guinea-Bissau
+96. Guinea
+97. Sierra Leone
+98. Liberia
+99. Togo
+100. Benin
+101. Ghana
+102. Côte d’Ivoire
+103. Cameroon
+104. Central African Republic
+105. Congo
+106. Democratic Republic of the Congo
+107. Gabon
+108. Equatorial Guinea
+109. Mauritania
+110. Morocco
+111. Algeria
+112. Tunisia
+113. Libya
+114. Egypt
+115. Belize
+116. Guyana
+117. Suriname
+118. Paraguay
+119. Bolivia
+120. Ecuador
+121. Peru
+122. Venezuela
+123. Haiti
+124. Jamaica
+125. Trinidad and Tobago
+126. Barbados
+127. Saint Lucia
+128. Saint Vincent and the Grenadines
+129. Grenada
+130. Dominica
+131. Antigua and Barbuda
+132. Saint Kitts and Nevis
+133. Bahamas
+134. Cuba
+135. Dominican Republic
+136. Guatemala
+137. Honduras
+138. El Salvador
+139. Nicaragua
+140. Costa Rica
+141. Panama
+142. Argentina
+143. Australia
+144. Austria
+145. Belgium
+146. Brazil
+147. Brunei Darussalam
+148. Bulgaria
+149. Canada
+150. Chile
+151. China
 152. Colombia
-153. South Africa
-154. Nigeria
-155. Senegal
-156. Kenya
-157. Ghana
-158. Indonesia
-159. Philippines
-160. Vietnam
-161. Thailand
-162. Malaysia
-163. Singapore
-164. Brunei
-165. Japan
-166. South Korea
-167. North Korea
-168. China
-169. Taiwan (additional separately tracked jurisdiction; status to be documented neutrally)
-170. Hong Kong (additional separately tracked jurisdiction)
-171. Macao (additional separately tracked jurisdiction)
-172. India
-173. Australia
-174. New Zealand
+153. Croatia
+154. Czechia
+155. Democratic People's Republic of Korea
+156. Fiji
+157. Finland
+158. France
+159. Germany
+160. Greece
+161. Holy See
+162. Hungary
+163. India
+164. Indonesia
+165. Ireland
+166. Israel
+167. Italy
+168. Japan
+169. Kazakhstan
+170. Malaysia
+171. Mexico
+172. Netherlands
+173. New Zealand
+174. Nigeria
+175. Norway
+176. Philippines
+177. Poland
+178. Portugal
+179. Republic of Korea
+180. Romania
+181. Russian Federation
+182. Saudi Arabia
+183. Singapore
+184. Slovakia
+185. Slovenia
+186. South Africa
+187. Spain
+188. Sweden
+189. Switzerland
+190. Thailand
+191. Türkiye
+192. United Arab Emirates
+193. United Kingdom
+194. Viet Nam
+195. United States of America
 
-## Wave 3 — Larger and better-indexed comparison cases
+## Scope and counting notes
 
-175. Germany
-176. France
-177. United Kingdom
-178. Netherlands
-179. Belgium
-180. Switzerland
-181. Austria
-182. Sweden
-183. Norway
-184. Finland
-185. Ireland
-186. Spain
-187. Portugal
-188. Italy
-189. Greece
-190. Poland
-191. Czechia
-192. Slovakia
-193. Hungary
-194. Romania
-195. Bulgaria
-196. Croatia
-197. Slovenia
-198. Russia
-199. Turkey
-200. Saudi Arabia
-201. United Arab Emirates
-202. Israel
-203. United States of America
-
-## Remaining baseline country entries not already placed above
-
-To keep the baseline complete without pretending the order is a historical conclusion, check the following names against the numbered waves and add any that have not yet been assigned: Antigua and Barbuda, Bahamas, Barbados, Belize, Brunei Darussalam, Central African Republic, Democratic People's Republic of Korea, Republic of Korea, Democratic Republic of the Congo, Republic of the Congo, Czechia, Holy See, State of Palestine, Russian Federation, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Slovakia, Türkiye, United Arab Emirates, United Kingdom, United States, Viet Nam.
-
-## Scope notes
-
-- The numbered waves are a working queue, not a claim that every state has already been researched.
-- A few duplicated names may occur in this initial draft due to the intentionally mixed priority and geographic grouping. Before country folders are generated, normalize the queue against the canonical 195 list and retain each sovereign entry exactly once. Keep Greenland, Faroe Islands, Kosovo, Western Sahara, Taiwan, Hong Kong, and Macao as separate additional research jurisdictions.
-- Prefer the country's own preferred name and local-language forms in the eventual country page.
+- The baseline is the 193 UN member states plus the two UN non-member observer states (Holy See and State of Palestine): 195 entries.
+- Country names follow common UN/ISO-style English naming, with some long-form names retained to disambiguate states.
+- The order after the first six is a discovery queue, not a conclusion about where the earliest or most interesting pages are.
+- The US is last by design but is a concurrent research track, not a deferred afterthought.
+- Search using local-language names, scripts, historical country names, and older domain/hosting conventions.
+- Do not infer a person's nationality from a country-code domain. Record whether the connection is author residence, local hosting, language/community, self-description, or another defensible basis.
+- A country's queue position must never determine the evidentiary standard. Apply `WORK_METHOD.md` consistently everywhere.
