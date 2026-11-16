@@ -182,3 +182,37 @@ A 23 April 1996 message from Gabriel Sere of Chasque to the Network Startup Reso
 - Interpretation: the record confirms that local BBS systems were participating in UUCP exchanges with Chasque and preparing a transition to leased-line Internet access. It does not identify the BBS names, prove that every BBS was already connected to the Internet, or date the start of the UUCP exchanges. Treat those BBSs as inter-network leads, not as automatically verified Internet nodes.
 
 This is a valuable next discovery path: identify the BBS operators and their UUCP feeds from Chasque's user community, then search for surviving message areas, echo-mail groups, FidoNet/Usenet gateways and local operator recollections. The 1992 NSRC report remains an earlier checkpoint describing Chasque's roughly 120 users and the proposed rfmail link with Fido enthusiasts; the 1996 report shows a later, more explicit BBS/UUCP-to-ISP transition.
+
+
+## Contemporary UUCP map and FidoNet/Internet gateway evidence — 1993
+
+A UUCP map for Uruguay (u.ury.1) was posted to the Usenet group **comp.mail.maps** on 14 January 1997, but its embedded map identifies itself as the 24 August 1993 edition. It inventories SeCIU's central UUCP hub and a large set of connected institutional, nonprofit, commercial and academic nodes. The map is especially valuable because it exposes named operators, node purposes, routing relationships and update dates rather than only listing domain names.
+
+### March 1993 — fidour, a FidoNet–Internet gateway exchanging with Chasque
+
+The map identifies **fidour** as a “FidoNet-Internet Gateway,” operated by **Juan Carlos Alonso** in Montevideo. It records a 386DX/MS-DOS system running **UFGATE, FrontDoor and IMAIL**, with FidoNet address **4:850/0**. Its upstream route is igc!chasque, and the UUCP map explicitly lists fidour chasque(DAILY). The entry's operator update is dated **23 March 1993**.
+
+This is direct evidence of a named Uruguay-based FidoNet/Internet gateway and daily interconnection with Chasque by March 1993. It is stronger than the 1992 report's proposed rfmail channel: by March 1993, the map describes an operating gateway with a defined route. It does not establish the exact date the gateway began, the precise message areas carried, or that every local BBS had Internet connectivity.
+
+- Source: https://groups.google.com/g/comp.mail.maps/c/NaiHPDCAKWg (1993 map embedded in a 14 Jan 1997 Usenet-posted shell archive; fidour entry around lines 353–371).
+- Evidence grade: **A/B** (contemporaneous technical map content reproduced in a dated Usenet archive; map version explicitly dated August 1993 and fidour operator update dated March 1993).
+- Category: FidoNet/UUCP gateway; operator: individual; network status: inter-network / Internet gateway.
+- Country connection: operator and gateway node located in Montevideo, Uruguay.
+
+### The broader 1993 SeCIU UUCP topology
+
+The same map's SeCIU hub entry lists daily or scheduled links to dozens of nodes, including university departments, research institutes, government offices, NGOs, commercial organizations and the Chasque APC node. Examples include:
+
+- **chasque** — Instituto del Tercer Mundo / APC node; daily exchange with SeCIU and four times daily with cdp; X.25 identifier recorded.
+- **pangea** — “Red Telemática Intercultural,” contact Julia Pieruzzi Tirelli; scheduled SeCIU exchange.
+- **plusul** — Fundación Plus Ultra; scheduled SeCIU exchange.
+- **ciaru** — Centro de Investigación de Arte Rupestre del Uruguay; contact Mario Consens.
+- **urunet** — Comax S.A. (URUNET), a commercial node; contact Luis Sibils Bove.
+- **varela** — Colegio Nacional José Pedro Varela; contact Alejandro Ferreira.
+- **fidour** — the explicitly labelled FidoNet/Internet gateway described above.
+
+The map's embedded August 1993 version includes node records with update dates reaching back to 1991–1992. Those dates establish the reported node/map-entry updates, not necessarily each system's first operational day. The map is a discovery index for further examination of local mailing lists, FidoNet echo areas, UUCP news feeds and institutional archives. It should not be treated as proof that every listed node hosted a public Internet service or website.
+
+### Interpretation
+
+Uruguay's network chronology now includes a concrete FidoNet-to-Internet gateway by March 1993, in addition to the earlier INCO UUCP node, Chasque's APC/X.25 links, and the later RAU WWW and Chasque PPP/SLIP services. The gateway record gives a named operator and a specific daily route through Chasque, so it should be retained as its own milestone rather than folded into the general “BBS precursor” category.
