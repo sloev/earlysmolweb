@@ -225,3 +225,15 @@ A second, independent route confirms fidour's gateway role. A FidoNet gateway re
 - Source: https://oldsezam.net/Conference/KOMUNIK.8/email?p=18 (message email.1824, dated 5 Sep 1995; embedded gateway list revision 6 Jul 1994).
 - Evidence grade: **B** (contemporary FidoNet conference repost of an automated hostmaster registry; underlying list is explicitly revision-dated).
 - Qualification: the source confirms approval/listing by July 1994, not the gateway's exact launch date or whether it accepted both directions of mail. The 1993 UUCP map establishes the Chasque daily route; the 1994 registry independently establishes its recognized FidoNet-to-Internet gateway status.
+
+
+## Earlier FidoNet presence — contemporary FidoNews account (9 November 1992)
+
+A FidoNews issue dated **9 November 1992** contains a contemporaneous account of Uruguay's early FidoNet participation. Contributor Pablo Kleinman writes that he and Hector Gomez (an Uruguayan sysop living in Argentina) had worked to bring Uruguay into FidoNet; Gomez's cousin **Juan Camps**, in Montevideo, installed the first Uruguayan node with sponsorship from a large local computer distributor. Camps later went offline, and the small Uruguayan region was removed from the FidoNet nodelist after prolonged failure to communicate. The same account says that **Juan Carlos Alonso** was then receiving mail from Randy Bush and was being helped to reconnect with the wider Zone 4 network.
+
+A second contributor in the same issue describes the former Uruguayan region as consisting of one private system and two sysops, and says its nodelist entry was removed after the node stopped answering. This provides independent contemporary context for a small, fragile FidoNet presence before the better-documented March 1993 `fidour` gateway record.
+
+- Source: https://groups.google.com/g/comp.org.fidonet/c/WqdCabsEdPA (FidoNews vol. 9 no. 45, 9 Nov 1992; discussion at pp. 3–7 of the reproduced newsletter, especially lines 178–199 and 306–312 / 400–407).
+- Evidence grade: **B** (contemporary FidoNet community newsletter; participant testimony, not a surviving node log or nodelist).
+- Category: FidoNet node/community; operator: individual/community; status: **precursor context**, not yet a verified Internet-connected node. The reference to Alonso receiving mail from Randy Bush is a promising interconnection lead, but the route and protocol are not specified in this account. Do not assume that the earlier Juan Camps node was Internet-connected.
+- Follow-up: seek FidoNet nodelists for Region 85 / Uruguay, Juan Camps' node name and sponsor, and messages between Alonso and Randy Bush; compare with the March 1993 `fidour` map and July 1994 hostmaster gateway registry.
