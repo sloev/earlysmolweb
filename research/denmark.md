@@ -75,3 +75,16 @@ The early Danish chronology predates personal homepages by more than a decade. I
 ### Interpretation and research value
 
 The strongest early milestone is the dated 2 January 1983 DIKU email, supported by the university's institutional history and a surviving documentary collection. The 1980s UUCP/Usenet evidence supplies concrete routes into named nodes and operators. Keep email, UUCP, Usenet, research-network IP and later Web hosting as separate categories. Next, inspect the 1982–87 primary documents and surviving UUCP maps for individual system operators, personal accounts and early home-directory services; continue the separate Madsen Smed homepage capture search.
+
+
+## Named personal-homepage lead — Michael Maardt, documented 19 February 1995
+
+The Royal Danish Library's DR radio archive catalogue records a **Harddisken** broadcast on **19 February 1995** whose “Nyt fra nettet” segment was explicitly about publishing one's private life on one's own personal homepage. It names **Michael Maardt**, described as the man behind the popular computer publication *Brug din PC optimalt*, as the featured homepage owner. This is contemporary evidence that a named Danish personal homepage was being presented to a national radio audience by that date.
+
+- **Author/operator:** Michael Maardt, Danish computer publisher and web author.
+- **Date evidenced:** broadcast 19 February 1995. This proves the homepage was a subject of the broadcast by that date, not necessarily that it was first launched that day.
+- **Likely later domain:** `knowware.dk`. Maardt's own 2010 site history says he had made his website since 1995; the domain was registered on 23 October 1995 as approximately the 500th .dk domain. The current page does not prove that the February homepage already used this domain, so preserve the original URL as unknown until the broadcast recording or contemporaneous links establish it.
+- **Sources:** Royal Danish Library / DR archive catalogue, https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59 ; Maardt's site history, https://knowware.dk/om-hjemmesiden.shtml ; Maardt's own retrospective site list, https://a33.dk/mmsites.shtml.
+- **Status:** **probable contemporary personal-homepage evidence**. The DR catalogue is contemporaneous broadcast metadata; Maardt's later account supports a 1995 web presence. The actual recording, original URL and 1995 capture remain to be recovered.
+
+Do not assume the homepage was knowware.dk in February 1995: the stated domain registration date is later in the year. Next retrieve the DR audio/transcript, inspect the broadcast for URL and hosting details, and query web archives for candidate Maardt domains and paths. This is a personal-expression lead, not merely the commercial KnowWare publishing site.
