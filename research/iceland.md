@@ -45,39 +45,28 @@ ISNIC's institutional history provides a precise account of Iceland's transition
 Do not describe 1989 as the start of all Icelandic network activity: email and Usenet preceded the direct IP link. Nor should the 1989 Telnet/FTP capabilities be mistaken for a Web site. This chronology is a useful lead for SURIS participants, university computing staff, and early personal home-directory services, while the University of Iceland's November 1992 institutional Web site remains a separate milestone.
 
 
-## Named individual homepage — Björn Bjarnason, February 1995
+## Individual homepage — Björn Bjarnason, established January 1995
 
-A strong, author-attributed personal-site lead is now documented:
+This is now one of the strongest named early personal-homepage records in the project: Björn's own speech delivered on **14 December 1995** gives a near-contemporary first-person account of setting up his homepage with Miðheimar on **23 January 1995**, then maintaining it with weekly columns, speeches and articles.
 
-- **Author:** Björn Bjarnason, Icelandic writer and public figure.
-- **Original URL:** `www.bjorn.is` (the author's biography says he opened the site in mid-January 1995; the site's own history says its first design appeared in February 1995).
-- **Date:** first recorded article 19 February 1995; the author biography says the site opened in mid-January. Preserve both dates as different milestones rather than forcing them into one.
-- **Creation:** Björn says Arnþór Jónsson and colleagues at Miðheimar/centrum.is encouraged him to publish; Gunnar Grímsson designed the site. The author says he has maintained it continuously and that 1995 material remains accessible.
-- **Personal-expression evidence:** the author describes it as his own site, with articles, speeches and regular opinion columns, and notes that only he could publish content to it.
-- **Sources:** author history, https://www.bjorn.is/um-vefinn/ ; author biography, https://www.bjorn.is/aeviagrip/ ; contemporary tenth-anniversary report, https://www.visir.is/paper/fbl/050219.pdf (19 February 2005).
-- **Status:** **probable, strong author testimony with contemporary anniversary corroboration**. A dated 1995 web-archive capture or original server record would independently verify the first published version. Do not claim this is the earliest Icelandic personal homepage without comparative evidence.
+- **Person / title:** Björn Bjarnason, personal homepage at `www.bjorn.is`.
+- **Country connection:** Icelandic author and public figure publishing a self-authored site in Iceland, with Miðheimar in Reykjavík providing setup and support.
+- **Date distinctions:**
+  - **Mid-January 1995:** in the site's later history, Björn says the page was set up for trial around mid-January.
+  - **23 January 1995:** in his speech of 14 December 1995, he says he set up the homepage with Miðheimar on this date. This is the best near-contemporary date for the site's establishment.
+  - **29 January 1995:** in a 25 January 2007 entry, he says he used this date as the site's founding date. Preserve this separate recollection rather than silently correcting it.
+  - **19 February 1995:** he says this was when the first regular “pistill” appeared / when he told the media about the page. A 2005 anniversary article likewise identifies 19 February as the first article date.
+  - **23 January 1995 archive entry:** a currently accessible page is dated 23 January 1995 and is identified in a 2015 anniversary post as the first preserved post. However, the page itself says the article was not carried over during the 2002 site migration and was re-entered on **27 July 2004**. It is therefore not an original 1995 capture.
+- **Primary/near-contemporary source (grade A/B):** Björn's speech delivered 14 December 1995, “Leið mín inn á netið”, says he set up the homepage on 23 January 1995 and kept it active with weekly writing: https://www.bjorn.is/greinar/nr/585.
+- **Current site-history account (grade C):** the page's own history says Miðheimar encouraged the project, Gunnar Grímsson designed the site, it first appeared in February 1995, and the design remained broadly stable until October 2000: https://www.bjorn.is/um-vefinn/.
+- **Archived-page clue (grade C with explicit migration caveat):** the 2015 twentieth-anniversary post identifies 23 January 1995 as the date of the first preserved post and links to it: https://www.bjorn.is/dagbok/2015/nr/7370. The linked article, “Öflugur Sjálfstæðisflokkur tryggir trausta stjórn”, is at https://www.bjorn.is/greinar/nr/2851; its page text explicitly says it was re-entered on 27 July 2004 after being omitted from the 2002 migration.
+- **Conflicting anniversary dates:** the 2005 newspaper retrospective says the first article appeared on 19 February 1995: https://www.visir.is/paper/fbl/050219.pdf. A 25 January 2007 entry says Björn regarded 29 January 1995 as the site's founding date: https://www.bjorn.is/dagbok/2007/nr/3880. These statements can coexist if setup, trial access, first archived item, public announcement and first regular post are different events; the exact public-launch moment is not conclusively settled.
+- **Archive availability:** Vefsafn's open-access Icelandic web archive begins in 1996, so it cannot by itself supply a public 1995 capture: https://landsbokasafn.is/en/vefsafn/. Björn says he discussed preservation with Borgarskjalasafn Reykjavík; the archive's finding aid for his personal papers is available here: https://www.borgarskjalasafn.is/static/research/files/bjorn_bjarnason__405.pdf.
+- **Status:** **probable, strongly corroborated personal homepage established 23 January 1995**. The near-contemporary speech supports the setup date, but an original 1995 server copy or independent contemporary capture is still needed to verify the first public version. Do not claim it is Iceland's first personal homepage without comparative research.
 
-The author history further says the site was designed by Gunnar Grímsson, appeared in its first form in February 1995, and was later redesigned in October 2000. The biography says the first recorded article is dated 19 February 1995. These details make it a high-priority candidate for Vefsafn/Wayback capture recovery and for identifying the early Miðheimar hosting arrangement.
+### Next verification steps
 
-
-### Date reconciliation — contemporaneous 1995 account establishes 23 January
-
-A previously overlooked source materially sharpens the start date. In a speech delivered on **14 December 1995**, Björn himself says that, with Miðheimar's help, he set up his homepage on **23 January 1995**, and that he had since maintained it with weekly columns, speeches and articles. This is contemporary testimony only eleven months after launch and is stronger than the later biography's broad “mid-January” description.
-
-There is, however, a genuine date discrepancy in the retrospective record: the 2005 anniversary article says the first article appeared on 19 February 1995; the author's biography gives mid-January as the opening and 19 February as the first recorded entry; his 2017 site history says the first design appeared in February; and a 2015 anniversary post identifies 23 January as the first preserved post. The 1995 speech establishes a 23 January homepage setup, but does not settle which date marks the first public page or first surviving post. Record **23 January 1995 (site established, author testimony in 1995)** separately from **19 February 1995 (first article according to the 2005 anniversary account)** until the archive itself resolves the difference.
-
-- Contemporary speech, 14 December 1995: https://www.bjorn.is/greinar/nr/585 (see the account of the 23 January launch).
-- 2015 anniversary post: https://www.bjorn.is/dagbok/2015/nr/7370.
-- 2005 anniversary article: https://www.visir.is/paper/fbl/050219.pdf.
-- Site-history page: https://www.bjorn.is/um-vefinn/.
-
-**Status remains probable/strongly supported**, not verified by a surviving dated original capture. The date distinction is retained rather than silently choosing one source.
-
-
-### Archive coverage check — Vefsafn and the 1995 candidate
-
-The National and University Library of Iceland's public archive description states that Vefsafn offers open access to Icelandic web material from **1996 onward**; its explanatory project page says .is harvesting by the Library began in October 2004 and that 1996–2004 material was imported from the Internet Archive. Thus, absence of a 1995 Bjorn.is capture in the public Vefsafn interface would not disprove Björn's 23 January 1995 setup testimony. Prioritise Internet Archive CDX/Wayback and the author's referenced Borgarskjalasafn Reykjavíkur correspondence; ask the Library whether any pre-1996 material exists outside the public interface.
-
-- https://dhnb.eu/projects/the-icelandic-web-archive/.
-- https://landsbokasafn.is/en/vefsafn/.
-- **Assessment:** archive-coverage limitation, not evidence for or against the site's 1995 existence.
+1. Ask Borgarskjalasafn Reykjavík whether its Björn Bjarnason papers include original homepage files, correspondence with Miðheimar, or preservation records.
+2. Ask Miðheimar/centrum.is successors or former staff for the original server path, hosting details and January–February 1995 deployment records.
+3. Check Vefsafn from its 1996 starting point for the earliest surviving archived version and compare its page structure with the current migrated archive.
+4. Search 1995 Icelandic newspapers and link directories for the February public announcement and other individual homepages; retain 23 January (setup), 19 February (first regular post/public notice), and 29 January (later stated founding date) as separate claims.
