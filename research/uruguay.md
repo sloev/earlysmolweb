@@ -271,3 +271,18 @@ The 9 November 1992 FidoNews discussion says Juan Carlos Alonso was receiving ma
 ### Revised milestone
 
 **7 June 1991** is now the earliest located contemporary global FidoNet nodelist listing for Uruguay in the preserved weekly archive; the 24 May 1991 issue is a negative checkpoint. This is a dated FidoNet network milestone, not a date for Uruguay's first Internet connection, first email, or first personal website.
+
+
+## Additional FidoNet operator and local-BBS context — 1993
+
+A contemporary professional association bulletin provides an independent identification of **Juan Camps as a representative of Datamatic**, the Montevideo computer distributor associated with the first Uruguayan FidoNet node in the 9 November 1992 FidoNews account. The *Asociación de Diseñadores Gráficos Profesionales del Uruguay*'s **ADG bulletin no. 12 (June 1993)** reports on the IMÁGICA 93 digital-design forum (12–16 May 1993) and includes a statement from “Juan Camps, Datamatic”; it describes Datamatic's sales of laser and inkjet printers, IBM components and Aldus software distribution. This strengthens the identification of Camps and the likely commercial-sponsor context, but does not independently prove Datamatic sponsored the 1991 FidoNet node or establish the BBS's Internet connectivity.
+
+- Source: https://prieto.com.uy/wp-content/uploads/2020/08/Boletin-ADG-12-1993.pdf (June 1993 issue, pp. 9–10; PDF text lines 230–276).
+- Evidence grade: **A/B** (dated contemporary professional-association publication).
+- Category: operator identity / commercial computing context; discovery lead only for the FidoNet sponsor relationship.
+
+A University of the Republic architecture thesis on Uruguayan BBS culture names **Red Varela**, **Network BBS**, and **Chasque** as distinct early telematic/BBS initiatives, alongside numerous neighborhood and friends' BBSs. It describes these as dial-up systems accessed by modem and notes that many operated on a private user's computer and telephone line. The thesis points to online Chasque archives and the Red Varela archive as source bases. These names are useful archive-discovery targets, but this passage alone does not establish dates, Internet gateways, or that each service was Internet-connected; keep them in the local-BBS precursor category until a gateway or interconnection is demonstrated.
+
+- Source: https://udelar.edu.uy/pmb/doc_num.php?explnum_id=1379 (University of the Republic repository; thesis PDF indexed text, p. 20).
+- Evidence grade: **C** (retrospective academic account).
+- Follow-up: inspect the referenced Red Varela archive and Chasque archive for dated FidoNet/UUCP/news gateway evidence, and seek the original urubbses BBS directory mentioned in later recollections.
