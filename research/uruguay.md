@@ -68,3 +68,31 @@ A surviving GeoCities mirror of “Q U I N Q U E N I O”, a Peñarol supporter 
 - Important distinction: this is later than the 1995 Chasque opening and cannot establish the earliest page. It is the first concrete individually attributed personal-expression candidate found in this scouting pass.
 
 Next actions: seek creator/author corroboration for Sebastián Mateos and the account holder behind aalvarez; inspect any surviving guestbook, page metadata, reciprocal links and GeoCities captures; search Chasque's 1996–1998 users and local web directories for earlier individually authored pages.
+
+
+## New guestbook evidence and Chasque link-discovery leads — 16 November 2026
+
+### 7. “Quinquenio” guestbook: a small contemporary user network, not author proof
+
+The surviving/indexed GeoCities mirror exposes the guestbook for the Peñarol site at https://www.oocities.org/colosseum/stadium/4409/geobook.html. Its search-indexed text contains dated entries from June 1998 by users who self-identify as being in Uruguay and use Chasque or other Uruguayan ISP email addresses (for example, entries dated 5–26 June 1998). This supports the interpretation that the page had an active Uruguay-connected audience and gives contemporary account/domain strings for further link tracing. It does not establish that the designer Sebastián Mateos lived in Uruguay, that guestbook commenters authored personal sites, or that the page itself was the earliest Uruguayan personal homepage. The guestbook page could not be opened directly in this session because the host timed out; the details above are based on the indexed page extract and should be checked against an accessible capture before quoting individual names or treating it as a complete guestbook.
+
+Source: https://www.oocities.org/colosseum/stadium/4409/geobook.html (search-indexed mirror; direct retrieval timed out).
+
+### 8. Chasque hosting paths visible in contemporary 1996–1999 references
+
+A further local-language search found multiple dated references to Chasque-hosted subdirectories. These are useful for mapping hosting conventions, but the pages located so far are institutional, NGO, or professional/organizational pages—not personal homepages:
+
+- A 1996 paper references the University of the Republic's Licenciatura en Psicomotricidad page at http://www.chasque.apc.org/psicom and a Red Fortaleza page at /psicom/red_fort.htm; the author/personal connection is not established. https://www.researchgate.net/publication/28049244_Una_experiencia_de_iniciacion_al_conocimiento_de_la_psicomotricidad_el_Colegio_Publico_de_Educacion_Especial_Gloria_Fuertes_de_Andorra_Teruel_como_referente
+- A July 1996 issue of Educación y Derechos Humanos gives SERPAJ's web address as http://www.chasque.apc.org/serpaj, with its Montevideo address and Chasque email. This is an institutional publication/site, not an individual page. https://sitiosdememoria.uy/sites/default/files/publicaciones-completas/2024-06/educacion-y-derechos-humanos_n28_f7-1996.pdf
+- A 1997 Social Watch resource directory points to Chasque-hosted Control Ciudadano and NGONET pages; a 1998 directory gives guiatm and NGONET paths. These show persistent named subdirectories and provide reciprocal link targets, but are organizational projects. https://www2024.socialwatch.org/sites/default/files/pdf/es/fuentes1997_esp.pdf and https://www2024.socialwatch.org/sites/default/files/pdf/en/resources1998_eng.pdf
+- A 1999 Social Watch directory again lists NGONET/ITeM, Control Ciudadano and the World Guide with Chasque URLs and Montevideo contact details. https://www2024.socialwatch.org/sites/default/files/pdf/es/fuentes1999_esp.pdf
+- A 1998 Educación y Derechos Humanos issue again lists SERPAJ's Chasque URL and Montevideo institutional details. https://sitiosdememoria.uy/sites/default/files/2025-06/29/educacion-y-derechos-humanos_n34_f1998.pdf
+
+These references show that Chasque paths were often service- or organization-named rather than the assumed user-home-directory pattern. They do not disprove public user pages: the open-user-page claim for August 1995 remains a strong discovery route, but the actual user namespace and archived directory structure are still unknown.
+
+### Updated assessment
+
+- Quinquenio remains a candidate / probable personal-expression site because the surviving page names an individual designer and gives a November 1997 online date. Its fan-site format may be collaborative; author residence and exact authorship are unresolved.
+- The 1998 guestbook adds contemporary Uruguay-connected user activity around the site, but is not evidence that Mateos was resident in Uruguay.
+- The new Chasque subdirectory references are contextual discovery leads only; none has been promoted to a personal-site candidate.
+- Next: obtain an actual Wayback/GeoCities capture of the guestbook and page metadata; trace the Chasque /psicom and other directory link lists for individual author pages; identify the hosting namespace from provider documentation or a surviving user directory; continue looking for Chasque users' own personal pages before 1997.
