@@ -1,6 +1,6 @@
 # Faroe Islands — early personal-web research
 
-**Status:** connectivity and academic-network leads found; no personal-site candidate verified yet.
+**Status:** connectivity and academic-network leads found; no personal-site candidate verified yet. Institutional web-publishing milestone (Sosialurin) documented for 1997.
 **Priority:** first wave.
 **Research jurisdiction:** Faroe Islands (Føroyar), within the Kingdom of Denmark.
 
@@ -57,3 +57,22 @@ The NSRC archive provides a more precise service chronology than the later insti
 ### Interpretation
 
 This documents three distinct milestones: early routing visibility (January 1995), a working shared institutional mail service (by July 1995), and planned broader private/commercial access (February 1996). SLEIPNIR was a multi-institution mail server, not a personal website. The Web/FTP server mentioned in July was prospective, not yet verified as live.
+
+
+## Institutional web publishing — Internet Sosialin / Sosialurin, 1997
+
+Contemporary and retrospective Faroese sources document the public launch of the newspaper *Sosialurin*'s internet edition:
+
+- **25 November 1997 — official public launch:** a large reception was held at the newspaper's offices on Argir; Sámal Petur í Grund (then minister of culture) pressed the button that publicly released Internet Sosialin. The first public issue was edition no. 226 of 26 November 1997.
+- Earlier trials: first experiments with placing *Sosialurin* content online occurred in 1995 (via Faroe News / Óli á Deild Olsen) before the local Internet was fully available. Further trials began in spring 1996; from September 1997 the full paper was loaded into the InternetSosialin system for selected readers.
+- The system was developed in collaboration with Dynamic Paper / FarCom (Jens Pauli Rasmussen and colleagues). It is described as the first Faroese automated / database-driven internet publishing system, generating pages from a database rather than hand-coding individual HTML pages.
+- Address used: www.sosialurin.fo (and related Faroenet hosting).
+- Sources (all Faroese-language contemporary or near-contemporary reporting preserved on in.fo):
+  - https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar (20-year retrospective with precise launch chronology)
+  - https://in.fo/news-detail/fyrstu-haldararnir-hava-nu-teknad-seg (3 Dec 1997 — first subscribers)
+  - https://in.fo/news-detail/sosialurin-vordin-heimsumfatandi (29 Sep 1997 — pre-launch announcement)
+  - https://in.fo/news-detail/faroenet-foeroyskt-savningarstad-a-internetinum (29 Sep 1997 — Faroenet hosting context, also notes early personal pages and political-party sites on the same server)
+
+**Assessment:** This is a **verified institutional / commercial web-publishing milestone** for the Faroe Islands (newspaper online edition, database-driven). It is not a personal homepage. The contemporaneous reporting is strong (grade B) and is corroborated by later anniversary pieces. Exact first public URL path and any surviving 1997 captures remain open questions; the Faroese National Library web archive is the practical next place to look.
+
+The same Faroenet server also hosted early personal heimasíður and political-party pages by September 1997, providing a concrete lead for personal-page scouting.
