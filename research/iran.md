@@ -1,4 +1,4 @@
-# Iran — early personal web research
+# Iran — early internet activity, networks, and web research
 
 **Status:** active scouting; no earliest-personal-website claim verified.  
 **Focus:** individual-authored pages from the mid-1990s through the first Persian-language weblog wave; distinguish Iran-resident authors from Persian-language/diaspora authors.
@@ -141,3 +141,30 @@ The companion July 1996 survey reports over 1,100 usernames on IPM's main server
 3. Follow the 1997 election-candidate and university-site link trees only as discovery routes; exclude official pages from personal-site claims.
 4. Search for Iranian personal homepages before 2001, including English-language and diaspora pages, while recording residence/identity/community attribution separately.
 5. Seek contemporary testimony or author interviews that establish where Jariri and Derakhshan were living when their pages launched.
+
+
+## Broadened chronology — academic networking, email, and TCP/IP (16 November 2026)
+
+The broadened scope surfaces an important distinction in Iran's chronology: an early academic email connection through EARN/BITNET preceded the country's documented TCP/IP Internet connection.
+
+### Early network milestones
+
+- **1987 — reported origins of the effort.** The 1999 *Iran’s Telecom and Internet Sector: A Comprehensive Survey* says the effort to bring the Internet to Iran dates to 1987. It does not identify a specific operational node or user service in that year, so this is a historical background lead, not a verified connectivity milestone. Source: https://nsrc.org/regions/MIDEAST/IR/internet-iran-2001.pdf, §2.1 (report dated 15 June 1999; grade B/C).
+- **January 1993 — IPM's EARN/BITNET research link and first reported email.** The same survey describes a 9600-baud leased line from the Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, to the University of Vienna, initially through Iran's membership in EARN/BITNET. It identifies the first email from Iran as a greeting sent by IPM director Mohammad Javad Larijani to Vienna University administrators. This is a strong milestone for academic networked communication and international email; do not label it an established national TCP/IP connection. Source: same NSRC survey, §2.1 (grade B).
+- **Mid-1994 — transition to TCP/IP Internet access.** The survey's IPM institutional profile says that in mid-1994 IPM modified its BITNET/TERENA gateway to support TCP/IP, establishing Internet access for IREARN members. It records 512 assigned IP addresses and says at least 18 government universities and research centres were connected through IPM; access remained concentrated among some faculty and graduate students because campus LANs were scarce. This is the clearest dated source located so far for operational TCP/IP access in Iran. Source: same NSRC survey, §4.3.12, pp. 55–56 (grade B).
+- **1996 — contemporary description, but date wording is imprecise.** Payman Arabshahi's survey, last updated 1 October 1996, says Iran's entrance into the global data network was spearheaded by IPM “some four and a half years ago,” initially via BITNET/EARN, later becoming a full Internet link with 500 IP addresses. This could imply an earlier 1992 start, but the wording does not separate email transport from TCP/IP and conflicts with the more precise January 1993 and mid-1994 chronology in the later technical survey. Preserve the discrepancy rather than choosing a single “arrival” date. Source: https://iranian.com/Sep96/Web/InternetIran/InternetIran.html (contemporary survey; grade B).
+- **1995–1996 — broader service ecology.** The 1996 survey describes tens of thousands of users, academic networks and expanding bulletin boards; the 1999 technical survey inventories numerous commercial ISPs and institutional networks. These are useful for tracing the transition from research access to public and commercial service, but they are not evidence of an earlier personal homepage by themselves. Sources: 1996 survey above; 1999 NSRC technical survey, especially the ISP inventory (grade B).
+
+### Category-specific provisional milestones
+
+| Category | Earliest located date | Example | Status |
+|---|---:|---|---|
+| Preparatory effort | 1987 | Reported origins of IPM-led Internet initiative | Lead; no operational service established for this year |
+| Academic email / research-network link | Jan 1993 | IPM–University of Vienna via EARN/BITNET | Probable |
+| TCP/IP Internet access | Mid-1994 | IPM gateway serving IREARN members; 512 IP addresses | Probable |
+| Wider commercial/public service ecology | 1995–1996 | DCI, Neda Rayaneh and other ISP/network services | Probable; provider-by-provider dates need verification |
+| Early Web and online publishing | 1995 onward | University Gopher/Web roots and ISP-hosted sites | Still under investigation |
+
+**Chronology caution:** do not repeat the simplified claim that Iran had a full TCP/IP Internet connection in 1993 without qualification. The evidence presently supports a January 1993 academic EARN/BITNET email link and a mid-1994 TCP/IP transition. The 1996 survey's “four and a half years” wording is a real conflicting source, but it is not precise enough to overturn the technical report's explicit mid-1994 description.
+
+**Next actions:** inspect the cited IPM/EARN institutional records and the 1996 survey's footnotes; locate surviving IREARN/BITNET and mailing-list documentation; identify early Iranian Gopher menus, FTP archives, Usenet/news access and campus network records; separately continue searching for pre-2001 personal and institutional Web pages.
