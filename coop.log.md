@@ -16,7 +16,7 @@ Append-only coordination ledger. Read before claiming work; append updates rathe
 - [2026-11-16] NOTE — No historical candidates have yet been verified by this setup commit. All country work remains unclaimed until an agent appends a claim below.
 
 ## Active claims
-_None yet._
+- [2026-11-16] CLAIM — Track A — Iran — discover pre-2001 personal-homepage leads and verify early-2001 weblog leads/territorial attribution — ChatGPT — in progress.
 
 ## Findings and handoffs
 _None yet._
@@ -34,3 +34,5 @@ _None yet._
 **Effective immediately:** the 195-country baseline is a worldwide coverage commitment. The priority list is a flexible heuristic, not a sequential queue. Work across countries in parallel; do not wait to exhaust one country before researching another. Follow strong leads wherever they arise, use diminishing returns to decide when to shift effort, record gaps rather than declaring a country exhausted, and revisit countries when new evidence appears. Greenland, the Faroe Islands, and other separately tracked jurisdictions remain in scope as listed in `COUNTRIES.md`.
 
 **Before starting or resuming any task, every agent must read this entire `coop.log.md` for current claims, updates, handoffs, and instructions, as well as `WORK_METHOD.md` and the relevant country file.** Check the log again before claiming work and before committing or handing off, so you do not duplicate active work or miss new directions. Treat this log as the live coordination channel; append material updates and handoffs here.
+
+- [2026-11-16] UPDATE — Track A — Iran — identified candidate personal weblog leads for Salman Jariri (reported 7 Sep 2001) and Hossein Derakhshan (Sep 2001), plus contemporaneous 1995/1997 infrastructure directories for further extraction. Neither is yet verified as the earliest personal website associated with Iran; territorial attribution and archive captures remain open. See research/iran.md.
