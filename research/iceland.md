@@ -1,6 +1,6 @@
 # Iceland — early personal-web research
 
-**Status:** institutional first-web milestone documented; personal-page candidates still to be identified.
+**Status:** institutional first-web milestone documented; one strong probable personal homepage (Björn Bjarnason, 1995) identified; further personal-page candidates still to be identified.
 **Priority:** first wave.
 
 ## Context leads (not personal-page claims)
@@ -27,7 +27,7 @@
 
 ## Candidate register
 
-_No personal-page candidates verified yet._
+- **Björn Bjarnason personal homepage** (`www.bjorn.is`) — probable, strongly corroborated; setup 23 January 1995 / first regular post ~19 February 1995. See detailed section below.
 
 
 ## Pre-Web network chronology — indirect services and 1989 IP link
@@ -63,6 +63,14 @@ This is now one of the strongest named early personal-homepage records in the pr
 - **Conflicting anniversary dates:** the 2005 newspaper retrospective says the first article appeared on 19 February 1995: https://www.visir.is/paper/fbl/050219.pdf. A 25 January 2007 entry says Björn regarded 29 January 1995 as the site's founding date: https://www.bjorn.is/dagbok/2007/nr/3880. These statements can coexist if setup, trial access, first archived item, public announcement and first regular post are different events; the exact public-launch moment is not conclusively settled.
 - **Archive availability:** Vefsafn's open-access Icelandic web archive begins in 1996, so it cannot by itself supply a public 1995 capture: https://landsbokasafn.is/en/vefsafn/. Björn says he discussed preservation with Borgarskjalasafn Reykjavík; the archive's finding aid for his personal papers is available here: https://www.borgarskjalasafn.is/static/research/files/bjorn_bjarnason__405.pdf.
 - **Status:** **probable, strongly corroborated personal homepage established 23 January 1995**. The near-contemporary speech supports the setup date, but an original 1995 server copy or independent contemporary capture is still needed to verify the first public version. Do not claim it is Iceland's first personal homepage without comparative research.
+
+### Additional corroboration — Wikipedia and public recognition (2026-11-16)
+
+English Wikipedia entry for Björn Bjarnason states: “He is also the first Icelandic politician to keep his own website, which he started on 19 February 1995 and thus makes him one of the Internet's earliest bloggers.” This matches the first-regular-post / public-announcement date already recorded and adds independent encyclopaedic recognition of the site as an early personal / political homepage and early blog. Source: https://en.wikipedia.org/wiki/Bj%C3%B6rn_Bjarnason (accessed 2026-11-16).
+
+A 2005 Vísir anniversary piece (“bjorn.is tíu ára”) confirms the 19 February 1995 first-article date and the role of Miðheimar (Arnþór Jónsson and Gunnar Jónsson) in encouraging the project. Source: https://www.visir.is/g/20051702386d/bjorn.is-tiu-ara.
+
+These sources do not alter the evidence grades already assigned; they strengthen the public historical recognition of the site while the absence of a 1995 archive capture remains the principal open verification gap.
 
 ### Next verification steps
 
