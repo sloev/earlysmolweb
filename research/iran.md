@@ -285,3 +285,22 @@ This is a dated, individually authored public mailing-list contribution associat
 - Evidence grade: **A/B** (dated public mailing-list archive with author-supplied academic affiliation and IREARN address; residence/location on the exact February send date is not independently established).
 - Category: public mailing-list participation / academic communication; operator: individual; network status: EARN/BITNET email inter-network.
 - Significance: currently the earliest individually authored, Iran-affiliated public mailing-list contribution located in this research pass. Treat as a located example, not a national “first” claim.
+
+
+## Academic preprint publishing on arXiv — May–June 1993
+
+The arXiv records establish a concrete early example of Iran-affiliated online scholarly publishing. **Vahid Karimipour**, with affiliations at the Institute for Studies in Theoretical Physics and Mathematics (IPM) and Sharif University of Technology in Tehran, submitted several high-energy-physics preprints to arXiv in May 1993. Two surviving official records are especially clear:
+
+- **“Representations of The Coordinate Ring of GLq(3)”**, arXiv:hep-th/9305085: v1 submitted **19 May 1993** (marked withdrawn); v2 submitted **12 June 1993**. The record identifies Karimipour as author and the paper as a 20-page preprint, report 93-010. The full text gives the Tehran institutional affiliations and `Vahidka@irearn.bitnet`.
+  - Official record: https://arxiv.org/abs/hep-th/9305085
+  - Version history: v1 19 May (withdrawn), v2 12 June 1993.
+- **“Q-Boson Representation of the Quantum Matrix Algebra Mq(3)”**, arXiv:hep-th/9305086: v1 submitted **19 May 1993** (marked withdrawn); v2 submitted **12 June 1993**. The official record confirms author and version dates; the full text identifies IPM and Sharif University in Tehran.
+  - Official record: https://arxiv.org/abs/hep-th/9305086
+  - Version history: v1 19 May (withdrawn), v2 12 June 1993.
+- Related Karimipour preprint **hep-th/9305084**, “Representations of the Quantum Matrix Algebra Mq,p(2),” also appears in the 12 June 1993 version and carries Tehran affiliations and an IREARN address in its preserved text: https://arxiv.org/abs/hep-th/9305084.
+
+This is a distinct milestone from the January 1993 EARN/BITNET node and the February 1994 NA Digest message: it documents public scholarly file publication through an Internet-accessible preprint archive, with an author and institutional base in Tehran. The metadata's 19 May v1 submissions are marked withdrawn; use **12 June 1993** as the conservative date for the surviving public versions, not 19 May as a confirmed public release. The records establish Iran-based institutional affiliation, not the author's physical location at the instant of upload.
+
+- Evidence grade: **A** for the arXiv submission/version metadata and surviving full texts; country connection: author institutional affiliation in Tehran.
+- Category: scholarly preprint / online publication; operator: academic/individual; network status: Internet archive publication.
+- Significance: earliest located Iran-affiliated public preprint publishing in this research pass; not claimed as Iran's first online publication.
