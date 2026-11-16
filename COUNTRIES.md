@@ -1,6 +1,8 @@
 # Country and territory research order
 
-This is a **research-priority order**, not a judgement of importance, worth, culture, or internet sophistication. The first wave intentionally prioritizes small, overlooked, under-documented, linguistically distinctive, peripheral, or historically difficult-to-index places. Better-documented mainstream cases are later as comparative "gem mines" and controls.
+This register covers **all 195 countries in the baseline**, plus the separately tracked jurisdictions below. It is a **flexible research-priority heuristic**, not a sequential work plan and not a judgement of importance, worth, culture, or internet sophistication. The first wave intentionally prioritizes small, overlooked, under-documented, linguistically distinctive, peripheral, or historically difficult-to-index places. Better-documented mainstream cases are later as comparative "gem mines" and controls.
+
+**Do not work country-by-country to exhaustion.** Research multiple countries in parallel, follow promising leads wherever they appear, and move effort when a search round reaches diminishing returns. A lower-ranked country can become the next priority when evidence or a useful lead emerges. Every country remains in scope throughout; no country is considered finished simply because its obvious sources have been checked. Revisit earlier work as new evidence becomes available.
 
 ## Separate research jurisdictions (outside the 195-state baseline)
 
@@ -24,7 +26,9 @@ Denmark is also retained as a country entry. These distinctions are about resear
 
 **Parallel comparative assignment:** United States of America is deliberately last in the main queue, but should be researched concurrently as a rich comparative/control case. Its extensive surviving early-web ecosystem can help test methods and reveal well-documented personal pages.
 
-## Main country queue — 195 entries
+## Main country priority guide — 195 entries
+
+The numbered order is a starting heuristic for discovery and resource allocation only. It is not a queue that must be completed from top to bottom.
 
 1. Iceland
 2. Denmark
@@ -226,8 +230,10 @@ Denmark is also retained as a country entry. These distinctions are about resear
 
 - The baseline is the 193 UN member states plus the two UN non-member observer states (Holy See and State of Palestine): 195 entries.
 - Country names follow common UN/ISO-style English naming, with some long-form names retained to disambiguate states.
-- The order after the first six is a discovery queue, not a conclusion about where the earliest or most interesting pages are.
-- The US is last by design but is a concurrent research track, not a deferred afterthought.
+- The order after the first six is a flexible discovery heuristic, not a conclusion about where the earliest or most interesting pages are; it does not prescribe sequential completion.
+- The US is last by design in the guide but is a concurrent comparative research track, not a deferred afterthought.
+- All 195 countries remain in scope from the outset; work in parallel and follow leads outside the current high-priority set.
+- Record low-yield searches and open questions rather than declaring countries exhausted; revisit when new sources emerge.
 - Search using local-language names, scripts, historical country names, and older domain/hosting conventions.
 - Do not infer a person's nationality from a country-code domain. Record whether the connection is author residence, local hosting, language/community, self-description, or another defensible basis.
 - A country's queue position must never determine the evidentiary standard. Apply `WORK_METHOD.md` consistently everywhere.
