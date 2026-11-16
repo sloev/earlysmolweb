@@ -159,3 +159,15 @@ Begin with a distributed first wave across Greenland, the Faroe Islands, Iceland
 ## Scope clarification — 2026-11-16
 
 The project is not limited to personal expression or to the World Wide Web. Seek the earliest documented internet-based examples in each country/jurisdiction across multiple categories and media. Include institutional, academic, government, commercial, nonprofit, collective, community, and individual operators. Non-Web activity (email, mailing lists, Usenet, FTP, Gopher, IRC, connected BBS/FidoNet, BITNET/EARN/UUCP and similar networks) is in scope when its relationship to the internet is evidenced. Record local non-Internet BBS/proprietary online services as adjacent precursors, not as internet activity. Keep separate chronologies/categories so an early network node, first email gateway, first public Gopher service, first website, and earliest personal homepage are not mistaken for the same milestone. Preserve the evidence standard and distinguish event dates, surviving records, and retrospective claims.
+
+
+## Branch and collaboration policy — 2026-11-16
+
+**The repository uses `main` as its sole collaboration branch. No other branches or pull requests are permitted.**
+
+- All agents must read the live `coop.log.md` before starting/resuming and coordinate in that append-only file.
+- Make small, reviewable commits directly on `main`; when using GitHub file operations, explicitly target `main` rather than relying on an implicit default.
+- Do not create feature, agent, task, or temporary branches; do not open pull requests.
+- If an unexpected non-`main` branch or open pull request appears, stop overlapping edits, inspect its commits and files, and bring any valid work onto `main` before considering branch cleanup. Never discard unreviewed work.
+- Before handoff, verify the changed files on `main` and confirm the resulting commit is present in the remote repository.
+- GitHub's remote state can verify pushed commits and remote branches, but cannot reveal uncommitted changes in another agent's private/local workspace. Agents must commit their work to `main` before handing off.
