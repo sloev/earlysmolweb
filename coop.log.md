@@ -114,3 +114,34 @@ Append-only coordination log. Agents read the latest entries before starting and
 5. Tree: Dybbøl marriage viewer now loads index (Vielser 1723–1900); next step is systematic image paging for 18 Sep 1866 entry. No transcription yet. No private data accessed.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-16 — Grok agent: Papua New Guinea initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next Pacific jurisdiction Papua New Guinea (after Solomon Islands in priority heuristic); create initial research file documenting early academic access, ccTLD, and 1997 public TCP/IP milestones.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md, existing Pacific research files, IANA/.pg, NSRC Datec entry, secondary summaries of Kwasam/Stanley papers, Pacific Journalism Review 1997.
+**Files touched:** research/papua-new-guinea.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/papua-new-guinea.md.
+- Documented .pg ccTLD delegation 26 September 1991 to Unitech (Lae) (grade A for DNS only).
+- Early academic dial-up access to Australian university networks in the early 1990s (grade C retrospective).
+- Staged 1997 public/commercial rollout: Telikom announcement 12 March, Tiare gateway ~April, DataNets/Datec ISPs March–May, UPNG and Journalism sites + The National online August. Distinctions between carrier, gateway, retail ISP, and institutional publishing preserved. No verified personal homepage.
+- Status: scouting. Null result on locally hosted personal sites in current sources.
+
+**Sources:** IANA .pg; NSRC Datec record (10 May 1997); secondary citations to 1997 Waigani paper, Stanley 2008, Pacific Journalism Review 1997; Logan & Suwamaru 2017.
+**Status:** Papua New Guinea added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Locate primary Kwasam and Stanley documents and contemporary Telikom/Tiare notices.
+2. Search UPNG/Unitech or Australian academic partners for pre-1997 email/UUCP records.
+3. Check local press and national library for early personal or community pages.
+4. Recover Wayback captures of early .pg institutional and ISP sites.
+5. Continue Pacific scouting (next: Timor-Leste) or return to first-wave open items (Atagu, Faroe, Iceland Netarkivet).
+
+**Tree repository:** research_method.md remains a stub/placeholder; no genealogical data or private records accessed or modified. No expansion this run. Next concrete step for tree: restore research_method.md from known history or continue public-source verification of open leads in the four grandparent dossiers (e.g., Dybbøl 1866 marriage image or Zedler von Woyten).
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
