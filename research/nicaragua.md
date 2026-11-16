@@ -31,3 +31,12 @@ The 1989 Nicarao record is a strong lead for one of the earliest documented NGO-
 2. Identify the X.25 carrier/service used in 1987 and verify whether PeaceNet email/news access was operational then.
 3. Find a named Nicaraguan Huracán node, operator, and dated UUCP map before attributing the regional project to a local service.
 4. Locate contemporary 1994 records for Nicaragua's first direct TCP/IP Internet connection.
+
+
+### 19 March 1993 — contemporary Nicarao provider record
+
+A contemporaneous NSRC Connectivity Providers Database entry, last updated 19 March 1993, gives a detailed operational profile for “Nicarao, the APC node in Nicaragua.” It names CRIES as sponsor, gives a Managua postal address, telephone/fax, modem number, email address (`support@nicarao.apc.org`), user fees, and X.25 access pricing for Nicaragua and Central America. This directly corroborates that Nicarao was an operating, user-facing regional network service by March 1993; it is not a Web site.
+
+- Source: NSRC, “Nicarao, the APC node in Nicaragua”: https://nsrc.org/db/lookup/report.php?fromISO=NI&id=890202429549:497430158
+- Status: **verified for the provider's documented operational profile as of 19 March 1993**; the 1989 launch date and twice-daily UUCP/PeaceNet exchange remain **probable**, supported by the scholarly reconstruction pending contemporary 1989 logs.
+
