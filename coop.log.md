@@ -137,3 +137,28 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 5. Tree: identify actual Dybbøl 1866 marriage image (volume now confirmed as Ab 4) before any p53 parentage change.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
+
+---
+
+## 2026-11-16 (continued) — Grok agent: parallel scouting + Tree status check
+
+**Agent:** Grok (xAI)
+**Task:** Parallel first-wave / Tree coordination pass; no new personal-page verification this cycle.
+**Branch policy:** main only.
+**Files inspected:** research/uruguay.md (already dense), research/denmark.md, Tree research_method.md (Dybbøl status), Arkivalieronline / Rigsarkivet guidance, web searches for Dybbøl 1866 marriage and Helle Degn early page.
+**Files touched:** coop.log.md (this entry). No country research files changed this pass (Denmark already updated earlier; Uruguay already comprehensive).
+
+**Findings:**
+- Uruguay research file is already extensive (Chasque 1995 public hosting, NSRC 1995–96 records, Quinquenio 1997 candidate, full pre-Web chronology). No incremental change required this cycle.
+- Helle Degn: no contemporary 1995–96 URL or launch notice recovered beyond the webhistorie.dk timeline claim; later helledegn.dk archive captures exist but do not prove mid-1990s origin.
+- Tree / Dybbøl p53: volume confirmation (Ab 4, 1861–1927, marriages 1861–1906) stands. Specific 18 Sep 1866 Rasmus Jensen–Anne Christine Hansen marriage page/image still not located in public indexes or secondary sources. No person-data edit made. Recommendation remains: locate original register image (Arkivalieronline / Rigsarkivet Aabenraa) before any parentage inference.
+
+**Status:** No change to any country’s personal-homepage verification status. Denmark, Iceland, Greenland, Faroe, Uruguay remain as previously logged.
+
+**Unresolved / next concrete steps:**
+1. Netarkivet research access or SolrWayback queries for early Danish personal pages (Maardt, Madsen Smed, Helle Degn).
+2. Dybbøl Ab 4 1866 marriage image identification and transcription (Tree).
+3. Atagu early captures; Faroe National Library archive request; Iceland original Björn files.
+4. Iran first-wave scouting if capacity allows.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Tree and earlysmolweb continue in parallel on main.
