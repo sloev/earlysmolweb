@@ -69,3 +69,23 @@ The newspaper *La Nación* dates its first online edition to **7 April 1995**, u
 - Evidence grade: **B** (publisher's own anniversary retrospectives, including a near-contemporary 1997 account; seek original 1995 page or archive capture for A-grade verification).
 - Category: newspaper website / online publication; operator: commercial publisher; attributed first-version developer: Manuel Quesada.
 - Qualification: this supports an early digital newspaper and its first-publication date, **not** a claim that it was Costa Rica's first website overall or the earliest personal homepage. The 1995 first experimental version and the 23 May 1995 public presentation are separate milestones in the secondary literature.
+
+
+## 1995 — claimed first Costa Rican website: www.cr (UCR Unidad de Redes)
+
+Multiple UCR institutional chronologies (University Council pronunciamiento 2023 and secondary summaries drawing on UCR records) state that the **Unidad de Redes** of the University of Costa Rica created the first Costa Rican website in **1995** at **www.cr**.
+
+- Sources:
+  - Universidad de Costa Rica, Consejo Universitario, Pronunciamiento 143 (2023): https://www.cu.ucr.ac.cr/pronunciamientos/2023/pronun143.pdf (explicit timeline entry for 1995).
+  - Secondary summary reproducing the same chronology: https://www.larevista.cr/la-universidad-visionaria-conecto-costa-rica-a-internet-hace-26-anos/
+- Evidence grade: **C** (institutional retrospective claim; no contemporary 1995 announcement or earliest Wayback/NSRC capture yet recovered in this pass).
+- Category: institutional / national-domain website; operator: academic (UCR Unidad de Redes).
+- Qualification: this is **not** a personal homepage. It is a useful discovery lead for the early Costa Rican Web and for locating any linked personal or departmental pages. Confirm exact launch date, content, and earliest archive capture before treating the “first website” claim as verified.
+
+**Status of personal-homepage search:** no named individual personal homepage from 1993–1997 has yet been verified for Costa Rica. The 1994 HTML courses at ECCI-UCR and the 1995 commercial opening (RACSA) create a plausible window for early personal pages; continue searching student/staff directories, early ISP user pages, and contemporary directories.
+
+**Next actions (updated):**
+1. Recover any surviving capture or contemporary description of www.cr (1995).
+2. Search for personal or departmental pages linked from early UCR / CRNet / RACSA directories.
+3. Locate the original 1993 CRNet user-statistics report and any 1994–1996 web-directory snapshots.
+4. Continue parallel personal-page scouting in Spanish-language sources and Internet Archive CDX for .cr domains.
