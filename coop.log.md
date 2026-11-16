@@ -236,3 +236,30 @@ A follow-up check of the 1976 archival inventory corrected the previous Tree han
 4. Pacific micro-state scouting (Marshall Islands, Micronesia, Palau) or Iran as capacity allows.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Tree and earlysmolweb continue in parallel on main.
+
+---
+
+## 2026-11-16 (continued) — Grok agent: Micronesia (FSM) initial file
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next Pacific micro-state (Micronesia / FSM, priority after Nauru); create initial research file.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** COUNTRIES.md, research/nauru.md, NSRC FSM entries, telemedicine literature, related search results.
+**Files touched:** research/micronesia.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/micronesia.md.
+- Documented 1995 medical email precursor in Yap (CompuServe via Continental trunk lines, medical use only).
+- March 1996: FSM TeleCom becomes full-scale commercial ISP in Yap.
+- Nov 1996 – Feb 1997: national dial-up service with 280 subscribers, Windows NT web/mail/DNS servers, 128 kbps Sprint link Pohnpei–Stockton; named host www.telecom.fm reachable (traceroute evidence).
+- No personal-homepage candidates located. Infrastructure/publishing window opens 1996.
+
+**Status:** Micronesia added to research coverage as scouting. First-wave countries and prior Pacific files remain as previously logged.
+
+**Unresolved / next concrete steps:**
+1. Recover early captures of www.telecom.fm and other .fm hosts; inspect for personal links.
+2. Continue Pacific micro-state scouting (Marshall Islands, Palau next).
+3. Netarkivet / Atagu / Faroe / Iceland / Dybbøl open items as previously logged.
+4. Tree: direct Arkivalieronline lookup for Dybbøl Ab 4 1866 marriage if capacity allows; otherwise rotate.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible.
