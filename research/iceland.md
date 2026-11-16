@@ -96,3 +96,25 @@ A contemporary international UNIX-user-group newsletter provides a valuable snap
 - **By December 1987, Icelandic Usenet reception is verified by a contemporary technical report**, with four receiving sites among eight local UUCP sites. The report does not name the four Usenet sites individually.
 - ICEUUG's named executive members and the hafro, hugh, and askja hosts are useful leads for finding surviving mailing-list posts, Usenet contributions, UUCP maps and early account directories.
 - Keep the 1986 UUCP/EUnet service distinct from the 1989 direct IP connection, and both distinct from the 1992 institutional Web site.
+
+
+
+## Contemporary UUCP map: Icelandic host and routing roster (2 December 1987)
+
+A preserved UUCP Mapping Project shell archive contains the Icelandic `u.isl.1` map distributed on **2 December 1987**. The file's outer header identifies the archive creation date; individual `#W` fields retain entry-maintenance dates during 1987. This is a contemporary technical directory, not a later recollection.
+
+The map identifies a substantially richer set of Icelandic hosts and operators than the short December 1987 ICEUUG report:
+
+- **hafro** — Marine Research Institute, Reykjavík; contact Gunnar Stefansson (`hafro!gunnar`). The entry calls it the “Icelandic Backbone”; its route table lists `mcvax(ARPA-1)` and `enea(ARPA)`, plus several Icelandic UUCP neighbours. Its `#U` field lists mcvax as a Usenet/news neighbour.
+- **askja** — University of Iceland Computing Center (RHI); contact Marius Olafsson (`askja!marius`). Its `#U` field lists krafla; its route table shows dedicated links to krafla and katla.
+- **krafla** — University of Iceland Computing Center (RHI), also with Marius Olafsson as contact. Its news-neighbour list names hafro, raunvis, keilir and askja; its routing table shows local/dedicated/hourly/demand paths to several Icelandic systems.
+- **keilir** — Utgardar, University of Iceland; contact Malcolm Cohen; its news-neighbour list names askja.
+- **raunvis** — Science Institute, University of Iceland; contact Marteinn Sverrisson; its news-neighbour list names askja.
+- **lexis** — University of Iceland Institute of Lexicography; contact Jorgen Pind; route via krafla.
+- The same map also names **geysir** (National Energy Authority; Einar Kjartansson), **marel** (Marel hf.; Tomas Rikardsson), **norvol** (Nordic Volcanological Institute; Hordur Halldorsson), and **rala** (Agricultural Research Institute; Johann Haukur Sigurdsson).
+
+The UUCP Map format guide defines `#U` as the site's Usenet/news neighbours and the routing lines as pathalias links with connection-cost/frequency labels. Those fields must not be conflated: a route in the pathalias table does not by itself prove Usenet carriage, and labels such as `DEAD` mean a listed route was not usable. The map's presence of `ARPA` labels on the hafro route is not enough to reclassify the service as direct TCP/IP Internet; retain it as UUCP/EUnet-era mail/news routing unless independent IP evidence is found.
+
+**Source archive:** UUCP Mapping Project, Iceland country map distributed 2 Dec 1987: https://github.com/encse/uucp-map/blob/main/files/1987/u.isl.1-1987-12-02T04:18:49-05:00.txt-5943_rutgers.rutgers.edu. The archive README states that the maps were distributed to `comp.mail.maps`, were obtained from Usenet Archives, and explains the `#U`, `#W`, and pathalias fields: https://github.com/encse/uucp-map/blob/main/README.md.
+
+**Assessment:** This is a strong contemporary directory of named Icelandic network operators, host institutions, UUCP/news neighbours and routing structure by December 1987. It sharpens the 1986–87 institutional chronology and supplies named contacts for further archival searches. It does **not** identify the four Usenet-receiving sites counted in the ICEUUG report by name, prove that every listed host was simultaneously active, or establish any personal homepage. Continue to distinguish this network layer from Iceland's 1989 direct IP connection and the University of Iceland's 1992 Web site.
