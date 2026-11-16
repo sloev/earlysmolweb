@@ -1,6 +1,6 @@
 # Denmark — early personal-web research
 
-**Status:** early personal-page candidates identified; earliest claim not independently verified from primary captures.
+**Status:** early personal-page candidates identified; earliest claim not independently verified from primary captures. Strong contemporary evidence for named personal homepage presence by February 1995 (Michael Maardt).
 **Scope:** Denmark as a country entry, separate from Greenland and the Faroe Islands. Pages created by residents in Denmark are distinguished from pages by Danish/Faroese authors who were resident abroad.
 
 ## Internet and web-archive context
@@ -8,6 +8,7 @@
 - The Royal Danish Library's research project *History of the Danish web 1992–1997* studies the early Danish web using material acquired from the Internet Archive and preserved in Netarkivet as WARC files, searchable through SolrWayback. The project places the first Danish website in 1992, major growth in spring 1995, and the opening of .dk domain registration to private individuals in January 1997. This is a key route for systematic extraction of early personal sites.
   - Source: https://www.kb.dk/en/services/cultural-heritage-research-and-study/history-danish-web-1992-1997
   - Project timeline: https://webhistorie.dk/timeline-2/
+  - Project site (Niels Brügger): http://webhistorie.dk/
 
 ## Candidate 1: Familien Madsen Smed — November 1995
 
@@ -116,3 +117,20 @@ The Library's Radio and TV Collection says DR broadcasts have been systematicall
 - Collection scope and digitisation status: https://www.kb.dk/find-materiale/samlinger/radio-og-tv-samlingen.
 - DR-arkiv access and older-content status: https://www.kb.dk/find-materiale/soegeindgange/dr-arkivet.
 - **Status:** contemporary broadcast metadata is strong; actual recording and homepage URL remain unrecovered. No national-first claim.
+
+
+## Additional leads from webhistorie.dk timeline (2026-11-16)
+
+Niels Brügger’s ongoing research project timeline (webhistorie.dk) supplies several named early Danish web milestones useful for personal-page scouting:
+
+- **Helle Degn** is listed as the first Danish member of Parliament with a personal web page (mid-1995 context on the timeline).
+- Uffe Ellemann Jensen (Venstre) launched a weekly newsletter (early political online presence).
+- First Danish primary-school website: Stensgård Skole, Gladsaxe (1995).
+- First amt (region) website: Aarhus Amt (November 1995).
+- Spring 1995 is identified as the period of major growth of the Danish web.
+
+These are institutional/political rather than purely personal-expression pages, but they supply concrete named authors, institutions and approximate dates that can be chased in Netarkivet/SolrWayback and contemporary directories. Helle Degn’s later site helledegn.dk is known from archive captures; the original mid-1990s URL and first capture remain open.
+
+Source: http://webhistorie.dk/timeline-2/ (inspected 2026-11-16; last edit noted as 29 Sep 2026).
+
+**Status of new leads:** discovery leads only (grade D until primary captures or contemporary citations are located). Do not treat any of them as verified earliest personal homepages.
