@@ -72,3 +72,12 @@ There is, however, a genuine date discrepancy in the retrospective record: the 2
 - Site-history page: https://www.bjorn.is/um-vefinn/.
 
 **Status remains probable/strongly supported**, not verified by a surviving dated original capture. The date distinction is retained rather than silently choosing one source.
+
+
+### Archive coverage check — Vefsafn and the 1995 candidate
+
+The National and University Library of Iceland's public archive description states that Vefsafn offers open access to Icelandic web material from **1996 onward**; its explanatory project page says .is harvesting by the Library began in October 2004 and that 1996–2004 material was imported from the Internet Archive. Thus, absence of a 1995 Bjorn.is capture in the public Vefsafn interface would not disprove Björn's 23 January 1995 setup testimony. Prioritise Internet Archive CDX/Wayback and the author's referenced Borgarskjalasafn Reykjavíkur correspondence; ask the Library whether any pre-1996 material exists outside the public interface.
+
+- https://dhnb.eu/projects/the-icelandic-web-archive/.
+- https://landsbokasafn.is/en/vefsafn/.
+- **Assessment:** archive-coverage limitation, not evidence for or against the site's 1995 existence.
