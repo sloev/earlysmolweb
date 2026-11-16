@@ -77,14 +77,21 @@ The early Danish chronology predates personal homepages by more than a decade. I
 The strongest early milestone is the dated 2 January 1983 DIKU email, supported by the university's institutional history and a surviving documentary collection. The 1980s UUCP/Usenet evidence supplies concrete routes into named nodes and operators. Keep email, UUCP, Usenet, research-network IP and later Web hosting as separate categories. Next, inspect the 1982–87 primary documents and surviving UUCP maps for individual system operators, personal accounts and early home-directory services; continue the separate Madsen Smed homepage capture search.
 
 
-## Named personal-homepage lead — Michael Maardt, documented 19 February 1995
+## Contemporary personal-homepage evidence — Michael Maardt, 19 February 1995
 
-The Royal Danish Library's DR radio archive catalogue records a **Harddisken** broadcast on **19 February 1995** whose “Nyt fra nettet” segment was explicitly about publishing one's private life on one's own personal homepage. It names **Michael Maardt**, described as the man behind the popular computer publication *Brug din PC optimalt*, as the featured homepage owner. This is contemporary evidence that a named Danish personal homepage was being presented to a national radio audience by that date.
+The Royal Danish Library's DR archive catalogue provides unusually specific contemporary evidence for a Danish personal homepage before the previously noted November 1995 Madsen Smed candidate. The programme **Harddisken**, broadcast on **19 February 1995, 15:00–17:00 on DR P1**, included a segment titled “Nyt fra nettet: Udstil dit privatliv på din egen personlige homepage” (“Showcase your private life on your own personal homepage”) and explicitly says: “Meet Michael Maardt,” identified as the man behind the computer publication *Brug din PC optimalt*.
 
-- **Author/operator:** Michael Maardt, Danish computer publisher and web author.
-- **Date evidenced:** broadcast 19 February 1995. This proves the homepage was a subject of the broadcast by that date, not necessarily that it was first launched that day.
-- **Likely later domain:** `knowware.dk`. Maardt's own 2010 site history says he had made his website since 1995; the domain was registered on 23 October 1995 as approximately the 500th .dk domain. The current page does not prove that the February homepage already used this domain, so preserve the original URL as unknown until the broadcast recording or contemporaneous links establish it.
-- **Sources:** Royal Danish Library / DR archive catalogue, https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59 ; Maardt's site history, https://knowware.dk/om-hjemmesiden.shtml ; Maardt's own retrospective site list, https://a33.dk/mmsites.shtml.
-- **Status:** **probable contemporary personal-homepage evidence**. The DR catalogue is contemporaneous broadcast metadata; Maardt's later account supports a 1995 web presence. The actual recording, original URL and 1995 capture remain to be recovered.
+- **Person:** Michael Maardt.
+- **Country connection:** Maardt's own biographical page says he was born in Copenhagen in 1952 and moved back to Denmark in 1977 after studying in Frankfurt and Bremen. His 1995 web presence is therefore associated with a Denmark-resident author, not merely a Danish-language or .dk-hosted page. Source: https://rent-postevand.dk/shop/Michael_Maardt.
+- **Date:** 19 February 1995 is the broadcast date and establishes that the personal homepage was already being publicly discussed by then. It is **not** necessarily the page's creation date.
+- **Contemporary evidence (grade B):** Royal Danish Library / DR archive catalogue record for *Harddisken*, event 19 February 1995: https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59. The catalogue describes the segment and names Maardt, but the recording/transcript and URL are not exposed in the accessible catalogue record.
+- **Retrospective corroboration (grade C):** Maardt says he has made his website since 1995; his current history page states that `knowware.dk` was registered on **23 October 1995**: https://knowware.dk/om-hjemmesiden.shtml. His current site index labels KnowWare as a 1995 site: https://a33.dk/mmsites.shtml.
+- **Important URL caveat:** `knowware.dk` cannot be assumed to be the address of the homepage discussed in February because Maardt dates that domain's registration to October 1995. The February page may have used another host/domain or a path on a provider's service; the original URL remains unknown.
+- **Status:** **probable named Danish personal-homepage presence by 19 February 1995**. This is stronger and earlier contemporary evidence than the previously listed November 1995 Madsen Smed retrospective, but it does not by itself prove that Maardt's was Denmark's first personal homepage.
 
-Do not assume the homepage was knowware.dk in February 1995: the stated domain registration date is later in the year. Next retrieve the DR audio/transcript, inspect the broadcast for URL and hosting details, and query web archives for candidate Maardt domains and paths. This is a personal-expression lead, not merely the commercial KnowWare publishing site.
+### Next verification steps
+
+1. Obtain the DR recording or transcript for the 19 February 1995 *Harddisken* broadcast; the segment may state the URL or hosting service.
+2. Search 1995 Danish Internet directories and contemporary press for “Michael Maardt”, “Brug din PC optimalt” and his homepage address.
+3. Search Netarkivet/Internet Archive for the recovered URL and compare its earliest capture with the 23 October 1995 `knowware.dk` registration.
+4. Keep the Madsen Smed November 1995 claim in the register: it may still be the earliest *family homepage* candidate, while Maardt is an earlier documented *individual personal homepage*.
