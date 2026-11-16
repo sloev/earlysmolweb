@@ -50,6 +50,14 @@ A later NSRC survey describes Neda's 1995–1996 hosting and ISP history, but sa
 
 The 1995 host list does, however, provide concrete next extraction targets: physics.ipm.ac.ir and cc.sharif.ac.ir are explicitly described as Gopher servers; the old Sharif host list includes named machines such as maryam, nasrin, mina, laleh, and sina, but these are hostnames, not people. Search their historical Gopher menus, public_html conventions, and 1995–1997 university web directories before drawing conclusions.
 
+## 1996 named-contact and Gopher leads
+
+The July 1996 *Iran Internet Points of Contact: Academic Research and Teaching* directory is a more useful extraction source than the raw 1995 hostname list. It names individual technical contacts and provides institution-level web/Gopher endpoints. Examples include Zahra Hashemi (Institute for International Energy Studies), Parisa Amiri Sani (International Institute of Earthquake Engineering & Seismology), Armin Madadkar (National Research Center for Genetic Engineering & Biotechnology), Kamran Shokoufandeh (Guilan University), Shahriar Pourazin (Sharif University), and named contacts at Tehran University and other institutions. These are **named contact leads, not personal-page candidates** unless a separately authored personal URL is found.
+
+The directory also identifies public-facing web/Gopher roots worth checking for personal subdirectories and linked pages: `gopher://physics.ipm.ac.ir`, `gopher://cc.sharif.ac.ir`, `gopher://kadous.gu.ac.ir`, `gopher://toos.um.ac.ir`, and `gopher://genetic.nrcgeb.ac.ir`; web roots include `khorshid.ut.ac.ir`, `linux.ce.sharif.ac.ir`, and `pearl.sums.ac.ir`. It notes that the Sharif campus network had hundreds of machines and at least 100 internet-connected, making its Gopher menus and computing-centre directories especially promising extraction targets. Source: https://iranian.com/July96/Features/InternetIran/InternetIran-Academic.html (last updated 13 July 1996).
+
+The companion July 1996 survey reports over 1,100 usernames on IPM's main server as of April 1996, although many were shared institutional accounts; it also reports at least 500 Iranian domains with valid IP addresses by January 1996. These figures suggest a broad pool of possible personal expression, but do not establish public personal pages. Source: https://iranian.com/July96/Features/InternetIran/InternetIran.html
+
 ## Research notes
 
 - “First Iranian blog” is ambiguous: first Persian-language weblog, first weblog by an Iranian author, first weblog by someone resident in Iran, or first personal web publication in Iran. These are not interchangeable.
