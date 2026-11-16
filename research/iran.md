@@ -241,3 +241,34 @@ Keep the provider-specific routes distinct:
 - Mid-1994: IPM's EARN gateway is converted to TCP/IP for IREARN members (1999 survey); the 18 April 1994 NSRC observation cautions against assuming that DNS registration meant a working public connection earlier in that year.
 
 These are distinct BBS, UUCP, email-gateway and TCP/IP milestones. None independently establishes an early personal homepage. The Vira record does, however, open a concrete route into Iranian Usenet history: identify which technical groups were echoed and search surviving posts/archives for Iranian authors and node headers.
+
+
+## Additional contemporary network records — 16 November 2026
+
+### December 1994 — IPM identifies its operational international link
+
+An NSRC provider update submitted by Ebrahim N. Mashayekh on **12 December 1994** identifies IPM as Iran's representative to TERENA and its main Internet node. It records a **9,600-bps leased line to the University of Vienna**, with an upgrade to 64 Kbit/s planned. The message uses both the IREARN.BITNET and unix.ipm.ac.ir email addresses for the contact. This is a useful contemporary status snapshot of the international research-network link; it does not by itself establish that all traffic on the line used native TCP/IP.
+
+- Source: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488276:497426500
+- Evidence grade: **A/B** (dated operator update to NSRC).
+- Category: academic network / international connectivity; operator: IPM; protocol context: TERENA/EARN transition, with BITNET and Unix/IPM contact identities. Keep distinct from the January 1993 EARN node and the mid-1994 TCP/IP gateway claim.
+
+### January 1993 — IREARN node registration and live reachability check
+
+Two NSRC records dated **19 January 1993** add useful detail to the earlier EARN/BITNET milestone. One reproduces a node-registration record for IREARN at IPM, Tehran, with a connection date of **1 December 1992**, EARN network membership, and named administrators. A separate message from John C. Klensin says he tested the node with the BITNET/EARN equivalent of a ping and received a response, confirming it was reachable at the time of the check. The registration date and the later successful reachability test should be preserved as separate events.
+
+- Node registration / contact record: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488663:497420738
+- Reachability confirmation: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202494166:497438246
+- Evidence grade: **A/B** (contemporary node-registration data and independent operational observation).
+- Category: EARN/BITNET node; network status: academic inter-network, not evidence of native TCP/IP.
+
+### Refined chronology
+
+| Date | Milestone | Qualification |
+|---|---|---|
+| 1 Dec 1992 | IREARN node registration records a connection date | EARN node registration metadata |
+| 19 Jan 1993 | External EARN/BITNET reachability test succeeds | Contemporary operational check |
+| 12 Dec 1994 | IPM reports a 9.6-kbps leased line to Vienna | Contemporary operator update; protocol distinction retained |
+| Mid-1994 | IPM TCP/IP gateway conversion | Retrospective technical survey; remains separate from EARN node status |
+
+The new records strengthen the academic-network chronology, but do not establish a personal homepage or public Web service.
