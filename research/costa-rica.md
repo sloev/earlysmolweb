@@ -39,3 +39,23 @@ The University of Costa Rica's University Council issued an official resolution 
 
 This is stronger institutional confirmation of the TCP/IP date than the earlier scholarly-only note. It also firmly separates the 1990 BITNET network from the 1993 Internet connection.
 
+
+
+## Contemporary CRNet press release — 3 February 1993
+
+A press release distributed by the UCR Networks Unit and preserved in the NSRC Connectivity Providers Database provides contemporary confirmation of the country's first direct Internet connection. Dated **3 February 1993**, it states that UCR interconnected **10 nodes** to the Internet on **26 January 1993**, two years after establishing the first BITNET node in Central America. It describes CRNet's 64-kbps digital satellite link via RACSA/Panamsat in Costa Rica and Homestead, Florida, to the NSFNET gateway in Washington, with a Sprint fibre segment between Homestead and the NSFNET gateway.
+
+The announcement says CRNet was intended to interconnect university, research, industrial and other national LANs. It lists prospective participants including the Universidad Nacional, UNED, Fundación Omar Dengo, SINICYT-CONICIT, EARTH, INBio, INCAE, Fundación Nahual/Huracán and the Consejo de la Tierra. It also says the Universidad Nacional de Ingeniería in Nicaragua was expected to connect in the coming weeks. This is a plan, not proof that UNI connected at that time; a later Nicaragua provider record dates the country's first direct Internet connection to February 1994.
+
+- Source: NSRC, “Press release / Comunicado de Prensa,” last updated 3 Feb 1993; original message from `gdeter%inforisc.cr@UICVM.UIC.EDU`, dated 3 Feb 1993: https://nsrc.org/db/lookup/report.php?fromISO=CR&id=890202437510:497433936.
+- Evidence grade: **A/B** (contemporary press release from the UCR Networks Unit, preserved by NSRC).
+- Date: 26 Jan 1993, explicitly stated in the contemporary announcement.
+- Node-count discrepancy: this release says **10 nodes**. Later UCR and scholarly histories report **12 nodes**. Preserve both statements: the 1993 contemporary release is the closest dated announcement; the later records may reflect a revised count or a different counting convention. Do not silently normalize the count.
+
+### 1993 BITNET user community — institutional breadth
+
+A 1993 CRNet user report reproduced in Ignacio Siles's historical study records **1,734 users** on the UCR BITNET node in April 1993: 1,685 from Costa Rica, five from El Salvador, 39 from Guatemala and five from Nicaragua. Its organization table names public institutions, universities, hospitals, research centres, NGOs and businesses, including the Banco Central library, Hospital Calderón Guardia, CATIE, CONICIT, Consejo Nacional de Rectores, Universidad Nacional Autónoma de Nicaragua and Instituto Nacional Tecnológico. This documents BITNET's transnational user community, not TCP/IP Internet accounts or personal webpages.
+
+- Source: CRNet user statistics reproduced in Ignacio Siles, *Por un sueño en.red.ado* (201iles edition), excerpt: https://es.scribd.com/document/599585706/4Por-Un-Sueno-en-red-Ado-Ignacio-Siles (tables 1.1–1.2; source credited to CRNet).
+- Evidence grade: **B** (contemporary underlying CRNet statistics reproduced in a later historical study; original report still to be located).
+- Qualification: distinguish 1991 estimates of 1,500 users from the April 1993 count of 1,734; do not merge them as one snapshot.
