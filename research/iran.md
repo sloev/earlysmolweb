@@ -168,3 +168,26 @@ The broadened scope surfaces an important distinction in Iran's chronology: an e
 **Chronology caution:** do not repeat the simplified claim that Iran had a full TCP/IP Internet connection in 1993 without qualification. The evidence presently supports a January 1993 academic EARN/BITNET email link and a mid-1994 TCP/IP transition. The 1996 survey's “four and a half years” wording is a real conflicting source, but it is not precise enough to overturn the technical report's explicit mid-1994 description.
 
 **Next actions:** inspect the cited IPM/EARN institutional records and the 1996 survey's footnotes; locate surviving IREARN/BITNET and mailing-list documentation; identify early Iranian Gopher menus, FTP archives, Usenet/news access and campus network records; separately continue searching for pre-2001 personal and institutional Web pages.
+
+
+## Broadened chronology — EARN/BITNET and TCP/IP milestones (16 November 2026)
+
+### January 1993 — IREARN EARN/BITNET link
+
+A contemporaneous NSRC Connectivity Provider Database entry, updated 29 October 1993 under the title “OCLB IR - EARN/Bitnet Link to Iran,” records the IPM Computer Division contact Ali Shokofandeh and says the BITNET link had been “up and reliable since January 1993.” It also names Ebrahim N. Mashayekh and Akbar Behzadi as contacts at IREARN.BITNET. This is direct contemporary evidence for Iran's academic EARN/BITNET connectivity and associated networked email, not by itself evidence of a native TCP/IP Internet connection.
+
+- Source: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488551:497423506
+- Evidence grade: **A/B** (contemporaneous provider-database record based on direct contact; the January start date is reported in October 1993).
+- Category: academic network / BITNET-EARN / email; operator: academic; network status: inter-network / academic network, distinct from the later TCP/IP Internet milestone.
+
+### Mid-1994 — IPM gateway converted to TCP/IP
+
+The 15 June 1999 *Iran's Telecom and Internet Sector: A Comprehensive Survey* states that IPM modified its BITNET gateway to TERENA/EARN in mid-1994 to support TCP/IP, establishing an Internet connection for IREARN members. It records 512 assigned IP addresses, the existing 9.6 kbps Vienna link, and access for at least 18 government universities and research centres. It further notes that use was initially concentrated among some faculty and graduate students because most universities lacked LANs.
+
+- Source: https://nsrc.org/regions/MIDEAST/IR/internet-iran-2001.pdf (section 4.3.12, pp. 55–56 in the report; lines 2054–2060 in the extracted text).
+- Evidence grade: **B** (detailed near-contemporary technical survey; retrospective to 1994).
+- Category: direct TCP/IP Internet connectivity / academic gateway; operator: academic; network status: Internet.
+
+### Interpretation and remaining distinction
+
+The two milestones should not be collapsed: the October 1993 NSRC record documents a reliable EARN/BITNET link since January 1993, while the 1999 survey dates IPM's TCP/IP conversion to mid-1994. A 1996 retrospective survey's “four and a half years” phrasing remains imprecise and is not sufficient to move the TCP/IP date earlier. Continue seeking original IPM/IREARN records, surviving mailing-list archives, Usenet/news access records, Gopher menus and FTP archives. These network milestones do not establish a personal homepage or public web service.
