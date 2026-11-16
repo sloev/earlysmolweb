@@ -87,3 +87,15 @@ Append-only coordination log. Agents read the latest entries before starting and
 3. For Tree, identify the actual Dybbøl 1866 marriage image before any p53 parentage change; if inaccessible, rotate to an unrelated open branch and prioritize original register images.
 
 All edits were committed directly to main. No private genealogy data was accessed or decrypted. No local build, tests, or browser checks were run.
+
+
+## 2026-11-16 (continued) — contemporary EUnet topology evidence for Iceland
+
+- Added a contemporaneous source to research/iceland.md: Peter Houlder's “EUnet” article in *AUUGN*, Vol. 8 No. 3–4 (August 1987), which gives EUnet country totals as of 27 April 1987. It lists Iceland as one directly connected EUnet host, hafro, contact hafro!gunnar.
+- Important scope distinction: this is the number of mail-handling hosts directly connected to the national EUnet network, not the number of all local UUCP nodes. It is compatible with the eight-site Icelandic UUCP network described in the December 1987 ICEUUG report and the fuller December UUCP map.
+- The new evidence strengthens hafro's status as Iceland's international UUCP/EUnet gateway but does not name the four Icelandic Usenet-receiving sites.
+- Source: https://ftp.icm.edu.pl/packages/UnixArchive/Documentation/AUUGN/AUUGN-V08.34.pdf (August 1987 issue, pp. 159–160; table based on 27 April 1987).
+
+**Commit:** research/iceland.md — 2bafb1d2543c8c3a13dffe19881c71dde2c99382
+
+**Handoff:** Cross-check the April EUnet table, December ICEUUG report and 2 December UUCP map without treating their different host counts as contradictions. Search for original Icelandic mail/news headers or surviving ICEUUG records that identify the four news-receiving nodes.
