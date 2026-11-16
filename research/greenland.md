@@ -31,3 +31,13 @@
 ## Candidate register
 
 _No personal-page candidates verified yet._
+
+
+## Newly inspected contemporary NSRC reports — January–February 1995
+
+Two previously listed NSRC records have now been inspected directly:
+
+- **23 January 1995 — “Gossip GL - Greenland with Full Internet Link”** lists three hosts: `gw.srpo.gl`, `saarullik.srpo.gl`, and `umimmak.srpo.gl`. The report includes a traceroute and ping to `umimmak.srpo.gl` from the UK, demonstrating that the host was externally reachable. This is network infrastructure evidence only; no personal page is identified. https://www.nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496466:497429432
+- **14 February 1995 — “Greenland Internet”** explains that the class C network `192.101.148.0` was established around 1990 for the Sondrestrom radar facility in Kangerlussuaq, operated by SRI International for NSF and connected to NASA Science Internet by satellite via NASA Goddard. The report is a technical correspondence from Yadunath Zambre at SRI, not evidence of a locally authored personal site. https://www.nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496341:497430927
+
+These records refine the chronology: Greenland had externally reachable research-network hosts by January 1995, but the network was tied to the Sondrestrom radar and NASA/NSF research infrastructure. They do not prove ordinary Greenland residents had web hosting or that a personal homepage existed. Follow-up should inspect later September 1995 Q-Data/TELE Greenland records and the early hostnames for user directories, while distinguishing locally authored pages from NASA/SRI technical infrastructure.
