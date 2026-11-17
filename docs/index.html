@@ -94,7 +94,7 @@ function articleFromRecord(r){
 }
 function stripHtml(s){const t=document.createElement("textarea");t.innerHTML=String(s||"");return t.value.replace(/<[^>]*>/g,"").trim()}
 function setImageCredit(node,image){
- node.replaceChildren();const parts=[];if(image.credit)parts.push(image.credit);if(image.license)parts.push(image.license);if(parts.length)node.append(document.createTextNode(parts.join(" · ")));
+ node.replaceChildren();const parts=[];if(image.caption)parts.push(image.caption);if(image.credit)parts.push(image.credit);if(image.license)parts.push(image.license);if(parts.length)node.append(document.createTextNode(parts.join(" · ")));
  if(image.source_url){if(parts.length)node.append(document.createTextNode(" · "));const a=document.createElement("a");a.href=image.source_url;a.textContent="Image source";a.target="_blank";a.rel="noopener noreferrer";node.append(a)}
 }
 async function fetchCommonsImage(country){
