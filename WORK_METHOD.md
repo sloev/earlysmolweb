@@ -171,3 +171,8 @@ The project is not limited to personal expression or to the World Wide Web. Seek
 - If an unexpected non-`main` branch or open pull request appears, stop overlapping edits, inspect its commits and files, and bring any valid work onto `main` before considering branch cleanup. Never discard unreviewed work.
 - Before handoff, verify the changed files on `main` and confirm the resulting commit is present in the remote repository.
 - GitHub's remote state can verify pushed commits and remote branches, but cannot reveal uncommitted changes in another agent's private/local workspace. Agents must commit their work to `main` before handing off.
+
+
+## Public research website
+
+The public-facing research atlas is served from GitHub Pages using `main /docs`. The page is generated from the Markdown files in `research/`; do not maintain a separate hand-edited copy of the findings. The generator is `scripts/build_site.py`, and `.github/workflows/publish-research-site.yml` rebuilds and commits `docs/index.html` when research files or the generator inputs change on `main`. The published presentation is an index of the research notes; the Markdown files remain the canonical research record. The collaboration log is not included in the website.
