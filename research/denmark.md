@@ -1,6 +1,6 @@
 # Denmark — early personal-web research
 
-**Status:** early personal-page candidates identified; earliest claim not independently verified from primary captures. Strong contemporary evidence for named personal homepage presence by February 1995 (Michael Maardt).
+**Status:** early personal-page candidates identified; earliest claim not independently verified from primary captures. Contemporary evidence shows a Danish radio discussion of private homepages on 19 February 1995, with Michael Maardt named in the same programme entry; the catalogue does not by itself prove that Maardt’s own homepage was the subject.
 **Scope:** Denmark as a country entry, separate from Greenland and the Faroe Islands. Pages created by residents in Denmark are distinguished from pages by Danish/Faroese authors who were resident abroad.
 
 ## Internet and web-archive context
@@ -138,21 +138,21 @@ Source: http://webhistorie.dk/timeline-2/ (inspected 2026-11-16; last edit noted
 
 <!-- article-data
 {
-  "title": "Michael Maardt’s homepage becomes a subject on Danish radio",
-  "dek": "A DR programme from 19 February 1995 introduced the person behind Brug din PC optimalt as a publisher of a private homepage. The original page has not yet been recovered.",
-  "lead": "On 19 February 1995, Danish radio programme Harddisken devoted a segment to the idea of putting private life on a personal homepage. The Royal Danish Library’s DR archive catalogue identifies Michael Maardt as the person behind the computer publication Brug din PC optimalt. It is a small but unusually concrete glimpse of personal Web publishing becoming a public topic in Denmark.",
+  "title": "A Danish radio snapshot of the personal homepage, February 1995",
+  "dek": "On 19 February 1995, DR’s Harddisken discussed putting private life on a personal homepage and introduced computer publisher Michael Maardt in the same programme entry.",
+  "lead": "On 19 February 1995, DR’s technology programme Harddisken brought the personal homepage into the Danish radio conversation. The Royal Danish Library’s archive catalogue records a segment titled “Showcase your private life on your own personal homepage” and, in the same programme entry, introduces Michael Maardt, the publisher behind Brug din PC optimalt. The catalogue preserves a vivid contemporary snapshot—but it does not conclusively establish that Maardt’s own homepage was the example being discussed.",
   "sections": [
     {
-      "heading": "A homepage enters the radio conversation",
-      "markdown": "The surviving catalogue entry for the broadcast is unusually specific: its segment title is “Showcase your private life on your own personal homepage”, and it names **Michael Maardt** in connection with *Brug din PC optimalt*. This is contemporary evidence that a named Danish homepage publisher was being introduced to radio listeners in February 1995—not simply a later recollection that personal websites existed around that time. [Royal Danish Library / DR archive catalogue](https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59)."
+      "heading": "A new kind of self-presentation reaches the airwaves",
+      "markdown": "The programme entry describes the segment as “Udstil dit privatliv på din egen personlige homepage” (“Showcase your private life on your own personal homepage”). It then introduces **Michael Maardt**, known for the computer publication *Brug din PC optimalt*. The programme was broadcast on **19 February 1995**, in a two-hour Harddisken edition on DR P1. This is contemporary evidence that private homepages were already a subject of Danish technology coverage—not a later memory of when the Web became popular. [Royal Danish Library / DR archive catalogue](https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59)."
     },
     {
-      "heading": "The page behind the broadcast is still missing",
-      "markdown": "Maardt’s later account dates his website to 1995, but the original URL and a contemporaneous capture have not yet been located. The broadcast catalogue therefore anchors a public discussion and identifies a person; it does not by itself prove the homepage’s exact launch date, hosting arrangement or contents. Those details matter if the page is to be compared with other Danish homepages from the same year. [Royal Danish Library: History of the Danish Web, 1992–1997](https://www.kb.dk/en/services/cultural-heritage-research-and-study/history-danish-web-1992-1997)."
+      "heading": "What the catalogue does—and does not—connect",
+      "markdown": "The catalogue places the homepage segment and Maardt’s introduction in the same programme entry, but it does not explicitly say that Maardt’s own homepage was the example, nor does it preserve the original URL or page contents. Maardt’s later site history says he had websites from 1995, including knowware.dk, but that retrospective account is not a surviving 1995 capture. [Maardt’s website history](https://a33.dk/mmsites.shtml) · [Royal Danish Library: History of the Danish Web, 1992–1997](https://www.kb.dk/en/services/cultural-heritage-research-and-study/history-danish-web-1992-1997)."
     },
     {
-      "heading": "Why this particular trace matters",
-      "markdown": "The story is not that Denmark’s Internet began in 1995. Danish academic networks and email were already established earlier. What makes this trace valuable is its focus on an individual’s homepage as a form of self-presentation, described to a general radio audience while the Web was still new. The next step is to recover the broadcast audio and identify Maardt’s original page or its hosting provider. Until then, this is a documented contemporary mention of a named homepage—not a claim to Denmark’s first personal website."
+      "heading": "A small contemporary window into Danish Web culture",
+      "markdown": "The broadcast is worth preserving because it catches a cultural shift in progress: the homepage was already being presented as a place where an ordinary person might display private life. The next research step is to recover the audio, establish whether Maardt demonstrated or discussed his own page, and locate an original 1995 copy. Until then, this is a documented radio moment about personal homepages, not proof of Denmark’s first personal website."
     }
   ],
   "image": null,
@@ -161,6 +161,11 @@ Source: http://webhistorie.dk/timeline-2/ (inspected 2026-11-16; last edit noted
       "label": "Royal Danish Library — DR archive, Harddisken, 19 February 1995",
       "url": "https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59",
       "grade": "B"
+    },
+    {
+      "label": "Michael Maardt — websites since 1995",
+      "url": "https://a33.dk/mmsites.shtml",
+      "grade": "C"
     },
     {
       "label": "Royal Danish Library — History of the Danish Web, 1992–1997",
