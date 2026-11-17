@@ -118,3 +118,33 @@ Append-only coordination log. Agents read the latest entries before starting and
 6. Tree: continue public-source verification of open leads (e.g., Dybbøl 1866 marriage image; Isgård G299 abstracts). No private data accessed. No canonical changes.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-17 — Grok agent: Turkmenistan initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next country in priority heuristic (Turkmenistan, after Kyrgyzstan); create initial research file documenting May 1997 full Internet connectivity and .tm ccTLD delegation.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md (latest Kyrgyzstan entry), NSRC Connectivity Provider Database contemporary posts, IANA .tm record, secondary Wikipedia/press.
+**Files touched:** research/turkmenistan.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/turkmenistan.md.
+- Documented 23 May 1997 first full Internet: traceroute + SMTP banner to 193.232.199.102 (tm.synapse.ru) via RSSI (Crepin-Leblond / NSRC, grade B). Academy of Sciences / SIBIS planning from 1993; public dial-up email and Internet via SIBNET and Turkmenistan Online in 1997 (Karryev 1999, grade B/C). Institutional sites including sibnet.tm and Turkmenpress news from 1997.
+- .tm delegated 30 May 1997 (IANA, grade A for DNS only); early management external.
+- Null result on verified resident personal homepage or local individual web publishing in current sources. Status: scouting.
+- Distinctions preserved between connectivity milestone, DNS, institutional publishing, and personal expression.
+
+**Sources:** NSRC report id=890202390063:497434863 (Crepin-Leblond 23 May 1997); NSRC report id=940891215909:489047156 (Karryev Aug 1999); IANA/domain.glass .tm delegation 30 May 1997.
+**Status:** Turkmenistan added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Recover any surviving 1997 captures of sibnet.tm, online.tm, tpress.sibnet.tm or the IP site.
+2. Confirm nature of 1993–96 Academy activity.
+3. Search Turkmen/Russian-language press and Academy archives for early personal or community pages after May 1997.
+4. Check Wayback and national holdings for early .tm content.
+5. Continue scouting (next in heuristic: Uzbekistan) or return to first-wave open items. Prefer local-language sources.
+6. Tree: continue public-source verification of open leads (e.g., DAISY name registers for Bogensholm/Claus Gaardsted; Dybbøl 1866 marriage image). No private data accessed. No canonical changes.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
