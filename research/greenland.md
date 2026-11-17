@@ -120,3 +120,45 @@ Direct inspection of the Internet Archive Wayback Machine calendar for `atagu.gl
 This is negative evidence only: the absence of early public crawls does not disprove a 1995 launch, but it confirms that no surviving public archive snapshot from the claimed launch year is currently available via the Wayback Machine. Any verification of a December 1995 start must therefore come from other sources (Netarkivet if it holds .gl material, party archives, contemporary press, or private server backups).
 
 Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-16).
+\n\n<!-- article-data\n{
+  "title": "Greenland’s early internet: satellite links, local access and Atagu",
+  "dek": "Greenland’s international Internet link entered service in July 1995; a local provider network followed, and Atagu became a probable early online newspaper later that year.",
+  "lead": "Greenland’s first internet milestones need to be separated carefully. A research-network connection, a national backbone, selected trial users, a commercial subscription service and a locally operated online newspaper were different stages—not one launch date.",
+  "sections": [
+    {
+      "heading": "The first links and the public-access transition",
+      "markdown": "TELE Greenland’s own history dates the start of its international Internet link, named **Greenet**, to **1 July 1995**. The 64-kbps satellite connection ran via UNI-C in Copenhagen to DENet. Selected trial users were connected in August; commercial Internet subscriptions opened on **1 January 1996**. By the end of 1996, TELE Greenland reported 528 modem subscribers and six institutions on dedicated circuits. These are distinct milestones: international connectivity, testing and retail availability. [TELE Greenland / Tusass history](https://images.tusass.gl/organization/history/magazine.pdf).\n\nA separate provider, Q-Data, announced in September 1995 that its network linked communities from Qaanaaq to Nanortalik and provided email and Web browsing through Tele Greenland and UNI-C. The NSRC archive also records external reachability of a Q-Data host in September. This documents a provider service, not an individual homepage. [NSRC — Internet goes north to Greenland](https://nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496237:497432310)."
+    },
+    {
+      "heading": "Atagu and the arrival of local online publishing",
+      "markdown": "The strongest early Web-publishing lead is **Atagu**, identified by several later sources as Greenland’s first Internet newspaper. A legal article published in 1996 describes Atagu as a new Internet newspaper that had already ceased publication and identifies its editor as Anders Nilsson, an elected member of Atassut. Later media research traces the site to `atagu.gl`; a 2018 report says its successor, Kamikposten, had existed since 1995, and the national encyclopedia Lex.dk identifies Atagu as the original name of the newspaper. [1996 legal article](https://dgl.gl/pages/artikler/artikler_tekst.php?id=9) · [2018 media report](https://rucforsk.ruc.dk/ws/portalfiles/portal/63776085/dktusagassiuutit2018rapport.pdf) · [Lex.dk: Greenlandic media](https://lex.dk/gr%C3%B8nlandske_medier).\n\nA scholarly account dates Atagu’s beginning to **December 1995**. That date is plausible and supported retrospectively, but an original 1995 capture or contemporary launch notice has not yet been recovered. One later source gives a conflicting site name, so the precise URL history remains open."
+    },
+    {
+      "heading": "Why a newspaper is not a personal homepage",
+      "markdown": "Atagu is important as a local online publication, but it should not be counted as a personal homepage. The research has not yet verified a Greenland-resident individual’s personal site from this period. The same caution applies to the early research network at Sondrestrom: externally reachable hosts in January 1995 were associated with a US research facility and do not demonstrate that ordinary residents were publishing Web pages.\n\nThe current picture is therefore a well-supported 1995 connectivity sequence and a probable December 1995 online newspaper, alongside an unresolved search for personal pages. The next decisive evidence would be an original Atagu capture, early Greenet/Q-Data service directories, or a surviving personal homepage with a clear author and Greenland connection."
+    }
+  ],
+  "image": null,
+  "sources": [
+    {
+      "label": "TELE Greenland / Tusass — telecommunications history",
+      "url": "https://images.tusass.gl/organization/history/magazine.pdf",
+      "grade": "A"
+    },
+    {
+      "label": "NSRC — Internet goes north to Greenland",
+      "url": "https://nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496237:497432310",
+      "grade": "B"
+    },
+    {
+      "label": "1996 legal article describing Atagu",
+      "url": "https://dgl.gl/pages/artikler/artikler_tekst.php?id=9",
+      "grade": "B"
+    },
+    {
+      "label": "Lex.dk — Greenlandic media",
+      "url": "https://lex.dk/gr%C3%B8nlandske_medier",
+      "grade": "C"
+    }
+  ]
+}\n-->\n
