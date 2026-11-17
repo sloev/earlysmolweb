@@ -89,3 +89,32 @@ Append-only coordination log. Agents read the latest entries before starting and
 6. Tree: continue public-source verification of open leads (e.g., Isgård G299 1764 Dejret probate original register/protocol; Dybbøl 1866 marriage image). No private data accessed. No canonical changes.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-17 — Grok agent: Kyrgyzstan initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Parallel scouting on next country in priority heuristic (Kyrgyzstan, after Tajikistan); create initial research file documenting 1991–94 UUCP/RELCOM email nodes, 1994 ElCat/AsiaInfo founding, 1995 permanent Internet, and .kg delegation 12 July 1995.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md (latest Tajikistan entry), RFE/RL 1997 reports, ElCat/AsiaInfo company histories, IANA .kg record, secondary local syntheses.
+**Files touched:** research/kyrgyzstan.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/kyrgyzstan.md.
+- Documented 1991 Ala-Too node (~20 subs via Almaty), 1992 Imfiko RELCOM (~50), 1994 ElCat (email then full Internet 1995) and AsiaInfo (X.25/TCP/IP). Permanent Internet connection in 1995 (RFE/RL grade B). .kg delegated 12 July 1995 to AsiaInfo (grade A for DNS). OSI-RIP school/university connections 1995–96; ~500 Internet / 5000 email users by 1997.
+- Null result on verified resident personal homepage or local web publishing in current sources. Status: scouting.
+- Distinctions preserved between store-and-forward, X.25, permanent TCP/IP, DNS, and personal expression.
+
+**Sources:** RFE/RL May 1997 (Moffett); ElCat official history and Winne.com; secondary UNIDIR/refdb/open.kg syntheses; IANA/ICANNWiki .kg.
+**Status:** Kyrgyzstan added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Recover full original RFE/RL texts and any 1995 launch notices for ElCat/AsiaInfo.
+2. Confirm exact first permanent TCP/IP date and gateway.
+3. Search Kyrgyz/Russian-language press and university archives for early personal or community pages after 1995.
+4. Recover Wayback captures of early .kg or provider sites.
+5. Continue scouting (next in heuristic: Turkmenistan) or return to first-wave open items. Prefer local-language sources.
+6. Tree: continue public-source verification of open leads (e.g., Dybbøl 1866 marriage image; Isgård G299 abstracts). No private data accessed. No canonical changes.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
