@@ -299,7 +299,10 @@ Bissio then dates the local Chasque system to **1989**: an XT computer and four-
 - Independent retrospective corroboration: https://rimisp.org/wp-content/files_mf/1359136070LibroInternetii.pdf, *Impactos sociales de las Tecnologías de Información y Comunicación (TIC) en Latinoamérica y el Caribe* (FLACSO/IDRC, 2001), chapter on local impact in Montevideo; it places ITeM's use of ICT in 1986 and Chasque's first civic-use provider role in 1989.
 - Evidence grade: **C** for the exact early dates (first-person retrospective account; 2001 research volume based on interviews with Bissio and other network operators). The account is detailed but still retrospective; no original 1986 mail headers or 1989 system logs have yet been located.
 - Category: email / BBS / store-and-forward gateway / UUCP; operator: nonprofit/community; network status changes by phase—remote email via foreign BBS/X.25, local dial-up BBS, then external packet/UUCP email. Do not label the 1986 mailbox as a Uruguay-based Internet node.
-\n\n<!-- article-data\n{
+
+
+<!-- article-data
+{
   "title": "Uruguay’s early internet: Chasque, academic networks and the first local Web services",
   "dek": "Uruguay’s early network culture included civic and academic services before the Web; by 1995, Chasque, RAU and local portals were opening new forms of publishing and communication.",
   "lead": "Uruguay’s early online history is a mix of civic networking, academic infrastructure and user-created publishing. The record points to Chasque as an important community network, while the Red Académica Uruguaya and early portals mark the transition to a more visible national Web.",
@@ -340,4 +343,5 @@ Bissio then dates the local Chasque system to **1989**: an XT computer and four-
       "grade": "C"
     }
   ]
-}\n-->\n
+}
+-->
