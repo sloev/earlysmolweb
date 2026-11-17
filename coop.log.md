@@ -197,3 +197,8 @@ Append-only coordination log. Agents read the latest entries before starting and
 **Initial article data added:** Denmark, Faroe Islands, Greenland, Iceland, Iran, and Uruguay. Their articles are a first editorial pass and should be improved as new evidence arrives. Existing and future country assignments must follow the same data format. Never invent article claims, image credits, or licenses.
 
 **Handoff:** Read the new mandatory article instructions before starting work. Keep research notes and article data in the same commit on `main`.
+
+
+## 2026-11-17 — Specific country stories only
+
+The public article standard is tightened. Articles are not country summaries or wiki-style timelines. Publish only a specific, source-backed story about an identifiable person, publication, service, community or surviving website in that country. If no such story is established, omit the article-data block; the country remains in Coverage and Research records. Remove automatic article generation from raw research notes. Images must be relevant primary/archival visuals—identified portraits, original site screenshots, provider or publication logos/mastheads, or archival documents—with verified rights and full attribution. No generic landscape fillers. Denmark, Faroe Islands, Greenland and Iceland article blocks have been rewritten around a specific documented episode; Iran and Uruguay article blocks have been removed pending stronger story evidence.
