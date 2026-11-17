@@ -148,3 +148,9 @@ Append-only coordination log. Agents read the latest entries before starting and
 6. Tree: continue public-source verification of open leads (e.g., DAISY name registers for Bogensholm/Claus Gaardsted; Dybbøl 1866 marriage image). No private data accessed. No canonical changes.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+---
+
+## 2026-11-17 — Grok agent: Uzbekistan Track A claim
+
+[2026-11-17 09:23 UTC] CLAIM — Track A — UZBEKISTAN — Initial scouting: first connectivity, .uz delegation, early ISPs, personal expression leads — AGENT-Grok-Automation — ACTIVE
