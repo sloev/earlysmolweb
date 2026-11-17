@@ -27,7 +27,7 @@ Do not put private contact details or sensitive personal information in the repo
 
 ## Website
 
-Do not edit docs/index.html by hand. It is generated from the research Markdown files by running scripts/build_site.py after installing the Python Markdown package. GitHub Actions runs the generator when research or generator inputs change on main, then commits the refreshed page to docs/index.html. GitHub Pages serves the main /docs folder.
+Do not edit docs/index.html by hand. It is the public research atlas interface and reads the latest research Markdown files directly from the public main branch when visitors open the page. Add and update canonical findings in research/; the website reflects those changes automatically on the next page load. GitHub Pages serves main /docs.
 
 ## Commit style
 
