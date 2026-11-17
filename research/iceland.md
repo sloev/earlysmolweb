@@ -154,3 +154,45 @@ This is useful contemporary corroboration of the Icelandic network topology imme
 **Contemporary source:** Peter Houlder, “EUnet”, *AUUGN*, Vol. 8 No. 3–4 (August 1987), pp. 159–160; table “EUnet as of 27th April 1987”, Iceland row. Digitized issue: https://ftp.icm.edu.pl/packages/UnixArchive/Documentation/AUUGN/AUUGN-V08.34.pdf (PDF text lines 8178–8337; inspected 2026-11-16).
 
 **Assessment:** This is a contemporary published technical report, stronger for the April 1987 international topology than later institutional retrospectives. Preserve the distinction between direct EUnet backbone hosts, local UUCP nodes, Usenet newsfeed recipients, and later TCP/IP Internet connectivity.
+\n\n<!-- article-data\n{
+  "title": "Iceland’s early internet: UUCP, the first Web server and a 1995 personal homepage",
+  "dek": "Iceland’s international email and Usenet preceded its direct IP link in 1989; the University of Iceland put a website online in 1992, followed by a notable personal homepage in 1995.",
+  "lead": "Iceland’s early internet history spans several distinct layers. A small UUCP community exchanged email and Usenet in the 1980s; a direct IP link arrived in 1989; the University of Iceland launched an institutional website in 1992; and a named personal homepage followed in 1995.",
+  "sections": [
+    {
+      "heading": "A small network community before the Web",
+      "markdown": "The Icelandic UNIX Users Group was founded in November 1986. A contemporary report in the December 1987 *Australian UNIX Systems User Group Newsletter* describes eight Icelandic UUCP sites, four receiving Usenet, and names operators connected to the Marine Research Institute and University of Iceland. These `.uucp` addresses are evidence of network participation, not modern Internet email addresses or personal websites. [Contemporary 1987 report](https://mirror.math.princeton.edu/pub/unixarchive/Documentation/AUUGN/AUUGN-V08.6.pdf).\n\nOn **21 July 1989**, SURIS established direct IP communication between Iceland and NORDUnet in Denmark, using IP over X.25 over satellite. Telnet and FTP joined existing email and Usenet services. The distinction is important: direct IP connectivity began in 1989, but networked communication existed earlier. [ISNIC: 20 years of Internet in Iceland](https://www.isnic.is/en/news/view?id=143)."
+    },
+    {
+      "heading": "The institutional Web arrives in 1992",
+      "markdown": "The University of Iceland reports that its website went online in **November 1992**. Magnús Gíslason downloaded Tim Berners-Lee’s World Wide Web software from Usenet and installed it at the university. The oldest surviving version mentioned by the university dates to 1994. This is a significant institutional Web milestone, not a personal homepage. [University of Iceland: the “pet project” turns 30](https://www.english.hi.is/news/pet-project-hiis-turns-30)."
+    },
+    {
+      "heading": "Björn Bjarnason’s personal homepage, 1995",
+      "markdown": "A strong named personal-homepage record concerns **Björn Bjarnason** and `www.bjorn.is`. In a speech delivered on **14 December 1995**, he said he had set up the homepage with Miðheimar on **23 January 1995**, then used it for weekly columns, speeches and articles. Other recollections distinguish the setup date from a first regular post or public announcement around 19 February, and a later stated founding date of 29 January. Those dates should remain separate rather than being collapsed into a single exact launch claim.\n\nThe page is a strong probable example of early Icelandic personal publishing, but the absence of a preserved 1995 capture remains an important verification gap. The Icelandic Web Archive begins in 1996, and the current project is seeking original files or server records from the archive and Miðheimar. [Björn’s site history](https://www.bjorn.is/um-vefinn/) · [2005 anniversary article](https://www.visir.is/g/20051702386d/bjorn.is-tiu-ara)."
+    }
+  ],
+  "image": null,
+  "sources": [
+    {
+      "label": "ICEUUG contemporary report, December 1987",
+      "url": "https://mirror.math.princeton.edu/pub/unixarchive/Documentation/AUUGN/AUUGN-V08.6.pdf",
+      "grade": "B"
+    },
+    {
+      "label": "ISNIC — 20 years of Internet in Iceland",
+      "url": "https://www.isnic.is/en/news/view?id=143",
+      "grade": "B"
+    },
+    {
+      "label": "University of Iceland — first website anniversary",
+      "url": "https://www.english.hi.is/news/pet-project-hiis-turns-30",
+      "grade": "B"
+    },
+    {
+      "label": "Björn Bjarnason — site history",
+      "url": "https://www.bjorn.is/um-vefinn/",
+      "grade": "C"
+    }
+  ]
+}\n-->\n
