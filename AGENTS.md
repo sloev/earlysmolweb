@@ -11,11 +11,11 @@ This repository is exclusively the early Internet / small-web history research p
 - Never claim a website is published or updated until the build/deployment has actually completed and been checked.
 
 
-## Public country articles — mandatory for every research task
+## Public country articles — publish only when a specific story is supported
 
-Every agent that creates or materially updates a country/territory research file MUST also create or update that file's structured `article-data` block. The public site reads this data directly from the same Markdown file and generates the article cards and article pages automatically. Do not hand-edit article HTML or create a second copy of findings.
+Create or refresh an `article-data` block only when the evidence supports a specific, tellable country story. If it does not, omit the block; the country remains in Coverage and Research records. The public site does not generate an article from raw notes. Do not hand-edit article HTML or create a second copy of findings.
 
-Place exactly one JSON block in an HTML comment near the top of each `research/<slug>.md` file, after the opening title/status lines:
+When a story qualifies, place exactly one JSON block in an HTML comment near the top of that research file, after the opening title/status lines:
 
 ```html
 <!-- article-data
@@ -53,13 +53,13 @@ Place exactly one JSON block in an HTML comment near the top of each `research/<
 ```
 
 Rules:
-- The block is required for new country files and must be refreshed when meaningful new evidence changes the story. Keep it valid JSON (double quotes, no trailing commas). Do not wrap it in a Markdown code fence.
-- Write an actual short article, not a status dump or a copy of the candidate register. Use a clear lead and coherent sections; explain what happened, who operated it, what kind of network/service it was, and what remains uncertain. A useful initial article is normally 400–900 words when the evidence supports that length; do not pad thin research.
+- The block is optional and evidence-gated. Add or refresh it only when there is a specific story; otherwise omit it. Keep it valid JSON (double quotes, no trailing commas). Do not wrap it in a Markdown code fence.
+- Write reported, readable prose about the specific episode, not a status dump, wiki-style overview, or copy of the candidate register. Explain what happened, who was involved, when and where it happened, and what the sources actually prove. Aim for 300–700 words when supported; never pad.
 - The article is an editorial presentation of the canonical research below it. Every factual claim must already be supported in the research file and linked to its source. Do not invent dates, operators, authors, URLs, quotations, or a "first" claim.
 - Explain the connection basis and geography. Distinguish locally operated infrastructure, remote hosting, diaspora activity, DNS delegation, store-and-forward email, UUCP/BITNET, TCP/IP, and Web publishing. Qualify "earliest" and preserve conflicting dates.
-- Use the research status honestly. A country with only infrastructure leads can still have a valuable article about that infrastructure and the evidence gap; never imply a verified personal homepage if none is documented.
+- If the research contains only infrastructure leads, generic chronology, or unresolved candidates, do not publish an article yet. Never imply a verified personal homepage if none is documented.
 - Add one relevant, legally reusable image when possible. Prefer Wikimedia Commons, government/national-library collections, or public-domain archival material. Record the direct HTTPS image URL, accurate alt text, caption, creator, exact license, and source/file page URL. Check that the license permits this use and retain attribution. Do not hotlink arbitrary search-result images, copy copyrighted photos, or use an image merely because it depicts the country.
-- If no suitable image is verified, set `"image": null`; the site will try to find an attributed image from Wikimedia Commons automatically. Never invent image credits or licenses.
+- If no suitable image is verified, set `"image": null`; the site will publish the story without an image. It does not add generic scenery. Never invent image credits or licenses.
 - Add 2–6 key sources to the article's `sources` array, prioritising the strongest evidence. The detailed bibliography remains in the research note. Use `"sources": []` if there are no reliable public links yet.
 - Article content and imagery are generated from this data block by the shared site template. Never add manually maintained article HTML, CSS, or JavaScript.
 - After every change, verify the JSON parses, links work, image attribution is complete, and article claims match the research note. Commit the research and article data together on `main`.
