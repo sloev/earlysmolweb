@@ -121,3 +121,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidates WS-01 (grade A) and WS-02 (grade A) recorded; personal-expression track remains open with no candidates.
 **Next handoff:** Recover Wayback of talofa.net and early samoa.net; search Samoa Observer for 1996–98 coverage; continue parallel Pacific scouting (Marshall Islands, Micronesia) and first-wave open items.
+
+## 2026-11-17 — DONE: Marshall Islands .mh delegation primary evidence advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read Marshall Islands research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Located and inspected primary IANA root-whois / delegation records confirming .mh creation on 16 August 1996 (Cabinet Office sponsor, US technical contact Steve R. Kaczkowski / Internet Connect Inc., US nameservers). Cross-checked with 20 May 2003 RNZ report on NTA plans to become own ISP (previously using ITE Guam) and reclaim .mh. Added structured candidate MH-01 for the domain/infrastructure milestone. No personal homepage or individual publishing candidate located.
+
+**Sources:** IANA .mh delegation records (archived https://web.archive.org/web/20081203152847/http://www.iana.org/root-whois/mh.htm; current https://www.iana.org/domains/root/db/.mh.html); RNZ 20 May 2003: https://www.rnz.co.nz/news/pacific/143667/marshall-islands-plans-to-set-up-internet-service; existing Wikipedia and secondary notes; APNIC AS24439 (2005).
+
+**Files changed:** `research/marshall-islands.md` (added primary IANA section, YAML candidate MH-01, refined status/interpretation/next actions); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. No NSRC first-ping, traceroute, or contemporary local email/UUCP/Gopher evidence recovered in this pass. Exact date of first local IP service or public customers remains unestablished (2003 NTA still externalizing). No Marshallese-language sources inspected.
+
+**Verification:** Edits made on existing main only; no branches or PRs created. Private data not involved.
+
+**Status:** Infrastructure candidate MH-01 recorded (grade A for delegation date); personal-expression track remains open with no candidates.
+**Next handoff:** Search Wayback for nic.net.mh / early NTA or .mh captures; check Marshall Islands Journal and Pacific ICT reports for 1996–2003; continue parallel Pacific scouting (Palau, Micronesia).
