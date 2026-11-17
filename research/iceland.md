@@ -175,7 +175,14 @@ This is useful contemporary corroboration of the Icelandic network topology imme
       "markdown": "The current site preserves useful history, but its own notes warn that an item dated 23 January 1995 was re-entered in July 2004 after being omitted during a 2002 migration. It is not an original 1995 capture. The Icelandic Web Archive begins in 1996, so an independent 1995 copy remains an open preservation task. The evidence supports a strongly corroborated early personal homepage and a near-contemporary setup date; it does not yet prove that this was Iceland’s first personal website. [Icelandic Web Archive](https://landsbokasafn.is/en/web-archive/)."
     }
   ],
-  "image": null,
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Signing_of_Iceland_and_U.S._Memorandum_of_Understanding_%282984223887%29.jpg",
+    "alt": "Björn Bjarnason (left) shaking hands with a United States Coast Guard officer at the signing of an Iceland–U.S. memorandum of understanding in 2007.",
+    "caption": "Björn Bjarnason at the 2007 signing of an Iceland–U.S. memorandum of understanding. This later portrait identifies the homepage author; it is not an image of the 1995 website.",
+    "credit": "USCG Press",
+    "license": "Creative Commons Attribution 2.0 Generic (CC BY 2.0)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Signing_of_Iceland_and_U.S._Memorandum_of_Understanding_(2984223887).jpg"
+  },
   "sources": [
     {
       "label": "Björn Bjarnason — “Leið mín inn á netið”, 14 December 1995",
