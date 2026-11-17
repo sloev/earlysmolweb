@@ -345,7 +345,10 @@ A second official Karimipour record, **hep-th/9305118**, “The quantum de Rham 
 - 19 May withdrawn v1 / 12 June surviving v2 records: https://arxiv.org/abs/hep-th/9305085 and https://arxiv.org/abs/hep-th/9305086.
 - Evidence grade: **A** for the official arXiv dates, author names and Tehran affiliations in the preserved papers. Country connection is institutional affiliation, not proof of the author's physical location at upload.
 - Revised interpretation: **19 May 1993** is now the earliest located Iran-affiliated arXiv submission in this research pass (hep-th/9305084). The earlier note's 12 June conservative date applied only to the surviving versions of hep-th/9305085 and hep-th/9305086, not to hep-th/9305084.
-\n\n<!-- article-data\n{
+
+
+<!-- article-data
+{
   "title": "Iran’s early internet: academic networks, email and the first Persian weblogs",
   "dek": "Iran’s network history began with academic EARN/BITNET links and email services; early personal Web publishing remains a separate and still-contested question.",
   "lead": "Iran’s early internet story cannot be reduced to the arrival of the Web. Academic networking, international email, store-and-forward services and later Persian-language weblogs each have their own chronology. The surviving evidence is strongest for research networks and institutional activity; the earliest resident-authored personal pages remain under investigation.",
@@ -386,4 +389,5 @@ A second official Karimipour record, **hep-th/9305118**, “The quantum de Rham 
       "grade": "B"
     }
   ]
-}\n-->\n
+}
+-->
