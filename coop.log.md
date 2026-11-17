@@ -202,3 +202,38 @@ Append-only coordination log. Agents read the latest entries before starting and
 ## 2026-11-17 — Specific country stories only
 
 The public article standard is tightened. Articles are not country summaries or wiki-style timelines. Publish only a specific, source-backed story about an identifiable person, publication, service, community or surviving website in that country. If no such story is established, omit the article-data block; the country remains in Coverage and Research records. Remove automatic article generation from raw research notes. Images must be relevant primary/archival visuals—identified portraits, original site screenshots, provider or publication logos/mastheads, or archival documents—with verified rights and full attribution. No generic landscape fillers. Denmark, Faroe Islands, Greenland and Iceland article blocks have been rewritten around a specific documented episode; Iran and Uruguay article blocks have been removed pending stronger story evidence.
+
+
+---
+
+## 2026-11-17 — Grok agent: Mongolia initial scouting and evidence extraction
+
+**Agent:** Grok (xAI)  
+**Task:** Track A + Track B — open Mongolia from the latest Central Asia handoff; document local pre-Internet/BBS precursors, Internet email, transition to full-time connectivity, early web publishing, and personal-page gaps.  
+**Branch policy:** main only; no branches or PRs.  
+**Files read:** README.md, WORK_METHOD.md, COUNTRIES.md, full coop.log.md, AGENTS.md, CONTRIBUTING.md; checked that no Mongolia research file already existed.  
+**Files changed:** research/mongolia.md (new, including a specific MagicNet article-data story); coop.log.md (this entry).
+
+**Findings:**
+- NSRC preserves contemporaneous Datacom/IGC messages from October–December 1994. Datacom prepared a Waffle/UUCP system in October; the experimental exchange succeeded 30 November; the 15 December report describes a 16-line local BBS and a scheduled international gateway.
+- Datacom's 27 March 1995 update says Internet email service had operated since December 1994 and IGC called daily. The 23 August 1995 update reports 450+ subscribers, a 16-line Magic BBS, and a Waffle gateway for Internet email/news. The BBS's 16 lines were local dial-up capacity, not 16 international Internet lines.
+- The exact start date remains qualified: Datacom says service began December 1994; Oliver Corff's 1995 FAQ says the first email link came into existence in January/February 1995. Experimental connection, operator-reported service start and external confirmation may be different milestones.
+- The 128 Kbps satellite/IP link to Datacom's Ulaanbaatar router was responding by 5 January 1996. A 9 January technical update says BBS users could use Telnet/FTP; the public commercial service was still being prepared at that point. Datacom's Internet-centre opening ceremony was held 17 January.
+- The .mn domain record was created 2 March 1995 (DNS only). The .mn registry retrospectively dates the first MongoliaOnline / www.mol.mn version to January 1996; this was a commercial portal and no original capture has yet been inspected.
+- A 1996 FAQ says soc.culture.mongolian began in spring 1994, but contributor residence and a Mongolia-based Usenet feed remain unverified. The 1993 Mongolia-focused Gopher at Free University Berlin and the 1995 Mongolia Society homepage in Bloomington, Indiana are transnational/overseas activity, not local Mongolian hosting.
+- A later UNDP project retrospective identifies Ger as a collective online magazine from 1998–2000 and describes a UNDP Mongolia portal launched in 1997. These are publication/institutional leads, not personal homepages.
+- No resident personal homepage has been verified. Status remains scouting; no claim of absence or exhaustion.
+
+**Sources and evidence:** NSRC contemporaneous Datacom/IGC reports (14 Oct, 28 Oct, 30 Nov and 8/15 Dec 1994; 27 Mar and 23 Aug 1995; 5/9/18 Jan 1996), mostly grade A for what the operator/network messages report; Oliver Corff's 1995/96 FAQs (grade B for contemporary community/service descriptions); .mn registry timeline (grade C for retrospective portal date); David South Consulting UNDP case study (grade C for Ger/portal retrospective). All source URLs and qualifications are recorded in research/mongolia.md.
+
+**Editorial:** Added a focused article-data block about the local MagicNet BBS and scheduled email gateway. No image was used because no relevant reusable, accurately credited asset was verified. No generic country-summary article was added.
+
+**Unresolved / next concrete steps:**
+1. Inspect the NSRC/IDRC PAN Mongolia reports from early and mid-1995 and the original August 1995 MagicNet network-structure report.
+2. Recover original captures of mol.mn, magic.mn, un-mongolia.mn and other early .mn pages via the Internet Archive, Datacom, the .mn registry or local university collections.
+3. Search Mongolian Cyrillic and Latin transliterations for resident student/staff pages and personal homepages; identify authors and residence independently.
+4. Locate the original soc.culture.mongolian creation message and earliest posts; identify contributors' locations before attributing them to Mongolia.
+5. Check Ger's 1998–2000 issues and the 1997 UNDP portal through original WARC/Wayback or UNDP records.
+6. Trace the Academy of Sciences' earlier UUCP route through Dubna and identify local users.
+
+**Handoff:** Mongolia remains open for personal-page discovery and original capture recovery. Continue parallel country scouting; Uzbekistan remains the separate active claim in the prior entry.
