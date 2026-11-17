@@ -124,7 +124,7 @@ Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-
 
 <!-- article-data
 {
-  "title": "Atagu: Greenland’s first online newspaper—and the story behind its later revival",
+  "title": "Atagu: Atassut’s early online newspaper in Greenland",
   "dek": "A 1996 legal article noted that Atagu had already ceased publication. Later research traces the Atassut-run online newspaper from atagu.gl to the Kamikposten name.",
   "lead": "In 1996, lawyer Nicholas Symes used Atagu as an example of a new Greenlandic Internet newspaper that had already gone out of publication. More than twenty years later, media researcher Naimah Hussain traced the title to atagu.gl, described it as an Atassut-run newspaper that began in 1995, and connected it to the later Kamikposten.dk site run by Anders Nilsson. The sources preserve the outline of a political publication’s move onto the Web—but leave an important gap between the short-lived Atagu and its later namesake.",
   "sections": [
@@ -138,7 +138,7 @@ Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-
     },
     {
       "heading": "What the sources leave unresolved",
-      "markdown": "The 1995 start and Atassut connection are supported by later research, while the 1996 legal article is contemporary evidence that Atagu had ceased publication by then. The record does not yet show the original pages, the exact launch date, who edited the first version, or whether the later Kamikposten site resumed the same publication after a gap. An original capture or party archive would help settle those questions. For now, Atagu is a well-supported early online newspaper story—not proof of the first Greenlandic website of any kind."
+      "markdown": "The sources do not agree on how long Atagu lasted. The 1996 legal article says it had already gone out, while a 2015 chapter says it continued until 2002. The 2018 study describes a Kamikposten site with a lineage to atagu.gl, but does not supply an original capture that would prove continuous publication. The exact launch date, first editor, and relationship between the early Atagu and the later Kamikposten therefore remain open. An original page, party archive or dated domain record could settle the chronology. For now, Atagu is a well-supported early online newspaper story—not proof of the first Greenlandic website of any kind."
     }
   ],
   "image": null,
