@@ -120,7 +120,10 @@ Direct inspection of the Internet Archive Wayback Machine calendar for `atagu.gl
 This is negative evidence only: the absence of early public crawls does not disprove a 1995 launch, but it confirms that no surviving public archive snapshot from the claimed launch year is currently available via the Wayback Machine. Any verification of a December 1995 start must therefore come from other sources (Netarkivet if it holds .gl material, party archives, contemporary press, or private server backups).
 
 Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-16).
-\n\n<!-- article-data\n{
+
+
+<!-- article-data
+{
   "title": "Greenland’s early internet: satellite links, local access and Atagu",
   "dek": "Greenland’s international Internet link entered service in July 1995; a local provider network followed, and Atagu became a probable early online newspaper later that year.",
   "lead": "Greenland’s first internet milestones need to be separated carefully. A research-network connection, a national backbone, selected trial users, a commercial subscription service and a locally operated online newspaper were different stages—not one launch date.",
@@ -161,4 +164,5 @@ Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-
       "grade": "C"
     }
   ]
-}\n-->\n
+}
+-->
