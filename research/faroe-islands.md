@@ -61,57 +61,58 @@ This documents three distinct milestones: early routing visibility (January 1995
 
 ## Institutional web publishing — Internet Sosialin / Sosialurin, 1997
 
-Contemporary and retrospective Faroese sources document the public launch of the newspaper *Sosialurin*'s internet edition:
+Contemporary Faroese reporting documents the newspaper's move from selected trials to a searchable online edition. Keep the first online edition, the open trial service, and the later formal launch as separate milestones:
 
-- **25 November 1997 — official public launch:** a large reception was held at the newspaper's offices on Argir; Sámal Petur í Grund (then minister of culture) pressed the button that publicly released Internet Sosialin. The first public issue was edition no. 226 of 26 November 1997.
-- Earlier trials: first experiments with placing *Sosialurin* content online occurred in 1995 (via Faroe News / Óli á Deild Olsen) before the local Internet was fully available. Further trials began in spring 1996; from September 1997 the full paper was loaded into the InternetSosialin system for selected readers.
-- The system was developed in collaboration with Dynamic Paper / FarCom (Jens Pauli Rasmussen and colleagues). It is described as the first Faroese automated / database-driven internet publishing system, generating pages from a database rather than hand-coding individual HTML pages.
-- Address used: www.sosialurin.fo (and related Faroenet hosting).
-- Sources (all Faroese-language contemporary or near-contemporary reporting preserved on in.fo):
-  - https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar (20-year retrospective with precise launch chronology)
-  - https://in.fo/news-detail/fyrstu-haldararnir-hava-nu-teknad-seg (3 Dec 1997 — first subscribers)
-  - https://in.fo/news-detail/sosialurin-vordin-heimsumfatandi (29 Sep 1997 — pre-launch announcement)
-  - https://in.fo/news-detail/faroenet-foeroyskt-savningarstad-a-internetinum (29 Sep 1997 — Faroenet hosting context, also notes early personal pages and political-party sites on the same server)
+- **3 September 1997 — first edition online:** a 3 September 1998 anniversary article says the first edition of Sosialurin was placed on the Internet exactly one year earlier. It reports that the database then contained more than **7,400 articles and news briefs** from the preceding year. Source: https://in.fo/grein/internet-sosialurin-n-ggjum-hami.
+- **29 September 1997 — open trial service described:** a contemporary article by Eirikur Lindenskov says anyone connected to the Internet could read Sosialurin free during the trial. The whole written paper was uploaded; readers could search the archive, receive email alerts when new material appeared, and read the paper from anywhere. The site was updated around 16:00 daily. Source: https://in.fo/grein/sosialurin-vordin-heimsumfatandi.
+- The same 29 September article describes a searchable database, a modular Web interface, the newspaper's server at FarCom in Tórshavn, a planned mirror in Denmark, and reporters uploading their own material. It says the online workflow normally took staff about ten minutes a day. It also describes journalists working from Argir, Klaksvík, Toftir, Sandvík and Singapore, with copy moved over the Internet.
+- **25 November 1997 — formal public launch:** a later anniversary account describes a launch reception at the newspaper's Argir offices, where culture minister Sámal Petur í Grund pressed the button to release Internet Sosialin publicly; it identifies edition no. 226 of 26 November as the first issue in that formal public-launch sequence. This should not replace the earlier 3 September first-online-edition date. Source: https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar.
+- The publishing system was developed with Dynamic Paper / FarCom. A 3 September 1998 anniversary article explicitly credits Far-Com in Tórshavn with developing the system. The 1997 announcement describes the searchable database and modular interface.
+- Earlier experiments with placing Sosialurin content online occurred in 1995 via Faroe News / Óli á Deild Olsen, followed by further trials in spring 1996.
 
-**Assessment:** This is a **verified institutional / commercial web-publishing milestone** for the Faroe Islands (newspaper online edition, database-driven). It is not a personal homepage. The contemporaneous reporting is strong (grade B) and is corroborated by later anniversary pieces. Exact first public URL path and any surviving 1997 captures remain open questions; the Faroese National Library web archive is the practical next place to look.
+**Assessment:** This is a verified institutional / commercial web-publishing story, not a personal homepage. The 1997 and 1998 contemporary reporting establishes an actual full-paper online edition, searchable archive, email alerts, remote editorial workflow and a named technical partner. The distinction between the first online edition (3 September) and the later formal public launch (25 November) must be preserved. Original 1997 page captures and the named staff at FarCom / Dynamic Paper remain useful follow-up targets.
 
 The same Faroenet server also hosted early personal heimasíður and political-party pages by September 1997, providing a concrete lead for personal-page scouting.
 
 
 <!-- article-data
 {
-  "title": "The night Sosialurin put its newspaper on the Faroese Web",
-  "dek": "Internet Sosialin launched on 25 November 1997, with its first public issue the following day—a database-driven online edition built with Dynamic Paper / FarCom.",
-  "lead": "On 25 November 1997, the Faroese newspaper Sosialurin launched Internet Sosialin. The first public issue followed on 26 November. Rather than simply placing a brochure online, the newspaper used a database-driven publishing system developed with Dynamic Paper / FarCom. It was a specific local publishing project, built around a familiar Faroese institution.",
+  "title": "Internet-Sosialurin: the Faroese newspaper that went searchable online",
+  "dek": "Its first online edition appeared on 3 September 1997. By the end of that month, anyone with Internet access could read the paper free during a trial.",
+  "lead": "In September 1997, Sosialurin did more than put a homepage on the Web. The Faroese newspaper began publishing its full daily edition online, with a searchable archive and email alerts for readers around the world. A year later, the newspaper said its database held more than 7,400 articles and news briefs. The surviving contemporary reports describe a newsroom changing its daily workflow around the Internet.",
   "sections": [
     {
-      "heading": "From experiments to a launch date",
-      "markdown": "Sosialurin had experimented with online content in 1995–96 before making the public launch of **Internet Sosialin** on **25 November 1997**. Its first issue appeared the next day. A pre-launch announcement from 29 September 1997 and a twentieth-anniversary retrospective preserve the sequence and make the November launch more than an undated claim that the paper was “on the Internet” in the late 1990s. [Pre-launch announcement](https://in.fo/news-detail/sosialurin-vordin-heimsumfatandi) · [Sosialurin’s 20-year retrospective](https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar)."
+      "heading": "A newspaper goes online before the formal launch",
+      "markdown": "A retrospective published on **3 September 1998** says the first edition of Sosialurin was placed on the Internet exactly one year earlier. By the anniversary, the searchable database contained more than **7,400 articles and news briefs** from the preceding year. [Internet-Sosialurin í nýggjum hami, 3 September 1998](https://in.fo/grein/internet-sosialurin-n-ggjum-hami)."
     },
     {
-      "heading": "A newspaper generated from a database",
-      "markdown": "The online edition was developed with **Dynamic Paper / FarCom** and generated its pages from a database. That detail makes the launch a story about publishing technology as well as connectivity: the newspaper was adapting an editorial operation to a new medium, not merely uploading a static page. The surviving retrospective is the source for the development partnership and publishing approach; further work should recover the original interface, screenshots and the people who built and edited the service."
+      "heading": "The whole paper, a searchable archive, and an email alert",
+      "markdown": "On **29 September 1997**, journalist Eirikur Lindenskov described the service as available to anyone with an Internet connection, free during its trial period. The online edition carried the paper’s written content, updated at about 16:00 each day. Readers could search the archive, sign up for email alerts when new articles appeared, and read the paper from anywhere. The article called Sosialurin the first Faroese interactive medium. [Sosialurin vorðin heimsumfatandi, 29 September 1997](https://in.fo/grein/sosialurin-vordin-heimsumfatandi)."
     },
     {
-      "heading": "The wider Faroese network behind the paper",
-      "markdown": "The launch followed earlier institutional networking. A July 1995 report by University of the Faroe Islands network administrator Jógvan Martin Grastein describes a 64 Kbit/s leased line to UNI-C in Denmark and a shared SLEIPNIR server providing email to the university and research institutions in Tórshavn. The Web/FTP server was still being prepared then. That chronology helps explain the infrastructure from which later publishing emerged, but it should not be mistaken for the newspaper’s launch. [Contemporary NSRC report, 31 July 1995](https://www.nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445799:497435668)."
+      "heading": "The newsroom changes its working day",
+      "markdown": "The 1997 report gives unusually concrete detail about the operation. Reporters uploaded their own material, a task the paper said normally took about ten minutes a day. Editorial work was no longer tied to one building: the newspaper described journalists working from Argir, Klaksvík, Toftir, Sandvík and Singapore, with copy moving over the Internet. The server was hosted by **FarCom** in Tórshavn, and the newspaper was planning a mirror in Denmark to speed access for readers there. The following year’s anniversary article credits **Far-Com** with developing the system. [1997 launch report](https://in.fo/grein/sosialurin-vordin-heimsumfatandi) · [1998 anniversary report](https://in.fo/grein/internet-sosialurin-n-ggjum-hami)."
+    },
+    {
+      "heading": "First edition and formal launch are different milestones",
+      "markdown": "The newspaper’s later twentieth-anniversary account describes a formal public launch on **25 November 1997**, with culture minister Sámal Petur í Grund pressing the launch button at the Argir offices and edition no. 226 appearing on 26 November. That ceremony should not erase the earlier first-online-edition date recorded in the 1998 anniversary report: 3 September 1997. The evidence points to a service that was already operating in trial form before its later public launch. [Sosialurin’s 20-year retrospective](https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar)."
     }
   ],
   "image": null,
   "sources": [
     {
-      "label": "Sosialurin — 20-year retrospective of Internet Sosialin",
+      "label": "Eirikur Lindenskov — Sosialurin vorðin heimsumfatandi, 29 September 1997",
+      "url": "https://in.fo/grein/sosialurin-vordin-heimsumfatandi",
+      "grade": "B"
+    },
+    {
+      "label": "Eirikur Lindenskov — Internet-Sosialurin í nýggjum hami, 3 September 1998",
+      "url": "https://in.fo/grein/internet-sosialurin-n-ggjum-hami",
+      "grade": "B"
+    },
+    {
+      "label": "Sosialurin — 20-year retrospective",
       "url": "https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar",
-      "grade": "B"
-    },
-    {
-      "label": "Sosialurin — pre-launch announcement, 29 September 1997",
-      "url": "https://in.fo/news-detail/sosialurin-vordin-heimsumfatandi",
-      "grade": "B"
-    },
-    {
-      "label": "NSRC — University of the Faroe Islands network report, 31 July 1995",
-      "url": "https://www.nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445799:497435668",
       "grade": "B"
     }
   ]
