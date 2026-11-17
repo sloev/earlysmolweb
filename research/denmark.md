@@ -136,36 +136,45 @@ Source: http://webhistorie.dk/timeline-2/ (inspected 2026-11-16; last edit noted
 **Status of new leads:** discovery leads only (grade D until primary captures or contemporary citations are located). Do not treat any of them as verified earliest personal homepages.
 
 
+
+## Individual publishing site — Michael Maardt and KnowWare.dk (1995)
+
+Michael Maardt's own site history says he wrote and self-published his first computer booklet on **16 April 1993**, then created a website to distribute sample pages and control the publication's format and price. He says **knowware.dk was registered on 23 October 1995**, at approximately the 500th .dk domain, and that he has maintained the site since 1995. This is a named individual and a specific publishing project, but the date and origin story are retrospective self-reports; the original 1995 pages and an independent domain-registration record still need to be recovered.
+
+- Source: Michael Maardt, “Om hjemmesiden knowware.dk” (updated 2010): https://www.knowware.dk/om-hjemmesiden.shtml.
+- Related contemporary trace: DR P1's *Harddisken* programme entry for 19 February 1995 includes a segment on displaying private life on a personal homepage and introduces Maardt as the publisher behind *Brug din PC optimalt*: https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59. The catalogue does not prove that Maardt's own page was the example in the segment.
+- Assessment: **probable early Danish personal/commercial publishing website**, with a self-reported 23 October 1995 domain-registration date and a contemporary February 1995 radio trace. Do not claim a national first without comparison to other Danish sites and independent archive evidence.
+
 <!-- article-data
 {
-  "title": "A Danish radio snapshot of the personal homepage, February 1995",
-  "dek": "On 19 February 1995, DR’s Harddisken discussed putting private life on a personal homepage and introduced computer publisher Michael Maardt in the same programme entry.",
-  "lead": "On 19 February 1995, DR’s technology programme Harddisken brought the personal homepage into the Danish radio conversation. The Royal Danish Library’s archive catalogue records a segment titled “Showcase your private life on your own personal homepage” and, in the same programme entry, introduces Michael Maardt, the publisher behind Brug din PC optimalt. The catalogue preserves a vivid contemporary snapshot—but it does not conclusively establish that Maardt’s own homepage was the example being discussed.",
+  "title": "Michael Maardt turns his computer booklets into an early Danish website",
+  "dek": "Maardt says he registered knowware.dk on 23 October 1995 and built the site to distribute sample pages from his self-published computer guides.",
+  "lead": "Michael Maardt's early website grew out of a very practical publishing problem: how to distribute computer guides he had written and published himself. In his own account, he began with a booklet in 1993, then created knowware.dk so readers could download sample pages. He says the domain was registered on 23 October 1995, when it was roughly the 500th .dk domain. The story is unusually specific, although the date and origin account remain retrospective until the original pages or registrar records are found.",
   "sections": [
     {
-      "heading": "A new kind of self-presentation reaches the airwaves",
-      "markdown": "The programme entry describes the segment as “Udstil dit privatliv på din egen personlige homepage” (“Showcase your private life on your own personal homepage”). It then introduces **Michael Maardt**, known for the computer publication *Brug din PC optimalt*. The programme was broadcast on **19 February 1995**, in a two-hour Harddisken edition on DR P1. This is contemporary evidence that private homepages were already a subject of Danish technology coverage—not a later memory of when the Web became popular. [Royal Danish Library / DR archive catalogue](https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59)."
+      "heading": "A publisher decides to control the whole process",
+      "markdown": "Maardt says he wrote and published his first computer booklet on **16 April 1993**, rather than handing the text to a conventional publisher. His stated reason was control over the format and price. The site history connects the later website to the same approach: readers could download sample pages as PDF files before buying the full booklet. That made the early site part of the publishing operation, not simply an online business card. [Michael Maardt, “Om hjemmesiden knowware.dk”](https://www.knowware.dk/om-hjemmesiden.shtml)."
     },
     {
-      "heading": "What the catalogue does—and does not—connect",
-      "markdown": "The catalogue places the homepage segment and Maardt’s introduction in the same programme entry, but it does not explicitly say that Maardt’s own homepage was the example, nor does it preserve the original URL or page contents. Maardt’s later site history says he had websites from 1995, including knowware.dk, but that retrospective account is not a surviving 1995 capture. [Maardt’s website history](https://a33.dk/mmsites.shtml) · [Royal Danish Library: History of the Danish Web, 1992–1997](https://www.kb.dk/en/services/cultural-heritage-research-and-study/history-danish-web-1992-1997)."
+      "heading": "The .dk domain arrives in October 1995",
+      "markdown": "Maardt's account says **knowware.dk was registered on 23 October 1995**, at approximately the 500th .dk domain, and that he has maintained the website since 1995. These are useful details from a participant's own history, but they are not yet independently confirmed by a registrar record or a surviving 1995 capture. The original site's first pages would help establish exactly what readers could download and how the service worked. [Maardt's website history](https://www.knowware.dk/om-hjemmesiden.shtml)."
     },
     {
-      "heading": "A small contemporary window into Danish Web culture",
-      "markdown": "The broadcast is worth preserving because it catches a cultural shift in progress: the homepage was already being presented as a place where an ordinary person might display private life. The next research step is to recover the audio, establish whether Maardt demonstrated or discussed his own page, and locate an original 1995 copy. Until then, this is a documented radio moment about personal homepages, not proof of Denmark’s first personal website."
+      "heading": "A radio programme captures the same moment",
+      "markdown": "Earlier that year, DR P1's *Harddisken* programme on **19 February 1995** included a segment titled “Showcase your private life on your own personal homepage” and introduced Maardt as the publisher behind *Brug din PC optimalt*. The catalogue places the two items in the same programme entry, but does not explicitly say that Maardt's own homepage was the example being discussed. It does show that personal homepages were already a topic of Danish technology coverage before the domain registration he later recalled. [Royal Danish Library / DR archive catalogue](https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59)."
     }
   ],
   "image": null,
   "sources": [
     {
+      "label": "Michael Maardt — Om hjemmesiden knowware.dk",
+      "url": "https://www.knowware.dk/om-hjemmesiden.shtml",
+      "grade": "C"
+    },
+    {
       "label": "Royal Danish Library — DR archive, Harddisken, 19 February 1995",
       "url": "https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59",
       "grade": "B"
-    },
-    {
-      "label": "Michael Maardt — websites since 1995",
-      "url": "https://a33.dk/mmsites.shtml",
-      "grade": "C"
     },
     {
       "label": "Royal Danish Library — History of the Danish Web, 1992–1997",
