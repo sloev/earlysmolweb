@@ -105,3 +105,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidates TO-01 (grade A) and TO-02 (grade A for reachability) recorded; personal-expression track remains open with diaspora lead only.
 **Next handoff:** Confirm physical location of candw.to; recover 1997 government service announcement and local coverage; search Wayback for early in-Kingdom .to sites; recover Kami/Tonga Online captures; continue parallel Pacific and first-wave scouting.
+
+## 2026-11-17 — DONE: Samoa 1996 TCP/IP (talofa.net) and 1998 gateway advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read Samoa research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Located and inspected primary NSRC reports: 8 Sep 1996 traceroute to talofa.net (First Ping) and 23 Dec 1996 Bruce Edwards Pacific Internet operational update (64 kb TCP/IP to Sydney, equipment, pricing). Cross-checked with SOPAC Allinson 1998 trip report on shared gateway and Samoa.net. Added structured candidates WS-01 and WS-02. Refined chronology distinguishing 1995 DNS, 1995 Pactok email, 1996 commercial TCP/IP, and 1998 multi-ISP gateway. No personal homepage located.
+
+**Sources:** NSRC First Ping WS (8 Sep 1996): https://nsrc.org/db/lookup/report.php?id=890202507278:497425334&fromISO=WS; NSRC Pacific Internet update (23 Dec 1996): https://nsrc.org/db/lookup/report.php?id=890202507170:497426787&fromISO=WS; NSRC W. Samoa Networking Update (8 Aug 1995); NSRC ISPs in Samoa (10 Jun 1999); Allinson SOPAC Trip Report 256 (1998): https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/ca/ca167e0aeec8ba1c70f50ac3627140ac.pdf; IANA .ws.
+
+**Files changed:** `research/samoa.md` (expanded chronology with primary NSRC evidence, added YAML candidates WS-01/WS-02, updated status/last-checked and gaps); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. Exact first customer date for 1996 service and continuous operation after Dec 1996 not fully established. No local-language newspaper inspection in this pass. Wayback of talofa.net not recovered.
+
+**Verification:** Edits made on existing main only; no branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidates WS-01 (grade A) and WS-02 (grade A) recorded; personal-expression track remains open with no candidates.
+**Next handoff:** Recover Wayback of talofa.net and early samoa.net; search Samoa Observer for 1996–98 coverage; continue parallel Pacific scouting (Marshall Islands, Micronesia) and first-wave open items.
