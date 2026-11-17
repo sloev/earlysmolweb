@@ -25,3 +25,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** chronology clarified; service identity and the 1994 Laonet/IDRC/STENO claim remain unresolved.
 **Next handoff:** seek original project documentation, APNIC historical allocation records, and surviving NPI/LaoNet or Laonet/STENO FidoNet/UUCP logs or user lists. Keep the 1994 NPI experiment, the 1999 report's public email centre, and the 1996 PAN-Laos service separate until a primary record links them.
+
+## 2026-11-17 — DONE: Tuvalu 1999 IP-link primary evidence advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read current Tuvalu research file and methods. Located and inspected the primary Steven G. Huter NSRC message of 3 December 1999 containing ping, traceroute and SMTP tests to fale.tuvalu.tv. Added the full primary source, refined the plan-vs-operational distinction, and created structured candidate TV-01 for the connectivity milestone. No personal homepage or individual publishing candidate was found or claimed.
+
+**Sources:** NSRC, “Full IP link established to Tuvalu (October 1999)”, Steven G. Huter, 3 Dec 1999, https://www.nsrc.org/db/lookup/report.php?fromISO=TV&id=944259003113:488906182; supporting secondary summary https://btw.media/en/tuvalu-internet-july-target-ip-link-october-1999; existing Franck Martin INET 2000 and NSRC provider records.
+
+**Files changed:** `research/tuvalu.md` (added primary evidence section, YAML candidate TV-01, updated status and last-checked); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. No pre-1999 local email/UUCP/BITNET/Gopher evidence found in searched sources. Outer-island access and exact first customer dial-up date remain unestablished. Original SOPAC implementation notes not recovered in this pass.
+
+**Verification:** Edit made on existing main only; commit `0b168fe1ac5b245e0c02193127185f8af5cae89f`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidate strengthened to grade A primary evidence; personal-expression track remains open with no candidates.
+**Next handoff:** Search for first Wayback/Netarkivet captures of tuvalu.tv, APNIC historical allocations, Pacific Islands Monthly 1999 coverage, and any surviving user directories or personal pages from the initial ISP period. Continue local-language and oral-history leads.
