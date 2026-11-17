@@ -73,3 +73,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Institutional website candidate KI-01 recorded (grade B contemporary directory claim + A archive capture); personal-expression track remains open with no candidates.
 **Next handoff:** Identify the Sofield 2002 entrepreneur site and its earliest capture; search for pre-2004 tskl.net.ki or other early .ki sites; inspect Allinson 2000 paper; continue local-language and diaspora searches.
+
+## 2026-11-17 — DONE: Solomon Islands FFA 1995 UUCP and Telekom 1996 IP hosts advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read Solomon Islands research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Inspected primary NSRC reports: Al Blake 15 Aug 1995 FFA MSMAIL+UUCP via PEACESAT (host bigeye.ffa.gov.sb, non-profits in Honiara) and Olivier MJ Crepin-Leblond 26 Jun 1996 traceroute to olketa.solomon.com.sb confirming Telekom IP hosts online. Added structured candidates SB-01 (FFA email/UUCP) and SB-02 (Telekom IP connectivity). Updated status and chronology. No personal homepage located.
+
+**Sources:** NSRC Al Blake report 15 Aug 1995: https://nsrc.org/db/lookup/report.php?id=890202506056:497439074&fromISO=SB; NSRC First Ping SB 26 Jun 1996: https://nsrc.org/db/lookup/report.php?id=890202505562:497425407&fromISO=SB; NSRC New IP Hosts SB: https://nsrc.org/db/lookup/report.php?id=890202505692:497423945&fromISO=SB.
+
+**Files changed:** `research/solomon-islands.md` (added candidates, refined 1996 IP timeline, updated status/last-checked); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. Exact commercial dial-up launch date and first public customers not established. No local-language newspaper or USP archive inspection in this pass. Wayback of early solomon.com.sb not recovered.
+
+**Verification:** Edits made on existing main only; commit `bbc3b585d05531797e3cbd530fbd15f0cb3fceee`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidates SB-01 (grade B) and SB-02 (grade B) recorded; personal-expression track remains open with no candidates.
+**Next handoff:** Recover Wayback of solomon.com.sb / peoplefirst.net.sb; search local newspapers (Solomon Star) and USP Honiara for early personal pages; locate PEACESAT/FFA original technical notes; continue parallel Pacific scouting.
