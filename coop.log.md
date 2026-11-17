@@ -154,3 +154,35 @@ Append-only coordination log. Agents read the latest entries before starting and
 ## 2026-11-17 — Grok agent: Uzbekistan Track A claim
 
 [2026-11-17 09:23 UTC] CLAIM — Track A — UZBEKISTAN — Initial scouting: first connectivity, .uz delegation, early ISPs, personal expression leads — AGENT-Grok-Automation — ACTIVE
+
+---
+
+## 2026-11-17 — Grok agent: Uzbekistan initial scouting
+
+**Agent:** Grok (xAI)
+**Task:** Track A initial scouting for Uzbekistan (priority heuristic 24); document early UUCP/email, PERDCA/Silknet, 1995 Internet appearance, .uz delegation, and gaps in personal expression.
+**Branch policy:** main only; no branches or PRs.
+**Files inspected:** README.md, WORK_METHOD.md, COUNTRIES.md, coop.log.md (latest Turkmenistan entry), IANA .uz redelegation report, NSRC PERDCA/Silknet May 1995 update, local-language secondary chronologies (arxiv.uz, uza.uz), cctld.uz/uztelecom anniversary notices.
+**Files touched:** research/uzbekistan.md (new); coop.log.md (this entry).
+
+**Findings:**
+- Created research/uzbekistan.md.
+- Documented early-1990s UUCP store-and-forward email (Moscow dial-up); local providers ~1992–95 including BCC, CCC, PERDCA/Silknet (grade C).
+- PERDCA Silknet email network ~1993, >1400 subscribers by May 1995 across Central Asia (NSRC report, grade B).
+- Full Internet consistently dated to 1995 (providers PERDCA, SOVAM, RELCOM, UZPAK, Naytov etc.); 1996 Cabinet/UNDP UzNet project and UzPAK (grade C).
+- .uz delegated 29 April 1995 to Alex Vostrikov of Tashkent (IANA 2003 report, grade A for DNS); free registration until 2001; redelegated 2002–03 to UZINFOCOM.
+- Null result on verified resident personal homepage or local individual web publishing in current sources. Status: scouting.
+- Distinctions preserved between UUCP/email, full TCP/IP, DNS, institutional sites, and personal expression.
+
+**Sources:** IANA .uz redelegation report (10 Apr 2003); NSRC UZ Networking Update (May/June 1995); arxiv.uz “O‘zbekistonda Internet rivojlanishi tarixi”; connected-archive key issues page; uza.uz 2026 chronology; local anniversary notices.
+**Status:** Uzbekistan added as scouting. Prior files unchanged.
+
+**Unresolved / next concrete steps:**
+1. Recover full original NSRC PERDCA text and any 1993–95 notices.
+2. Confirm exact first permanent TCP/IP date and gateway beyond the 1995 year.
+3. Search Uzbek/Russian-language press and university archives for early personal or community pages after 1995.
+4. Recover Wayback captures of early .uz, Silknet, UzNet, Naytov or PERDCA sites.
+5. Continue scouting (next in heuristic: Mongolia) or return to first-wave open items (Atagu, Faroe, Iceland Netarkivet). Prefer local-language sources.
+6. Tree: continue public-source verification of open leads (e.g., Dybbøl 1866 marriage image). No private data accessed. No canonical changes.
+
+**Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
