@@ -82,44 +82,29 @@ const imageCache=new Map();
 let articleObserver=null;
 function articleFromRecord(r){
  const match=r.raw.match(/<!--\s*article-data\s*([\s\S]*?)-->/i);
- if(match){try{const data=JSON.parse(match[1].trim());if(data&&Array.isArray(data.sections))return {...data,title:data.title||r.title,dek:data.dek||r.status,lead:data.lead||"",image:data.image||null,sections:data.sections}}catch(e){console.warn("Invalid article-data JSON in",r.slug,e)}}
- const clean=r.raw.replace(/<!--\s*article-data\s*[\s\S]*?-->/ig,"");
- const blocks=clean.split(/^##\s+/m).slice(1);
- const excluded=/next actions|open questions|bibliography|sources|research interpretation|track [ab]|candidate register|unresolved|further research/i;
- const sections=[];
- for(const block of blocks){const lines=block.split("\n");const heading=(lines.shift()||"").trim();const markdown=lines.join("\n").trim();if(!heading||excluded.test(heading)||!markdown)continue;sections.push({heading,markdown})}
- const first=sections[0]?.markdown||"";
- const lead=first.split(/\n\s*\n/).map(x=>x.trim()).find(x=>x&&!x.startsWith("- ")&&!x.startsWith("**Status"))||r.status;
- return {title:r.title+" — the early internet story",dek:r.status,lead:lead.replace(/\[([^\]]+)\]\([^)]+\)/g,"$1").replace(/[*_>#]/g,"").slice(0,650),sections:sections.slice(0,5),image:null,sources:[],generated:true};
+ if(!match)return null;
+ try{const data=JSON.parse(match[1].trim());if(data&&Array.isArray(data.sections)&&data.sections.length)return {...data,title:data.title||r.title,dek:data.dek||"",lead:data.lead||"",image:data.image||null,sections:data.sections}}catch(e){console.warn("Invalid article-data JSON in",r.slug,e)}
+ return null;
 }
 function stripHtml(s){const t=document.createElement("textarea");t.innerHTML=String(s||"");return t.value.replace(/<[^>]*>/g,"").trim()}
 function setImageCredit(node,image){
  node.replaceChildren();const parts=[];if(image.caption)parts.push(image.caption);if(image.credit)parts.push(image.credit);if(image.license)parts.push(image.license);if(parts.length)node.append(document.createTextNode(parts.join(" · ")));
  if(image.source_url&&/^https:\/\//i.test(image.source_url)){if(parts.length)node.append(document.createTextNode(" · "));const a=document.createElement("a");a.href=image.source_url;a.textContent="Image source";a.target="_blank";a.rel="noopener noreferrer";node.append(a)}
 }
-async function fetchCommonsImage(country){
- if(imageCache.has(country))return imageCache.get(country);
- const promise=(async()=>{try{
- const api="https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch="+encodeURIComponent(country+" landscape")+"&gsrnamespace=6&gsrlimit=1&prop=imageinfo&iiprop=url%7Cextmetadata&iiurlwidth=1200&format=json&origin=*";
- const response=await fetch(api);if(!response.ok)throw Error("Commons unavailable");const data=await response.json();const pages=Object.values(data.query?.pages||{});const info=pages[0]?.imageinfo?.[0];if(!info)return null;
- const meta=info.extmetadata||{};return {url:info.thumburl||info.url,alt:stripHtml(meta.ImageDescription?.value)||country+" landscape",credit:stripHtml(meta.Artist?.value)||"Wikimedia Commons contributor",license:stripHtml(meta.LicenseShortName?.value)||"See source page",source_url:info.descriptionurl||"https://commons.wikimedia.org/"};
- }catch(e){return null}})();imageCache.set(country,promise);return promise;
-}
-async function populateImage(img,creditNode,country,imageData){
- let data=imageData;if(!data?.url||!/^https:\/\//i.test(data.url))data=await fetchCommonsImage(country);
- if(!data?.url){img.classList.add("hidden");const placeholder=img.parentElement?.querySelector(".image-placeholder");if(placeholder)placeholder.classList.remove("hidden");return}
+function populateImage(img,creditNode,country,imageData){
+ const data=imageData;
+ if(!data?.url||!/^https:\/\//i.test(data.url)){img.parentElement?.classList.add("hidden");return}
  img.src=data.url;img.alt=data.alt||country;img.classList.remove("hidden");if(creditNode){setImageCredit(creditNode,data);creditNode.classList.remove("hidden")}
  const placeholder=img.parentElement?.querySelector(".image-placeholder");if(placeholder)placeholder.classList.add("hidden");
 }
 function observeArticleImage(img,credit,country,imageData){
- const run=()=>populateImage(img,credit,country,imageData);if(imageData?.url){run();return}
- if("IntersectionObserver" in window){if(!articleObserver)articleObserver=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){articleObserver.unobserve(e.target);runImageByData(e.target)}}),{rootMargin:"250px"});img.dataset.country=country;img._imageCredit=credit;img._imageData=imageData;articleObserver.observe(img)}else run();
+ if(!imageData?.url){img.parentElement?.classList.add("hidden");return}
+ populateImage(img,credit,country,imageData);
 }
-function runImageByData(img){populateImage(img,img._imageCredit,img.dataset.country,img._imageData)}
 function renderArticles(){
- const grid=document.getElementById("articleGrid");grid.replaceChildren();if(!records.length){grid.innerHTML='<p class="empty">No country articles are available yet.</p>';return}
- records.forEach(r=>{
-  const data=articleFromRecord(r),card=document.createElement("article");card.className="article-card";
+ const grid=document.getElementById("articleGrid");grid.replaceChildren();const published=records.map(r=>({r,data:articleFromRecord(r)})).filter(x=>x.data);if(!published.length){grid.innerHTML='<p class="empty">No country has a sufficiently documented, specific story published yet. Countries with research leads and evidence gaps remain available in Coverage and Research records below.</p>';return}
+ published.forEach(({r,data})=>{
+  const card=document.createElement("article");card.className="article-card";
   const media=document.createElement("div");media.className="article-media";const img=document.createElement("img");img.className="article-image hidden";img.loading="lazy";
   const placeholder=document.createElement("div");placeholder.className="image-placeholder";placeholder.textContent=r.title;
   const credit=document.createElement("div");credit.className="image-credit hidden";media.append(img,placeholder,credit);card.append(media);
@@ -130,7 +115,7 @@ function renderArticles(){
  });
 }
 function showArticle(slugValue){
- const r=records.find(x=>x.slug===slugValue);if(!r)return;const data=articleFromRecord(r),page=document.getElementById("articlePage"),grid=document.getElementById("articleGrid");
+ const r=records.find(x=>x.slug===slugValue);if(!r)return;const data=articleFromRecord(r);if(!data){location.hash="#articles";return}const page=document.getElementById("articlePage"),grid=document.getElementById("articleGrid");
  grid.classList.add("hidden");page.classList.remove("hidden");page.replaceChildren();const article=document.createElement("article");article.className="article-detail";
  const back=document.createElement("a");back.className="article-back";back.href="#articles";back.textContent="← All country stories";article.append(back);
  const badge=document.createElement("span");badge.className="pill";badge.textContent=r.kind==="territory"?"Additional jurisdiction":"Country";article.append(badge);
@@ -141,12 +126,12 @@ function showArticle(slugValue){
  (data.sections||[]).forEach(section=>{const sh=document.createElement("h2");sh.textContent=section.heading||"The story";story.append(sh);const content=document.createElement("div");content.innerHTML=DOMPurify.sanitize(marked.parse(section.markdown||section.body||""));localizeLinks(content);story.append(content)});
  if(!data.sections?.length){const p=document.createElement("p");p.textContent="The research record is being developed into an article. Check back as new evidence is added.";story.append(p)}article.append(story);
  if(Array.isArray(data.sources)&&data.sources.length){const sources=document.createElement("section");sources.className="article-sources";const sh=document.createElement("h2");sh.textContent="Sources and further reading";sources.append(sh);const ul=document.createElement("ul");data.sources.forEach(s=>{if(!s.url)return;const li=document.createElement("li"),a=document.createElement("a");a.href=s.url;a.textContent=s.label||s.url;a.target="_blank";a.rel="noopener noreferrer";li.append(a);if(s.grade)li.append(document.createTextNode(" · Evidence grade "+s.grade));ul.append(li)});sources.append(ul);article.append(sources)}
- const note=document.createElement("p");note.className="coverage-note";note.textContent=data.generated?"This first article view is generated from the current research note. Agents are instructed to replace it with an authored, structured article as evidence develops.":"Article generated from the structured article data in the country research file.";article.append(note);
+ const note=document.createElement("p");note.className="coverage-note";note.textContent="This story is rendered from the structured article data in the country research file. The full research record below contains the underlying evidence and open questions.";article.append(note);
  const link=document.createElement("p"),a=document.createElement("a");a.href="#research";a.textContent="Find the full research record below ↓";a.addEventListener("click",()=>{q.value=r.title;q.dispatchEvent(new Event("input"))});link.append(a);article.append(link);page.append(article);page.scrollIntoView({behavior:"smooth",block:"start"});
 }
 function localizeLinks(container){container.querySelectorAll("a[href]").forEach(a=>{try{const u=new URL(a.href,location.href);if(u.hostname==="github.com"&&u.pathname.startsWith("/"+OWNER+"/"+REPO+"/blob/"+BRANCH+"/")){const path=decodeURIComponent(u.pathname.split("/").slice(5).join("/"));a.href="#/page/"+encodeURIComponent(path);a.removeAttribute("target");a.removeAttribute("rel")}else if(u.hostname==="github.com"&&u.pathname==="/"+OWNER+"/"+REPO){a.href="#top";a.removeAttribute("target")}}catch(_){}})}
 async function showPage(path){const old=document.getElementById("sitePage");if(old)old.remove();const main=document.querySelector("main");const page=document.createElement("section");page.id="sitePage";page.className="coverage";page.innerHTML='<p><a href="#top">← Back to research atlas</a></p><p>Loading page…</p>';main.prepend(page);try{const raw=await getText("https://raw.githubusercontent.com/"+OWNER+"/"+REPO+"/"+BRANCH+"/"+path);page.innerHTML='<p><a href="#top">← Back to research atlas</a></p><h2 class="section-title"></h2><div class="content"></div>';page.querySelector("h2").textContent=titleOf(raw,path);const body=page.querySelector(".content");body.innerHTML=DOMPurify.sanitize(marked.parse(raw));localizeLinks(body);page.scrollIntoView({behavior:"smooth",block:"start"})}catch(e){page.innerHTML='<p><a href="#top">← Back to research atlas</a></p><p>This page could not be loaded.</p>'}}
-function route(){const hash=location.hash;const pageMatch=hash.match(/^#\/page\/(.+)$/);const articleMatch=hash.match(/^#\/article\/(.+)$/);const old=document.getElementById("sitePage");if(old)old.remove();if(pageMatch){document.getElementById("articlePage").classList.add("hidden");document.getElementById("articleGrid").classList.remove("hidden");showPage(decodeURIComponent(pageMatch[1]));return}if(articleMatch){showArticle(decodeURIComponent(articleMatch[1]));return}document.getElementById("articlePage").classList.add("hidden");document.getElementById("articleGrid").classList.remove("hidden")}
+function route(){const hash=location.hash;const pageMatch=hash.match(/^#\/page\/(.+)$/);const articleMatch=hash.match(/^#\/article\/(.+)$/);const old=document.getElementById("sitePage");if(old)old.remove();if(pageMatch){document.getElementById("articlePage").classList.add("hidden");document.getElementById("articleGrid").classList.remove("hidden");showPage(decodeURIComponent(pageMatch[1]));return}if(articleMatch){const target=records.find(x=>x.slug===decodeURIComponent(articleMatch[1]));if(target&&articleFromRecord(target)){showArticle(decodeURIComponent(articleMatch[1]));return}location.hash="#articles";return}document.getElementById("articlePage").classList.add("hidden");document.getElementById("articleGrid").classList.remove("hidden")}
 window.addEventListener("hashchange",route);
 function render(){const term=q.value.toLowerCase(),k=kind.value,st=status.value;const list=records.filter(r=>(!k||r.kind===k)&&(!st||r.status===st)&&(!term||(r.title+" "+r.status+" "+r.raw).toLowerCase().includes(term)));document.getElementById("count").textContent="Showing "+list.length+" of "+records.length+" research files";root.replaceChildren();if(!list.length){const p=document.createElement("p");p.className="empty";p.textContent="No matching research. Try another search or filter.";root.append(p);return}list.forEach(r=>{const el=document.createElement("article");el.className="item";const h=document.createElement("h3");h.textContent=r.title;el.append(h);const badge=document.createElement("span");badge.className="pill";badge.textContent=r.kind==="territory"?"Additional jurisdiction":"Baseline country";el.append(badge);const stat=document.createElement("span");stat.className="pill";stat.textContent=r.status;el.append(stat);const details=document.createElement("details"),summary=document.createElement("summary");summary.textContent="Read research, chronology and evidence";details.append(summary);const body=document.createElement("div");body.className="content";body.innerHTML=DOMPurify.sanitize(marked.parse(r.raw));details.append(body);localizeLinks(body);el.append(details);root.append(el)})}
 q.addEventListener("input",render);kind.addEventListener("change",render);status.addEventListener("change",render);load();route();
