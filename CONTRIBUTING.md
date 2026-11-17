@@ -36,7 +36,7 @@ Use concise messages that describe the research or documentation change. Keep so
 
 ## Public article data
 
-Every new or materially updated country research file must include or refresh one `article-data` JSON block inside an HTML comment near the top of the Markdown file. This is how the website generates its country article; do not create separate HTML pages or manually edit the site template for country content.
+Add or refresh an `article-data` JSON block only when the research supports a specific, tellable story rooted in that country. If it does not, omit the block; the country remains in Coverage and Research records. The website publishes only explicit article blocks and does not generate generic stories from research notes. Do not create separate HTML pages or manually edit the site template for country content.
 
 The block contains `title`, `dek`, `lead`, `sections` (each with `heading` and `markdown`), `image` (sourced image metadata or `null`), and `sources`. Follow the complete example and rules in AGENTS.md and WORK_METHOD.md. Article prose must be readable, genuinely explanatory, and fully supported by the research record.
 
