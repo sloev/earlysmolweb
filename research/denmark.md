@@ -134,7 +134,10 @@ These are institutional/political rather than purely personal-expression pages, 
 Source: http://webhistorie.dk/timeline-2/ (inspected 2026-11-16; last edit noted as 29 Sep 2026).
 
 **Status of new leads:** discovery leads only (grade D until primary captures or contemporary citations are located). Do not treat any of them as verified earliest personal homepages.
-\n\n<!-- article-data\n{
+
+
+<!-- article-data
+{
   "title": "Denmark’s early internet: from dial-up email to personal homepages",
   "dek": "Denmark’s network history reaches back to academic email in 1983. By February 1995, a national radio archive was already discussing a named Danish personal homepage.",
   "lead": "The Danish story begins well before the Web. In January 1983, the University of Copenhagen’s computer science department documented an international email exchange with the Netherlands. A decade later, Denmark had a broad academic and commercial network ecosystem; by February 1995, personal homepages had entered public discussion.",
@@ -170,4 +173,5 @@ Source: http://webhistorie.dk/timeline-2/ (inspected 2026-11-16; last edit noted
       "grade": "B"
     }
   ]
-}\n-->\n
+}
+-->
