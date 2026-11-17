@@ -153,3 +153,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidate FM-01 (grade A) and infrastructure candidate FM-02 (grade A for delegation) recorded; personal-expression track remains open with no candidates.
 **Next handoff:** Recover Wayback of www.telecom.fm / www.fm from 1996–99; search local newspapers and university pages for early personal sites; continue parallel Pacific scouting (Palau) and first-wave items.
+
+## 2026-11-18 — DONE: Papua New Guinea Unitech UUCP email primary evidence advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read PNG research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Located and inspected primary NSRC report of 22 January 1997 from root@ee.unitech.ac.pg describing limited Internet-connected sites, DNS assistance from University of Melbourne, no ISP providers yet, Telikom illegalization of message switching, and operational Unitech UUCP-only email service with Internet-style addressing. Added structured candidate PG-01. No personal homepage located.
+
+**Sources:** NSRC, “PG Networking Update (1/97)” (22 Jan 1997): https://www.nsrc.org/db/lookup/report.php?id=890202505236:497428747&fromISO=PG; NSRC Datec provider record (created 10 May 1997); existing secondary chronology (Kwasam, Stanley, Logan & Suwamaru).
+
+**Files changed:** `research/papua-new-guinea.md` (expanded primary evidence section, added YAML candidate PG-01, refined table and gaps, updated status/last-checked); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. Exact start date of Unitech UUCP service and continuous operation not established. Pre-1997 academic dial-up to Australia remains retrospective. No local-language newspaper or Wayback of early .pg sites recovered in this pass.
+
+**Verification:** Edits made on existing main only; no branches or PRs created. Private data not involved.
+
+**Status:** Communication candidate PG-01 recorded (grade A primary NSRC); commercial TCP/IP remains staged 1997; personal-expression track remains open with no candidates.
+**Next handoff:** Recover original Kwasam Waigani paper and contemporary Telikom/Tiare announcements; search for pre-1997 UUCP logs and early .pg Wayback captures; continue parallel Pacific and first-wave scouting.
