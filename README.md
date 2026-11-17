@@ -21,7 +21,7 @@ We investigate more than the World Wide Web: connectivity, email, mailing lists,
 - Country register — coverage and flexible discovery priorities.
 - Public research website — live searchable atlas with a sticky section navigation, generated country articles, country coverage, priority research gaps, and expandable source notes.
 
-The website reads the current Markdown research files from the public main branch whenever a visitor opens the page. Country articles are rendered from the structured `article-data` block embedded in each country research file; image metadata and article citations live there too. If a country has no article block yet, the site generates a temporary article view from its research note. New countries and edits therefore appear automatically on the next page load; there is no separate hand-maintained article database or publishing workflow. GitHub Pages serves the page from main /docs.
+The website reads the current Markdown research files from the public main branch whenever a visitor opens the page. The Articles section contains only explicitly authored, evidence-led stories about specific people, publications, services, communities, or surviving websites. Countries without a sufficiently documented story remain in Coverage and Research records; the site does not turn research notes into generic articles. Story images are verified portraits, original screenshots, logos, mastheads, or archival material with clear reuse rights and attribution—never generic landscape fillers. GitHub Pages serves the page from main /docs.
 
 ## Contributing
 
