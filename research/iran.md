@@ -345,3 +345,45 @@ A second official Karimipour record, **hep-th/9305118**, “The quantum de Rham 
 - 19 May withdrawn v1 / 12 June surviving v2 records: https://arxiv.org/abs/hep-th/9305085 and https://arxiv.org/abs/hep-th/9305086.
 - Evidence grade: **A** for the official arXiv dates, author names and Tehran affiliations in the preserved papers. Country connection is institutional affiliation, not proof of the author's physical location at upload.
 - Revised interpretation: **19 May 1993** is now the earliest located Iran-affiliated arXiv submission in this research pass (hep-th/9305084). The earlier note's 12 June conservative date applied only to the surviving versions of hep-th/9305085 and hep-th/9305086, not to hep-th/9305084.
+\n\n<!-- article-data\n{
+  "title": "Iran’s early internet: academic networks, email and the first Persian weblogs",
+  "dek": "Iran’s network history began with academic EARN/BITNET links and email services; early personal Web publishing remains a separate and still-contested question.",
+  "lead": "Iran’s early internet story cannot be reduced to the arrival of the Web. Academic networking, international email, store-and-forward services and later Persian-language weblogs each have their own chronology. The surviving evidence is strongest for research networks and institutional activity; the earliest resident-authored personal pages remain under investigation.",
+  "sections": [
+    {
+      "heading": "Academic networking before public Web access",
+      "markdown": "A contemporary NSRC record documents an Iranian EARN/IREARN node with a connection date of **1 December 1992**, reported in January 1993. By 1993, Iranian-affiliated research was also visible in international electronic scholarly services: arXiv records from May 1993 preserve papers with Tehran affiliations and an IREARN address. These are important signs of academic network participation, but they should not be confused with a public Web service or personal homepage. [NSRC IREARN node record](https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488663:497420738) · [arXiv, 19 May 1993](https://arxiv.org/abs/hep-th/9305084).\n\nThe 1995 NSRC report lists academic hosts at institutions including IPM, Sharif University, Tehran University and Guilan University. It also describes Neda Rayaneh’s BBS and Internet-related services, including email, FTP/news and mailing-list access. The report is valuable contemporary infrastructure evidence and a route to named operators and user communities, but does not identify a public personal homepage. [NSRC Iran network report, November 1995](https://www.nsrc.org/db/lookup/report.php?fromISO=IR&id=890202487943:497427936)."
+    },
+    {
+      "heading": "From network access to Persian-language publishing",
+      "markdown": "A 1997 survey by Payman Arabshahi describes the academic and commercial Internet environment and lists institutional and political websites. Those pages provide a link-discovery route, but institutional or campaign sites are not personal expression. [The Internet in Iran: A Survey](https://www.iranian.com/WebGuide/InternetIran/InternetIran.html).\n\nThe first wave of Persian-language weblogs appears in 2001. Salman Jariri’s weblog is cited in later scholarship as an early or first Iranian weblog, with a reported first post on 7 September 2001. Hossein Derakhshan’s “Editor: Myself” is another early candidate. Yet language, nationality, residence and hosting are different forms of connection: the available record does not fully establish where each author was living when the sites began. These are strong leads in Persian-language personal publishing, not settled proof of the first personal website created inside Iran."
+    },
+    {
+      "heading": "What remains unresolved",
+      "markdown": "The project therefore keeps at least three questions separate: when Iranian institutions first joined international networks; when public Internet services became available; and when individuals began publishing personal pages. The 1992–95 academic and email evidence is much earlier than the 2001 weblog candidates, but it does not by itself prove a personal homepage existed then.\n\nThe next research step is to inspect the 1995 host lists, 1996 academic contacts and Gopher roots for staff/student home directories, and to establish the location of early weblog authors at the time of publication. This avoids turning a claim about the first Persian-language weblog into an unsupported claim about the first personal site in Iran."
+    }
+  ],
+  "image": null,
+  "sources": [
+    {
+      "label": "NSRC — IREARN node record",
+      "url": "https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488663:497420738",
+      "grade": "B"
+    },
+    {
+      "label": "arXiv — Iran-affiliated 1993 research record",
+      "url": "https://arxiv.org/abs/hep-th/9305084",
+      "grade": "A"
+    },
+    {
+      "label": "NSRC — Iran network report, November 1995",
+      "url": "https://www.nsrc.org/db/lookup/report.php?fromISO=IR&id=890202487943:497427936",
+      "grade": "B"
+    },
+    {
+      "label": "Payman Arabshahi — The Internet in Iran: A Survey",
+      "url": "https://www.iranian.com/WebGuide/InternetIran/InternetIran.html",
+      "grade": "B"
+    }
+  ]
+}\n-->\n
