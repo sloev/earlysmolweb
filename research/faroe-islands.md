@@ -76,7 +76,10 @@ Contemporary and retrospective Faroese sources document the public launch of the
 **Assessment:** This is a **verified institutional / commercial web-publishing milestone** for the Faroe Islands (newspaper online edition, database-driven). It is not a personal homepage. The contemporaneous reporting is strong (grade B) and is corroborated by later anniversary pieces. Exact first public URL path and any surviving 1997 captures remain open questions; the Faroese National Library web archive is the practical next place to look.
 
 The same Faroenet server also hosted early personal heimasíður and political-party pages by September 1997, providing a concrete lead for personal-page scouting.
-\n\n<!-- article-data\n{
+
+
+<!-- article-data
+{
   "title": "The Faroe Islands go online: shared networks, mail and a newspaper on the Web",
   "dek": "Faroese network visibility is documented in January 1995, institutional email by July, and the public launch of Internet Sosialin in November 1997.",
   "lead": "The early Faroese internet story is not a single “first website” date. It is a sequence: an externally visible network gateway, a working university mail system, broader access planning, and finally a database-driven online newspaper. The surviving record is strongest for institutions and publishing, while a verified locally authored personal homepage has not yet been identified.",
@@ -112,4 +115,5 @@ The same Faroenet server also hosted early personal heimasíður and political-p
       "grade": "B"
     }
   ]
-}\n-->\n
+}
+-->
