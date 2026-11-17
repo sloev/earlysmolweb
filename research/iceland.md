@@ -154,7 +154,10 @@ This is useful contemporary corroboration of the Icelandic network topology imme
 **Contemporary source:** Peter Houlder, “EUnet”, *AUUGN*, Vol. 8 No. 3–4 (August 1987), pp. 159–160; table “EUnet as of 27th April 1987”, Iceland row. Digitized issue: https://ftp.icm.edu.pl/packages/UnixArchive/Documentation/AUUGN/AUUGN-V08.34.pdf (PDF text lines 8178–8337; inspected 2026-11-16).
 
 **Assessment:** This is a contemporary published technical report, stronger for the April 1987 international topology than later institutional retrospectives. Preserve the distinction between direct EUnet backbone hosts, local UUCP nodes, Usenet newsfeed recipients, and later TCP/IP Internet connectivity.
-\n\n<!-- article-data\n{
+
+
+<!-- article-data
+{
   "title": "Iceland’s early internet: UUCP, the first Web server and a 1995 personal homepage",
   "dek": "Iceland’s international email and Usenet preceded its direct IP link in 1989; the University of Iceland put a website online in 1992, followed by a notable personal homepage in 1995.",
   "lead": "Iceland’s early internet history spans several distinct layers. A small UUCP community exchanged email and Usenet in the 1980s; a direct IP link arrived in 1989; the University of Iceland launched an institutional website in 1992; and a named personal homepage followed in 1995.",
@@ -195,4 +198,5 @@ This is useful contemporary corroboration of the Icelandic network topology imme
       "grade": "C"
     }
   ]
-}\n-->\n
+}
+-->
