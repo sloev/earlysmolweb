@@ -158,44 +158,44 @@ This is useful contemporary corroboration of the Icelandic network topology imme
 
 <!-- article-data
 {
-  "title": "Iceland’s early internet: UUCP, the first Web server and a 1995 personal homepage",
-  "dek": "Iceland’s international email and Usenet preceded its direct IP link in 1989; the University of Iceland put a website online in 1992, followed by a notable personal homepage in 1995.",
-  "lead": "Iceland’s early internet history spans several distinct layers. A small UUCP community exchanged email and Usenet in the 1980s; a direct IP link arrived in 1989; the University of Iceland launched an institutional website in 1992; and a named personal homepage followed in 1995.",
+  "title": "Björn Bjarnason begins publishing from his own homepage in 1995",
+  "dek": "In a speech delivered that December, Bjarnason recalled setting up his homepage with Reykjavík’s Miðheimar on 23 January 1995, then publishing columns, speeches and articles.",
+  "lead": "On 14 December 1995, Björn Bjarnason gave a first-person account of setting up his own homepage with the Reykjavík company Miðheimar earlier that year. He named 23 January 1995 as the setup date and described using the site for weekly columns, speeches and articles. It is a rare near-contemporary account of an individual in Iceland using a homepage as a continuing publishing platform.",
   "sections": [
     {
-      "heading": "A small network community before the Web",
-      "markdown": "The Icelandic UNIX Users Group was founded in November 1986. A contemporary report in the December 1987 *Australian UNIX Systems User Group Newsletter* describes eight Icelandic UUCP sites, four receiving Usenet, and names operators connected to the Marine Research Institute and University of Iceland. These `.uucp` addresses are evidence of network participation, not modern Internet email addresses or personal websites. [Contemporary 1987 report](https://mirror.math.princeton.edu/pub/unixarchive/Documentation/AUUGN/AUUGN-V08.6.pdf).\n\nOn **21 July 1989**, SURIS established direct IP communication between Iceland and NORDUnet in Denmark, using IP over X.25 over satellite. Telnet and FTP joined existing email and Usenet services. The distinction is important: direct IP connectivity began in 1989, but networked communication existed earlier. [ISNIC: 20 years of Internet in Iceland](https://www.isnic.is/en/news/view?id=143)."
+      "heading": "A homepage becomes a place to publish regularly",
+      "markdown": "In his December 1995 speech, “Leið mín inn á netið”, **Björn Bjarnason** said he had set up his homepage with **Miðheimar** on **23 January 1995**. He described an active publishing routine: weekly columns alongside speeches and articles. This makes the site more than a name in a later list of early Icelandic websites. The account connects an identifiable author, a Reykjavík-based web company, a date and a pattern of use. [Bjarnason’s speech, 14 December 1995](https://www.bjorn.is/greinar/nr/585)."
     },
     {
-      "heading": "The institutional Web arrives in 1992",
-      "markdown": "The University of Iceland reports that its website went online in **November 1992**. Magnús Gíslason downloaded Tim Berners-Lee’s World Wide Web software from Usenet and installed it at the university. The oldest surviving version mentioned by the university dates to 1994. This is a significant institutional Web milestone, not a personal homepage. [University of Iceland: the “pet project” turns 30](https://www.english.hi.is/news/pet-project-hiis-turns-30)."
+      "heading": "Several dates describe different moments",
+      "markdown": "The surviving accounts do not give one uncontested public-launch date. Bjarnason later described a trial setup around mid-January, named 23 January as the setup date in his 1995 speech, used 29 January as the site’s founding date in a 2007 entry, and identified 19 February as the first regular column or public announcement. A 2005 anniversary article also points to 19 February. These dates may refer to setup, trial access, first regular post and public announcement; they should not be collapsed into a single “first online” date. [Site history](https://www.bjorn.is/um-vefinn/) · [2005 anniversary article](https://www.visir.is/g/20051702386d/bjorn.is-tiu-ara) · [2007 date note](https://www.bjorn.is/dagbok/2007/nr/3880)."
     },
     {
-      "heading": "Björn Bjarnason’s personal homepage, 1995",
-      "markdown": "A strong named personal-homepage record concerns **Björn Bjarnason** and `www.bjorn.is`. In a speech delivered on **14 December 1995**, he said he had set up the homepage with Miðheimar on **23 January 1995**, then used it for weekly columns, speeches and articles. Other recollections distinguish the setup date from a first regular post or public announcement around 19 February, and a later stated founding date of 29 January. Those dates should remain separate rather than being collapsed into a single exact launch claim.\n\nThe page is a strong probable example of early Icelandic personal publishing, but the absence of a preserved 1995 capture remains an important verification gap. The Icelandic Web Archive begins in 1996, and the current project is seeking original files or server records from the archive and Miðheimar. [Björn’s site history](https://www.bjorn.is/um-vefinn/) · [2005 anniversary article](https://www.visir.is/g/20051702386d/bjorn.is-tiu-ara)."
+      "heading": "Why the original 1995 page still matters",
+      "markdown": "The current site preserves useful history, but its own notes warn that an item dated 23 January 1995 was re-entered in July 2004 after being omitted during a 2002 migration. It is not an original 1995 capture. The Icelandic Web Archive begins in 1996, so an independent 1995 copy remains an open preservation task. The evidence supports a strongly corroborated early personal homepage and a near-contemporary setup date; it does not yet prove that this was Iceland’s first personal website. [Icelandic Web Archive](https://landsbokasafn.is/en/web-archive/)."
     }
   ],
   "image": null,
   "sources": [
     {
-      "label": "ICEUUG contemporary report, December 1987",
-      "url": "https://mirror.math.princeton.edu/pub/unixarchive/Documentation/AUUGN/AUUGN-V08.6.pdf",
-      "grade": "B"
-    },
-    {
-      "label": "ISNIC — 20 years of Internet in Iceland",
-      "url": "https://www.isnic.is/en/news/view?id=143",
-      "grade": "B"
-    },
-    {
-      "label": "University of Iceland — first website anniversary",
-      "url": "https://www.english.hi.is/news/pet-project-hiis-turns-30",
+      "label": "Björn Bjarnason — “Leið mín inn á netið”, 14 December 1995",
+      "url": "https://www.bjorn.is/greinar/nr/585",
       "grade": "B"
     },
     {
       "label": "Björn Bjarnason — site history",
       "url": "https://www.bjorn.is/um-vefinn/",
       "grade": "C"
+    },
+    {
+      "label": "Vísir — 10-year anniversary article, 19 February 2005",
+      "url": "https://www.visir.is/g/20051702386d/bjorn.is-tiu-ara",
+      "grade": "B"
+    },
+    {
+      "label": "National and University Library of Iceland — Web Archive",
+      "url": "https://landsbokasafn.is/en/web-archive/",
+      "grade": "B"
     }
   ]
 }
