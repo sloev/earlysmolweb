@@ -175,4 +175,4 @@ The project is not limited to personal expression or to the World Wide Web. Seek
 
 ## Public research website
 
-The public-facing research atlas is served from GitHub Pages using `main /docs`. The page is generated from the Markdown files in `research/`; do not maintain a separate hand-edited copy of the findings. The generator is `scripts/build_site.py`, and `.github/workflows/publish-research-site.yml` rebuilds and commits `docs/index.html` when research files or the generator inputs change on `main`. The published presentation is an index of the research notes; the Markdown files remain the canonical research record. The collaboration log is not included in the website.
+The public-facing research atlas is served from GitHub Pages using `main /docs`. It reads the Markdown files in `research/` directly from the public `main` branch whenever a visitor opens the page. New research files and edits are therefore reflected automatically on the next page load; do not maintain a separate copy of the findings. The Markdown files remain the canonical research record. The collaboration log is not included in the website.
