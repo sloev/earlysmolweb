@@ -137,3 +137,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Infrastructure candidate MH-01 recorded (grade A for delegation date); personal-expression track remains open with no candidates.
 **Next handoff:** Search Wayback for nic.net.mh / early NTA or .mh captures; check Marshall Islands Journal and Pacific ICT reports for 1996–2003; continue parallel Pacific scouting (Palau, Micronesia).
+
+## 2026-11-17 — DONE: Federated States of Micronesia 1996 IP reachability and dial-up service advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read Micronesia research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Located and inspected primary NSRC records: Olivier MJ Crepin-Leblond 4 Nov 1996 traceroute to www.telecom.fm (206.49.89.8) and Robert H. Blissmer operator reports (17 Nov 1996 and 28 Feb 1997) describing Windows NT servers, 128 kbps Sprint link, dial-up across all four states, and 280 subscribers. Confirmed IANA .fm delegation date of 19 April 1995. Added structured candidates FM-01 (connectivity) and FM-02 (domain infrastructure). No personal homepage located.
+
+**Sources:** NSRC First Ping FM 4 Nov 1996: https://nsrc.org/db/lookup/report.php?id=890202503340:497431180&fromISO=FM; NSRC Connectivity Update 17 Nov 1996: https://nsrc.org/db/lookup/report.php?fromISO=FM&id=890202503239:497432694; NSRC FSM Connectivity 28 Feb 1997: https://nsrc.org/db/lookup/report.php?fromISO=FM&id=890202503125:497434014; IANA .fm: https://www.iana.org/domains/root/db/.fm.html.
+
+**Files changed:** `research/micronesia.md` (expanded primary evidence, added YAML candidates FM-01/FM-02, refined status/next actions); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. Exact first customer dial-up date per state and continuous operation not fully established. No local-language newspaper or early Wayback captures of telecom.fm recovered in this pass.
+
+**Verification:** Edits made on existing main only; research commit `a150897a0a1a942e615ce25efd759933acd27f7a`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidate FM-01 (grade A) and infrastructure candidate FM-02 (grade A for delegation) recorded; personal-expression track remains open with no candidates.
+**Next handoff:** Recover Wayback of www.telecom.fm / www.fm from 1996–99; search local newspapers and university pages for early personal sites; continue parallel Pacific scouting (Palau) and first-wave items.
