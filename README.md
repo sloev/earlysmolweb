@@ -21,7 +21,7 @@ We investigate more than the World Wide Web: connectivity, email, mailing lists,
 - Country register — coverage and flexible discovery priorities.
 - Public research website — searchable presentation generated from the research files.
 
-The website is generated from the Markdown files in research/. A GitHub Actions workflow rebuilds docs/index.html whenever research or the site generator changes on main. GitHub Pages serves the generated site from main /docs.
+The website reads the current Markdown research files from the public main branch whenever a visitor opens the page. New files and edits therefore appear automatically on the next page load; there is no second hand-maintained dataset or publishing workflow. GitHub Pages serves the page from main /docs.
 
 ## Contributing
 
