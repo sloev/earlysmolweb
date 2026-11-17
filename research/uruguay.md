@@ -299,3 +299,45 @@ Bissio then dates the local Chasque system to **1989**: an XT computer and four-
 - Independent retrospective corroboration: https://rimisp.org/wp-content/files_mf/1359136070LibroInternetii.pdf, *Impactos sociales de las Tecnologías de Información y Comunicación (TIC) en Latinoamérica y el Caribe* (FLACSO/IDRC, 2001), chapter on local impact in Montevideo; it places ITeM's use of ICT in 1986 and Chasque's first civic-use provider role in 1989.
 - Evidence grade: **C** for the exact early dates (first-person retrospective account; 2001 research volume based on interviews with Bissio and other network operators). The account is detailed but still retrospective; no original 1986 mail headers or 1989 system logs have yet been located.
 - Category: email / BBS / store-and-forward gateway / UUCP; operator: nonprofit/community; network status changes by phase—remote email via foreign BBS/X.25, local dial-up BBS, then external packet/UUCP email. Do not label the 1986 mailbox as a Uruguay-based Internet node.
+\n\n<!-- article-data\n{
+  "title": "Uruguay’s early internet: Chasque, academic networks and the first local Web services",
+  "dek": "Uruguay’s early network culture included civic and academic services before the Web; by 1995, Chasque, RAU and local portals were opening new forms of publishing and communication.",
+  "lead": "Uruguay’s early online history is a mix of civic networking, academic infrastructure and user-created publishing. The record points to Chasque as an important community network, while the Red Académica Uruguaya and early portals mark the transition to a more visible national Web.",
+  "sections": [
+    {
+      "heading": "Community networks and access before the Web",
+      "markdown": "Chasque grew out of Uruguay’s civic and nonprofit networking environment. A participant account by Roberto Bissio traces its beginnings to the 1980s, and later regional research describes Chasque as an important community network in Montevideo. NSRC records from 1995 identify Chasque as a host/node for the Instituto del Tercer Mundo; a 1996 operator report describes it as Uruguay’s APC node, online since 1989, and providing interactive and PPP/SLIP access to Internet services. [Roberto Bissio’s account](https://interred.wordpress.com/1986/02/26/chasque-nacio-solo-para-que-la-gente-se-comunique-mejor/) · [NSRC Chasque archive](https://nsrc.org/db/lookup/ISO%3DUY).\n\nA later study says Chasque began offering Internet access to the general public in **August 1995**, including the ability for users to upload their own pages without institutional affiliation. This is a promising route to early personal publishing, but the hosting conventions and surviving individual pages still need to be recovered."
+    },
+    {
+      "heading": "Academic Web publishing and the first portals",
+      "markdown": "The Red Académica Uruguaya (RAU), administered by SeCIU, announced that its WWW server went live on **1 November 1995**. This is a clear institutional Web milestone and a likely pathway to early student and staff pages, not itself a personal homepage. [Contemporary NSRC announcement](https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529463:497423571).\n\nOther early sites show how varied the first Web ecology was. The Peñarol fan site Manya Page is retrospectively dated to **1 October 1995**, but its founders initially hosted a version in the United States and collected contributions from fans abroad; it is best treated as a collective fan site with an attribution question, not a personal homepage. Montevideo Portal’s first version is dated to November 1995 and reportedly included chat and free email, making it a useful lead into early user communities. [Manya Page retrospective](https://www.padreydecano.com/cms/entrevistas/hace-21-anos-se-creaba-el-primer-sitio-web-de-penarol/) · [Montevideo Portal anniversary](https://www.montevideo.com.uy/Archivo/25-anos-del-Portal-cuando-los-muchachos-de-Montevideo-se-hicieron-noticia-uc772696)."
+    },
+    {
+      "heading": "A history still being assembled",
+      "markdown": "The .uy domain was delegated in 1990 and early registrations included academic sites. Domain registration, however, is not proof that ordinary users had local Web access or personal pages. The current evidence supports a rich community and academic ecosystem by the mid-1990s, but no earliest Uruguay-resident personal homepage has yet been verified.\n\nThe most useful next step is to locate Chasque’s historic user-page URL patterns and archived member directories, then inspect the RAU and university hosts for student and staff pages. Spanish-language sources, local newspapers and web archives may reveal material missing from international summaries."
+    }
+  ],
+  "image": null,
+  "sources": [
+    {
+      "label": "Roberto Bissio — Chasque origin account",
+      "url": "https://interred.wordpress.com/1986/02/26/chasque-nacio-solo-para-que-la-gente-se-comunique-mejor/",
+      "grade": "C"
+    },
+    {
+      "label": "NSRC — Chasque / Uruguay archive",
+      "url": "https://nsrc.org/db/lookup/ISO%3DUY",
+      "grade": "B"
+    },
+    {
+      "label": "NSRC — RAU WWW server announcement, November 1995",
+      "url": "https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529463:497423571",
+      "grade": "B"
+    },
+    {
+      "label": "Montevideo Portal — 25-year retrospective",
+      "url": "https://www.montevideo.com.uy/Archivo/25-anos-del-Portal-cuando-los-muchachos-de-Montevideo-se-hicieron-noticia-uc772696",
+      "grade": "C"
+    }
+  ]
+}\n-->\n
