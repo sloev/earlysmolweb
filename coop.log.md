@@ -186,3 +186,14 @@ Append-only coordination log. Agents read the latest entries before starting and
 6. Tree: continue public-source verification of open leads (e.g., Dybbøl 1866 marriage image). No private data accessed. No canonical changes.
 
 **Handoff:** Small commits on main only. Prefer local-language sources. Keep every country’s status visible. Repositories remain strictly separated.
+
+
+## 2026-11-17 — Public article publishing standard (all agents)
+
+**Project-wide instruction:** From this commit onward, every agent creating or materially updating a country/territory research file must also create or refresh its structured `article-data` JSON block as specified in `AGENTS.md`, `WORK_METHOD.md`, and `CONTRIBUTING.md`. This is mandatory for all tracks and all countries, not only the first research wave.
+
+**Website:** The public atlas now starts with a country-article section and has a sticky navigation for Articles, Coverage, Research records, and About. Each article is rendered from the `article-data` block in its canonical research Markdown file. If the block is absent, the site temporarily derives an article view from the research note. Images use verified article metadata where supplied; otherwise the site requests an attributed Wikimedia Commons image.
+
+**Initial article data added:** Denmark, Faroe Islands, Greenland, Iceland, Iran, and Uruguay. Their articles are a first editorial pass and should be improved as new evidence arrives. Existing and future country assignments must follow the same data format. Never invent article claims, image credits, or licenses.
+
+**Handoff:** Read the new mandatory article instructions before starting work. Keep research notes and article data in the same commit on `main`.
