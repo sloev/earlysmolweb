@@ -57,3 +57,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidate NR-01 recorded as candidate (grade B contemporary + C retrospective); personal-expression track remains open with no candidates.
 **Next handoff:** Search for earliest Wayback captures of cenpac.net.nr, local newspaper coverage of the 1998 launch, and any surviving user directories or personal pages from the initial ISP period. Continue local-language and oral-history leads for Pacific micro-states.
+
+## 2026-11-17 — DONE: Kiribati TSKL .ki website lead advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read Kiribati research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Located and inspected a contemporary directory claim (2005 Wayback) that TSKL was the first website on the Kiribati domain, plus December 2004 Wayback captures of tskl.net.ki. Added structured candidate KI-01 for the institutional website. No personal homepage or individual publishing candidate located. Entrepreneur site from Sofield 2002 remains unidentified.
+
+**Sources:** Wysiwyg Kiribati directory (Wayback 2005-07-15): https://web.archive.org/web/20050715085115/http://www.wysiwyg.co.nz/kiribati/; tskl.net.ki (Wayback 2004-12-10): https://web.archive.org/web/20041210090621/http://www.tskl.net.ki/; Sofield 2002 JCMC; Allinson 2000 briefing (catalogue only); IANA .ki record (1995).
+
+**Files changed:** `research/kiribati.md` (added TSKL section, YAML candidate KI-01, updated status and next actions); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. Pre-2004 captures of tskl.net.ki not found. Original Allinson paper and entrepreneur site not inspected. No Gilbertese-language personal pages located in this pass.
+
+**Verification:** Edits made on existing main only; no branches or PRs created. Private data not involved.
+
+**Status:** Institutional website candidate KI-01 recorded (grade B contemporary directory claim + A archive capture); personal-expression track remains open with no candidates.
+**Next handoff:** Identify the Sofield 2002 entrepreneur site and its earliest capture; search for pre-2004 tskl.net.ki or other early .ki sites; inspect Allinson 2000 paper; continue local-language and diaspora searches.
