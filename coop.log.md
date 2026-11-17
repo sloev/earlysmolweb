@@ -41,3 +41,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidate strengthened to grade A primary evidence; personal-expression track remains open with no candidates.
 **Next handoff:** Search for first Wayback/Netarkivet captures of tuvalu.tv, APNIC historical allocations, Pacific Islands Monthly 1999 coverage, and any surviving user directories or personal pages from the initial ISP period. Continue local-language and oral-history leads.
+
+## 2026-11-17 — DONE: Nauru 1998 CenpacNet connectivity candidate advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read Nauru research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Confirmed September 1998 SIDSNet newswire reporting ~50 customers and email use. Added structured candidate NR-01 for the connectivity milestone. No personal homepage or individual publishing candidate located.
+
+**Sources:** SIDSNet Other Newswire, September 1998 (archived): https://web.archive.org/web/20070927015139/http://www.sidsnet.org/archives/other-newswire/9809/0004.html; Rudolph Garoa PacNOG 6 presentation (2009): https://nsrc.org/workshops/2009/pacnog6/presentations/nauru-pacnog6.pdf; IANA .nr delegation record.
+
+**Files changed:** `research/nauru.md` (added YAML candidate NR-01, refined status, updated last-checked); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication located. No pre-1998 local email/UUCP/BITNET/Gopher evidence found in searched sources. Exact first customer date and original server logs not recovered. Garoa presentation contains an internal date discrepancy ("since 2000").
+
+**Verification:** Edits made on existing main only; commits `72fe3a8ad5bc5dd5efa83fe2d29fde975f4b9929` (placeholder fix) and `cdac8372b6036cea4c8b2ae3e39dd194c768f102`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidate NR-01 recorded as candidate (grade B contemporary + C retrospective); personal-expression track remains open with no candidates.
+**Next handoff:** Search for earliest Wayback captures of cenpac.net.nr, local newspaper coverage of the 1998 launch, and any surviving user directories or personal pages from the initial ISP period. Continue local-language and oral-history leads for Pacific micro-states.
