@@ -19,7 +19,7 @@ We investigate more than the World Wide Web: connectivity, email, mailing lists,
 - Research findings — country and territory research notes in research/.
 - Working method — scope, evidence standards, record format, and research ethics.
 - Country register — coverage and flexible discovery priorities.
-- Public research website — searchable presentation generated from the research files.
+- Public research website — live searchable atlas with country coverage, priority research gaps, and expandable source notes.
 
 The website reads the current Markdown research files from the public main branch whenever a visitor opens the page. New files and edits therefore appear automatically on the next page load; there is no second hand-maintained dataset or publishing workflow. GitHub Pages serves the page from main /docs.
 
