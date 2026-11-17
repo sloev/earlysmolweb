@@ -80,38 +80,38 @@ The same Faroenet server also hosted early personal heimasíður and political-p
 
 <!-- article-data
 {
-  "title": "The Faroe Islands go online: shared networks, mail and a newspaper on the Web",
-  "dek": "Faroese network visibility is documented in January 1995, institutional email by July, and the public launch of Internet Sosialin in November 1997.",
-  "lead": "The early Faroese internet story is not a single “first website” date. It is a sequence: an externally visible network gateway, a working university mail system, broader access planning, and finally a database-driven online newspaper. The surviving record is strongest for institutions and publishing, while a verified locally authored personal homepage has not yet been identified.",
+  "title": "The night Sosialurin put its newspaper on the Faroese Web",
+  "dek": "Internet Sosialin launched on 25 November 1997, with its first public issue the following day—a database-driven online edition built with Dynamic Paper / FarCom.",
+  "lead": "On 25 November 1997, the Faroese newspaper Sosialurin launched Internet Sosialin. The first public issue followed on 26 November. Rather than simply placing a brochure online, the newspaper used a database-driven publishing system developed with Dynamic Paper / FarCom. It was a specific local publishing project, built around a familiar Faroese institution.",
   "sections": [
     {
-      "heading": "From a visible gateway to working institutional email",
-      "markdown": "A traceroute from Imperial College London reached the Faroese-labelled gateway `dk-gw.sleipnir.fo` on **19 January 1995**. A few days later, UNI-C contact Erik Lawaetz cautioned that the Faroe Islands were connected but that his contacts had not yet brought mail-capable machines online. The distinction matters: network routing visibility does not automatically mean that users already had functioning email or Web services. [NSRC routing record](https://nsrc.org/db/lookup/report.php?fromISO=FO&id=890202446086:497432752) · [NSRC January update](https://nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445976:497434210).\n\nBy **31 July 1995**, University of the Faroe Islands network administrator Jógvan Martin Grastein described a 64 Kbit/s leased line to UNI-C in Denmark and a shared SLEIPNIR server providing email for the university and research institutions in Tórshavn. The Web/FTP server was still being prepared at that point; it should not be backdated to January. [Contemporary NSRC report](https://www.nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445799:497435668)."
+      "heading": "From experiments to a launch date",
+      "markdown": "Sosialurin had experimented with online content in 1995–96 before making the public launch of **Internet Sosialin** on **25 November 1997**. Its first issue appeared the next day. A pre-launch announcement from 29 September 1997 and a twentieth-anniversary retrospective preserve the sequence and make the November launch more than an undated claim that the paper was “on the Internet” in the late 1990s. [Pre-launch announcement](https://in.fo/news-detail/sosialurin-vordin-heimsumfatandi) · [Sosialurin’s 20-year retrospective](https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar)."
     },
     {
-      "heading": "The first major public Web-publishing milestone",
-      "markdown": "The newspaper *Sosialurin* moved from experiments with online content in 1995–96 to a public launch of **Internet Sosialin on 25 November 1997**. The first public issue followed on 26 November. The publishing system was developed with Dynamic Paper / FarCom and generated pages from a database, an early example of automated online publishing in Faroese. This was a newspaper, not a personal homepage. [20-year retrospective](https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar) · [Pre-launch announcement, 29 September 1997](https://in.fo/news-detail/sosialurin-vordin-heimsumfatandi)."
+      "heading": "A newspaper generated from a database",
+      "markdown": "The online edition was developed with **Dynamic Paper / FarCom** and generated its pages from a database. That detail makes the launch a story about publishing technology as well as connectivity: the newspaper was adapting an editorial operation to a new medium, not merely uploading a static page. The surviving retrospective is the source for the development partnership and publishing approach; further work should recover the original interface, screenshots and the people who built and edited the service."
     },
     {
-      "heading": "Personal pages and the limits of the surviving record",
-      "markdown": "A retrospective interview with Elin Brimheim Heinesen says she created her first personal homepage in spring 1997. However, her biography places her in Copenhagen at the time, so this is not currently evidence of a page created by a Faroes-resident author. [Her 2008 interview](https://heinesen.info/wp/blog/2008/09/18/at-vera-sjonligur-a-internetinum-er-tad-gott-ella-ringt/) is a valuable lead, but the original URL and a dated capture remain unknown.\n\nThe Faroese National Library’s web archive is the most promising route for finding locally hosted pages and checking authorship. For now, the careful conclusion is that the project has documented early institutional networking and a major 1997 online newspaper, but has not verified the earliest Faroese personal homepage."
+      "heading": "The wider Faroese network behind the paper",
+      "markdown": "The launch followed earlier institutional networking. A July 1995 report by University of the Faroe Islands network administrator Jógvan Martin Grastein describes a 64 Kbit/s leased line to UNI-C in Denmark and a shared SLEIPNIR server providing email to the university and research institutions in Tórshavn. The Web/FTP server was still being prepared then. That chronology helps explain the infrastructure from which later publishing emerged, but it should not be mistaken for the newspaper’s launch. [Contemporary NSRC report, 31 July 1995](https://www.nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445799:497435668)."
     }
   ],
   "image": null,
   "sources": [
     {
-      "label": "NSRC — Faroese network report, 31 July 1995",
-      "url": "https://www.nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445799:497435668",
-      "grade": "B"
-    },
-    {
-      "label": "NSRC — Faroese routing, 19 January 1995",
-      "url": "https://nsrc.org/db/lookup/report.php?fromISO=FO&id=890202446086:497432752",
-      "grade": "B"
-    },
-    {
-      "label": "Sosialurin 20-year retrospective",
+      "label": "Sosialurin — 20-year retrospective of Internet Sosialin",
       "url": "https://in.fo/news-detail/sosialurin-hevur-verid-toekur-a-netinum-i-20-ar",
+      "grade": "B"
+    },
+    {
+      "label": "Sosialurin — pre-launch announcement, 29 September 1997",
+      "url": "https://in.fo/news-detail/sosialurin-vordin-heimsumfatandi",
+      "grade": "B"
+    },
+    {
+      "label": "NSRC — University of the Faroe Islands network report, 31 July 1995",
+      "url": "https://www.nsrc.org/db/lookup/report.php?fromISO=FO&id=890202445799:497435668",
       "grade": "B"
     }
   ]
