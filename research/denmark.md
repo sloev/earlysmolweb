@@ -138,32 +138,27 @@ Source: http://webhistorie.dk/timeline-2/ (inspected 2026-11-16; last edit noted
 
 <!-- article-data
 {
-  "title": "Denmark’s early internet: from dial-up email to personal homepages",
-  "dek": "Denmark’s network history reaches back to academic email in 1983. By February 1995, a national radio archive was already discussing a named Danish personal homepage.",
-  "lead": "The Danish story begins well before the Web. In January 1983, the University of Copenhagen’s computer science department documented an international email exchange with the Netherlands. A decade later, Denmark had a broad academic and commercial network ecosystem; by February 1995, personal homepages had entered public discussion.",
+  "title": "Michael Maardt’s homepage becomes a subject on Danish radio",
+  "dek": "A DR programme from 19 February 1995 introduced the person behind Brug din PC optimalt as a publisher of a private homepage. The original page has not yet been recovered.",
+  "lead": "On 19 February 1995, Danish radio programme Harddisken devoted a segment to the idea of putting private life on a personal homepage. The Royal Danish Library’s DR archive catalogue identifies Michael Maardt as the person behind the computer publication Brug din PC optimalt. It is a small but unusually concrete glimpse of personal Web publishing becoming a public topic in Denmark.",
   "sections": [
     {
-      "heading": "Email and network culture before the Web",
-      "markdown": "On **2 January 1983**, Keld Simonsen at the University of Copenhagen’s Department of Computer Science (DIKU) sent a test email to a contact in the Netherlands and received a reply. The university’s history describes a network in which machines dialled one another periodically to exchange messages. By 1984, ten more Danish computers had joined and researchers could obtain email access. This was an important network milestone, not a website. [University of Copenhagen: department history](https://di.ku.dk/english/about/department_history/new_opportunities_in_research/).\n\nDuring the 1980s, Danish participation in UUCP, EUnet and later DEnet widened the exchange of email and Usenet. Copenhagen University joined DEnet in 1988 through EUnet in the Netherlands; interactive terminal access followed in 1989 through NORDUnet. These services created the technical and social environment from which later Web publishing emerged."
+      "heading": "A homepage enters the radio conversation",
+      "markdown": "The surviving catalogue entry for the broadcast is unusually specific: its segment title is “Showcase your private life on your own personal homepage”, and it names **Michael Maardt** in connection with *Brug din PC optimalt*. This is contemporary evidence that a named Danish homepage publisher was being introduced to radio listeners in February 1995—not simply a later recollection that personal websites existed around that time. [Royal Danish Library / DR archive catalogue](https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59)."
     },
     {
-      "heading": "A personal homepage enters the public record",
-      "markdown": "A particularly useful contemporary clue comes from the Royal Danish Library’s DR archive catalogue. A *Harddisken* programme broadcast on **19 February 1995** included a segment titled “Showcase your private life on your own personal homepage” and introduced **Michael Maardt** as the person behind the computer publication *Brug din PC optimalt*. The catalogue establishes that a Danish personal homepage was being discussed publicly by that date; it does not yet reveal the original URL or prove the exact day the page went online. [DR archive catalogue](https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59).\n\nMaardt’s biographical account connects him to Denmark, and his later site history says his website dates from 1995. The current evidence is strong for early personal-homepage presence, but the original 1995 page and its first capture remain to be recovered. A November 1995 family homepage attributed to Familien Madsen Smed is another candidate, while Elin Brimheim Heinesen’s spring 1997 account is relevant to Denmark because she was then living in Copenhagen."
+      "heading": "The page behind the broadcast is still missing",
+      "markdown": "Maardt’s later account dates his website to 1995, but the original URL and a contemporaneous capture have not yet been located. The broadcast catalogue therefore anchors a public discussion and identifies a person; it does not by itself prove the homepage’s exact launch date, hosting arrangement or contents. Those details matter if the page is to be compared with other Danish homepages from the same year. [Royal Danish Library: History of the Danish Web, 1992–1997](https://www.kb.dk/en/services/cultural-heritage-research-and-study/history-danish-web-1992-1997)."
     },
     {
-      "heading": "What the evidence can—and cannot—say",
-      "markdown": "Denmark’s national web history project studies early material preserved as WARC files and made searchable through SolrWayback. That archive is a promising route to recovering Maardt’s original page and other early personal sites, including pages hosted outside the .dk domain. [Royal Danish Library: History of the Danish Web, 1992–1997](https://www.kb.dk/en/services/cultural-heritage-research-and-study/history-danish-web-1992-1997).\n\nThe current record therefore supports a long pre-Web network chronology and a named personal-homepage presence by February 1995. It does not yet establish the earliest Danish page ever published. Institutional services, personal homepages, family pages and pages by Danish authors living abroad must remain separate categories."
+      "heading": "Why this particular trace matters",
+      "markdown": "The story is not that Denmark’s Internet began in 1995. Danish academic networks and email were already established earlier. What makes this trace valuable is its focus on an individual’s homepage as a form of self-presentation, described to a general radio audience while the Web was still new. The next step is to recover the broadcast audio and identify Maardt’s original page or its hosting provider. Until then, this is a documented contemporary mention of a named homepage—not a claim to Denmark’s first personal website."
     }
   ],
   "image": null,
   "sources": [
     {
-      "label": "University of Copenhagen — department history",
-      "url": "https://di.ku.dk/english/about/department_history/new_opportunities_in_research/",
-      "grade": "B"
-    },
-    {
-      "label": "DR archive catalogue — Harddisken, 19 February 1995",
+      "label": "Royal Danish Library — DR archive, Harddisken, 19 February 1995",
       "url": "https://www.kb.dk/find-materiale/dr-arkivet/post/ds.radio:oai:io:5c9e7940-2f63-40d9-a916-eff4da0baf59",
       "grade": "B"
     },
