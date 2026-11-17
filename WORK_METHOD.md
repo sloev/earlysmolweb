@@ -180,9 +180,9 @@ The public-facing research atlas is served from GitHub Pages using `main /docs`.
 
 ## Public country articles and image data
 
-Each country/territory research file also contains one structured `article-data` JSON block inside an HTML comment. This is the source data for the public article cards and full article pages; the website renders it through a shared template. The Markdown research record remains canonical, so article data must never introduce claims that are absent from the evidence note.
+A country/territory research file may contain one structured `article-data` JSON block inside an HTML comment when a specific, tellable story is supported. The website renders only these authored blocks; it does not turn raw research notes into articles. The Markdown research record remains canonical, so article data must never introduce claims absent from the evidence note.
 
-Every new country file must include the block, and every substantive research update must refresh it. Write a short, coherent public-facing article with a headline, standfirst, lead, and sections. Explain the local network context, important dated milestones, what the evidence actually demonstrates, and the unresolved questions. A thin evidence base should produce a concise, appropriately qualified article—not padded prose or invented certainty.
+Add or refresh the block only when there is a specific story to tell; otherwise omit it. Write a short, coherent, reported narrative with a headline, standfirst, lead, and sections. Do not turn a country timeline, infrastructure summary, lead list, or evidence gap into an article. A thin evidence base should produce no article—not padded prose or invented certainty.
 
 Required fields:
 - `title`: reader-facing headline.
@@ -192,7 +192,7 @@ Required fields:
 - `image`: a sourced image object or `null`.
 - `sources`: a short array of source objects (`label`, `url`, optional `grade`).
 
-For images, prefer legally reusable material from Wikimedia Commons, public-domain government sources, national libraries, and archives. Store a direct HTTPS image URL, accurate alt text, meaningful caption, creator/rights-holder, exact license, and source/file page URL. Confirm reuse conditions and include attribution. Do not use arbitrary hotlinked search results or fabricate a credit/license. If no suitable image is confirmed, use `null`; the site will attempt an attributed Wikimedia Commons fallback.
+For images, prefer legally reusable material from Wikimedia Commons, public-domain government sources, national libraries, and archives. Store a direct HTTPS image URL, accurate alt text, meaningful caption, creator/rights-holder, exact license, and source/file page URL. Confirm reuse conditions and include attribution. Do not use arbitrary hotlinked search results or fabricate a credit/license. If no suitable, reusable and accurately identified image is confirmed, use `null`; the site will publish without an image.
 
 The article layer is a generated presentation of this data, not a separate website to maintain. Do not hand-edit article HTML or duplicate the same article elsewhere. Keep all factual claims, dates, classifications, and uncertainty consistent with the evidence log. Article content and image metadata should be committed alongside the research update.
 
