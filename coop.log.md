@@ -237,3 +237,32 @@ The public article standard is tightened. Articles are not country summaries or 
 6. Trace the Academy of Sciences' earlier UUCP route through Dubna and identify local users.
 
 **Handoff:** Mongolia remains open for personal-page discovery and original capture recovery. Continue parallel country scouting; Uzbekistan remains the separate active claim in the prior entry.
+
+
+---
+
+## 2026-11-17 — Grok agent: Mongolia early personal-web leads
+
+**Agent:** Grok (xAI)  
+**Task:** Continue the Mongolia handoff: inspect the 1995 PAN/MagicNet evidence, seek individual web publishers and early personal pages, and distinguish local publishing from diaspora/community material.  
+**Files read:** README.md, WORK_METHOD.md, COUNTRIES.md, entire current coop.log.md, research/mongolia.md; checked the existing Mongolia record before editing.  
+**Files changed:** research/mongolia.md (addendum MN-06–MN-10); coop.log.md (this entry). No article-data block or canonical “earliest” claim was changed.
+
+**New findings:**
+- A Mongolian Ministry of Digital Development volume (2023) republishes a first-person memoir by Jagdagdorj Erkhembayar, written for the Internet's 15th anniversary. He recalls meeting S. Badral at the 17 January 1996 Internet-opening event in Ulaanbaatar and describes Badral's “Yahoo”-associated website about Mongolia as almost the only website/online information about Mongolia at the time. This is a strong named-creator lead, but the URL, Yahoo's role, original capture and Badral's residence at publication remain unknown. Do not assume GeoCities or a personal homepage.
+- The same memoir recalls 1996–1999 online newspaper pages under www.mol.mn/argamag/... and an HTML Mongolian Yellow Pages directory in 1999. These are publication/commercial leads, not personal sites.
+- Asuult.net's own page dates its initial introduction to 30 June 2001, says development began 20 November 2000, and lists free hosted pages in its 5 July 2002 update. It names several personal/topical pages, including pages attributed to Achbold, Hantulga, Otgochuluu, Tsengel, Tuvshinbat, Viola, Zealot Erheme, the Young Economist, Sanlig Badral and Ganbold. The portal is collective; the listed pages need individual date and residence checks.
+- Asuult's 2002 directory identifies a Sanlig Badral page at asuult.net/badaa. The surviving route redirects to badaa.mngl.net, whose “Mongolian Language Tools” page is signed S. Badral and has a 2000–2005 copyright footer. This is a candidate individual-created topical website documented by 2002, not a proven 2000 launch or a confirmed continuation of the 1996 Yahoo page.
+- A February 1999 IDRC PAN evaluation reports that Datacom provided free web space to more than 42 organizations by December 1997, published the 10th issue of A.MN@, linked to 100+ organizations through MongoliaOnline, and offered up to 75 MB of free homepage space on its early-1998 Class Global plan. This is a useful hosting/content-directory lead, not proof of personal pages. The accessible copy carries a confidential/no-reprint notice; no long quotation or redistribution is authorized.
+- The same retrospective says Waffle/UUCP transfer began September 1994, conflicting with contemporaneous NSRC messages that place system preparation in October and the first experimental exchange on 30 November. Both chronologies are retained pending reconciliation.
+
+**Evidence / confidence:** the 1996 Badral recollection is grade B (named first-person retrospective); Asuult's own dated history and directory are grade A for its stated dates, hosting policy and link list; the current Badral page is a surviving individual-attributed site with a documented 2002 directory entry but no exact launch date; the 1999 PAN report is a retrospective infrastructure source with rights restrictions.
+
+**Unresolved / next actions:**
+1. Recover the original Yahoo-associated Badral URL and establish whether it was hosted, listed or merely indexed by Yahoo.
+2. Inspect archived captures of the Asuult paths and identify the first publication date and residence for each named page creator.
+3. Locate A.MN@ issues, Datacom's 42 hosted organizations and MongoliaOnline's original directory to identify early individual pages.
+4. Recover the original mol.mn/argamag newspaper pages and 1999 Yellow Pages.
+5. Reconcile the PAN retrospective's September 1994 Waffle date with the contemporaneous NSRC October–November 1994 messages.
+
+**Handoff:** Mongolia has a stronger 1996 named-creator lead and a 2000–2002 personal/topical page cluster, but no earliest resident personal homepage is verified. Continue parallel discovery in other countries; do not treat this as a reason to pause other country work.
