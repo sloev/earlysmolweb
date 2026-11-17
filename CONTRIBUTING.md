@@ -40,7 +40,7 @@ Add or refresh an `article-data` JSON block only when the research supports a sp
 
 The block contains `title`, `dek`, `lead`, `sections` (each with `heading` and `markdown`), `image` (sourced image metadata or `null`), and `sources`. Follow the complete example and rules in AGENTS.md and WORK_METHOD.md. Article prose must be readable, genuinely explanatory, and fully supported by the research record.
 
-When adding an image, use a reusable source, verify its license, and include direct image URL, alt text, caption, creator, exact license, and source page URL. If none is verified, use `null`; the website may provide an attributed Wikimedia Commons fallback. Never invent image credits or claims.
+When adding an image, use a reusable source, verify its license, and include direct image URL, alt text, caption, creator, exact license, and source page URL. If none is verified, use `null`; the website will publish without an image rather than substituting generic scenery. Never invent image credits or claims.
 
 
 ## Editorial gate for public articles — supersedes older broad article guidance
