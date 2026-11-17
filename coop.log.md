@@ -89,3 +89,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidates SB-01 (grade B) and SB-02 (grade B) recorded; personal-expression track remains open with no candidates.
 **Next handoff:** Recover Wayback of solomon.com.sb / peoplefirst.net.sb; search local newspapers (Solomon Star) and USP Honiara for early personal pages; locate PEACESAT/FFA original technical notes; continue parallel Pacific scouting.
+
+## 2026-11-17 — DONE: Tonga .to domain infrastructure and January 1997 reachability advanced
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read Tonga research file, WORK_METHOD.md, COUNTRIES.md and recent coop.log. Located and inspected primary NSRC records: Eric Gullichsen 11 April 1996 nameserver report (first machines at SF consulate) and Olivier MJ Crepin-Leblond 13 January 1997 traceroute to candw.to. Added structured candidates TO-01 and TO-02. Refined status. No locally hosted personal homepage located; diaspora Kami/Kava Bowl lead remains grade C.
+
+**Sources:** NSRC Gullichsen 11 Apr 1996: https://nsrc.org/db/lookup/report.php?id=890202506375:497436004&fromISO=TO; NSRC First Ping TO 13 Jan 1997: https://nsrc.org/db/lookup/report.php?id=890202506243:497437449&fromISO=TO; existing domain, government and Kami sources.
+
+**Files changed:** `research/tonga.md` (added primary evidence section, YAML candidates TO-01/TO-02, updated status/last-checked and gaps); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website, user homepage, or individual online publication hosted inside Tonga located. Host location for the January 1997 candw.to traceroute not established. No Tongan-language newspaper or local ISP archive inspection in this pass. Original 1995 Gullichsen experimental link details remain retrospective.
+
+**Verification:** Edits made on existing main only; commit for research file `076bfa287246e4cbe6ca8d239b6ef7d3ec3f19a3`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidates TO-01 (grade A) and TO-02 (grade A for reachability) recorded; personal-expression track remains open with diaspora lead only.
+**Next handoff:** Confirm physical location of candw.to; recover 1997 government service announcement and local coverage; search Wayback for early in-Kingdom .to sites; recover Kami/Tonga Online captures; continue parallel Pacific and first-wave scouting.
