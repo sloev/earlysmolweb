@@ -300,4 +300,80 @@ Bissio then dates the local Chasque system to **1989**: an XT computer and four-
 - Evidence grade: **C** for the exact early dates (first-person retrospective account; 2001 research volume based on interviews with Bissio and other network operators). The account is detailed but still retrospective; no original 1986 mail headers or 1989 system logs have yet been located.
 - Category: email / BBS / store-and-forward gateway / UUCP; operator: nonprofit/community; network status changes by phase—remote email via foreign BBS/X.25, local dial-up BBS, then external packet/UUCP email. Do not label the 1986 mailbox as a Uruguay-based Internet node.
 
+## Individually attributed network communication — 2 April 1993
 
+A newly located NSRC archive record preserves a message by **Ida Holz** to the ENREDO mailing list. The embedded original header reads:
+
+- From: Ida Holz <holz@SECIU.UY>
+- To: multiple recipients of ENREDO <ENREDO@UCHCECVM.BITNET>
+- Date: Friday, 2 April 1993, 03:00 local time
+
+In Spanish, Holz says she had been asked to circulate a document from the Faculty of Economic Sciences and Administration about the university's situation, and that she was sending it through the network to all possible organizations. The document concerns the University of the Republic's financial and labour crisis. This is a dated, individually attributed network communication and an early public-facing mailing-list contribution associated with Uruguay. It is **not** a personal homepage, does not establish the first post to ENREDO, and does not by itself establish a direct TCP/IP route; the recipient address is a BITNET list.
+
+The institutional connection is independently supported by the University of the Republic's biography of Holz: she returned to Uruguay in 1987 and led SeCIU and the development of the Red Académica Uruguaya. Her exact physical location at the time of the 2 April 1993 message is not stated in the message, so the country attribution is based on her documented SeCIU role and institutional address rather than the address alone.
+
+Related checks:
+- A 24 August 1992 NSRC record from Peru, authored by José Soriano, includes holz@seciu.edu.uy (Ida Holz) in its CC list. This shows her institutional address was already part of regional network correspondence by that date, but the message was **not authored by Holz**.
+- A 28 May 1998 email reproduced in a University of the Republic computing history has an original header from Ida Holz at holz@seciu.edu.uy to Juan José Cabezas, copied to Gastón Gonnet. This is private correspondence rather than a public list post, but it corroborates her use of the university email system.
+
+Sources:
+- NSRC's contemporary reproduction of Holz's 2 April 1993 ENREDO message: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534324:497425387
+- Udelar biography documenting her 1987 return and SeCIU role: https://udelar.edu.uy/noticias/ida-holz-en-uruguay-todavia-cuestan-mucho-los-cambios
+- NSRC Peru network message dated 24 August 1992, with Holz only in CC: https://nsrc.org/db/lookup/report.php?fromISO=PE&id=890202525149:497427027
+- University of the Republic computing history reproducing Holz's 28 May 1998 email header: https://www.fing.edu.uy/inco/usuarios/jcabezas/historiacomp/ElRomance/papers/La_Increible_Historia_del_Instituto_de_Computacion_Arbilla_etal.pdf
+
+### Structured record added — 18 November 2026
+
+~~~yaml
+- id: UY-001
+  status: verified
+  person_or_project: Ida Holz
+  title: ENREDO mailing-list email about the University of the Republic
+  url_original:
+  url_archived: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534324:497425387
+  country_or_territory: Uruguay
+  connection_basis: other
+  medium: BITNET mailing-list email
+  activity_type: communication
+  operator_type: individual
+  network_status: BITNET list address; sender transport path not established
+  date_claimed: 1993-04-02
+  date_type: first-publication
+  date_precision: day
+  evidence:
+    - source_url: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534324:497425387
+      source_type: contemporary email reproduced in the NSRC Connectivity Providers Database
+      observed_date: 1993-04-02
+      supports: Original header names Ida Holz, holz@SECIU.UY, the ENREDO BITNET list and the date; body says she was circulating a University of the Republic document to organizations through the network
+      grade: A/B
+    - source_url: https://udelar.edu.uy/noticias/ida-holz-en-uruguay-todavia-cuestan-mucho-los-cambios
+      source_type: official University of the Republic biography
+      observed_date: 2018
+      supports: Says Holz returned to Uruguay in 1987 and led SeCIU and the development of RAU
+      grade: B/C
+    - source_url: https://nsrc.org/db/lookup/report.php?fromISO=PE&id=890202525149:497427027
+      source_type: contemporary NSRC network email from Peru
+      observed_date: 1992-08-24
+      supports: Includes holz@seciu.edu.uy (Ida Holz) in the CC list; this is evidence of regional contact, not an authored message
+      grade: A/B
+    - source_url: https://www.fing.edu.uy/inco/usuarios/jcabezas/historiacomp/ElRomance/papers/La_Increible_Historia_del_Instituto_de_Computacion_Arbilla_etal.pdf
+      source_type: University of the Republic computing history reproducing an original email header
+      observed_date: 1998-05-28
+      supports: Reproduces an email from Ida Holz at holz@seciu.edu.uy to Juan José Cabezas, copied to Gastón Gonnet
+      grade: B
+  author_attribution: Ida Holz, SeCIU / Universidad de la República
+  language: Spanish
+  notes: >
+    Verified individual email contribution to a mailing list with a BITNET
+    address. The message is associated with Uruguay through Holz's documented
+    SeCIU role and the SECIU.UY sender address. It is not evidence of a
+    personal homepage, first ENREDO post, or direct TCP/IP transport.
+  uncertainties: >
+    Original ENREDO archive and full headers; exact transport path from SeCIU
+    to the BITNET list; Holz's physical location on the send date; earlier
+    authored messages; whether this message is among the earliest Uruguayan
+    individual network contributions.
+  rights_ethics: Historical public university-related message; no special privacy issue identified.
+  researcher: ChatGPT
+  last_checked: 2026-11-18
+~~~
