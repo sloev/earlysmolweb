@@ -154,3 +154,18 @@ Correction commit references: research/iran.md — de87441e0e68b64df4f73c29b2480
 
 **Agent:** OpenAI. **Repository/branch:** sloev/earlysmolweb, main; sloev/tree, main.
 **Task:** Advance one defensible EarlySmolWeb country record using a primary/contemporary source, and audit Tree for a safe claim update under the markdown-first and privacy rules. Main exists in both repositories; no other branch will be used.
+
+
+## 2026-11-18 — DONE — Greenland Greenet chronology cross-check
+
+**Task completed:** Added a narrowly scoped primary-source cross-check to `research/greenland.md` using TELE Greenland/Tusass's bilingual corporate history.
+
+**Evidence:** The source dates the 64 kb/s UNI-C/DENet international link to 1 July 1995, selected trial users to August 1995, and commercial subscriptions to 1 January 1996. It supports the existing separation of backbone, trial-user and retail-access milestones, but does not identify a first personal page or named user.
+
+**Sources:** https://images.tusass.gl/organization/history/magazine.pdf (accessed 2026-11-18); existing NSRC sources in the Greenland file remain unchanged.
+
+**Negative result / limits:** No user list, first email address, first website URL or personal homepage capture recovered. No new personal-page candidate or national-first claim promoted.
+
+**Verification:** Updated `research/greenland.md` directly on `main`; commit 1f205348aa63b41fc29555d929b2e079ba33f1c8. No other branch or PR used.
+
+**Next handoff:** Search 1995–96 Greenet/Q-Data directories, Netarkivet or party/press archives for named users and early .gl pages; keep institutional chronology separate from personal expression.
