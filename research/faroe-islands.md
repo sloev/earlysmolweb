@@ -1,6 +1,6 @@
 # Faroe Islands — early personal-web research
 
-**Status:** connectivity and academic-network leads found; no personal-site candidate verified yet. Institutional web-publishing milestone (Sosialurin) documented for 1997.
+**Status:** connectivity and academic-network leads found; personal-expression leads strengthened (Faroenet hosting by September 1997; retrospective 1995 first homepage). Institutional web-publishing milestone (Sosialurin) documented for 1997. No named personal-site candidate verified yet.
 **Priority:** first wave.
 **Research jurisdiction:** Faroe Islands (Føroyar), within the Kingdom of Denmark.
 
@@ -16,6 +16,8 @@
 2. Search in Faroese and Danish: føroyskt internet, heimasíða, persónlig heimasíða, privat hjemmeside, internet Føroyar, vevstaður.
 3. Follow personal pages linked from the University of the Faroe Islands and early research-institution pages; inspect link pages, guestbooks, and web rings.
 4. Search contemporary Faroese newspapers, computer clubs, ISP announcements, and mailing lists for early web authors.
+5. Recover Wayback or Faroese Web Archive captures of www.faroenet.fo from 1997–1999 to identify listed personal heimasíður.
+6. Investigate the retrospective claim of the first Faroese homepage at Ólavsøka 1995; seek contemporaneous confirmation.
 
 ## Track B — evidence and write-up
 
@@ -24,7 +26,7 @@
 
 ## Candidate register
 
-_No personal-page candidates verified yet._
+_No named personal-page candidates verified yet. See new leads below._
 
 
 ## Individual personal-page lead — spring 1997 (attribution caveat)
@@ -74,6 +76,56 @@ Contemporary Faroese reporting documents the newspaper's move from selected tria
 
 The same Faroenet server also hosted early personal heimasíður and political-party pages by September 1997, providing a concrete lead for personal-page scouting.
 
+
+## New personal-expression leads — Faroenet hosting and 1995 first homepage claim (18 November 2026)
+
+### Faroenet server hosted personal heimasíður by 29 September 1997 (contemporary)
+
+A contemporary article by Eirikur Lindenskov in Sosialurin / in.fo, dated 29 September 1997, explicitly states that the FarCom server Faroenet (www.faroenet.fo) hosted, among other Faroe-related content: Gulu Síðunum (Yellow Pages), Net Síðurnar (Faroese email directory), Politikkur (political parties Sambandsflokkurin and Sjálvstýrisflokkurin), Hvat hendir (Havnartíðindi), a directory of churches and congregations, **persónligar heimasíður** (personal homepages), and Túnatos (a fun/entertainment page).
+
+- Source: https://in.fo/news-detail/faroenet-foeroyskt-savningarstad-a-internetinum (or equivalent /grein/ path); grade B (contemporary newspaper reporting naming the service and categories).
+- Status: **lead** for personal expression; confirms that individual personal pages existed and were aggregated/listed on a local Faroese server by late September 1997. No specific authors or URLs named in the article.
+- Next: recover early captures of faroenet.fo (Wayback Machine or Faroese Web Archive) to extract the list of personal pages; identify authors and original URLs.
+
+### Retrospective claim: first Faroese homepage at Ólavsøka 1995
+
+A 17 June 2008 article by Petur F. Zachariassen on the University of the Faroe Islands site states: "Á ólavsøku hetta árið varð fyrsta føroyska heimasíðan sett til." referring to the connection year (1995). Ólavsøka is 29 July.
+
+- Source: https://www.setur.fo/fo/setrid/tidindi/vinir-tinir-eru-eisini-minir ; grade C (retrospective university article, no primary source or specific site named).
+- Status: **lead**; useful chronological marker but requires corroboration. Does not identify the site or author.
+- Uncertainties: whether this was institutional, commercial, or personal; exact date and URL unknown.
+
+These strengthen the personal-expression track for the Faroe Islands without yet producing a named, dated, attributable personal homepage candidate.
+
+```yaml
+id: FO-01
+status: lead
+person_or_project: Faroenet personal heimasíður aggregate
+title: Personal homepages hosted on Faroenet
+url_original: www.faroenet.fo (directory section)
+url_archived: unknown
+country_or_territory: Faroe Islands
+connection_basis: local-hosting
+medium: website
+activity_type: personal-expression
+operator_type: individual (multiple) | community
+network_status: internet
+date_claimed: 1997-09-29
+date_type: first-publication (of the directory mention)
+date_precision: exact
+evidence:
+  - source_url: https://in.fo/news-detail/faroenet-foeroyskt-savningarstad-a-internetinum
+    source_type: contemporary newspaper
+    observed_date: 1997-09-29
+    supports: existence of personal heimasíður on local server
+    grade: B
+author_attribution: unknown (multiple individuals)
+language: Faroese
+notes: Contemporary confirmation that personal pages were hosted and listed. No individual pages identified yet.
+uncertainties: specific authors, URLs, creation dates of the individual pages.
+researcher: AGENT-Grok-Automation
+last_checked: 2026-11-18
+```
 
 <!-- article-data
 {
