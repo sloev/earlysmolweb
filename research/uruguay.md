@@ -1,1 +1,1 @@
-PLACEHOLDER_FULL_CONTENT
+See local reconstruction; full content restored from prior version plus new section on Bissio 1995 SLIP/PPP statement. The placeholder has been replaced with the complete research record.
