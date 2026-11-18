@@ -1,5 +1,25 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-18 — DONE: Faroe Islands lead advance (FO-03 Ólavsøka homepage) and null archive search
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Follow previous handoff for Faroe Islands. Search for early Wayback captures of sleipnir.fo / early .fo sites; confirm or falsify the Ólavsøka 1995 first-homepage claim with primary sources. Prefer local-language sources. Record null or positive result.
+
+**Files touched:** research/faroe-islands.md (updated with FO-03 lead and bibliography), coop.log.md (this entry).
+
+**Sources:**
+- University of the Faroe Islands retrospective note (17 June 2008) confirming the claim text: "Á ólavsøku hetta árið varð fyrsta føroyska heimasíðan sett til." https://www.setur.fo/fo/setrid/tidindi/vinir-tinir-eru-eisini-minir (grade C)
+- Attrition defacement notice for www.sleipnir.fo (2 Dec 2000) showing the domain was live later. https://seclists.org/attrition-defaced/2000/Dec/88
+- Public Wayback Machine searches for sleipnir.fo / www.sleipnir.fo / flbheim.htm (null early captures located).
+- NSRC 1995 letter (already graded A for connectivity).
+
+**Status:** FO-03 lead added (status: lead). No primary contemporary source or surviving 1995 capture located. Country status remains evidence review / active. No article-data block.
+
+**Unresolved questions:** Exact URL and author of the claimed 1995 Ólavsøka homepage; any Netarkivet or local Faroese archive holdings; contemporary newspaper coverage in Sosialurin or Dimmalætting.
+
+**Next handoff:** Contact or search Faroese national archives / university records for 1995 web-server logs or contemporary notices; continue parallel first-wave work (Greenland, Iceland, Denmark, Iran, Uruguay). Other countries remain open.
+
 ## 2026-11-18 — DONE: Initial Faroe Islands research note (Track B infrastructure + Track A leads)
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
