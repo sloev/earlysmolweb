@@ -73,3 +73,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidates WS-01 and WS-02 refined with primary explanation of the 1996 venture's failure and transition; personal-expression track remains open with no candidates.
 **Next handoff:** Recover Wayback captures of talofa.net / early samoa.net; search Samoa Observer for 1996–98 coverage; continue parallel Pacific micro-state and first-wave scouting.
+
+## 2026-11-18 — DONE: Marshall Islands October 1996 ITE Guam connectivity candidate added
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read methods, COUNTRIES.md and recent coop.log. Located contemporary 2002 UNESCO Pacific Islands internet infrastructure survey and 12 December 2002 RNZ report establishing that IT&E Overseas Inc. (ITE Guam) was the sole ISP and first offered internet services to the Marshall Islands in October 1996. Added structured candidate MH-02; strengthened chronology. No personal homepage located.
+
+**Sources:** UNESCO, Internet Infrastructure and e-Governance in Pacific Islands Countries (2002), https://unesdoc.unesco.org/ark:/48223/pf0000149788; RNZ, “Marshall Islands internet users want more reliable service,” 12 Dec 2002, https://www.rnz.co.nz/news/pacific/142111/marshall-islands-internet-users-want-more-reliable-service; existing IANA and 2003 RNZ sources retained.
+
+**Files changed:** `research/marshall-islands.md` (added connectivity section and MH-02 YAML candidate; updated status and interpretation); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website or individual online publication located. Exact first customer date and local content still unestablished. Local Marshallese-language press not inspected in this pass. No primary NSRC or APNIC allocation inspected for 1996.
+
+**Verification:** Edits made on existing main only; no branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidate MH-02 (grade B) recorded alongside existing MH-01 domain infrastructure; personal-expression track remains open with no candidates.
+**Next handoff:** Recover Wayback captures of any early .mh or NTA pages; search Marshall Islands Journal for 1996–98 coverage; continue parallel Pacific micro-state and first-wave scouting.
