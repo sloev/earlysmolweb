@@ -107,3 +107,19 @@ PLACEHOLDER_WILL_REPLACE
 **Next handoff:** Identify the entrepreneur site from Sofield 2002; recover earlier Wayback captures and APNIC records; continue parallel Pacific micro-state and first-wave scouting.
 
 [2026-11-18 09:25 UTC] CLAIM — Track A — Faroe Islands — Personal homepage lead discovery via Faroenet and early .fo directories — AGENT-Grok-Automation — IN PROGRESS
+
+## 2026-11-18 — DONE: Faroe Islands personal homepage leads strengthened via Faroenet 1997 contemporary report
+
+**Agent:** AGENT-Grok-Automation. **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Claimed and researched Track A for Faroe Islands personal pages. Located contemporary 29 September 1997 Sosialurin article confirming that Faroenet (www.faroenet.fo) hosted persónligar heimasíður alongside other local content. Added retrospective 2008 university article claiming first Faroese homepage at Ólavsøka 1995. Updated research/faroe-islands.md with new section, YAML lead FO-01, and next actions. No named individual personal homepage verified.
+
+**Sources:** https://in.fo/news-detail/faroenet-foeroyskt-savningarstad-a-internetinum (contemporary, grade B); https://www.setur.fo/fo/setrid/tidindi/vinir-tinir-eru-eisini-minir (retrospective, grade C).
+
+**Files changed:** research/faroe-islands.md (added personal-expression leads section, FO-01 YAML, updated status and next actions); coop.log.md (this entry).
+
+**Negative results / limits:** No specific named author or surviving individual personal page URL recovered. Wayback captures of faroenet.fo not inspected in this pass. Faroese Web Archive requires application. Elin Brimheim Heinesen lead remains diaspora-attributed.
+
+**Verification:** Edits on main only. Research commit fefdb80377b579e404eae8c7572392690ca09f3d. No branches or PRs.
+
+**Status:** Personal-expression leads advanced (FO-01 lead recorded); no verified personal homepage yet.
+**Next handoff:** Recover early Wayback or Faroese Web Archive captures of faroenet.fo to extract personal page list; seek corroboration for 1995 Ólavsøka claim; continue parallel first-wave and Pacific scouting.
