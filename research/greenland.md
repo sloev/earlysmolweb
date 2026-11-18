@@ -161,3 +161,18 @@ Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-
   ]
 }
 -->
+
+
+## Primary corporate chronology cross-check — TELE Greenland/Tusass history
+
+The operator's own bilingual corporate history provides a first-party chronology that should be preferred over later summaries for the national rollout:
+
+- **1 July 1995:** the international Internet connection was put into use as a 64 kb/s fixed satellite line via UNI-C in Copenhagen to DENet; TELE Greenland named the connection **Greenet**.
+- **August 1995:** selected test users were connected on a trial basis.
+- **1 January 1996:** commercial subscriptions opened; the 1995–96 timeline reports 528 modem subscribers and six institutions on dedicated circuits by the end of 1996.
+
+Source: TELE Greenland/Tusass, *Tele- og posthistorien*, bilingual timeline, pp. 92–95 / PDF text around pp. 1591–1640: https://images.tusass.gl/organization/history/magazine.pdf (accessed 2026-11-18).
+
+**Assessment:** This is **A/B-strength primary corporate evidence** for Greenet's international link and staged rollout, but it does not identify the first individual user, first local website, or first personal homepage. It confirms the distinction already made in this file between the July backbone milestone, August trial users and January 1996 commercial access. Keep the NSRC/Q-Data September 1995 user-facing network announcement separate: the two sources describe related but not identical service layers.
+
+**Negative result:** The corporate history does not provide a named user list, original email address, first website URL, or archived page capture. No personal-page candidate is promoted.
