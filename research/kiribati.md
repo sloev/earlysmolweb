@@ -1,8 +1,8 @@
 # Kiribati — early personal-web research
 
-**Status:** early infrastructure constraints documented; institutional website lead advanced; no personal-page candidate identified.
+**Status:** early infrastructure constraints documented; institutional website lead advanced; 1995 MNRD email/ccTLD lead added; no personal-page candidate identified.
 **Scope:** Republic of Kiribati, including locally resident users and i-Kiribati diaspora publishing, with attribution kept distinct.
-**Last checked:** 2026-11-17
+**Last checked:** 2026-11-18
 
 ## Internet access context
 
@@ -13,7 +13,46 @@ The study's March 2002 postscript says a web search found only two websites with
 - Source: https://academic.oup.com/jcmc/article/7/2/JCMC726/4584254
 - Accessible copy: https://citeseerx.ist.psu.edu/document?doi=a216526f6189f70693255843ae4e4d79fea22c0f&repid=rep1&type=pdf
 
-A 2000 briefing paper by L.J. Allinson prepared for the Ministry of Natural Resources Development catalogues TSKL's role as the internet services provider (Pacific Data Hub dataset; original not inspected in this pass).
+## 2000 Allinson briefing — MNRD as first Internet user and .ki sponsor (1995)
+
+The 19 October 1999 (published 2000) SOPAC briefing paper by Leslie Allinson, prepared for the Ministry of Natural Resources Development (MNRD), provides contemporary institutional detail:
+
+- In 1995, MNRD as the first Internet user in Kiribati applied for and was granted authority for the Kiribati Country Code Top Level Domain (.ki). Early management was external via Connect.com.au with the Forum Fisheries Agency as original sponsor.
+- TSKL was allocated a Class C IP range (203.41.41.0–203.41.41.255) by APNIC.
+- The paper documents TSKL's emerging role as Internet service provider and notes email routing arrangements (e.g., MNRD.gov.ki mail directed to TSKL).
+- This places institutional email and domain sponsorship activity in 1995, well before the late-1999 commercial ISP launch, while confirming the absence of public domestic dial-up at that earlier stage.
+
+Source: Allinson, L.J. (2000). *The role of Telecom Services Kiribati LTD as an internet services provider*. SOPAC briefing paper, 19 October 1999. https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/66/668333c895989129571a8efc9c85e612.pdf (Pacific Data Hub dataset).
+
+```yaml
+id: KI-02
+status: candidate
+person_or_project: Ministry of Natural Resources Development (MNRD) / .ki ccTLD
+title: 1995 institutional email and ccTLD sponsorship
+url_original:
+url_archived:
+country_or_territory: Kiribati
+connection_basis: local-hosting
+medium: email
+activity_type: connectivity
+operator_type: government
+network_status: internet
+date_claimed: 1995
+date_type: inferred
+date_precision: year
+evidence:
+  - source_url: https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/66/668333c895989129571a8efc9c85e612.pdf
+    source_type: contemporary institutional briefing paper
+    observed_date: 1999-10-19
+    supports: MNRD as first Internet user in 1995; .ki application and grant; IP allocation to TSKL
+    grade: B
+author_attribution: Leslie Allinson (SOPAC); MNRD / TSKL institutional
+language: English
+notes: Institutional email and domain activity only. Does not establish public access, a website, or personal expression. Distinguishes 1995 email/domain from 1999 commercial ISP.
+uncertainties: Exact first email account or message date; whether any public users existed before 1999; original APNIC allocation record not inspected.
+researcher: Grok (xAI)
+last_checked: 2026-11-18
+```
 
 ## TSKL website on the .ki domain
 
@@ -61,6 +100,7 @@ last_checked: 2026-11-17
 ## Research interpretation
 
 - The 1998 lack of domestic Internet connectivity is a significant constraint, not proof that no Kiribati-associated personal publishing existed. Users could connect through expensive overseas dial-up, and expatriate/diaspora pages existed.
+- 1995 MNRD email and .ki sponsorship is a distinct institutional connectivity milestone preceding the 1999 commercial ISP.
 - The 1999 TSKL launch and the 2001 count of more than 400 users provide a plausible period for the first locally hosted personal pages, but no individual page has been identified here.
 - The entrepreneur's site named in Sofield remains an institutional/commercial lead unless a personal homepage or clearly personal section can be isolated. The TSKL site is a separate, better-documented institutional candidate for earliest known .ki website.
 - Search results and later directories frequently mix locally originated pages with expatriate sites about Kiribati. Record residence, hosting, and community connection separately.
@@ -69,6 +109,6 @@ last_checked: 2026-11-17
 
 1. Identify the entrepreneur and original website named in the 2002 Sofield study; locate its original URL and earliest archive capture.
 2. Search for earlier Wayback captures of tskl.net.ki (pre-2004) and any other early .ki domains.
-3. Locate and inspect the 2000 Allinson briefing paper for additional service-start details.
+3. Recover original APNIC allocation records for 203.41.41.0 and any 1995 MNRD email logs or correspondence.
 4. Search early TSKL announcements, local newspapers, and USP network for user pages or personal directories.
 5. Continue Gilbertese-language and diaspora searches.
