@@ -148,3 +148,9 @@ The IHRWG original site/capture and the claimed earlier Ghandchi Usenet posts we
 A re-opened Google Groups thread distinguishes the thread starter from Ghandchi's reply: Shahrbanou Tadjbakhsh's initiating post is dated 13 June 1994, while **Sam Ghandchi's own reply is dated 14 June 1994 at 00:59:25**. The earlier 18 November entry and initial IR-004 draft incorrectly assigned the thread's opening date to Ghandchi. Updated the IR-004 prose and structured date in research/iran.md from 1994-06-13 to 1994-06-14. The post remains a candidate for Iran-related diaspora expression; the author's exact residence on the posting date is still unverified. Source: https://groups.google.com/g/soc.culture.iranian/c/ByE55PE0HWM.
 
 Correction commit references: research/iran.md — de87441e0e68b64df4f73c29b24808850d9db0ad; coop.log.md — ec75eb9bb145ec5ae836eb848bb1185e3d68d98c.
+
+
+## 2026-11-18 — START — Greenland Greenet chronology and Tree source-of-truth check
+
+**Agent:** OpenAI. **Repository/branch:** sloev/earlysmolweb, main; sloev/tree, main.
+**Task:** Advance one defensible EarlySmolWeb country record using a primary/contemporary source, and audit Tree for a safe claim update under the markdown-first and privacy rules. Main exists in both repositories; no other branch will be used.
