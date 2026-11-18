@@ -346,4 +346,132 @@ A second official Karimipour record, **hep-th/9305118**, “The quantum de Rham 
 - Evidence grade: **A** for the official arXiv dates, author names and Tehran affiliations in the preserved papers. Country connection is institutional affiliation, not proof of the author's physical location at upload.
 - Revised interpretation: **19 May 1993** is now the earliest located Iran-affiliated arXiv submission in this research pass (hep-th/9305084). The earlier note's 12 June conservative date applied only to the surviving versions of hep-th/9305085 and hep-th/9305086, not to hep-th/9305084.
 
+## New diaspora and collective-web leads — 18 November 2026
 
+### IHRWG — an Iran-focused human-rights website documented by October 1997
+
+The Iranian Human Rights Working Group (IHRWG) is a strong new **collective-site** lead. A contemporary IHRWG announcement reproduced by The Iranian on 13 October 1997 directs readers to sign an online petition at www.ihrwg.org/CP/ and describes the group's web campaign. The embedded signature list is marked as current on 24 October 1997, so the surviving copy appears to have been updated after its header date; record only **October 1997** as the earliest located evidence of the site, not a launch date. A 4 September 1998 IHRWG statement again directs readers to its web pages at www.ihrwg.org, and a Canadian Immigration and Refugee Board response published on 23 July 1998 says the site was accessed on 25 June 1998. These are independent contemporary references to a functioning site.
+
+A later IHRWG history says the group formed in March 1994 through discussions on soc.culture.iranian; 14 participants became founding members, adopted a charter and elected a steering committee in May 1994, after which the group officially launched. This dates the **online community**, not the website. The group was transnational and its 1998 contact details included a New Jersey postal address and a Stanford-hosted email address; no evidence found here establishes that the site was hosted in Iran or that its operators were resident there. The original ihrwg.org pages are no longer active, and no Wayback capture was recovered in this pass.
+
+Sources:
+- 13 Oct 1997 IHRWG campaign announcement, including www.ihrwg.org/CP/ and a signature list marked 24 Oct 1997: https://iranian.com/News/Oct97/ihrwg.html
+- 4 Sep 1998 IHRWG statement and website/contact details: https://iranian.com/News/Sept98/statement.html
+- Canadian Immigration and Refugee Board response; cites IHRWG email of 11 July 1998 and website access on 25 June 1998: https://www.ecoi.net/en/document/1193001.html
+- IHRWG history (text supplied to soc.culture.iranian in Nov 1999; later hosted on Iranscope): https://iranscope.ghandchi.com/Anthology/IHRWG.htm
+
+Assessment: **probable** Iran-related transnational community website by October 1997; collective, not personal; exact launch date, hosting location, first capture and original content remain unresolved.
+
+### Sam Ghandchi — directly archived soc.culture.iranian post, 13 June 1994
+
+Google Groups preserves a post by Sam Ghandchi in the public Usenet newsgroup soc.culture.iranian dated **13 June 1994**. In the thread “Russian words in Farsi”, Ghandchi replies to a discussion of Russian loanwords and adds comments on Persian vocabulary, regional language differences and the film Bashu, the Little Stranger. This is a direct, dated example of individual online expression in an Iranian-interest forum.
+
+Country attribution must remain diaspora/community-based rather than territorial. Ghandchi's own biography says he was originally from Iran, returned to the United States on 6 February 1982, and ran Nova Bookstore in Sunnyvale from 1985 to 1989. His exact residence on 13 June 1994 is not explicitly stated, but the biographical timeline strongly suggests that this post should not be counted as an in-country Iranian Internet activity without further evidence. The same biography retrospectively claims his first article about Iran on soc.culture.iranian was in October 1993; a later first-person book dates “Stop Stoning Iranian Women” to 15 March 1994 and says it led to IHRWG. Neither earlier post was recovered as an original Usenet message in this pass.
+
+Sources:
+- Direct archived Usenet thread, showing Ghandchi's 13 June 1994 post: https://groups.google.com/g/soc.culture.iranian/c/ByE55PE0HWM
+- Ghandchi's biographical note (dated 8 Dec 2005): https://www.ghandchi.com/05-My_ProfileEng.htm
+- Ghandchi's retrospective account of the 15 March 1994 post and IHRWG formation: https://www.ghandchi.com/500-FuturistIranEng.htm
+
+Assessment: **candidate** for Iran-related diaspora Usenet expression; the message itself is directly preserved, but the author's exact residence at publication is not established. It is not a personal homepage and must not be presented as an in-country Iranian page.
+
+### Structured records added — 18 November 2026
+
+~~~yaml
+- id: IR-003
+  status: probable
+  person_or_project: Iranian Human Rights Working Group (IHRWG)
+  title: IHRWG campaign website and online petition
+  url_original: http://www.ihrwg.org/
+  url_archived:
+  country_or_territory: Iran-related transnational community; physical base and hosting location unverified
+  connection_basis: other
+  medium: website
+  activity_type: community
+  operator_type: collective
+  network_status: Internet
+  date_claimed: 1997-10
+  date_type: inferred
+  date_precision: month
+  evidence:
+    - source_url: https://iranian.com/News/Oct97/ihrwg.html
+      source_type: contemporaneous IHRWG campaign announcement reproduced by The Iranian
+      observed_date: 1997-10-13
+      supports: Directs readers to the live petition at www.ihrwg.org/CP; embedded signature list is marked 24 October 1997, so the surviving copy may have been updated after its header date
+      grade: B
+    - source_url: https://iranian.com/News/Sept98/statement.html
+      source_type: contemporaneous IHRWG press release
+      observed_date: 1998-09-04
+      supports: Identifies www.ihrwg.org as the group's web pages and gives its email and postal contact details
+      grade: B
+    - source_url: https://www.ecoi.net/en/document/1193001.html
+      source_type: Canadian Immigration and Refugee Board response
+      observed_date: 1998-07-23
+      supports: Reports that www.ihrwg.org was accessed on 25 June 1998 and cites an IHRWG email of 11 July 1998
+      grade: B
+    - source_url: https://iranscope.ghandchi.com/Anthology/IHRWG.htm
+      source_type: retrospective group history; text supplied to soc.culture.iranian in November 1999
+      observed_date: 1999-11
+      supports: Says IHRWG formed in March 1994 and officially launched after its charter and steering committee were established in May 1994; this dates the group, not its website
+      grade: C
+  author_attribution: IHRWG collective; no single web author identified
+  language: English
+  notes: >
+    Probable Iran-related transnational community website by October 1997. The
+    group focused on human rights in Iran and for Iranians abroad. Contemporary
+    sources establish that the site and petition existed, but no original page
+    or Wayback capture was recovered. Do not infer Iranian hosting or operator
+    residence from the group's name or subject.
+  uncertainties: >
+    Exact website launch date; server and hosting location; first archived
+    capture; original page content; whether any site existed before October
+    1997; physical base of the collective.
+  researcher: ChatGPT
+  last_checked: 2026-11-18
+
+- id: IR-004
+  status: candidate
+  person_or_project: Sam Ghandchi
+  title: Russian words in Farsi — soc.culture.iranian Usenet post
+  url_original:
+  url_archived: https://groups.google.com/g/soc.culture.iranian/c/ByE55PE0HWM
+  country_or_territory: Iran-related diaspora/community; not established as an in-country event
+  connection_basis: other
+  medium: usenet
+  activity_type: communication
+  operator_type: individual
+  network_status: Internet / Usenet
+  date_claimed: 1994-06-13
+  date_type: first-publication
+  date_precision: day
+  evidence:
+    - source_url: https://groups.google.com/g/soc.culture.iranian/c/ByE55PE0HWM
+      source_type: archived Usenet thread containing the original post
+      observed_date: 1994-06-13
+      supports: Google Groups identifies Sam Ghandchi as the author of a post dated 13 June 1994 in soc.culture.iranian
+      grade: A/B
+    - source_url: https://www.ghandchi.com/05-My_ProfileEng.htm
+      source_type: first-person biography
+      observed_date: 2005-12-08
+      supports: Says Ghandchi was originally from Iran, returned to the United States on 6 February 1982, and ran Nova Bookstore in Sunnyvale from 1985 to 1989
+      grade: C
+    - source_url: https://www.ghandchi.com/500-FuturistIranEng.htm
+      source_type: first-person retrospective book; web-edition date not established
+      supports: Retrospectively claims an October 1993 first Usenet post and a 15 March 1994 post titled Stop Stoning Iranian Women; neither earlier original message was recovered in this pass
+      grade: C
+  author_attribution: Sam Ghandchi
+  language: English with Persian transliteration
+  notes: >
+    Directly preserved individual Usenet expression in an Iranian-interest
+    forum. Ghandchi's biography places him in the United States from 1982
+    onward, but does not explicitly state his exact location on 13 June 1994.
+    Treat this as diaspora/community activity, not proof of an Iran-resident
+    author or a personal website. The author's claimed October 1993 first post
+    remains an unverified retrospective lead.
+  uncertainties: >
+    Exact residence on 13 June 1994; original Message-ID and full headers;
+    original October 1993 post; original 15 March 1994 Stop Stoning Iranian
+    Women post; any early personal homepage.
+  researcher: ChatGPT
+  last_checked: 2026-11-18
+~~~
