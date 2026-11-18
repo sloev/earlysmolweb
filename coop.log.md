@@ -89,3 +89,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidate MH-02 (grade B) recorded alongside existing MH-01 domain infrastructure; personal-expression track remains open with no candidates.
 **Next handoff:** Recover Wayback captures of any early .mh or NTA pages; search Marshall Islands Journal for 1996–98 coverage; continue parallel Pacific micro-state and first-wave scouting.
+
+## 2026-11-18 — DONE: Kiribati 1995 MNRD email and .ki ccTLD candidate added
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read methods, COUNTRIES.md, recent coop.log and existing Kiribati research. Located and inspected the 2000 SOPAC briefing paper by Leslie Allinson (dated 19 Oct 1999) which establishes that the Ministry of Natural Resources Development was the first Internet user in Kiribati in 1995, applied for and received the .ki ccTLD, and that TSKL received a Class C IP allocation. Added structured candidate KI-02 for this institutional email/domain activity. No personal homepage located. Distinguishes 1995 institutional layer from late-1999 commercial ISP.
+
+**Sources:** Allinson, L.J. (2000). *The role of Telecom Services Kiribati LTD as an internet services provider*. SOPAC briefing paper. https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/66/668333c895989129571a8efc9c85e612.pdf; existing Sofield 2002 and Wayback sources retained.
+
+**Files changed:** `research/kiribati.md` (added Allinson section, KI-02 YAML candidate, updated status and next actions); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website or individual online publication located. Exact first email message or public user still unestablished. Original APNIC allocation and 1995 correspondence not inspected in this pass. Local Gilbertese-language sources not inspected.
+
+**Verification:** Edits made on existing main only; research commit `05ac19f4fb84b7a6440fcd52c0b71f69f3632af6`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidate KI-02 (grade B) recorded alongside existing KI-01 institutional website; personal-expression track remains open with no candidates.
+**Next handoff:** Identify the entrepreneur site from Sofield 2002; recover earlier Wayback captures and APNIC records; continue parallel Pacific micro-state and first-wave scouting.
