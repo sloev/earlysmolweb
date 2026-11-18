@@ -33,6 +33,13 @@ Bruce Edwards (Pacific Internet Services - Apia) reports to NSRC: 64 kb TCP/IP c
 - Evidence grade: **A** (contemporary operator technical report).
 - Category: commercial ISP / TCP/IP dial-up and hosting.
 
+### 1998 SOPAC retrospective on the 1996 Pacific Internet / talofa.net service
+The March 1998 SOPAC trip report by Leslie Allinson records that the first ISP was set up in 1996 by Pacific Internet as a vehicle for a gambling scheme connected to commercial rugby (Super League). The domain was published as TALOFA.NET but registered as SUPER12.NET and described as a “Rugby ISP” in Australia. Bruce Edwards (a partner) was contacted during a 1996 visit; his reticence is now explained. The business side was never fully implemented: users were not consistently billed nor the provider consistently paid. Pacific Internet was not granted gambling approval; the system was abandoned. Telecom Samoa repossessed the equipment for unpaid bills exceeding WST 200,000 and leased it to CSL, which formed SAMOA.NET. Investment estimates: ~USD 20k equipment + USD 100k staff.
+
+- Source: Leslie Allinson / Martin F., “Internet gateway, Telecom Samoa”, SOPAC Trip Report 256 (7–14 March 1998): https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/ca/ca167e0aeec8ba1c70f50ac3627140ac.pdf
+- Evidence grade: **A** (primary contemporary field report).
+- Notes: Explains non-sustainable character and equipment transition; does not contradict the 1996 NSRC operational reports.
+
 ### 7–14 March 1998 — Telecom Samoa shared gateway for multiple ISPs
 Leslie Allinson (SOPAC) trip report documents installation of a gateway allowing up to three retail ISPs to share the international satellite link. Operational after 12-hour switchover (week of 9 March). Samoa.net configuration recorded (DNS, mail, web server, dial-in 25300). Equipment from abandoned 1996 TALOFA/Pacific Internet repossessed and leased to CSL (Samoa.net). Second ISP (Lesa) encouraged for competition. Apia Observatory uploading satellite images via Samoa.net.
 
@@ -75,12 +82,17 @@ evidence:
     observed_date: 1996-12-23
     supports: operational 64 kb TCP/IP dial-up, equipment, pricing
     grade: A
+  - source_url: https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/ca/ca167e0aeec8ba1c70f50ac3627140ac.pdf
+    source_type: primary field report
+    observed_date: 1998-03
+    supports: non-sustainable gambling-related venture; abandoned; equipment repossessed
+    grade: A
 author_attribution: Bruce Edwards, Pacific Internet Services, Apia
 language: English
-notes: Strongest early commercial TCP/IP evidence. Distinct from later 1998 gateway and Samoa.net. Equipment later repossessed.
-uncertainties: Exact first customer date and continuous operation after Dec 1996 not fully established; bankruptcy timing from 1999 report.
+notes: Strongest early commercial TCP/IP evidence. Distinct from later 1998 gateway and Samoa.net. SOPAC report clarifies it was a short-lived gambling-related attempt that was abandoned.
+uncertainties: Exact first customer date and continuous operation after Dec 1996 not fully established; bankruptcy timing from 1999 report; whether any public customers used it before abandonment.
 researcher: Grok (xAI)
-last_checked: 2026-11-17
+last_checked: 2026-11-18
 ```
 
 ```yaml
@@ -103,19 +115,19 @@ evidence:
   - source_url: https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/ca/ca167e0aeec8ba1c70f50ac3627140ac.pdf
     source_type: primary field report
     observed_date: 1998-03
-    supports: gateway installation, Samoa.net settings, observatory use
+    supports: gateway installation, Samoa.net settings, observatory use; repossession of prior equipment
     grade: A
 author_attribution: Leslie Allinson (SOPAC); Telecom Samoa / CSL
 language: English
 notes: Documents shared wholesale gateway and operational retail configuration. Does not claim to be the absolute first connectivity.
-uncertainties: Relationship to 1996 talofa.net equipment; subscriber numbers not given in report.
+uncertainties: Relationship to 1996 talofa.net equipment now clarified as repossession; subscriber numbers not given in report.
 researcher: Grok (xAI)
-last_checked: 2026-11-17
+last_checked: 2026-11-18
 ```
 
 ## Assessment
 
-Primary NSRC records establish operational commercial TCP/IP (talofa.net / Pacific Internet) in Apia by September 1996, with detailed technical and pricing information by December 1996. The 1998 SOPAC report documents the subsequent shared gateway enabling multiple retail ISPs (Samoa.net / CSL and Lesa). These are distinct milestones from the 1995 DNS delegation and the earlier Pactok email system. No resident personal homepage or individual publishing candidate has been located.
+Primary NSRC records establish operational commercial TCP/IP (talofa.net / Pacific Internet) in Apia by September 1996, with detailed technical and pricing information by December 1996. The 1998 SOPAC report documents both the non-sustainable character of that 1996 venture (gambling-related, abandoned, equipment repossessed) and the subsequent shared gateway enabling multiple retail ISPs (Samoa.net / CSL and Lesa). These are distinct milestones from the 1995 DNS delegation and the earlier Pactok email system. No resident personal homepage or individual publishing candidate has been located.
 
 ## Gaps and next leads
 
@@ -135,4 +147,4 @@ Primary NSRC records establish operational commercial TCP/IP (talofa.net / Pacif
 - IANA .ws records.
 
 **Researcher:** Grok (xAI)  
-**Last checked:** 2026-11-17
+**Last checked:** 2026-11-18
