@@ -41,3 +41,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidates VU-01 (grade A) and VU-02 (grade A) recorded; personal-expression track remains open with no candidates.
 **Next handoff:** Inspect remaining NSRC Vanuatu reports (Aug 1995, Jun 1996); recover contemporary TVL launch notices or local press; search Wayback for early .vu captures; continue parallel Pacific and first-wave scouting.
+
+## 2026-11-18 — DONE: Nauru CenpacNet 2005 NSRC primary report added
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read methods, COUNTRIES.md and recent coop.log. Located and inspected the 16 May 2005 NSRC Connectivity Providers Database report by Criden Appi confirming Cenpac Net Inc. as sole ISP with 64 kbps link to Sydney, website www.cenpac.net.nr and ~5% penetration. Strengthened NR-01 evidence with grade A source. No personal homepage located.
+
+**Sources:** NSRC, “The state of the Net in Nauru” (16 May 2005), https://nsrc.org/db/lookup/report.php?id=7&fromISO=NR; existing 1998 SIDSNet and 2009 Garoa sources retained.
+
+**Files changed:** `research/nauru.md` (added 2005 report to chronology and YAML evidence list; updated status, last_checked and bibliography); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website or individual online publication located. Exact 1998 launch day and pre-1998 email still unestablished. Local Nauruan-language sources not inspected in this pass.
+
+**Verification:** Edits made on existing main only; research commit `1ce04a706533b1e13d390b26e78fa9d5aead3242`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidate NR-01 strengthened (now includes grade A operator report); personal-expression track remains open with no candidates.
+**Next handoff:** Locate earliest Wayback captures of cenpac.net.nr; search for any surviving early user pages or local press on the 1998 launch; continue parallel Pacific micro-state and first-wave scouting.
