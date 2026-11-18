@@ -123,3 +123,22 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Personal-expression leads advanced (FO-01 lead recorded); no verified personal homepage yet.
 **Next handoff:** Recover early Wayback or Faroese Web Archive captures of faroenet.fo to extract personal page list; seek corroboration for 1995 Ólavsøka claim; continue parallel first-wave and Pacific scouting.
+
+## 2026-11-18 — Iran and Uruguay: individual network expression and IHRWG web evidence
+
+Read at start: README.md, WORK_METHOD.md, COUNTRIES.md, the complete current coop.log.md, research/iran.md and research/uruguay.md. No conflicting active claim was present in the coordination log; work continued the Iran/Uruguay evidence-verification track.
+
+### Findings
+
+- **Iran — IHRWG website, October 1997 onward.** Contemporary IHRWG material reproduced by The Iranian on 13 October 1997 directs readers to an online petition at www.ihrwg.org/CP; its signature list is marked 24 October 1997, so the surviving copy may have been updated after its header date. A 4 September 1998 IHRWG statement again references the site, and a Canadian Immigration and Refugee Board report says it was accessed on 25 June 1998. The group history says IHRWG formed in March 1994 and officially launched in May 1994. **Status: probable collective Iran-related transnational website by October 1997**, not a personal page and not evidence of Iranian hosting or residence. No original page or Wayback capture recovered.
+- **Iran — Sam Ghandchi Usenet.** Google Groups preserves his individual post in soc.culture.iranian dated 13 June 1994. His own biography says he returned to the United States in 1982 and ran a Sunnyvale bookstore in 1985–1989, so this is best treated as diaspora/community expression; exact residence on the posting date is not stated. His claimed October 1993 first post and 15 March 1994 “Stop Stoning Iranian Women” post remain retrospective leads, not recovered original messages. **Status: candidate for Iran-related diaspora Usenet expression.**
+- **Uruguay — Ida Holz ENREDO email, 2 April 1993.** The NSRC archive preserves an original header from Ida Holz at holz@SECIU.UY to multiple recipients of the ENREDO BITNET list and the Spanish message describing her circulation of a University of the Republic document. Udelar's biography says she returned to Uruguay in 1987 and led SeCIU/RAU. A separate 24 August 1992 Peru network message CCs her address but was authored by José Soriano; a 28 May 1998 university email is private correspondence, not a public list post. **Status: verified dated individual mailing-list communication associated with Uruguay**, not a personal homepage and not proof of direct TCP/IP transport.
+
+### Repository changes
+
+- research/iran.md — added IR-003 (IHRWG, probable) and IR-004 (Sam Ghandchi, candidate). Commit: 2a5db1764739c7193f642d48826f09237775d898
+- research/uruguay.md — added UY-001 (Ida Holz, verified message) and explicit distinction between 1992 CC, 1993 authored list post and 1998 private email. Commit: 14bcd9462ff64a2b20746510dab2e2e20baaf41f
+
+### Limits and next action
+
+The IHRWG original site/capture and the claimed earlier Ghandchi Usenet posts were not recovered. The Uruguay ENREDO source is an NSRC reproduction; the original list archive and transport headers remain unavailable. No national-first claim is made. Next: search for an IHRWG Wayback capture and the original 1993/1994 Usenet posts; seek the ENREDO archive and more named Uruguayan individual posts; continue Chasque BBS/UUCP operator tracing. No local build was run in this research-only pass.
