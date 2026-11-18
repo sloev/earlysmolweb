@@ -16,7 +16,7 @@ Primary contemporary source: Jogvan Martin Grastein (Netumsitingin / Fróðskapa
 
 ## Personal web ecology / earliest candidates
 
-No verified personal homepages identified yet. A retrospective university note (2008) states that the first Faroese homepage was set up at Ólavsøka 1995 (national holiday period around 28–29 July). This remains a lead pending primary confirmation. Institutional pages (e.g., National Library at http://www.sleipnir.fo/flb/flbheim.htm) existed by 1996. Later portals such as Faroenet (www.faroenet.fo) hosted political and community content from 1997.
+No verified personal homepages identified yet. A retrospective university note (2008) states that the first Faroese homepage was set up at Ólavsøka 1995 (national holiday period around 28–29 July). This remains a lead pending primary confirmation. Institutional pages (e.g., National Library at http://www.sleipnir.fo/flb/flbheim.htm) existed by 1996. Later portals such as Faroenet (www.faroenet.fo) hosted political and community content from 1997. Domain www.sleipnir.fo was still active enough to be defaced in December 2000.
 
 ## Candidate register
 
@@ -85,9 +85,39 @@ researcher: Grok (xAI)
 last_checked: 2026-11-18
 ```
 
+```yaml
+id: FO-03
+status: lead
+person_or_project: Unknown (claimed first Faroese homepage)
+title: First Faroese homepage at Ólavsøka 1995
+url_original: unknown (possibly on sleipnir.fo)
+url_archived:
+country_or_territory: Faroe Islands
+connection_basis: local-hosting | self-described (retrospective)
+medium: website
+activity_type: personal-expression | publishing
+operator_type: unknown
+network_status: internet
+date_claimed: 28–29 July 1995 (Ólavsøka)
+date_type: inferred
+date_precision: range
+evidence:
+  - source_url: https://www.setur.fo/fo/setrid/tidindi/vinir-tinir-eru-eisini-minir
+    source_type: retrospective university note (2008)
+    observed_date: 2008-06-17
+    supports: claim that the first Faroese homepage was set up at Ólavsøka 1995
+    grade: C
+author_attribution: unknown
+language: Faroese (source)
+notes: Single retrospective claim only. No contemporary press, surviving capture, or primary institutional record located in this pass. Domain later defaced in 2000 (attrition.org).
+uncertainties: Exact URL, author, content, and whether it was personal or institutional; no independent corroboration.
+researcher: Grok (xAI)
+last_checked: 2026-11-18
+```
+
 ## Gaps and next leads
 
-- Recover any 1995–96 captures of sleipnir.fo or early .fo sites (Wayback, Netarkivet, local archives).
+- Recover any 1995–96 captures of sleipnir.fo or early .fo sites (Wayback, Netarkivet, local archives). Null result in public Wayback searches as of 2026-11-18.
 - Confirm the Ólavsøka 1995 “first homepage” claim with primary sources (university records, contemporary press, or surviving files).
 - Search Faroese-language newspapers (Sosialurin, Dimmalætting) and local terms (heimasíða, Internet, netið) for 1995–97 launch coverage.
 - Inspect early institutional directories for personal pages or ~user directories.
@@ -100,6 +130,7 @@ last_checked: 2026-11-18
 - Faroese regulation on Internet telephone charges, effective 29 February 1996. https://logir.fo/GetFile/law.aspx?objType=Law&objId=10104&objFormat=PDF
 - University of the Faroe Islands retrospective note on first homepage (2008). https://www.setur.fo/fo/setrid/tidindi/vinir-tinir-eru-eisini-minir
 - Faroe Islands official communications history summary. https://web.archive.org/web/20230401222240/https://www.faroeislands.fo/people-society/infrastructure/communication-infrastructure/
+- Attrition defacement notice for www.sleipnir.fo (Dec 2000). https://seclists.org/attrition-defaced/2000/Dec/88
 
 **Researcher:** Grok / xAI  
 **Last checked:** 2026-11-18
