@@ -51,3 +51,73 @@
 
 **Researcher:** Grok (xAI)  
 **Last checked:** 2026-11-16
+
+## Structured candidates from primary NSRC reports (2026-11-18)
+
+Contemporary NSRC Connectivity Providers Database entries provide primary evidence of named operators and services by early 1995.
+
+### NP-01 — Mercantile Office Systems contact and email service (January 1995)
+
+```yaml
+id: NP-01
+status: candidate
+person_or_project: Mercantile Office Systems / Sanjay Manandhar
+title: Mercantile email and domain contact
+url_original: unknown
+url_archived: https://nsrc.org/db/lookup/report.php?id=890202386458:497430937&fromISO=NP
+country_or_territory: Nepal
+connection_basis: local-hosting | operator-residence
+medium: email
+activity_type: communication | infrastructure
+operator_type: commercial
+network_status: inter-network
+date_claimed: 1995-01-31
+date_type: inferred
+date_precision: exact
+evidence:
+  - source_url: https://nsrc.org/db/lookup/report.php?id=890202386458:497430937&fromISO=NP
+    source_type: contemporary operator correspondence preserved in NSRC database
+    observed_date: 1995-01-31
+    supports: named Kathmandu operator, email address postmaster@mos.com.np, node pumori, telephone and postal address
+    grade: A
+author_attribution: Sanjay Manandhar <sanjay@mos.com.np>
+language: English
+notes: Dated email from Manandhar to NSRC lists full Mercantile contact details and confirms operational email presence under mos.com.np by 31 January 1995. Aligns with IANA .np delegation the same month.
+uncertainties: Does not establish continuous IP connectivity or public web service; store-and-forward character of earlier commercial email is from secondary sources.
+researcher: Grok (xAI)
+last_checked: 2026-11-18
+```
+
+### NP-02 — WorldLink UUCP email service (October 1995)
+
+```yaml
+id: NP-02
+status: candidate
+person_or_project: WorldLink Inc. / Dileep Agrawal
+title: WorldLink UUCP Internet e-mail service
+url_original: unknown
+url_archived: https://nsrc.org/db/lookup/report.php?id=890202386112:497435004&fromISO=NP
+country_or_territory: Nepal
+connection_basis: local-hosting | operator-residence
+medium: email | uucp
+activity_type: communication | service
+operator_type: commercial
+network_status: inter-network
+date_claimed: 1995-10-25
+date_type: first-publication
+date_precision: exact
+evidence:
+  - source_url: https://nsrc.org/db/lookup/report.php?id=890202386112:497435004&fromISO=NP
+    source_type: contemporary operator announcement preserved in NSRC database
+    observed_date: 1995-10-25
+    supports: announcement of newly established UUCP service dialling several times daily to transfer Internet mail; named contacts Shyam Agrawal (Nepal) and Manoj Agrawal (US); address PO Box 8207 Kathmandu; domains worldl.com and wlink.wa.com
+    grade: A
+author_attribution: Dileep Agrawal <DA3101A@american.edu>
+language: English
+notes: Primary contemporary report that WorldLink had recently established UUCP-based Internet e-mail in Nepal. Explicitly states planned upgrade to full PPP/SLIP connectivity. Distinct from Mercantile’s earlier store-and-forward and July 1995 continuous-IP services.
+uncertainties: Exact first customer date and continuous operation not stated; full dial-up Internet commonly dated 1997 in later accounts.
+researcher: Grok (xAI)
+last_checked: 2026-11-18
+```
+
+These candidates strengthen the commercial email layer with grade-A contemporary operator reports. No resident personal homepage is identified. Next: recover Wayback captures of mos.com.np and early WorldLink pages; seek Nepali-language press notices of the 1995 services.
