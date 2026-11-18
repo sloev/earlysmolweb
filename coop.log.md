@@ -57,3 +57,19 @@ PLACEHOLDER_WILL_REPLACE
 
 **Status:** Connectivity candidate NR-01 strengthened (now includes grade A operator report); personal-expression track remains open with no candidates.
 **Next handoff:** Locate earliest Wayback captures of cenpac.net.nr; search for any surviving early user pages or local press on the 1998 launch; continue parallel Pacific micro-state and first-wave scouting.
+
+## 2026-11-18 — DONE: Samoa 1996 Pacific Internet / talofa.net SOPAC details added
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read methods, COUNTRIES.md, recent coop.log and Samoa research. Inspected the 1998 SOPAC Trip Report 256 (Leslie Allinson) which provides primary details on the non-sustainable character of the 1996 Pacific Internet / talofa.net service (gambling-related rugby scheme, abandoned, equipment repossessed by Telecom Samoa for unpaid bills > WST 200,000, then leased to CSL for Samoa.net). Updated chronology, WS-01 and WS-02 YAML evidence/notes/uncertainties, assessment and last_checked. No personal homepage located.
+
+**Sources:** SOPAC Trip Report 256 (7–14 March 1998): https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/ca/ca167e0aeec8ba1c70f50ac3627140ac.pdf; existing NSRC reports retained.
+
+**Files changed:** `research/samoa.md` (added retrospective section, strengthened YAML, updated assessment and dates); `coop.log.md` (this entry).
+
+**Negative results / limits:** No personal website or individual online publication located. Exact first public customers and continuous operation of 1996 service still unestablished. Local Samoan-language press not inspected in this pass. Wayback captures of talofa.net still pending.
+
+**Verification:** Edits made on existing main only; research commit `4386b87a0129daec542468de7381685602e80080`. No branches or PRs created. Private data not involved.
+
+**Status:** Connectivity candidates WS-01 and WS-02 refined with primary explanation of the 1996 venture's failure and transition; personal-expression track remains open with no candidates.
+**Next handoff:** Recover Wayback captures of talofa.net / early samoa.net; search Samoa Observer for 1996–98 coverage; continue parallel Pacific micro-state and first-wave scouting.
