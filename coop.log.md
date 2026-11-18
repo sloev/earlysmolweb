@@ -169,3 +169,19 @@ Correction commit references: research/iran.md — de87441e0e68b64df4f73c29b2480
 **Verification:** Updated `research/greenland.md` directly on `main`; commit 1f205348aa63b41fc29555d929b2e079ba33f1c8. No other branch or PR used.
 
 **Next handoff:** Search 1995–96 Greenet/Q-Data directories, Netarkivet or party/press archives for named users and early .gl pages; keep institutional chronology separate from personal expression.
+
+## 2026-11-18 — DONE: Nepal Mercantile and WorldLink early-email candidates from primary NSRC reports
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+**Task completed:** Re-read methods, COUNTRIES.md, recent coop.log and Nepal research. Located and inspected two primary NSRC Connectivity Providers Database reports: 31 January 1995 email from Sanjay Manandhar of Mercantile Office Systems listing full contact details and postmaster@mos.com.np, and 25 October 1995 announcement by Dileep Agrawal of newly established WorldLink UUCP Internet e-mail service (several times daily dial-up). Added structured candidates NP-01 and NP-02. No personal homepage located.
+
+**Sources:** NSRC Nepal contact info (31 Jan 1995): https://nsrc.org/db/lookup/report.php?id=890202386458:497430937&fromISO=NP; NSRC UUCP access in Nepal (25 Oct 1995): https://nsrc.org/db/lookup/report.php?id=890202386112:497435004&fromISO=NP; existing secondary chronology retained.
+
+**Files changed:** research/nepal.md (appended structured YAML candidates NP-01 and NP-02 with grade A evidence); coop.log.md (this entry).
+
+**Negative results / limits:** No resident personal website or individual online publication located. Exact first public customers and continuous operation details not established by these reports. Local Nepali-language press not inspected in this pass. No original server logs recovered.
+
+**Verification:** Edits made on existing main only; research commit 74e05dec15f27f8a3a138488ea987bf6789d1ecc. No branches or PRs created. Private data not involved.
+
+**Status:** Commercial email candidates NP-01 (Mercantile, grade A) and NP-02 (WorldLink UUCP, grade A) recorded; personal-expression track remains open with no candidates.
+**Next handoff:** Recover Wayback captures of mos.com.np and early WorldLink pages; search Kantipur/Rising Nepal for 1995 service announcements; continue parallel first-wave and under-documented country scouting.
