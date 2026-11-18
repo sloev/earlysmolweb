@@ -1,5 +1,23 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-19 — DONE: Uruguay Chasque user-page lead strengthened with founder primary retrospective
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Uruguay research. Strengthen the August 1995 Chasque public Web-hosting / user-page lead with operator-authored source. Prefer local-language / operator sources. Record status; no article-data block.
+
+**Files touched:** research/uruguay.md (appended new section), coop.log.md (this entry).
+
+**Sources:**
+- Roberto Bissio, “Un poco de historia” (Chasque.net own site): explicitly states that in August 1995 Chasque began offering SLIP/PPP graphical Internet access and that members could browse the Web and have their own WWW pages. http://www.chasque.net/chasque2000/acerca_de/historia.htm (accessed 2026-11-19; grade C founder retrospective).
+- Prior NSRC and academic sources already in the note.
+
+**Status:** Open-user-page lead upgraded from secondary academic report to probable on the basis of the operator’s own chronology. No specific surviving 1995 personal homepage or URL pattern located. Country status remains active scouting. No article-data block (no single tellable personal episode fully supported).
+
+**Unresolved questions:** Exact hosting namespace / ~username or directory pattern used by Chasque in 1995–96; any surviving Wayback or Netarkivet captures of early member pages; corroboration of the precise August 1995 start date with contemporaneous notices.
+
+**Next handoff:** Search Internet Archive for early chasque.apc.org / www.chasque.apc.org captures and user directories (1995–1997); continue parallel work on other first-wave jurisdictions (Greenland Atagu capture search, Faroe archives, Iceland, Denmark, Iran). Other countries remain open.
+
 ## 2026-11-18 — DONE: Faroe Islands lead advance (FO-03 Ólavsøka homepage) and null archive search
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
