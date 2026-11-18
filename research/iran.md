@@ -362,14 +362,14 @@ Sources:
 
 Assessment: **probable** Iran-related transnational community website by October 1997; collective, not personal; exact launch date, hosting location, first capture and original content remain unresolved.
 
-### Sam Ghandchi — directly archived soc.culture.iranian post, 13 June 1994
+### Sam Ghandchi — directly archived soc.culture.iranian post, 14 June 1994
 
-Google Groups preserves a post by Sam Ghandchi in the public Usenet newsgroup soc.culture.iranian dated **13 June 1994**. In the thread “Russian words in Farsi”, Ghandchi replies to a discussion of Russian loanwords and adds comments on Persian vocabulary, regional language differences and the film Bashu, the Little Stranger. This is a direct, dated example of individual online expression in an Iranian-interest forum.
+Google Groups preserves a post by Sam Ghandchi in the public Usenet newsgroup soc.culture.iranian dated **14 June 1994**. In the thread “Russian words in Farsi”, Ghandchi replies to a discussion of Russian loanwords and adds comments on Persian vocabulary, regional language differences and the film Bashu, the Little Stranger. This is a direct, dated example of individual online expression in an Iranian-interest forum.
 
-Country attribution must remain diaspora/community-based rather than territorial. Ghandchi's own biography says he was originally from Iran, returned to the United States on 6 February 1982, and ran Nova Bookstore in Sunnyvale from 1985 to 1989. His exact residence on 13 June 1994 is not explicitly stated, but the biographical timeline strongly suggests that this post should not be counted as an in-country Iranian Internet activity without further evidence. The same biography retrospectively claims his first article about Iran on soc.culture.iranian was in October 1993; a later first-person book dates “Stop Stoning Iranian Women” to 15 March 1994 and says it led to IHRWG. Neither earlier post was recovered as an original Usenet message in this pass.
+Country attribution must remain diaspora/community-based rather than territorial. Ghandchi's own biography says he was originally from Iran, returned to the United States on 6 February 1982, and ran Nova Bookstore in Sunnyvale from 1985 to 1989. His exact residence on 14 June 1994 is not explicitly stated, but the biographical timeline strongly suggests that this post should not be counted as an in-country Iranian Internet activity without further evidence. The same biography retrospectively claims his first article about Iran on soc.culture.iranian was in October 1993; a later first-person book dates “Stop Stoning Iranian Women” to 15 March 1994 and says it led to IHRWG. Neither earlier post was recovered as an original Usenet message in this pass.
 
 Sources:
-- Direct archived Usenet thread, showing Ghandchi's 13 June 1994 post: https://groups.google.com/g/soc.culture.iranian/c/ByE55PE0HWM
+- Direct archived Usenet thread, showing Ghandchi's 14 June 1994 post: https://groups.google.com/g/soc.culture.iranian/c/ByE55PE0HWM
 - Ghandchi's biographical note (dated 8 Dec 2005): https://www.ghandchi.com/05-My_ProfileEng.htm
 - Ghandchi's retrospective account of the 15 March 1994 post and IHRWG formation: https://www.ghandchi.com/500-FuturistIranEng.htm
 
@@ -441,14 +441,14 @@ Assessment: **candidate** for Iran-related diaspora Usenet expression; the messa
   activity_type: communication
   operator_type: individual
   network_status: Internet / Usenet
-  date_claimed: 1994-06-13
+  date_claimed: 1994-06-14
   date_type: first-publication
   date_precision: day
   evidence:
     - source_url: https://groups.google.com/g/soc.culture.iranian/c/ByE55PE0HWM
       source_type: archived Usenet thread containing the original post
-      observed_date: 1994-06-13
-      supports: Google Groups identifies Sam Ghandchi as the author of a post dated 13 June 1994 in soc.culture.iranian
+      observed_date: 1994-06-14
+      supports: Google Groups identifies Sam Ghandchi as the author of a post dated 14 June 1994 in soc.culture.iranian
       grade: A/B
     - source_url: https://www.ghandchi.com/05-My_ProfileEng.htm
       source_type: first-person biography
@@ -464,12 +464,12 @@ Assessment: **candidate** for Iran-related diaspora Usenet expression; the messa
   notes: >
     Directly preserved individual Usenet expression in an Iranian-interest
     forum. Ghandchi's biography places him in the United States from 1982
-    onward, but does not explicitly state his exact location on 13 June 1994.
+    onward, but does not explicitly state his exact location on 14 June 1994.
     Treat this as diaspora/community activity, not proof of an Iran-resident
     author or a personal website. The author's claimed October 1993 first post
     remains an unverified retrospective lead.
   uncertainties: >
-    Exact residence on 13 June 1994; original Message-ID and full headers;
+    Exact residence on 14 June 1994; original Message-ID and full headers;
     original October 1993 post; original 15 March 1994 Stop Stoning Iranian
     Women post; any early personal homepage.
   researcher: ChatGPT
