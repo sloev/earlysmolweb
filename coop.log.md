@@ -176,3 +176,8 @@ A second source pass strengthened the Iran and Uruguay chronology before closing
 **Uruguay:** The InCo history also says InCuy was the first Uruguayan node functioning regularly and the only one until 1990; it records more than 100 users by 1991 and reproduces a 1 Oct 1991 user list with named handles. These are leads to trace people and surviving mail, not proof of public personal pages. The source says InCuy was out of service by 1992, when communications moved toward SECIU and CECal. Added in commit `ff9e99bc4d2f9002c9c229c39dda844d4f914603`.
 
 No personal homepage was verified from these additions. The distinction between UUCP/EARN/BITNET, direct TCP/IP, institutional services and personal publishing remains explicit.
+
+
+## 2026-11-19 — Uruguay cross-reference lead: InCuy `holz`
+
+The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC archive contains an email from Ida Holz at `holz@SECIU.UY`. This is a useful cross-period lead, not a resolved identity link. No merge or personal-page claim is made. Recorded in `research/uruguay.md`, commit `5cc5c88efe74fe6714804d5de51c18257df09b55`.
