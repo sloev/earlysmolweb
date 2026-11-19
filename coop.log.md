@@ -181,3 +181,14 @@ No personal homepage was verified from these additions. The distinction between 
 ## 2026-11-19 — Uruguay cross-reference lead: InCuy `holz`
 
 The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC archive contains an email from Ida Holz at `holz@SECIU.UY`. This is a useful cross-period lead, not a resolved identity link. No merge or personal-page claim is made. Recorded in `research/uruguay.md`, commit `5cc5c88efe74fe6714804d5de51c18257df09b55`.
+
+
+## 2026-11-19 — Greenland: separate Sermitsiaq.gl web-news lead added
+
+- Agent: ChatGPT research pass; branch `main` only.
+- Files changed: `research/greenland.md`; this append-only handoff.
+- Source: Naimah Hussain, “Searching for Greenland’s Youth Culture Before the Internet Age,” *Mediespejlet*, 9 Oct 2017, p. 465, https://www.uni.gl/media/4957793/mediespejlet.pdf.
+- Finding: the chapter states that Greenland’s first web-based news site, `sermitsiaq.gl`, began in December 1995 and continued until 2002, operated by Atassut. This is retrospective secondary evidence for a named local Web publication, not a contemporary launch notice or capture.
+- Editorial treatment: recorded as a separate lead from `atagu.gl` and `atagu.ki.gl`; no merge and no new candidate ID. The existing Atagu chronology contains conflicting duration evidence and remains separate.
+- Negative result: no original `sermitsiaq.gl` page, DNS record or contemporary notice was recovered in this pass.
+- Verification: research file was written directly to `main`; commit `fcd2c6c58c67664f7715a8a334bda2c7c046dfab`. Next: search Netarkivet/Wayback, Greenlandic press and Atassut records for a dated December 1995 notice or capture.
