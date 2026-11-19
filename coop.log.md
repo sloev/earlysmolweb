@@ -165,3 +165,14 @@
 ## 2026-11-19 — Greenland restore verification correction
 
 A post-write verification caught that commit `688cee1495aac46eb701252487d0a32d2ec34dbb` had appended the new Atagu note to the placeholder rather than to the prior file. The complete original Greenland research was still recoverable from blob `16981fb3478b2b4ccf393cb8e295e6dc20020f37`; it has now been restored in full, with the new `atagu.ki.gl` lead appended, in commit `632569b09d59d893ba671a0d9f07de457f1c691b`. A fresh fetch verified a 21,424-character file beginning `# Greenland`, containing both the earlier Atagu research and the new NSRC hostname note. The earlier restoration claim above should be read as superseded by this correction.
+
+
+## 2026-11-19 — Follow-up: January 1993 IREARN and InCuy user-list evidence
+
+A second source pass strengthened the Iran and Uruguay chronology before closing the run.
+
+**Iran:** Inspected both 19 Jan 1993 NSRC “Nodes in Iran” records. The EARN registry extract gives IREARN's member date (1 Nov 1992), connection date (1 Dec 1992), 4.8 kbps AEARN link, MicroVAX/JNET system, and named IPM contacts Ebrahim N. Mashayekh, Ali Shokoufandeh and Akbar Behzadi. A separate same-day message by John C. Klensin reports a successful EARN-level ping equivalent. This is institutional EARN/BITNET evidence, not direct TCP/IP or personal publishing. Sources: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488663:497420738 and https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202494166:497438246. Added in commit `3857c88d8bcbc17fbf0fae34d6da62a5b217d7c3`.
+
+**Uruguay:** The InCo history also says InCuy was the first Uruguayan node functioning regularly and the only one until 1990; it records more than 100 users by 1991 and reproduces a 1 Oct 1991 user list with named handles. These are leads to trace people and surviving mail, not proof of public personal pages. The source says InCuy was out of service by 1992, when communications moved toward SECIU and CECal. Added in commit `ff9e99bc4d2f9002c9c229c39dda844d4f914603`.
+
+No personal homepage was verified from these additions. The distinction between UUCP/EARN/BITNET, direct TCP/IP, institutional services and personal publishing remains explicit.
