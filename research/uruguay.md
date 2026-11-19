@@ -99,3 +99,10 @@ The same InCo history adds two useful retrospective details beyond the reproduce
 Source: *Aportes para la historia del Instituto de Computación [1967–2012]*, pp. 45–50 / PDF text lines 567–765: https://www.fing.edu.uy/sites/default/files/Aportes_para_la_Historia_del_INCO_0.pdf
 
 **Assessment:** this is a retrospective recollection and reproduced internal account, not an independently audited user census. The named handles are valuable **leads** for identifying early network participants and possible surviving mail, but they are not evidence of public personal pages or direct Internet hosting. The node's UUCP/EARN-style store-and-forward role must remain distinct from the 1992 NSRC report's explicit finding that Uruguay had no direct Internet connection.
+
+
+### Cross-reference lead: the 1991 InCuy handle `holz`
+
+The 1 October 1991 InCuy user list reproduced in the InCo history includes the handle `holz`. A separate NSRC record preserves Ida Holz's 2 April 1993 message from `holz@SECIU.UY`. This makes a connection between the 1991 account and Ida Holz a useful **lead**, but the shared string alone does not prove account ownership or that the 1991 handle was hers. Do not merge them without an original user register, email header, or independent institutional record.
+
+Sources: InCo history, PDF text pp. 49–50: https://www.fing.edu.uy/sites/default/files/Aportes_para_la_Historia_del_INCO_0.pdf ; NSRC, 2 Apr 1993: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534324:497425387.
