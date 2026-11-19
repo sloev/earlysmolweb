@@ -1,5 +1,17 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-19 09:25 UTC — CLAIM — Track A — Greenland — personal homepage and Atagu lead discovery — AGENT-Grok-Automation — IN PROGRESS
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Greenland research. Search for early personal homepages, user pages on Q-Data/Greenet, additional evidence on Atagu (atagu.gl), and contemporary newspaper mentions. Prefer local-language sources. Record leads and null results. No article-data block unless a specific episode is fully supported.
+
+**Files to touch:** research/greenland.md (update), coop.log.md (this claim + later update).
+
+**Status:** Claimed; research starting.
+
+---
+
 ## 2026-11-19 — DONE: Uruguay research note completed (Chasque 1995 evidence + null archive search)
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
