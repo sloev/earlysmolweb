@@ -488,3 +488,21 @@ The NSRC archive preserves an email from **Ebrahim N. Mashayekh** at IPM, dated 
 This adds a useful December 1994 snapshot between the January 1993 EARN/BITNET evidence and the later 1995 host reports. Keep the 1994 IPM-to-Vienna leased line distinct from the 1993 EARN/BITNET link and the mid-1994 TCP/IP gateway chronology; they describe different network layers and milestones. It does not establish that every Iranian user could reach the global Internet or that personal publishing was available.
 
 **Next:** inspect both January 1993 “Nodes in Iran” reports and the December 1994 node contact for personal directories, Gopher/FTP services, or named non-institutional contributors.
+
+
+## January 1993 — IREARN EARN node registration and external reachability
+
+Two contemporaneous NSRC records dated **19 January 1993** clarify the earliest EARN/BITNET layer:
+
+- An EARN registry extract gives node ID `IREARN` for IPM in Tehran, member date **1 November 1992**, connection date **1 December 1992**, a DEC MicroVAX 3100/20E, JNET V3.5, EARN network, and a 4.8 kbps AEARN link. It names **Ebrahim N. Mashayekh** as member director/administrator and **Ali Shokoufandeh** and **Akbar Behzadi** as network operations, technical-query and user-administration contacts.
+- In a separate message the same day, John C. Klensin says he sent the EARN node the equivalent of a ping and received a response, confirming that it was connected at EARN level.
+
+Sources:
+- NSRC, “Nodes in Iran,” EARN registry extract: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488663:497420738
+- NSRC, “Nodes in Iran,” Klensin reachability note: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202494166:497438246
+
+**Evidence grade:** A/B — contemporaneous registry data plus an independent network operator's reachability report. The records support three distinct dates: EARN membership from November 1992, registered connection from 1 December 1992, and externally confirmed EARN reachability on 19 January 1993.
+
+**Classification:** institutional EARN/BITNET node and named technical contacts. This is not evidence of direct TCP/IP service, a web server, or a personal homepage. Keep the EARN connection separate from the later IPM-to-Vienna 9.6 kbps leased line reported in December 1994 and from the mid-1994 TCP/IP gateway chronology.
+
+**Next:** use the named contacts and the IREARN node to search contemporary EARN directories, list archives, gateway logs and technical discussion lists. Do not treat an institutional contact address as a personal publishing site.
