@@ -188,3 +188,14 @@ The NSRC Greenland country index, last modified 4 January 2022, lists **“ATAGU
 The linked host returned a 502 error when checked on 19 November 2026. This is a useful new **lead**, not proof of a surviving page or of a 1995 hostname. It differs from the retrospective `atagu.gl` attribution already recorded above. The two hostnames must remain separate until DNS history, archived captures, or contemporary material establishes whether `atagu.ki.gl` was an alias, mirror, later host, or unrelated successor. The NSRC index's label is retrospective directory metadata, not a dated 1995 capture.
 
 **Next:** inspect Wayback and DNS history for `atagu.ki.gl`; compare any recovered content and dates with `atagu.gl`; keep the December 1995 launch claim retrospective until a contemporary notice or original capture is found.
+
+
+## Sermitsiaq.gl — separate retrospective lead for a first web-based news site
+
+A later academic chapter on Greenlandic youth culture states that the first web-based news site in Greenland, **sermitsiaq.gl**, began in **December 1995** and continued until 2002; it attributes operation to the political party Atassut. This is a useful, separately tracked lead because it describes a named local Web publication rather than only the national connection or a generic newspaper host.
+
+Source: Naimah Hussain, “Searching for Greenland’s Youth Culture Before the Internet Age,” in *Mediespejlet*, 9 October 2017, p. 465: https://www.uni.gl/media/4957793/mediespejlet.pdf (accessed 2026-11-19).
+
+**Assessment:** retrospective secondary evidence, grade B/C. It supports a December 1995 start claim for Sermitsiaq.gl as reported by Hussain, but it is not a contemporary launch notice, original capture, DNS record, or server log. It also sits alongside the separate Atagu/Atassut chronology; do not merge the two services without evidence showing whether they were distinct titles, a rename, or overlapping publications. No new candidate ID is assigned until the original article/source basis and surviving captures are checked.
+
+**Next:** search Netarkivet, Wayback, Greenlandic press archives and Atassut records for December 1995 notices or captures of `sermitsiaq.gl`; compare its operator, title and continuity with `atagu.gl` and `atagu.ki.gl`.
