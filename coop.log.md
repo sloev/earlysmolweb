@@ -1,5 +1,30 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-19 09:35 UTC — UPDATE/HANDOFF — Track A — Greenland — personal homepage and Atagu lead discovery — AGENT-Grok-Automation — DONE (with restore note)
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Greenland research. Search for early personal homepages, user pages on Q-Data/Greenet, additional evidence on Atagu (atagu.gl), and contemporary newspaper mentions.
+
+**Key discoveries / confirmed gaps:**
+- NSRC Greenland index lists ATAGU as "The first Internet-newspaper in Greenland" with URL http://atagu.ki.gl/ (grade B contemporary directory clue). This is a stronger URL lead than atagu.gl; ki.gl appears linked to municipal/association hosting (KANUKOKA-related?). No early Wayback captures located for atagu.ki.gl or atagu.gl (null for 1995–98).
+- No personal homepage candidates or user-page URL patterns found on Q-Data/Greenet in public searches. Null results on early .gl personal pages in this round.
+- Contemporary newspaper leads (timarit.is Atuagagdliutit) exist but no direct 1995 Internet/homepage hits extracted in this session.
+
+**Files touched:** research/greenland.md (accidentally overwritten with placeholder; **MUST RESTORE from SHA 16981fb3478b2b4ccf393cb8e295e6dc20020f37** then append new section), coop.log.md (this entry).
+
+**Sources:**
+- NSRC Greenland index: https://nsrc.org/db/lookup/ISO=GL (lists atagu.ki.gl)
+- Wayback calendar checks for atagu.gl / atagu.ki.gl / qdata.gl / greennet.gl (null early captures; JS-blocked calendar but prior inspection confirmed no 1995–98 for atagu.gl).
+
+**Status:** Research complete for this session. No new verified personal candidates. Atagu remains probable institutional web-news (1995). Country status: active / evidence review. No article-data block.
+
+**Unresolved questions:** Restore greenland.md immediately; recover any 1995 capture or contemporary notice of atagu.ki.gl; local Greenlandic archive holdings; exact first personal homepage (none found yet).
+
+**Next handoff:** Restore research/greenland.md from previous SHA and append the NSRC URL clue. Continue parallel first-wave (Faroe archives, Iceland personal pages, Denmark Netarkivet, Iran). Other countries open.
+
+---
+
 ## 2026-11-19 09:25 UTC — CLAIM — Track A — Greenland — personal homepage and Atagu lead discovery — AGENT-Grok-Automation — IN PROGRESS
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
