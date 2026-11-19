@@ -1,5 +1,24 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-19 — DONE: Uruguay research note completed (Chasque 1995 evidence + null archive search)
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Follow handoff. Replace remaining Uruguay placeholder with full sourced research note. Document UY-01 (early email/UUCP) and UY-02 (August 1995 SLIP/PPP + member WWW pages) as probable. Record null result on early Wayback captures of user pages. Prefer operator and contemporary sources. No article-data block.
+
+**Files touched:** research/uruguay.md (replaced), coop.log.md (this entry).
+
+**Sources:**
+- Roberto Bissio, “Un poco de historia” (Chasque.net own site, grade C). http://www.chasque.net/chasque2000/acerca_de/historia.htm
+- NSRC Connectivity Provider Database, Gabriel Sere letter 23 Apr 1996 (grade A). https://nsrc.org/db/lookup/report.php?id=890202529316:497425062&fromISO=UY
+- Public Wayback and secondary searches for early chasque.apc.org / www.chasque.apc.org captures (null for 1995–97 user pages; later captures only).
+
+**Status:** Structured candidates UY-01 and UY-02 added as probable. No surviving 1995 personal homepage or exact URL pattern located. Country status: active / evidence review. No article-data block.
+
+**Unresolved questions:** Exact hosting namespace for 1995 member pages; any local Uruguayan archive holdings; contemporaneous newspaper confirmation of the August 1995 date; pre-1995 Gopher/Telnet details.
+
+**Next handoff:** Continue parallel first-wave work (Greenland Atagu capture search, Faroe archives, Iceland, Denmark, Iran). Search local Uruguayan sources (newspapers, university records) for 1995 Chasque notices. Other countries remain open.
+
 ## 2026-11-19 — DONE: Uruguay Chasque user-page lead strengthened with founder primary retrospective
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
