@@ -160,3 +160,8 @@
 2. Trace the operators of Chasque-linked Fido boards and recover early Chasque/SECIU Gopher, FTP and mailing-list directories.
 3. Compare `atagu.ki.gl` and `atagu.gl` through DNS history and archive captures; do not infer a 1995 URL from the NSRC directory.
 4. Continue parallel discovery outside these countries; none of the above establishes a national first personal homepage.
+
+
+## 2026-11-19 — Greenland restore verification correction
+
+A post-write verification caught that commit `688cee1495aac46eb701252487d0a32d2ec34dbb` had appended the new Atagu note to the placeholder rather than to the prior file. The complete original Greenland research was still recoverable from blob `16981fb3478b2b4ccf393cb8e295e6dc20020f37`; it has now been restored in full, with the new `atagu.ki.gl` lead appended, in commit `632569b09d59d893ba671a0d9f07de457f1c691b`. A fresh fetch verified a 21,424-character file beginning `# Greenland`, containing both the earlier Atagu research and the new NSRC hostname note. The earlier restoration claim above should be read as superseded by this correction.
