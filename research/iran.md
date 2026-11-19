@@ -475,3 +475,16 @@ Assessment: **candidate** for Iran-related diaspora Usenet expression; the messa
   researcher: ChatGPT
   last_checked: 2026-11-18
 ~~~
+
+
+## Contemporaneous IPM node update — 12 December 1994
+
+The NSRC archive preserves an email from **Ebrahim N. Mashayekh** at IPM, dated 12 December 1994. It identifies IPM in Tehran as Iran's representative to TERENA and describes it as **Iran's main Internet node**. Mashayekh reports a **9,600 bps leased line to the University of Vienna**, with a planned upgrade to 64 kbps. His addresses are given as `ebrahim@IREARN.BITNET` and `ebrahim@unix.ipm.ac.ir`; the technical contact is at the University of Vienna.
+
+- Source: NSRC, “Iran update (12.94),” last updated 12 Dec 1994: https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488276:497426500
+- Evidence grade: **A/B** — contemporaneous technical email preserved by NSRC; strong evidence of what the node administrator reported, but not an independent bandwidth test.
+- Classification: institutional network infrastructure / connectivity, not a personal website or public-user directory.
+
+This adds a useful December 1994 snapshot between the January 1993 EARN/BITNET evidence and the later 1995 host reports. Keep the 1994 IPM-to-Vienna leased line distinct from the 1993 EARN/BITNET link and the mid-1994 TCP/IP gateway chronology; they describe different network layers and milestones. It does not establish that every Iranian user could reach the global Internet or that personal publishing was available.
+
+**Next:** inspect both January 1993 “Nodes in Iran” reports and the December 1994 node contact for personal directories, Gopher/FTP services, or named non-institutional contributors.
