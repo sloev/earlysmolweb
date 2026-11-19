@@ -134,3 +134,29 @@
 **Unresolved questions:** Surviving 1996 captures of reported consular sites; exact month of 1997 service launch and first local ISP/website; any pre-1997 local-hosted pages; Tongan-language contemporary sources.
 
 **Next handoff:** Search Wayback and Pacific archives for early .to captures (sfconsulate.gov.to, tvb.gov.to, tonic.to); check Tongan newspapers 1996–97; continue parallel first-wave work. Other countries remain open.
+
+
+## 2026-11-19 — Greenland restoration; Iran and Uruguay evidence pass
+
+**Coordination:** Read the project instructions, country index, complete coordination log and relevant country files before selecting work. The log's urgent warning about Greenland was acted on first.
+
+**Files changed**
+- `research/greenland.md`: the previous research file had been replaced by a one-line placeholder. Restored the complete prior version from blob `16981fb3478b2b4ccf393cb8e295e6dc20020f37`, then appended the NSRC directory lead for `https://atagu.ki.gl/`. This is a different hostname from the retrospective `atagu.gl`; NSRC's 2022 index label is not a 1995 capture, and the linked host returned HTTP 502. Keep the two hostnames separate.
+- `research/iran.md`: added the contemporaneous 12 Dec 1994 IPM update from Ebrahim N. Mashayekh. It reports IPM as Iran's main Internet node and a 9.6 kbps leased line to the University of Vienna, planned to rise to 64 kbps. This is infrastructure evidence, not personal publishing.
+- `research/uruguay.md`: added the 1988 InCo UUCP node letter, 1992 NSRC no-direct-Internet snapshot and Chasque/SECIU services, the 1993 NGONET email file server, and Ida Holz's 2 Apr 1993 ENREDO/BITNET message. These establish early network communication and institutional/community services, not personal homepages.
+
+**Evidence and limits**
+- Greenland: NSRC index https://www.nsrc.org/db/lookup/ISO=GL; linked hostname https://atagu.ki.gl/ (502 on check). New status: lead only.
+- Iran: NSRC “Iran update (12.94)” https://nsrc.org/db/lookup/report.php?fromISO=IR&id=890202488276:497426500. Contemporary technical email, grade A/B for the operator's report; no independent throughput test.
+- Uruguay: InCo history and reproduced letter https://www.fing.edu.uy/sites/default/files/Aportes_para_la_Historia_del_INCO_0.pdf; NSRC 1992 report https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202529785:497424205; NGONET announcement https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534901:497426495; Ida Holz message https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534324:497425387. The 1992 report explicitly says no direct Internet connection; do not recast UUCP/BITNET/X.25 as TCP/IP.
+
+**Commits**
+- Greenland restoration + lead: `688cee1495aac46eb701252487d0a32d2ec34dbb`
+- Iran: `d6887d14f2094a4d8acb173184f5079aa364c790`
+- Uruguay: `93a718a0c590a13520d50a6da3bed5ef366fec4d`
+
+**Next**
+1. Retrieve the two January 1993 Iran “Nodes in Iran” reports and compare them with the December 1994 IPM node update.
+2. Trace the operators of Chasque-linked Fido boards and recover early Chasque/SECIU Gopher, FTP and mailing-list directories.
+3. Compare `atagu.ki.gl` and `atagu.gl` through DNS history and archive captures; do not infer a 1995 URL from the NSRC directory.
+4. Continue parallel discovery outside these countries; none of the above establishes a national first personal homepage.
