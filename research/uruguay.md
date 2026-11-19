@@ -87,3 +87,15 @@ Classification: **named individual email / mailing-list expression**, with a cle
 These records add evidence earlier than the existing 1995 Chasque member-page and RAU WWW leads. They do not move the earliest verified personal website date: the 1988 node, 1992 Chasque/SECIU services and 1993 NGONET/ENREDO messages are network communication and institutional/community services, not personal homepages. The 1992 report's explicit “no direct Internet connection” statement is especially important when interpreting the 1988–93 activity.
 
 **Next:** identify the Fido boards and their operators, recover the early Chasque and SECIU Gopher/FTP menus, and determine whether the 1993 BITNET list had an archive or gateway preserving additional named Uruguayan contributors.
+
+
+### InCuy's reach and user list — 1989–1991
+
+The same InCo history adds two useful retrospective details beyond the reproduced 8 December 1988 letter:
+
+- Juan José Cabezas recalls that **InCuy was the first Uruguayan node functioning regularly and the only one until 1990**. He says the experimental node had been installed with help from the University of Buenos Aires.
+- The chapter says InCuy eventually had **more than 100 users** from the Faculty of Engineering, the University of the Republic and other institutions. It reproduces a user list dated **1 October 1991**, including handles such as `jcabezas`, `carpani`, `holz`, `tasende` and `grompone`, as well as shared service accounts. It also says communications moved gradually to SECIU and CECal in early 1990 and that InCuy was out of service by 1992.
+
+Source: *Aportes para la historia del Instituto de Computación [1967–2012]*, pp. 45–50 / PDF text lines 567–765: https://www.fing.edu.uy/sites/default/files/Aportes_para_la_Historia_del_INCO_0.pdf
+
+**Assessment:** this is a retrospective recollection and reproduced internal account, not an independently audited user census. The named handles are valuable **leads** for identifying early network participants and possible surviving mail, but they are not evidence of public personal pages or direct Internet hosting. The node's UUCP/EARN-style store-and-forward role must remain distinct from the 1992 NSRC report's explicit finding that Uruguay had no direct Internet connection.
