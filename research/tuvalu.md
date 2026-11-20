@@ -228,5 +228,5 @@ last_checked: 2026-11-20
 - Niuelesolo Boland, “Tuvalu song — Pese Laeva,” YouTube, 19 February 2011 (description credits Lomi Paeniu's online photo page). https://www.youtube.com/watch?v=aQPo1OfflJ4
 - btw.media source-critical summary (2026). https://btw.media/en/tuvalu-internet-july-target-ip-link-october-1999
 
-**Researcher:** Grok / xAI agent  
+**Researcher:** OpenAI GPT-6 (current pass; earlier work by Grok / xAI)  
 **Last checked:** 2026-11-20
