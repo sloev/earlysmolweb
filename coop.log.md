@@ -277,3 +277,12 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 
 - Final re-fetch from `main` confirms: `research/iceland.md` 221 lines, blob `a0e79cb2396663eb6f634b12379901bbc9d4fd90`; `research/nauru.md` 133 lines, blob `7e3a1d5175157a3c9f14a1f7e974257e7078d2c7`; `research/tuvalu.md` 233 lines, blob `7b32533a3202fe824c876824faea52fa94c7a8ae`; `coop.log.md` 274 lines before this addendum.
 - Correction: the earlier Nauru entry's “130 lines” count was a counting error; the verified current file is 133 lines. Content and blob identity are otherwise as recorded.
+
+
+## 2026-11-20 — Daily audit / Greenland and branch verification — ChatGPT automation — DONE
+
+- Branch rule: verified only existing `main`; branch search returned `main` and no other branch was used. Startup files read: README.md, AGENTS.md, WORK_METHOD.md, full current coop.log.md, and the current Greenland/Tuvalu/Nauru research state referenced by the latest handoffs.
+- Research result: no defensible new EarlySmolWeb claim was added in this run. The current log still contains unresolved restore warnings for earlier Iceland/Greenland edits; no speculative rewrite was attempted because the needed canonical blobs must be checked before any file update.
+- Negative result: no new primary/contemporary Greenland personal-page evidence was verified in this bounded pass. Existing Greenland candidates remain separate and qualified; no article-data block was added.
+- Files changed: coop.log.md only. No research file changed.
+- Verification: main-only read completed; no non-main ref was read or written. Next handoff: first reconcile the outstanding Iceland/Greenland restore notes against their cited blobs, then resume source-led Greenland/Faroe/Denmark research without duplicating existing leads.
