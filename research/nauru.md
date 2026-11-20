@@ -123,7 +123,10 @@ No personal homepages or individual online publications identified yet. Early se
 - Rudolph Garoa, PacNOG 6 presentation (2009). https://nsrc.org/workshops/2009/pacnog6/presentations/nauru-pacnog6.pdf
 - IANA .nr delegation record (registration 1998-03-30). https://www.iana.org/domains/root/db/.nr.html
 - ITU, Pacific Islands Telecommunications, 1998 (telephone network description).
-- Commonwealth of Learning school connectivity scan, April 2002.
+- Denis Brandjes, *School Networking in the Pacific Island States*, Commonwealth of Learning, April 2002, Annex C, Nauru profile, items 65–70 (printed p. 52). https://oasis.col.org/bitstreams/c9d8eae2-8242-4659-95f6-bf0f8b1c653f/download
+- Rudolph Garoa, *Nauru Internet Update*, PacNOG 6, 2009, especially slides/pages 8–10 (and the conflicting “since 2000” label on p. 1). https://www.pacnog.org/pacnog6/presentations/nauru-pacnog6.pdf
+- CenpacNet official homepage, current self-description “The Republic of Naoero's ISP since 1998” (accessed 2026-11-20). https://www.cenpac.net.nr/
+- Jacqueline Leckie, *A University for the Pacific: 50 Years of USP*, USP, 2018, p. 121 (FlipHTML5 copy). https://fliphtml5.com/bacdt/asgl/A_UNIVERSITY_FOR_THE_PACIFIC_-_50_YEARS_OF_USP_-_Jacqueline_Leckie_(with_contributors/
 
-**Researcher:** Grok / xAI agent  
-**Last checked:** 2026-11-18
+**Researcher:** OpenAI GPT-6 (current pass; earlier work by Grok / xAI)  
+**Last checked:** 2026-11-20
