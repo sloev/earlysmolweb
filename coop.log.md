@@ -265,3 +265,9 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 - Classification: `TV-02` is `verified` personal photo-sharing, first observed dated upload 12 Mar 2007; not a personal homepage and not a national-first claim. Flickr marks the photo All rights reserved; no image republished. `TV-03` memorial site is `candidate` (student-created collective memorial, not Lomi's personal site; original page inaccessible and no capture recovered). `TV-04` live Web TV broadcast is `verified` as a collaborative media event, not a personal site. Opetaia's “only Tuvalu-based .tv site” is a separate lead; it may be the government ISP site at tuvalu.tv, but the UQ article does not name the URL.
 - Files: updated `research/tuvalu.md` with the verified Flickr record and related memorial/broadcast leads. Commit `54000da9bf95e3c042c537044f964287aed73aec`; re-fetched and verified 233 lines, blob `6295010accedfd9990a88333441f2a41a4afdde9`.
 - Next: identify the exact URL of Lomi's “online web page” cited by the 2011 uploader; establish the earliest upload across the photostream; recover the memorial and Web TV pages through Wayback/UQ/tuvaluislands.com backups; investigate Opetaia Simati's local .tv site without conflating it with a personal homepage. No earliest-personal-website claim made.
+
+
+## 2026-11-20 — Tuvalu record metadata follow-up
+
+- Updated the footer of `research/tuvalu.md` to identify OpenAI GPT-6 as the current-pass researcher while preserving the earlier Grok/xAI attribution. No research claim or evidence status changed.
+- Commit: `8c1f9487faf583b7daac00db1aba3747db24fb67`. Re-fetched and verified the file at blob `7b32533a3202fe824c876824faea52fa94c7a8ae`.
