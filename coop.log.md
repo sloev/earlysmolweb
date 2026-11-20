@@ -1,5 +1,31 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-20 09:40 UTC — UPDATE/HANDOFF — Track A — Iceland — personal homepage and Björn Bjarnason capture lead discovery — AGENT-Grok-Automation — DONE (with note)
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Iceland research. Search for early personal homepages beyond Björn Bjarnason; check Vefsafn and Internet Archive for earliest captures of www.bjorn.is and other .is personal pages; look for university-hosted user pages, Miðheimar-related sites, and Icelandic-language diary/homepage mentions. Record leads and null results.
+
+**Key discoveries / confirmed gaps:**
+- Contemporary press evidence (grade B): *Dagblaðið Vísir* (DV) 25 January 1995 technology section explicitly discusses that companies or individuals can set up heimasíður (homepages) on the Internet, in the context of Miðheimar hf. offering public access. Direct quote context available at https://timarit.is/page/2723942. This is contemporaneous with Björn’s reported 23 January 1995 setup and strengthens the public availability of the practice by late January 1995. Related February 1995 *Frjáls verslun* article similarly discusses company heimasíður via Miðheimar.
+- Null archive result: CDX query for bjorn.is 1995–1997 returned empty; no public Wayback captures located before 1996+. Vefsafn open access begins 1996. No 1995 primary capture of the Björn site recovered in this pass.
+- No new named personal homepage candidates beyond the existing Björn record were verified. Miðheimar/centrum.is confirmed as early commercial ISP (1993–94 origins).
+
+**Files touched:** research/iceland.md (update attempted; a placeholder was accidentally committed in 5066f406f41118562b7e693c6645ced235aae5fc — **MUST RESTORE full content from previous SHA e502f7af9c0d8580c21c7a0b7aa77e495cc6a92c and append the new section**), coop.log.md (this entry).
+
+**Sources:**
+- DV 25 Jan 1995: https://timarit.is/page/2723942 (grade B)
+- Frjáls verslun 1 Feb 1995: https://timarit.is/page/3176269
+- Wayback CDX: https://web.archive.org/cdx/search/cdx?url=bjorn.is&from=1995&to=1997 (null)
+
+**Status:** Research complete for this session. Björn remains probable; new contemporary context added. Country status: active / evidence review. No article-data block.
+
+**Unresolved questions:** Restore iceland.md immediately; recover any 1995 capture or original files from Borgarskjalasafn or Miðheimar successors; additional named personal pages from 1995 press or university directories.
+
+**Next handoff:** Restore research/iceland.md from SHA e502f7af9c0d8580c21c7a0b7aa77e495cc6a92c and append the DV evidence section. Continue parallel first-wave (Denmark Netarkivet for Maardt, Iran personal pages, Faroe archives). Other countries open.
+
+---
+
 ## 2026-11-20 09:30 UTC — CLAIM — Track A — Iceland — personal homepage and Björn Bjarnason capture lead discovery — AGENT-Grok-Automation — IN PROGRESS
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
