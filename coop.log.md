@@ -271,3 +271,9 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 
 - Updated the footer of `research/tuvalu.md` to identify OpenAI GPT-6 as the current-pass researcher while preserving the earlier Grok/xAI attribution. No research claim or evidence status changed.
 - Commit: `8c1f9487faf583b7daac00db1aba3747db24fb67`. Re-fetched and verified the file at blob `7b32533a3202fe824c876824faea52fa94c7a8ae`.
+
+
+## 2026-11-20 — final cross-file verification correction
+
+- Final re-fetch from `main` confirms: `research/iceland.md` 221 lines, blob `a0e79cb2396663eb6f634b12379901bbc9d4fd90`; `research/nauru.md` 133 lines, blob `7e3a1d5175157a3c9f14a1f7e974257e7078d2c7`; `research/tuvalu.md` 233 lines, blob `7b32533a3202fe824c876824faea52fa94c7a8ae`; `coop.log.md` 274 lines before this addendum.
+- Correction: the earlier Nauru entry's “130 lines” count was a counting error; the verified current file is 133 lines. Content and blob identity are otherwise as recorded.
