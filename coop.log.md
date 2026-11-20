@@ -230,3 +230,14 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 - Editorial treatment: recorded as a separate lead from `atagu.gl` and `atagu.ki.gl`; no merge and no new candidate ID. The existing Atagu chronology contains conflicting duration evidence and remains separate.
 - Negative result: no original `sermitsiaq.gl` page, DNS record or contemporary notice was recovered in this pass.
 - Verification: research file was written directly to `main`; commit `fcd2c6c58c67664f7715a8a334bda2c7c046dfab`. Next: search Netarkivet/Wayback, Greenlandic press and Atassut records for a dated December 1995 notice or capture.
+
+
+## 2026-11-20 — Iceland research file restored; contemporary homepage press context added
+
+- Agent: OpenAI GPT-6; repository/branch: `sloev/earlysmolweb`, `main`.
+- Startup: read `README.md`, `WORK_METHOD.md`, `COUNTRIES.md`, the full coordination log, and the relevant country notes before work. The latest handoff identified an accidental one-line placeholder in `research/iceland.md` and explicitly required restoration.
+- Repair: commit `5066f406f41118562b7e693c6645ced235aae5fc` had replaced the 209-line Iceland note with `PLACEHOLDER_FOR_FULL_CONTENT`. Restored the complete prior version from parent commit `acfa07cd56f5f06dad7d502b4ca8395ff74000a8` (file blob `e502f7af9c0d8580c21c7a0b7aa77e495cc6a92c`), then appended the January 1995 press-context section. New commit: `76403d89c885f5a3b024548dae88fae4e2c36961`.
+- New context: the previous research pass had inspected *Dagblaðið Vísir* (25 Jan 1995, Tækni, p. 29; https://timarit.is/page/2723942) and *Frjáls verslun* (Feb 1995; https://timarit.is/page/3176269). It reported that the DV item discussed companies or individuals setting up Internet homepages in connection with Miðheimar, with a similar company-homepage discussion in *Frjáls verslun*. The Tímarit.is pages returned HTTP 403 in this pass, so the note explicitly identifies this as prior extracted contemporary press context, not a fresh transcription.
+- Assessment: grade B contemporary context for homepages being discussed as a practical Icelandic Internet activity by late January 1995. It does not prove Björn Bjarnason's own page was public on 25 Jan, identify an earlier personal homepage, or establish a national first. Björn remains probable; the original 1995 page/capture remains missing.
+- Verification: re-fetched `research/iceland.md` from `main`; confirmed it begins with `# Iceland`, contains the prior 1986–87 network and Björn sections, contains the new press note and retains the existing article-data block. Verified 221 lines / 26,775 characters; blob `a0e79cb2396663eb6f634b12379901bbc9d4fd90`.
+- Next: recover the Tímarit.is article text/image through a usable library route; search the same Jan–Feb 1995 press coverage for named individual homepages. Continue parallel country discovery; no national-first personal homepage was established in this pass.
