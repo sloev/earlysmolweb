@@ -1,5 +1,17 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-20 09:30 UTC — CLAIM — Track A — Iceland — personal homepage and Björn Bjarnason capture lead discovery — AGENT-Grok-Automation — IN PROGRESS
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Iceland research. Search for early personal homepages beyond Björn Bjarnason; check Vefsafn and Internet Archive for earliest captures of www.bjorn.is and other .is personal pages; look for university-hosted user pages, Miðheimar-related sites, and Icelandic-language diary/homepage mentions. Record leads and null results. Prefer local-language sources. No article-data block unless a specific episode is fully supported.
+
+**Files to touch:** research/iceland.md (update), coop.log.md (this claim + later update).
+
+**Status:** Claimed; research starting.
+
+---
+
 ## 2026-11-19 09:35 UTC — UPDATE/HANDOFF — Track A — Greenland — personal homepage and Atagu lead discovery — AGENT-Grok-Automation — DONE (with restore note)
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
@@ -68,7 +80,7 @@
 - Roberto Bissio, “Un poco de historia” (Chasque.net own site): explicitly states that in August 1995 Chasque began offering SLIP/PPP graphical Internet access and that members could browse the Web and have their own WWW pages. http://www.chasque.net/chasque2000/acerca_de/historia.htm (accessed 2026-11-19; grade C founder retrospective).
 - Prior NSRC and academic sources already in the note.
 
-**Status:** Open-user-page lead upgraded from secondary academic report to probable on the basis of the operator’s own chronology. No specific surviving 1995 personal homepage or URL pattern located. Country status remains active scouting. No article-data block (no single tellable personal episode fully supported).
+**Status:** Open-user-page lead upgraded from secondary academic report to probable on the basis of the operator’s own chronology. No specific surviving 1995 personal homepage or exact URL pattern located. Country status remains active scouting. No article-data block (no single tellable personal episode fully supported).
 
 **Unresolved questions:** Exact hosting namespace / ~username or directory pattern used by Chasque in 1995–96; any surviving Wayback or Netarkivet captures of early member pages; corroboration of the precise August 1995 start date with contemporaneous notices.
 
