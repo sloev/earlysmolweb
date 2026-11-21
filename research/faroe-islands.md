@@ -115,7 +115,12 @@ evidence:
     grade: C
 author_attribution: unknown; 2008 article byline Petur F. Zachariassen, likely the university network pioneer Petur Z but not conclusively matched to the 1995 contact
 language: Faroese (source)
-notes: The 2008 retrospective says a first Faroese homepage was set up at Ólavsøka 1995. It does not name the author/operator, give the URL, describe the content, or say whether it was personal or institutional. The 31 July 
+notes: The 2008 retrospective says a first Faroese homepage was set up at Ólavsøka 1995. It does not name the author/operator, give the URL, describe the content, or say whether it was personal or institutional. The 31 July 1995 NSRC report says the university's Web/FTP server was still being built and expected within about a month; the page may have been provisional or hosted elsewhere. The Sosialurin 28 July 1995 issue is a promising contemporary press target, but its OCR/full pages were not accessible in this pass.
+uncertainties: Exact URL, launch day, author, hosting location, page type, and meaning of “first Faroese homepage”; no surviving capture or direct contemporary confirmation.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-21
+```
+
 
 ```yaml
 id: FO-04
@@ -150,11 +155,6 @@ notes: The article says FLB had used the Internet since January 1995 and describ
 uncertainties: Exact publication month, page launch date, original page contents, physical hosting location, and whether the 1995 Ólavsøka homepage was a separate site.
 researcher: OpenAI GPT-6
 last_checked: 2026-11-21
-```
-1995 NSRC report says the university's Web/FTP server was still being built and expected within about a month; the page may have been provisional or hosted elsewhere. The Sosialurin 28 July 1995 issue is a promising contemporary press target, but its OCR/full pages were not accessible in this pass.
-uncertainties: Exact URL, launch day, author, hosting location, page type, and meaning of “first Faroese homepage”; no surviving capture or direct contemporary confirmation.
-researcher: Grok (xAI)
-last_checked: 2026-11-18
 ```
 
 ## Gaps and next leads
