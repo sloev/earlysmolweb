@@ -154,3 +154,14 @@ last_checked: 2026-11-17
 3. Recover original APNIC allocation records for 203.41.41.0 and any 1995 MNRD email logs or correspondence.
 4. Search early TSKL announcements, local newspapers, and USP network for user pages or personal directories.
 5. Continue Gilbertese-language and diaspora searches.
+
+
+## 2026-11-21 — KI-03 follow-up: bounded author-identification search
+
+Rechecked the Sofield 2002 article and accessible full-text copy for the unnamed former Tarawa expatriate who was living in Japan when the 1997/98 World Bank assessment team showed officials a globally accessible “comprehensive Web page on Kiribati.” Searches combining the distinctive phrase with Kiribati, Tarawa, Japan, World Bank and the author's description did not identify a name, original URL or capture. The publisher page could not be opened through this access route; the accessible copy preserves the relevant passage. This is a bounded null result, not evidence that the page or author cannot be identified.
+
+Source: https://academic.oup.com/jcmc/article/7/2/JCMC726/4584254 ; accessible copy: https://citeseerx.ist.psu.edu/document?doi=a216526f6189f70693255843ae4e4d79fea22c0f&repid=rep1&type=pdf (checked 21 November 2026).
+
+**Assessment unchanged:** KI-03 remains lead. The page was externally accessible and created by a former Tarawa resident living in Japan; the source does not establish a personal homepage, author identity, launch date, hosting country or local Internet use. Keep it distinct from the locally operated commercial site described in the same study's 2002 postscript.
+
+**Next:** search World Bank 1997/98 mission files and appendices for the web-page demonstration; query Japanese-hosted Kiribati pages and archived directories using historical terms and domain variants; seek the identity through the study's interview/methodology trail. Do not infer the author's identity from diaspora status alone.
