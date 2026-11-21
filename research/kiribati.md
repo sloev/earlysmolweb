@@ -13,6 +13,48 @@ The study's March 2002 postscript says a web search found only two websites with
 - Source: https://academic.oup.com/jcmc/article/7/2/JCMC726/4584254
 - Accessible copy: https://citeseerx.ist.psu.edu/document?doi=a216526f6189f70693255843ae4e4d79fea22c0f&repid=rep1&type=pdf
 
+
+
+## 1998 externally hosted Kiribati page (new lead)
+
+Sofield's 2002 *Journal of Computer-Mediated Communication* study reports that during the 1997/98 World Bank knowledge-economy assessment, the team showed government interviewees a “comprehensive Web page on Kiribati” that could be accessed globally. Sofield says it had been placed by a former expatriate resident of Tarawa who was living in Japan at the time. The report gives no author's name, original URL, host, exact launch date, or surviving capture.
+
+This is a distinct lead from the locally operated computer-retail website described in the same article's March 2002 postscript. The 1998 page is an externally hosted, expatriate-authored Kiribati resource; it is not evidence of domestic Internet connectivity or of an author resident in Kiribati when publishing. Its classification as a personal homepage versus an informational/reference page is unresolved. The article's broad statement that no local government, business, or individual was using the Internet in 1998 should be read alongside this explicit external-page example, not as proof that no Kiribati-associated page existed.
+
+- Source: Sofield, Trevor H. B. (2002), “Outside the Net: Kiribati and the Knowledge Economy,” *Journal of Computer-Mediated Communication* 7(2), January 2002. https://academic.oup.com/jcmc/article/7/2/JCMC726/4584254
+- Accessible full-text copy: https://citeseerx.ist.psu.edu/document?doi=a216526f6189f70693255843ae4e4d79fea22c0f&repid=rep1&type=pdf
+- Relevant passage: PDF p. 19 / article section “Information Infrastructure”; lines 784–791 in the accessible text. The 2002 local-site postscript is at lines 952–972.
+
+```yaml
+id: KI-03
+status: lead
+person_or_project: Unnamed former expatriate resident of Tarawa, living in Japan by 1998
+title: Comprehensive web page on Kiribati (reported during 1997/98 World Bank fieldwork)
+url_original: unknown
+url_archived: unknown
+country_or_territory: Kiribati
+connection_basis: former residence in Tarawa and subject matter; not resident in Kiribati at publication
+medium: website
+activity_type: personal_or_reference_page_unknown
+operator_type: individual, unnamed
+network_status: externally hosted; host unknown
+date_claimed: 1998
+date_type: observed_during_fieldwork
+date_precision: year
+evidence:
+  - source_url: https://academic.oup.com/jcmc/article/7/2/JCMC726/4584254
+    source_type: peer-reviewed retrospective report of 1997/98 World Bank fieldwork
+    observed_date: 1998
+    supports: a globally accessible Kiribati web page was shown to government interviewees; creator was a former Tarawa expatriate living in Japan
+    grade: B
+author_attribution: unnamed former expatriate resident of Tarawa
+language: unknown
+notes: External/diaspora-associated page. Not proof of local Internet use, local hosting, or a personal homepage. Kept separate from the locally operated commercial website identified in the March 2002 postscript.
+uncertainties: Author identity; exact URL and domain; launch date; page content and genre; hosting location; earliest archive capture; whether the author maintained any personal page.
+researcher: ChatGPT
+last_checked: 2026-11-21
+```
+
 ## 2000 Allinson briefing — MNRD as first Internet user and .ki sponsor (1995)
 
 The 19 October 1999 (published 2000) SOPAC briefing paper by Leslie Allinson, prepared for the Ministry of Natural Resources Development (MNRD), provides contemporary institutional detail:
