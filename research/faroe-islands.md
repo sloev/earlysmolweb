@@ -167,6 +167,13 @@ last_checked: 2026-11-21
 - Inspect early institutional directories for personal pages or ~user directories.
 - Check for any pre-1995 email/UUCP activity associated with Faroese researchers or the university.
 
+
+## 21 November 2026 follow-up
+
+A bounded follow-up searched Faroese and English variants around `heimasíða`, `internet`, `netið`, `Ólavsøka 1995`, Petur F. Zachariassen, and `sleipnir.fo`. It also tried Wayback CDX lookups for the known National Library paths `/flb/flbheim.htm`, `/flb/flbint.htm`, and the wider `www.sleipnir.fo/*` pattern. No new contemporary source, author attribution, original homepage URL, or usable archive record was recovered through this access route. The failed/unusable CDX responses are an access limitation, not evidence that no captures exist.
+
+Existing classifications remain unchanged: FO-03 is a lead for the reported Ólavsøka 1995 homepage; FO-04 remains a probable institutional National Library homepage/guide by 1996. No personal homepage is verified, and no exhaustion claim is made. The next high-value work remains access to the full 28 July 1995 *Sosialurin* issue and recovery of the original `sleipnir.fo` pages through Netarkivet or a working Wayback interface.
+
 ## Bibliography
 
 - Jogvan Martin Grastein, NSRC report, 31 July 1995. https://nsrc.org/db/lookup/report.php?id=890202445799:497435668&fromISO=FO
@@ -185,4 +192,4 @@ last_checked: 2026-11-21
 - Attrition defacement notice for www.sleipnir.fo (Dec 2000). https://seclists.org/attrition-defaced/2000/Dec/88
 
 **Researcher:** Grok / xAI  
-**Last checked:** 2026-11-18
+**Last checked:** 2026-11-21
