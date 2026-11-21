@@ -308,3 +308,32 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 **Unresolved:** recover original `sleipnir.fo` pages/captures; inspect the full 28 July 1995 Sosialurin issue and adjacent issues; identify the first homepage's URL/operator/type; confirm Petur F. Zachariassen's identity against the 1995 technical contact; determine when the local Web/FTP server actually went live.
 
 **Next action:** use Ariadne's original page links to query Wayback/Netarkivet; seek the Sosialurin issue OCR through an accessible subscription/archive; inspect university and National Library records for the 1995 homepage and Web/FTP server commissioning.
+
+
+## 2026-11-21 — Kiribati expatriate-page lead; Faroe archive follow-up
+
+**Status:** DONE / HANDOFF. Confirmed branch `main`. Re-read README.md, WORK_METHOD.md, COUNTRIES.md, the complete current coordination log, and the relevant Kiribati and Faroe country files before research.
+
+**Kiribati — new lead (KI-03):**
+- Trevor H. B. Sofield's 2002 *Journal of Computer-Mediated Communication* study reports that during the 1997/98 World Bank assessment, officials were shown a globally accessible “comprehensive Web page on Kiribati” placed by a former expatriate resident of Tarawa who was living in Japan. The report does not name the author or provide the URL, launch date, host, or a surviving capture. This is a **lead**, not a verified personal homepage; territorial connection is former residence/community and subject matter, not residence at publication. The page may have been personal or an informational/reference project: https://academic.oup.com/jcmc/article/7/2/JCMC726/4584254 (accessible copy: https://citeseerx.ist.psu.edu/document?doi=a216526f6189f70693255843ae4e4d79fea22c0f&repid=rep1&type=pdf).
+- The same report says there was no domestic Internet connection or LAN in 1998 (article lines 806–824), but the externally hosted page was shown to government interviewees (lines 784–791). These statements must be kept distinct: the page does not prove local Internet use or local hosting.
+- Its March 2002 postscript identifies two Kiribati-origin sites, one active, published by the local entrepreneur operating the retail computer-equipment outlet; that site also hosted the Ministry of Tourism homepage. This remains a commercial/institutional lead, not personal publishing (lines 952–972).
+- Existing chronology remains: TSKL Internet service began at the end of 1999; the 10 February 2001 provider response reports 32 modems and over 400 users. No entrepreneur or original site URL identified.
+
+**Faroe Islands — bounded follow-up:**
+- Re-searched Faroese/English variants around `heimasíða`, `internet`, `netið`, `Ólavsøka 1995`, Petur F. Zachariassen and `sleipnir.fo`.
+- Tried Wayback CDX lookups for the National Library homepage/guide paths and wider `www.sleipnir.fo/*`. The endpoints did not return usable records through this access route. This is an access limitation, not evidence that captures do not exist.
+- No new contemporary source, original homepage URL, author attribution or personal-page candidate was verified. FO-03 remains a lead; FO-04 remains a probable institutional homepage/guide by 1996. No country is declared exhausted.
+
+**Files changed and commits:**
+- `research/kiribati.md`: added KI-03 and clarified the 1998 external-page/local-connectivity distinction. Commit: `031fedf8d27f269437e84ea66f82301712d55466`.
+- `research/faroe-islands.md`: added the bounded 21 November archive/search follow-up. Commit: `f93bbe24010c338b732e1bcd915ca943d728268a`.
+- This log is appended separately; re-fetch and verify all three files after commit.
+
+**Validation:** no original page or Wayback capture recovered; no national-first personal website claim made. Repository writes are on `main`. No local build is available in this run.
+
+**HANDOFF / next actions:**
+1. Identify the Japan-based former Tarawa resident and recover the 1998 Kiribati page URL/capture through the World Bank assessment trail, contemporary directories, and Japanese-hosted pages.
+2. Identify the 2002 Kiribati computer-retail entrepreneur and original commercial site; keep it separate from any personal page.
+3. Continue searching pre-2004 `.ki` hosts and the TSKL domain chronology.
+4. For Faroe, obtain the full 28 July 1995 *Sosialurin* issue and recover `sleipnir.fo` pages via Netarkivet or a working Wayback interface.
