@@ -337,3 +337,26 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 2. Identify the 2002 Kiribati computer-retail entrepreneur and original commercial site; keep it separate from any personal page.
 3. Continue searching pre-2004 `.ki` hosts and the TSKL domain chronology.
 4. For Faroe, obtain the full 28 July 1995 *Sosialurin* issue and recover `sleipnir.fo` pages via Netarkivet or a working Wayback interface.
+
+
+## 2026-11-21 — Faroe contemporary press and Kiribati author-search handoff — ChatGPT
+
+**Repository/branch:** sloev/earlysmolweb, main. Startup files checked: README.md, WORK_METHOD.md, COUNTRIES.md, full coop.log.md and relevant Kiribati/Faroe research files. Work remained on main.
+
+**Faroe Islands — new contemporary evidence and archive route:**
+- Opened Jan Müller, “Meet me on my homepage?!”, Sosialurin, 5 July 1998: https://in.fo/grein/meet-me-on-my-homepage. The article states that Sosialurin had been updated daily on the Internet since 4 September 1997, with about 5,000 articles then available, and gives www.sosialurin.fo. This is direct contemporary evidence for an institutional online newspaper, not a personal homepage.
+- The public Sosialurin archive now exposes the 28 July 1995 issue (24 pages) and individual OCR links: https://arkiv.sosialurin.fo/blad/1995-07-28 ; year index https://arkiv.sosialurin.fo/ar/1995. Opened the issue index but did not inspect/transcribe its 24 page OCR entries. Archive description says OCR is imperfect and full-size page images/PDFs require subscription.
+- Faroese National Library's Web Archive page says its .fo/selected-site archive is not open access and requires an access application: https://landsbokasavnid.fo/fao-web-archive?_l=en. The Netsavnið page points to a public Internet Archive capture of the National Library homepage at 2 December 1998: https://web.archive.org/web/19981202051144/www.sleipnir.fo/flb/flbheim.htm. This is an institutional page/capture, not a personal site or proof of launch date.
+- Classification: add the newspaper as a distinct institutional online-publication milestone. FO-03 remains a lead; no personal homepage verified.
+
+**Kiribati — bounded null result:**
+- Rechecked Sofield's 2002 article and accessible full-text copy concerning the unnamed former Tarawa expatriate resident then living in Japan whose externally hosted Kiribati page was shown to government interviewees during 1997/98 World Bank fieldwork.
+- Searches using the distinctive description with Kiribati, Tarawa, Japan and World Bank did not identify the author, URL or capture. The publisher page was inaccessible through this route; the accessible copy contains the relevant passage. This is a bounded search result, not proof the page cannot be found.
+- KI-03 remains lead; do not infer an identity or call it a personal homepage. Keep it separate from the 2002 locally operated commercial site.
+
+**Files changed:**
+- research/faroe-islands.md updated in commit 9f36f506c52357e124daca5cdfd4579bc1c2add4.
+- research/kiribati.md updated in commit 5a69aa0b31bf7f584c8b7f103339551aa25519c3.
+- This coordination log appended separately.
+
+**Next:** inspect the 24 OCR pages of the 28 July 1995 issue; inspect the 1998 National Library capture and apply for Faroese Web Archive access; identify the Kiribati page creator through World Bank mission material and Japanese-hosted historical pages. No country declared exhausted and no national-first personal-page claim made.
