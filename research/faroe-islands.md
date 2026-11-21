@@ -193,3 +193,20 @@ Existing classifications remain unchanged: FO-03 is a lead for the reported Óla
 
 **Researcher:** Grok / xAI  
 **Last checked:** 2026-11-21
+
+
+## 2026-11-21 — contemporary newspaper evidence and archive access route
+
+A fresh search located a contemporary Faroese newspaper article that sharpens the online-publication chronology. Jan Müller, “Meet me on my homepage?!”, published by Sosialurin on **5 July 1998**, says that the paper had been updated on the Internet every day since **4 September 1997**, with about 5,000 articles then available, and gives the address www.sosialurin.fo. The article describes the newspaper's online edition and its service to Faroese readers abroad. This is direct contemporary evidence for an institutional online newspaper, not a personal homepage and not evidence of the first Faroese website.
+
+Source: https://in.fo/grein/meet-me-on-my-homepage (accessed 21 November 2026; by Jan Müller; page lines 30–48 in the accessible rendering).
+
+A previously inaccessible research route is now available: the public Sosialurin archive lists 255,877 pages from 11,146 issues (1927–2020), and exposes the complete issue index for **28 July 1995** (24 pages) with individual OCR page links. Issue: https://arkiv.sosialurin.fo/blad/1995-07-28 ; year index: https://arkiv.sosialurin.fo/ar/1995 . The issue was opened, but its 24 page OCR entries were not yet individually inspected in this pass. The archive notes that OCR is imperfect and full-size page images/PDFs require a subscription; do not treat OCR absence as evidence of absence.
+
+The Faroese National Library's current guidance states that its Web Archive contains legally deposited Faroese .fo sites and selected other domains, but is not open access; researchers must apply. Its Faroese-language Netsavnið guidance separately points to a public Internet Archive capture of the National Library's 1990s homepage dated **2 December 1998**: https://web.archive.org/web/19981202051144/www.sleipnir.fo/flb/flbheim.htm . This is a concrete capture to inspect, but it is an institutional page and its 1998 capture does not establish its launch date.
+
+Sources: https://landsbokasavnid.fo/fao-web-archive?_l=en ; https://landsbokasavnid.fo/netsavnid?_l=fo (accessed 21 November 2026).
+
+**Assessment:** add a distinct institutional newspaper milestone (online daily since 4 September 1997; observed in a 5 July 1998 contemporary account). FO-03 remains a lead; no personal homepage is verified. The 28 July 1995 newspaper issue is now accessible at issue/OCR-link level, but no page content has yet been transcribed. The National Library capture is a 1998 institutional-page lead, not evidence for the claimed first homepage in July 1995.
+
+**Next:** inspect the 24 OCR pages for references to Internet, heimasíða, telda, SLEIPNIR and the university; compare OCR with full-page scans where subscription access permits. Inspect the 1998 flbheim.htm capture and request access to the Faroese Web Archive for relevant 1995–1998 .fo captures. Keep institutional and personal milestones separate.
