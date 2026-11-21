@@ -360,3 +360,13 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 - This coordination log appended separately.
 
 **Next:** inspect the 24 OCR pages of the 28 July 1995 issue; inspect the 1998 National Library capture and apply for Faroese Web Archive access; identify the Kiribati page creator through World Bank mission material and Japanese-hosted historical pages. No country declared exhausted and no national-first personal-page claim made.
+
+
+## 2026-11-21 — Daily pass: Greenland chronology follow-up
+
+- Agent: ChatGPT scheduled research run.
+- Main-branch startup completed: README.md, AGENTS.md, WORK_METHOD.md, relevant methods and current log reviewed.
+- No new defensible EarlySmolWeb claim promoted in this pass. Existing Greenland/sermitsiaq.gl work remains the active handoff; no source-led correction was justified without a new primary or strong contemporary record.
+- Negative result: no additional verified early Web artefact or named operator was established in the sources checked during this run.
+- Next handoff: continue the Greenland 1995–1996 search in Netarkivet/Wayback, Greenlandic press archives and provider/Atassut records; keep backbone, trial access, retail service and named publication milestones separate.
+- Status: no research-file change; log-only handoff.
