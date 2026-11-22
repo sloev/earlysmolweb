@@ -1,8 +1,8 @@
 # Faroe Islands (Føroyar)
 
-**Status:** infrastructure candidates documented; one probable institutional homepage by 1996; first-homepage claim remains a lead. No verified personal homepage yet.
+**Status:** infrastructure candidates documented; probable institutional National Library web presence by 1996 with direct 1998 captures; institutional Sosialurin online daily from September 1997; first-homepage claim remains a lead. No verified personal homepage yet.
 **Priority:** first wave (separate research jurisdiction within the Kingdom of Denmark).
-**Last checked:** 2026-11-21
+**Last checked:** 2026-11-22
 
 ## Internet context
 
@@ -133,7 +133,7 @@ related_urls:
   - http://www.sleipnir.fo/flb/flbst.htm
   - http://www.sleipnir.fo/research.htm
   - http://www.sleipnir.fo/faroe/faroe.htm
-url_archived:
+url_archived: https://web.archive.org/web/19981202051144/http://www.sleipnir.fo:80/flb/flbheim.htm
 country_or_territory: Faroe Islands
 connection_basis: other (published under sleipnir.fo; physical hosting location not independently established)
 medium: website
@@ -149,9 +149,29 @@ evidence:
     observed_date: 1996
     supports: FLB had its own homepage at flbheim.htm and published the first Faroese Internet guide at flbint.htm; article also identifies related university and general-information pages
     grade: B
+  - source_url: https://web.archive.org/web/19981202051144/http://www.sleipnir.fo:80/flb/flbheim.htm
+    source_type: direct Wayback capture of National Library homepage
+    observed_date: 1998-12-02
+    supports: page identifies the National Library, its Tórshavn address, and links to staff and Internet-guide pages
+    grade: A
+  - source_url: https://web.archive.org/web/19981203001927/http://www.sleipnir.fo:80/flb/flbint.htm
+    source_type: direct Wayback capture of Faroese Internet guide
+    observed_date: 1998-12-03
+    supports: institutional guide page titled Hin føroyska INTERNET-vegleiðingin; footer content date 20/6/96 (not a verified first-publication date)
+    grade: A
+  - source_url: https://web.archive.org/web/19981205060539/http://www.sleipnir.fo:80/flb/flbint3.htm
+    source_type: direct Wayback capture of Internet search directory
+    observed_date: 1998-12-05
+    supports: library-curated Internet search tools and subject directory; footer content date 25/04-98 (not a verified first-publication date)
+    grade: A
+  - source_url: https://web.archive.org/web/19981202183057/http://www.sleipnir.fo:80/flb/staff.htm
+    source_type: direct Wayback capture of institutional staff directory
+    observed_date: 1998-12-02
+    supports: staff directory page with footer content date 19/09/97; not a personal-homepage directory
+    grade: A
 author_attribution: institutional operator; article by John Kirriemuir
 language: English (article); page language unknown
-notes: The article says FLB had used the Internet since January 1995 and describes the homepage and guide as experimental. This verifies an institutional web presence by 1996, not its launch date and not a personal homepage. No original page capture recovered.
+notes: The article says FLB had used the Internet since January 1995 and describes the homepage and guide as experimental. Direct Wayback captures now survive for the homepage (2 Dec 1998), staff directory (2 Dec 1998; footer 19/09/97), Internet guide (3 Dec 1998; footer 20/6/96), and Internet search directory (5 Dec 1998; footer 25/04-98). These footer dates are content dates, not independently verified first-publication dates. This is institutional web publishing, not a personal homepage.
 uncertainties: Exact publication month, page launch date, original page contents, physical hosting location, and whether the 1995 Ólavsøka homepage was a separate site.
 researcher: OpenAI GPT-6
 last_checked: 2026-11-21
@@ -210,3 +230,26 @@ Sources: https://landsbokasavnid.fo/fao-web-archive?_l=en ; https://landsbokasav
 **Assessment:** add a distinct institutional newspaper milestone (online daily since 4 September 1997; observed in a 5 July 1998 contemporary account). FO-03 remains a lead; no personal homepage is verified. The 28 July 1995 newspaper issue is now accessible at issue/OCR-link level, but no page content has yet been transcribed. The National Library capture is a 1998 institutional-page lead, not evidence for the claimed first homepage in July 1995.
 
 **Next:** inspect the 24 OCR pages for references to Internet, heimasíða, telda, SLEIPNIR and the university; compare OCR with full-page scans where subscription access permits. Inspect the 1998 flbheim.htm capture and request access to the Faroese Web Archive for relevant 1995–1998 .fo captures. Keep institutional and personal milestones separate.
+
+
+## 22 November 2026 — direct National Library captures; clarify the 1995 newspaper paywall
+
+This pass followed the National Library's public Netsavnið link to its 1990s homepage and inspected the linked Wayback pages. The captures provide direct evidence of an institutional Faroese web presence and recover several original page paths:
+
+- **Homepage:** https://web.archive.org/web/19981202051144/http://www.sleipnir.fo:80/flb/flbheim.htm (capture 2 December 1998). The page identifies Føroya Landsbókasavn / the National Library of the Faroe Islands, gives its Tórshavn address, and links to the staff directory and Faroese Internet guide.
+- **Staff directory:** https://web.archive.org/web/19981202183057/http://www.sleipnir.fo:80/flb/staff.htm (capture 2 December 1998). Its footer reads 19/09/97. This is a page-content date, not an archive capture from 1997 and not proof of first publication. The directory is institutional; its staff/contact details are not reproduced here.
+- **Faroese Internet guide:** https://web.archive.org/web/19981203001927/http://www.sleipnir.fo:80/flb/flbint.htm (capture 3 December 1998). The page title is “Hin føroyska INTERNET-vegleiðingin” and its footer reads 20/6/96. The footer is a useful 1996 content-date clue, but not independently a first-publication date. John Kirriemuir's contemporary 1996 Ariadne article independently identifies the library homepage and Internet guide.
+- **Internet search directory:** https://web.archive.org/web/19981205060539/http://www.sleipnir.fo:80/flb/flbint3.htm (capture 5 December 1998). It is a library-curated directory of Internet search tools and subject links; its footer reads 25/04-98, again a content date rather than a verified launch date.
+
+This strengthens FO-04 as a probable institutional homepage/guide with direct surviving captures. It does not identify the operator of the claimed Ólavsøka 1995 homepage, and none of these pages is evidence of a personal homepage.
+
+**Correction/qualification for the 28 July 1995 Sosialurin issue:** the issue index is public and lists 24 pages with links labelled “síða N OCR”, but the page-1 access notice explicitly says that page text, full-size page images and the PDF are for subscribers; only search and issue browsing are open to everyone. Page 1: https://arkiv.sosialurin.fo/sida/169386 . I opened the issue index and tested the page-1 link; no OCR text or full-size scan was accessible through this route, and no newspaper content was transcribed. The previous note's reference to individual OCR links describes the visible navigation labels, not publicly readable OCR. Searches for Faroese terms (heimasíða, Internet, netið) did not surface a relevant 1995 item in the accessible web results.
+
+**Assessment:** FO-03 remains a lead; FO-04 remains probable and is now backed by direct 1998 captures plus the contemporary 1996 Ariadne reference. No personal homepage or national-first claim is verified.
+
+**Next:** request access to the National Library's restricted Web Archive for 1995–1998 .fo captures; obtain subscriber/library access to the full 27–29 July 1995 Sosialurin issues; continue searching university, staff and personal-page namespaces for a named individual homepage.
+
+- Wayback capture, Føroya Landsbókasavn homepage, 2 December 1998: https://web.archive.org/web/19981202051144/http://www.sleipnir.fo:80/flb/flbheim.htm
+- Wayback capture, FLB staff directory, 2 December 1998 (footer 19/09/97): https://web.archive.org/web/19981202183057/http://www.sleipnir.fo:80/flb/staff.htm
+- Wayback capture, Hin føroyska Internet-vegleiðingin, 3 December 1998 (footer 20/6/96): https://web.archive.org/web/19981203001927/http://www.sleipnir.fo:80/flb/flbint.htm
+- Wayback capture, FLB Internet search directory, 5 December 1998 (footer 25/04-98): https://web.archive.org/web/19981205060539/http://www.sleipnir.fo:80/flb/flbint3.htm
