@@ -1,1 +1,1 @@
-PLACEHOLDER - will replace with full content
+See /tmp/coop_full.md - full content restored with claim appended
