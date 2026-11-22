@@ -1,8 +1,8 @@
 # Kiribati — early personal-web research
 
-**Status:** early infrastructure constraints documented; institutional website lead advanced; 1995 MNRD email/ccTLD lead added; no personal-page candidate identified.
+**Status:** early infrastructure constraints documented; 1995 institutional email/ccTLD candidate; 1997 externally hosted Kiribati home-page lead; 1998 expatriate-page lead; no personal homepage verified.
 **Scope:** Republic of Kiribati, including locally resident users and i-Kiribati diaspora publishing, with attribution kept distinct.
-**Last checked:** 2026-11-18
+**Last checked:** 2026-11-22
 
 ## Internet access context
 
@@ -53,6 +53,48 @@ notes: External/diaspora-associated page. Not proof of local Internet use, local
 uncertainties: Author identity; exact URL and domain; launch date; page content and genre; hosting location; earliest archive capture; whether the author maintained any personal page.
 researcher: ChatGPT
 last_checked: 2026-11-21
+```
+
+## January 1997 directory-listed Kiribati Home Page (new lead)
+
+Mark C. Goniwiecha's “Guam & Micronesia in Cyberspace,” published in the *Journal of the Pacific Society* in January 1997, includes an “Internet Resources and Home Pages” list. It names **“Kiribati Home Page, Republic of Kiribati”** and gives the original URL:
+
+http://www.earth.tohoku.ac.jp/kiribati/kiribati.html
+
+This is a contemporary, dated directory reference establishing that a Kiribati-labelled page at that URL was publicly listed by January 1997. The URL is under a Tohoku University subdomain, suggesting institutional hosting in Japan, but the exact 1997 server/operator and physical hosting location have not been independently established. The article's list mixes personal pages, institutions, government, commercial and community sites; the label does not identify this page's author or genre. The original URL and guessed Wayback snapshots could not be opened through this access route, and no page content or archive capture was recovered.
+
+This may be the page described separately by Sofield in 2002 as a comprehensive Kiribati page placed by a former Tarawa resident then living in Japan (KI-03): the date and apparent Japan-based host are compatible. There is no direct evidence tying the two descriptions together, so **KI-04 and KI-03 remain separate leads**. Do not infer that the page was personal, official, written by a Tohoku employee, or created by someone resident in Japan solely from the hostname.
+
+Source: Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, printed p. 118 / PDF page 5, ERIC document ED 437 020, https://files.eric.ed.gov/fulltext/ED437020.pdf (accessed 22 November 2026). The listing appears under “Internet Resources and Home Pages”; Goniwiecha is the directory article's author, not an identified author of the Kiribati page.
+
+```yaml
+id: KI-04
+status: lead
+person_or_project: Unknown operator; “Kiribati Home Page, Republic of Kiribati”
+title: Kiribati Home Page (directory-listed January 1997)
+url_original: http://www.earth.tohoku.ac.jp/kiribati/kiribati.html
+url_archived: unknown
+country_or_territory: Kiribati
+connection_basis: other
+medium: website
+activity_type: publishing
+operator_type: unknown
+network_status: internet
+date_claimed: 1997-01 (contemporary directory listing; page launch date unknown)
+date_type: inferred
+date_precision: month
+evidence:
+  - source_url: https://files.eric.ed.gov/fulltext/ED437020.pdf
+    source_type: contemporary Internet-resources directory in Journal of the Pacific Society
+    observed_date: 1997-01
+    supports: identifies the title “Kiribati Home Page, Republic of Kiribati” and gives the original URL
+    grade: B
+author_attribution: unknown; Mark C. Goniwiecha authored the directory article, not necessarily the page
+language: unknown (directory is English)
+notes: URL is under a Tohoku University subdomain, but the exact server/operator and physical hosting location are unverified. The 1997 directory contains both personal and institutional pages; this entry's type is unknown. Possible, unproven match to KI-03.
+uncertainties: Page contents; author/operator; personal vs institutional/reference page; whether this is Sofield's 1997/98 World Bank demonstration page; launch date; archive captures; author residence and physical hosting.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-22
 ```
 
 ## 2000 Allinson briefing — MNRD as first Internet user and .ki sponsor (1995)
@@ -149,11 +191,11 @@ last_checked: 2026-11-17
 
 ## Next actions
 
-1. Identify the entrepreneur and original website named in the 2002 Sofield study; locate its original URL and earliest archive capture.
-2. Search for earlier Wayback captures of tskl.net.ki (pre-2004) and any other early .ki domains.
-3. Recover original APNIC allocation records for 203.41.41.0 and any 1995 MNRD email logs or correspondence.
-4. Search early TSKL announcements, local newspapers, and USP network for user pages or personal directories.
-5. Continue Gilbertese-language and diaspora searches.
+1. Compare KI-04's 1997 Tohoku-hosted Kiribati Home Page with KI-03's unnamed 1997/98 World Bank demonstration page; recover the original page or Wayback capture and identify its author before deciding whether they are the same.\n2. Identify the entrepreneur and original website named in the 2002 Sofield study; locate its original URL and earliest archive capture.
+3. Search for earlier Wayback captures of tskl.net.ki (pre-2004) and any other early .ki domains.
+4. Recover original APNIC allocation records for 203.41.41.0 and any 1995 MNRD email logs or correspondence.
+5. Search early TSKL announcements, local newspapers, and USP network for user pages or personal directories.
+6. Continue Gilbertese-language and diaspora searches.
 
 
 ## 2026-11-21 — KI-03 follow-up: bounded author-identification search
@@ -165,3 +207,5 @@ Source: https://academic.oup.com/jcmc/article/7/2/JCMC726/4584254 ; accessible c
 **Assessment unchanged:** KI-03 remains lead. The page was externally accessible and created by a former Tarawa resident living in Japan; the source does not establish a personal homepage, author identity, launch date, hosting country or local Internet use. Keep it distinct from the locally operated commercial site described in the same study's 2002 postscript.
 
 **Next:** search World Bank 1997/98 mission files and appendices for the web-page demonstration; query Japanese-hosted Kiribati pages and archived directories using historical terms and domain variants; seek the identity through the study's interview/methodology trail. Do not infer the author's identity from diaspora status alone.
+
+- Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (Kiribati Home Page URL listed on printed p. 118 / PDF p. 5): https://files.eric.ed.gov/fulltext/ED437020.pdf
