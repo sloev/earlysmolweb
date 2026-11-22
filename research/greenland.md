@@ -90,12 +90,12 @@ Several sources identify **Atagu** as Greenland's first Internet newspaper:
 - Later academic work cites the site as `www.atagu.gl`; this supports a likely original domain, but no 1995 WARC/Wayback capture or contemporaneous launch notice has yet been recovered: https://www.uni.gl/media/40792/steenrjeppsonspeciale.pdf.
 - An additional 2015 chapter gives the same December 1995 date but names the site `sermitsiaq.gl` while attributing it to Atassut. That conflicts with the multiple Atagu identifications above and should be treated as a likely naming error until the underlying source is checked: https://www.uni.gl/media/4957793/mediespejlet.pdf.
 
-**Assessment:** Atagu is a **probable** early Greenlandic political/online newspaper. The 1996 article directly names Atagu, identifies Anders Nilsson as editor and links him to Atassut, while saying the publication had ceased by then. The 2018 retrospective places the start in 1995 at atagu.gl and links it to a later Kamikposten site, but this does not reconcile the 1996 cessation statement or prove uninterrupted publication. The 2017 sermitsoq.gl and separate Atuag references remain competing naming claims. Atagu is not a personal homepage. Exact launch day, original URL, continuity and the relationship among the names remain open. Do not assert that no earlier Greenlandic website existed.
+**Assessment:** Atagu is a **probable** early Greenlandic political/online newspaper. The 1996 article directly names Atagu, identifies Anders Nilsson as editor and links him to Atassut, while saying the publication had ceased by then. The 2018 retrospective places the start in 1995 at atagu.gl and links it to a later Kamikposten site, but this does not reconcile the 1996 cessation statement or prove uninterrupted publication. The 2017 sermitsiaq.gl and separate Atuag references remain competing naming claims. Atagu is not a personal homepage. Exact launch day, original URL, continuity and the relationship among the names remain open. Do not assert that no earlier Greenlandic website existed.
 
 ### Updated next actions
 
 1. Locate an original or archived `atagu.gl` capture and establish its first capture/publication date.
-2. Resolve the sermitsoq.gl / Atagu / Atuag discrepancy against original captures, Atassut records, contemporary press and the underlying source cited by Rygaard.
+2. Resolve the sermitsiaq.gl / Atagu / Atuag discrepancy against original captures, Atassut records, contemporary press and the underlying source cited by Rygaard.
 3. Search 1995–96 Q-Data/Greenet host and service directories for Gopher, FTP, Web and user-homepage evidence.
 
 ## Atagu identification strengthened; conflicting domain attribution narrowed (2018–2026)
@@ -160,7 +160,7 @@ Source: https://web.archive.org/web/*/atagu.gl (calendar view inspected 2026-11-
       "grade": "C"
     },
     {
-      "label": "Jette Rygaard — 2017 thesis reprint, p. 465; conflicting sermitsoq.gl attribution",
+      "label": "Jette Rygaard — 2017 thesis reprint, p. 465; conflicting sermitsiaq.gl attribution",
       "url": "https://www.uni.gl/media/4957793/mediespejlet.pdf",
       "grade": "C"
     },
@@ -214,12 +214,12 @@ Source: Naimah Hussain, “Searching for Greenland’s Youth Culture Before the 
 
 ## Source-audit correction — Atagu / Atuag / Sermitsiaq (2026-11-22)
 
-A source audit corrected a material citation error in the earlier Atagu note. The ResearchGate URL previously attached to Jette Rygaard's chapter resolves to an unrelated article on Japanese extreme metal; it is not evidence for the Greenland chapter. The accessible Mediespejlet PDF (University of Greenland, 2017) reprints Rygaard's “Searching for Greenland's Youth Culture Before the Internet Age” and, at p. 465, names sermitsoq.gl as the first web-based news site, says it began in December 1995 and continued until 2002, and attributes it to Atassut. It does not call the site Atagu.
+A source audit corrected a material citation error in the earlier Atagu note. The ResearchGate URL previously attached to Jette Rygaard's chapter resolves to an unrelated article on Japanese extreme metal; it is not evidence for the Greenland chapter. The accessible Mediespejlet PDF (University of Greenland, 2017) reprints Rygaard's “Searching for Greenland's Youth Culture Before the Internet Age” and, at p. 465, names sermitsiaq.gl as the first web-based news site, says it began in December 1995 and continued until 2002, and attributes it to Atassut. It does not call the site Atagu.
 
 The same PDF contains a separate contribution by Jens Rosbach, “Fjernsyn og identitet i et bilingvalt samfund” (pp. 96–100), which calls Atassut's first Internet newspaper “Atuag” (p. 97), without supplying a URL or date. Keep this spelling separate from Atagu until a primary source resolves it.
 
 The 1996 Symes article (originally Ugeskrift for Retsvæsen 1996B.263; reprinted by DGL as 2008.9) is stronger than the previous note stated: it says Atagu had ceased publication and, later in the same text, identifies Anders Nilsson as editor and as a Landsting member elected for Atassut. The 2018 Hussain PhD, p. 13, retrospectively says the site began in 1995 as atagu.gl, was operated by Atassut, and continued under kamikposten.dk from 2008. The NSRC index separately labels ATAGU and links to atagu.ki.gl; no evidence yet establishes whether that host is an alias, mirror or later successor to atagu.gl.
 
-**Assessment:** Atagu is a **probable** 1995 institutional/political web-news publication, not a personal homepage. The 1996 source establishes existence, editor/party connection and cessation by 1996, but not the launch date or URL. The later atagu.gl lineage is retrospective; it does not prove uninterrupted publication. sermitsoq.gl and Atuag remain conflicting names/attributions, not silently merged records. No national-first personal-page claim is made.
+**Assessment:** Atagu is a **probable** 1995 institutional/political web-news publication, not a personal homepage. The 1996 source establishes existence, editor/party connection and cessation by 1996, but not the launch date or URL. The later atagu.gl lineage is retrospective; it does not prove uninterrupted publication. sermitsiaq.gl and Atuag remain conflicting names/attributions, not silently merged records. No national-first personal-page claim is made.
 
-**Next:** compare original or archived captures of atagu.gl, atagu.ki.gl and sermitsoq.gl; inspect Atassut records and the sources cited by Rygaard and Hussain; establish whether the three names denote separate services, a rename, a hosting change or citation errors. Continue the parallel search for personal pages among early Q-Data/Greenet users.
+**Next:** compare original or archived captures of atagu.gl, atagu.ki.gl and sermitsiaq.gl; inspect Atassut records and the sources cited by Rygaard and Hussain; establish whether the three names denote separate services, a rename, a hosting change or citation errors. Continue the parallel search for personal pages among early Q-Data/Greenet users.
