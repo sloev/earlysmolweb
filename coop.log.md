@@ -415,3 +415,35 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 - Rechecked the 2017 *Mediespejlet* PDF at the page/author lines. The chapter “Searching for Greenland's Youth Culture Before the Internet Age” is by **Anne Rygaard** (p. 465), not the previously recorded Jette Rygaard. The separate “Fjernsyn og identitet i et bilingvalt samfund” contribution that contains the spelling **“Atuag”** is by **Jens Rosbach** (p. 96–97); that attribution was already correct. The PDF's separate chapter by Jens Rygard is “Media and Public Service in a Democratic Society” and is not the source of the Atuag wording. PDF: https://www.uni.gl/media/4957793/mediespejlet.pdf.
 - Corrected the interpretation of the 1996 Symes phrase **“gået ud”**. The previous English rendering “ceased publication” was too strong. The article uses it while discussing a new Internet newspaper and immediately identifies Anders Nilsson as its editor, elected for Atassut. The text does not explicitly state that Atagu shut down. Treat the phrase as ambiguous (possibly “issued/put out”) and use the article as evidence that Atagu existed and was associated with Nilsson/Atassut by 1996, not as evidence of a shutdown date or break in continuity. DGL reprint of *Ugeskrift for Retsvæsen* 1996B.263: https://dgl.gl/pages/artikler/artikler_tekst.php?id=9.
 - research/greenland.md corrected in commit 51a333c0963fb11ba06b482fad7d43d28d1c7c7c; no national-first personal-site claim made. Keep the three strings Atagu, Atuag and sermitsoq.gl separate until primary captures/source trails resolve them.
+
+
+## 2026-11-22 — Faroe archive captures; Kiribati and Nauru directory leads — ChatGPT automation — DONE / HANDOFF
+
+**Repository/branch:** sloev/earlysmolweb, main (the remote branch list contains only main). Startup completed before research: AGENTS.md, README.md, WORK_METHOD.md, COUNTRIES.md, the full coop.log.md, and the relevant Faroe, Kiribati, Nauru, Iceland and Greenland research files were read.
+
+**Faroe Islands — direct institutional captures and corrected access status**
+- Followed the Faroese National Library's Netsavnið link to the public Wayback capture of its homepage, 2 December 1998: https://web.archive.org/web/19981202051144/http://www.sleipnir.fo:80/flb/flbheim.htm. The page identifies the National Library, its Tórshavn address and links to the staff directory and Internet guide.
+- Inspected the linked staff directory capture (2 December 1998): https://web.archive.org/web/19981202183057/http://www.sleipnir.fo:80/flb/staff.htm. Its footer is 19/09/97; this is a page-content date, not a 1997 archive capture or proof of first publication. Staff contact details were not copied.
+- Inspected the Faroese Internet guide capture (3 December 1998): https://web.archive.org/web/19981203001927/http://www.sleipnir.fo:80/flb/flbint.htm. It is titled “Hin føroyska INTERNET-vegleiðingin” and carries footer date 20/6/96. The footer is a content-date clue, not a verified first-publication date; the contemporary 1996 Ariadne article independently identifies the guide.
+- Inspected the Internet search directory capture (5 December 1998): https://web.archive.org/web/19981205060539/http://www.sleipnir.fo:80/flb/flbint3.htm. It contains library-curated search tools and subject links and carries footer date 25/04-98.
+- Rechecked the 28 July 1995 Sosialurin issue. The public issue page lists 24 pages and OCR-labelled links, but page 1's access notice explicitly says page text, full-size images and PDF are subscriber-only; only search and issue browsing are open. Page 1: https://arkiv.sosialurin.fo/sida/169386. No article text was transcribed. This corrects the 21 November note: the visible OCR links do not make OCR text publicly readable through this route.
+- Classification unchanged: FO-03 (Ólavsøka 1995 first-homepage claim) remains a lead; FO-04 (National Library institutional homepage/guide) remains probable, now with direct 1998 captures and 1996/1997 footer-date clues. No personal homepage verified.
+
+**Kiribati — new KI-04 lead**
+- Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, “Internet Resources and Home Pages” list, printed p. 118 / PDF p. 5, lists “Kiribati Home Page, Republic of Kiribati” at http://www.earth.tohoku.ac.jp/kiribati/kiribati.html. Source: https://files.eric.ed.gov/fulltext/ED437020.pdf.
+- This is grade B contemporary directory evidence for the URL/page being listed by January 1997. The Tohoku subdomain suggests an institutional Japanese host, but exact server/operator and physical hosting are unverified. The directory includes personal and institutional pages; it does not classify this page or name its author.
+- KI-04 may be the page described by Sofield as the comprehensive Kiribati page shown during 1997/98 World Bank fieldwork, but no direct link establishes that match. KI-03 and KI-04 remain separate leads; no personal-page or author attribution is inferred.
+
+**Nauru — new NR-03 lead**
+- The same January 1997 directory lists “Nauru Page, Republic of Nauru” at http://www.tbc.gov.bc.ca/cwgames/country/Nauru/nauru.html.
+- This is grade B contemporary directory evidence for a Nauru-labelled page by January 1997. The hostname is under a British Columbia government domain and the path contains “cwgames”, but the page could not be opened and its operator, content and purpose remain unknown. Treat as an externally hosted country-information lead, not a Nauruan government page or personal site. Keep it separate from the 1995 institutional network and 1998 CenpacNet ISP chronology.
+
+**Integrity check:** re-fetched all updated country files from main. Faroe: 256 lines, blob 34275a8c5ac0796503d7a02799e7f59c3dd010f9; Kiribati: 212 lines, blob 0835e40404e81e0e64ffbc6a4cf30728e84fe316; Nauru: 175 lines, blob 1182c07c913546d607e77fac8ea02c77f96e5e4f. Also re-fetched Iceland (221 lines, blob a0e79cb2396663eb6f634b12379901bbc9d4fd90) and Greenland (236 lines, blob ce0a4929f6985f1de1443981c7aa3d4b6a9f2633); both are complete research files, not placeholders. This supersedes the stale 20 November audit warning that their restoration still needed reconciliation.
+
+**Files and commits:**
+- research/faroe-islands.md — fef466b7ca3549858b201823aa969a1ac1375964
+- research/kiribati.md — 30a2fc56dcde02188bd143fee63e302ae4ca5b8e
+- research/nauru.md — 5230838adc9f77da5b33d1d8ac9a4979c98a8c78
+- This coordination entry appended separately.
+
+**Next handoff:** apply for restricted Faroese Web Archive access for 1995–1998 .fo captures and obtain subscriber/library access to the 27–29 July 1995 Sosialurin pages; recover the Tohoku Kiribati page and test whether it matches KI-03; search the British Columbia archive/Wayback for the Nauru page; mine the same Pacific Society directory for other Pacific country leads (including Palau and the Marshall Islands). No country declared exhausted, no article-data block added, and no national-first personal-page claim made.
