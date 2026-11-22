@@ -1,8 +1,8 @@
 # Nauru
 
-**Status:** evidence review (Track B); connectivity candidate strengthened with 2005 primary NSRC report; no personal-page candidate yet.
+**Status:** evidence review; 1995 institutional network lead and 1998 ISP candidate; 1997 externally hosted Nauru country-page lead; no personal-page candidate yet.
 **Priority:** high (small-island, under-documented).
-**Last checked:** 2026-11-20
+**Last checked:** 2026-11-22
 
 ## Internet context
 
@@ -104,13 +104,53 @@ researcher: Grok (xAI)
 last_checked: 2026-11-18
 ```
 
+## January 1997 directory-listed Nauru Page (new lead)
+
+Mark C. Goniwiecha's “Guam & Micronesia in Cyberspace,” published in the *Journal of the Pacific Society* in January 1997, includes an “Internet Resources and Home Pages” list. It names **“Nauru Page, Republic of Nauru”** and gives:
+
+http://www.tbc.gov.bc.ca/cwgames/country/Nauru/nauru.html
+
+This is a contemporary, dated directory reference to a Nauru-labelled web page by January 1997. The hostname is under a British Columbia government domain, and the path contains “cwgames”, but the original page could not be opened and its content/operator were not recovered. The title alone does not establish that the page was maintained by the Nauruan government, that it was locally hosted, or that it was personal. No Wayback capture was recovered through this access route. Treat it as an externally hosted country-information lead, distinct from the 1995 USP/Vocational Centre network and the 1998 CenpacNet launch.
+
+Source: Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, printed p. 118 / PDF page 5, ERIC document ED 437 020, https://files.eric.ed.gov/fulltext/ED437020.pdf (accessed 22 November 2026). Goniwiecha authored the directory article, not necessarily the Nauru page.
+
+```yaml
+id: NR-03
+status: lead
+person_or_project: Unknown operator; “Nauru Page, Republic of Nauru”
+title: Nauru country page (directory-listed January 1997)
+url_original: http://www.tbc.gov.bc.ca/cwgames/country/Nauru/nauru.html
+url_archived: unknown
+country_or_territory: Nauru
+connection_basis: other
+medium: website
+activity_type: publishing
+operator_type: unknown
+network_status: internet
+date_claimed: 1997-01 (contemporary directory listing; page launch date unknown)
+date_type: inferred
+date_precision: month
+evidence:
+  - source_url: https://files.eric.ed.gov/fulltext/ED437020.pdf
+    source_type: contemporary Internet-resources directory in Journal of the Pacific Society
+    observed_date: 1997-01
+    supports: identifies the title “Nauru Page, Republic of Nauru” and gives the original URL
+    grade: B
+author_attribution: unknown; Mark C. Goniwiecha authored the directory article, not necessarily the page
+language: unknown (directory is English)
+notes: Apparently hosted under a British Columbia government subdomain; exact operator, content and hosting are unverified. The path includes cwgames but does not establish the page's purpose or sponsorship.
+uncertainties: Original page content; operator; official vs independent country profile; launch date; archive captures; author and hosting location.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-22
+```
+
 ## Personal web ecology / earliest candidates
 
 No personal homepages or individual online publications identified yet. Early service focused on email, dial-up access, and institutional/commercial use. Government and commercial sites followed the ISP launch; local content remained limited.
 
 ## Gaps and next leads
 
-- Recover full original September 1998 SIDSNet / newswire item and any contemporaneous local or regional coverage.
+- Recover the January 1997 Nauru Page at tbc.gov.bc.ca through a working Wayback/CDX or British Columbia government archive route; identify its operator and page type before assigning official status.\n- Recover full original September 1998 SIDSNet / newswire item and any contemporaneous local or regional coverage.
 - Locate earliest Wayback captures of cenpac.net.nr or government pages.
 - Search for pre-1998 academic, NGO, or expatriate email accounts associated with Nauru residents.
 - Local oral histories and Pacific regional newspapers for launch details.
@@ -130,3 +170,5 @@ No personal homepages or individual online publications identified yet. Early se
 
 **Researcher:** OpenAI GPT-6 (current pass; earlier work by Grok / xAI)  
 **Last checked:** 2026-11-20
+
+- Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (Nauru Page URL listed on printed p. 118 / PDF p. 5): https://files.eric.ed.gov/fulltext/ED437020.pdf
