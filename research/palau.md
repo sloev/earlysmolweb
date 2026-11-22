@@ -1,7 +1,7 @@
 # Palau — early Internet activity, publishing and online communities
 
-**Status:** scouting; initial connectivity and institutional-web leads documented, but no personal homepage or online community is verified.  
-**Scope:** Palau is covered as one of the 195 baseline countries. The .pw ccTLD is recorded as infrastructure only; it is not used to infer any person's nationality.
+**Status:** scouting; initial connectivity leads plus January 1997 directory-listed institutional and collective pages documented; no personal homepage or online community is verified.  
+**Scope:** Palau is covered as one of the 195 baseline countries. The .pw ccTLD is recorded as infrastructure only; it is not used to infer any person's nationality.\n**Last checked:** 2026-11-22
 
 ## Internet context
 
@@ -31,6 +31,77 @@ The same PNCC history dates two additional developments to 2001: LocalNet, a low
 - **By 25 January 2000 — PNCC/PalauNet website referenced (candidate).** A contemporary NSRC report points readers to www.palaunet.com and records a traceroute reaching pnccwg.palaunet.com through Sprint. The NSRC provider record, created 28 January 2000, links to http://www.palaunet.com/. This establishes a contemporary reference to the provider's website, not its first publication date or the first Palauan website.
 - **2001 — LocalNet (candidate).** PNCC's retrospective history describes a low-cost service for websites within Palau, with local access charges waived and international e-mail access effectively available without time charges. The specific sites and their authors remain unidentified.
 - **2001 — WWFM audio stream on the Web (candidate).** PNCC's retrospective history says it introduced audio streaming by putting local radio station WWFM on the World Wide Web. No stream URL, contemporary announcement, or archived capture has yet been found.
+
+## January 1997 Pacific Society directory leads
+
+Mark C. Goniwiecha's “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, lists two Palau-associated pages under “Internet Resources and Home Pages”:
+
+- **FullMoon Online Magazine of Palau** — http://virtual.guam.net/fullmoon/index.html. The directory title suggests a collective Palau-focused online publication. Its hostname is under virtual.guam.net, so the page was externally hosted; author residence, editorial operator, and physical hosting location are unknown.
+- **Palau Visitors Authority, Republic of Palau** — http://www.visit-palau.com. The directory describes the page as the Palau Visitors Authority, but the page itself was not recovered, so the operator's official status and content remain unverified.
+
+Both are dated directory references by January 1997, not page launch dates. The article lists personal, institutional, commercial and community resources together; these entries are not personal-homepage evidence. No original content or Wayback capture was recovered through this access route.
+
+Source: Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, printed p. 118 / PDF p. 5, ERIC ED 437 020: https://files.eric.ed.gov/fulltext/ED437020.pdf (accessed 22 November 2026).
+
+```yaml
+id: PW-07
+status: lead
+person_or_project: Unknown editorial collective; FullMoon Online Magazine of Palau
+title: FullMoon Online Magazine of Palau
+url_original: http://virtual.guam.net/fullmoon/index.html
+url_archived: unknown
+country_or_territory: Palau
+connection_basis: other
+medium: website
+activity_type: publishing
+operator_type: collective
+network_status: internet
+date_claimed: 1997-01 (contemporary directory listing; launch date unknown)
+date_type: inferred
+date_precision: month
+evidence:
+  - source_url: https://files.eric.ed.gov/fulltext/ED437020.pdf
+    source_type: contemporary Internet-resources directory in Journal of the Pacific Society
+    observed_date: 1997-01
+    supports: lists “FullMoon Online Magazine of Palau” and its URL
+    grade: B
+author_attribution: unknown editorial team; directory does not name page authors
+language: unknown
+notes: The hostname is under virtual.guam.net, indicating an external host domain; physical hosting and editorial residence are unverified. This is a collective publication lead, not a personal homepage.
+uncertainties: Original content; editor/author identities; publication frequency; whether contributors were resident in Palau; earliest archive capture.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-22
+```
+
+```yaml
+id: PW-08
+status: lead
+person_or_project: Palau Visitors Authority (directory attribution; not independently confirmed)
+title: Palau Visitors Authority, Republic of Palau
+url_original: http://www.visit-palau.com
+url_archived: unknown
+country_or_territory: Palau
+connection_basis: other
+medium: website
+activity_type: publishing
+operator_type: institutional
+network_status: internet
+date_claimed: 1997-01 (contemporary directory listing; launch date unknown)
+date_type: inferred
+date_precision: month
+evidence:
+  - source_url: https://files.eric.ed.gov/fulltext/ED437020.pdf
+    source_type: contemporary Internet-resources directory in Journal of the Pacific Society
+    observed_date: 1997-01
+    supports: lists “Palau Visitors Authority, Republic of Palau” and its URL
+    grade: B
+author_attribution: institutional attribution in directory; no individual author identified
+language: unknown
+notes: The directory title suggests an official tourism authority page, but the page itself was not recovered and official operator status is not independently verified. Host location is unknown. Not a personal homepage.
+uncertainties: Original content; exact operator; official status; launch date; hosting location; archive captures.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-22
+```
 
 ## Structured candidate records
 
@@ -273,7 +344,9 @@ These are low-yield search results, not evidence that such activity did not exis
 
 ## Next actions
 
-1. Seek a contemporary 1997 PNCC launch announcement, board record, newspaper notice, or operator archive to corroborate the PalauNet date.
-2. Recover early .pw zone/domain records and archived captures of www.palaunet.com; identify the first Palau-hosted sites rather than treating the provider site as the first.
-3. Check Palau Community College, PEACESAT, regional academic/research networks, and earlier satellite communication records for pre-1997 or parallel connectivity.
-4. Search local newspaper archives and Palauan-language sources for personal pages, community sites, e-mail lists, Usenet, IRC, Gopher, FTP, and connected BBS/FidoNet activity.
+1. Recover the two January 1997 directory-listed pages (FullMoon Online Magazine and Palau Visitors Authority) through Wayback/other archives; verify their content, operator, and contributor residence before classifying them.\n2. Seek a contemporary 1997 PNCC launch announcement, board record, newspaper notice, or operator archive to corroborate the PalauNet date.
+3. Recover early .pw zone/domain records and archived captures of www.palaunet.com; identify the first Palau-hosted sites rather than treating the provider site as the first.
+4. Check Palau Community College, PEACESAT, regional academic/research networks, and earlier satellite communication records for pre-1997 or parallel connectivity.
+5. Search local newspaper archives and Palauan-language sources for personal pages, community sites, e-mail lists, Usenet, IRC, Gopher, FTP, and connected BBS/FidoNet activity.
+
+- Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (Palau entries on printed p. 118 / PDF p. 5): https://files.eric.ed.gov/fulltext/ED437020.pdf
