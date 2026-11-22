@@ -1,7 +1,7 @@
 # Marshall Islands — early internet activity, networks, and web research
 
-**Status:** active scouting; domain/infrastructure and connectivity candidates recorded; no earliest-personal-page candidate verified.  
-**Focus:** locate personal pages made possible by early commercial or institutional connectivity; distinguish resident authors from diaspora or external hosts.
+**Status:** active scouting; domain/infrastructure and connectivity candidates plus a January 1997 directory-listed RMI Online page lead recorded; no earliest-personal-page candidate verified.  
+**Focus:** locate personal pages made possible by early commercial or institutional connectivity; distinguish resident authors from diaspora or external hosts.\n**Last checked:** 2026-11-22
 
 ## Early connectivity and domain context (not personal-page evidence)
 
@@ -33,6 +33,46 @@ Secondary sources state that an ISP associated with the “MH” designation was
 
 ### Infrastructure notes
 Telephone and satellite infrastructure existed in the mid-1990s (Majuro, Ebeye, Kwajalein). High-speed undersea-cable connectivity (HANTRU-1) arrived much later (2010). No contemporary 1995–1998 personal-homepage or public web-publishing evidence has been located in readily available sources. Estimated internet users appear from 1996 in later UN compilations (very low initial figures).
+
+## January 1997 RMI Online directory lead
+
+Mark C. Goniwiecha's “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, lists **“RMI Online, Republic of the Marshall Islands”** at:
+
+http://www.clark.net/pub/rmiemb
+
+This is a contemporary directory reference for a Marshall Islands-labelled page by January 1997. The host is clark.net, not a local .mh domain. The path “rmiemb” may suggest an embassy-related page, but the original page was not recovered, so its operator, official status, content and purpose remain unknown. The directory does not identify an author or establish local hosting, resident authorship, or personal expression. No Wayback capture was recovered through this access route.
+
+Source: Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, printed p. 118 / PDF p. 5, ERIC ED 437 020: https://files.eric.ed.gov/fulltext/ED437020.pdf (accessed 22 November 2026).
+
+```yaml
+id: MH-03
+status: lead
+person_or_project: Unknown operator; “RMI Online, Republic of the Marshall Islands”
+title: RMI Online (directory-listed January 1997)
+url_original: http://www.clark.net/pub/rmiemb
+url_archived: unknown
+country_or_territory: Marshall Islands
+connection_basis: other
+medium: website
+activity_type: publishing
+operator_type: unknown
+network_status: internet
+date_claimed: 1997-01 (contemporary directory listing; launch date unknown)
+date_type: inferred
+date_precision: month
+evidence:
+  - source_url: https://files.eric.ed.gov/fulltext/ED437020.pdf
+    source_type: contemporary Internet-resources directory in Journal of the Pacific Society
+    observed_date: 1997-01
+    supports: lists “RMI Online, Republic of the Marshall Islands” and its URL
+    grade: B
+author_attribution: unknown; directory author Mark C. Goniwiecha is not identified as page author
+language: unknown
+notes: Externally hosted under clark.net. The path “rmiemb” may indicate an embassy-related page, but this is unverified. Not evidence of local hosting or a personal homepage.
+uncertainties: Original page content; operator; official/embassy status; author and residence; launch date; earliest archive capture.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-22
+```
 
 ## Candidate records
 
@@ -110,9 +150,11 @@ last_checked: 2026-11-18
 
 ## Next actions
 
-1. Search for Wayback/Netarkivet captures of nic.net.mh, early NTA pages, or any 1996–2003 .mh sites.
-2. Check contemporary Pacific ICT / SIDS reports and local newspapers (Marshall Islands Journal) for 1996–2003 connectivity or ISP announcements.
-3. Locate any surviving user directories, email lists, or personal pages from the initial period (including diaspora).
-4. Continue parallel scouting on Palau, Micronesia, and remaining Pacific micro-states.
+1. Recover RMI Online at clark.net/pub/rmiemb through Wayback or another archive; determine whether it was an embassy/government page, an independent resource, or a personal page.\n2. Search for Wayback/Netarkivet captures of nic.net.mh, early NTA pages, or any 1996–2003 .mh sites.
+3. Check contemporary Pacific ICT / SIDS reports and local newspapers (Marshall Islands Journal) for 1996–2003 connectivity or ISP announcements.
+4. Locate any surviving user directories, email lists, or personal pages from the initial period (including diaspora).
+5. Continue parallel scouting on Palau, Micronesia, and remaining Pacific micro-states.
 
 **Personal-homepage status:** none verified. Infrastructure/domain window opens 16 August 1996; commercial connectivity via ITE Guam from October 1996; local commercial web activity appears limited until at least 2003.
+
+- Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (RMI Online entry on printed p. 118 / PDF p. 5): https://files.eric.ed.gov/fulltext/ED437020.pdf
