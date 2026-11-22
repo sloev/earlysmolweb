@@ -395,3 +395,16 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 - `coop.log.md`: restored full last-known-good log and appended this handoff (current commit recorded by GitHub after update).
 
 **Next:** for Greenland, compare original/archived captures of `atagu.gl`, `atagu.ki.gl` and `sermitsiaq.gl`, and inspect Atassut records and cited source trails. For Denmark, request the 19 February 1995 Harddisken recording/transcript and research access to Netarkivet/SolrWayback; inspect Webmuseum via a working route. Continue the personal-page search across countries; no country declared exhausted.
+
+
+## 2026-11-22 — Greenland: contemporary Sondrestrom and Q-Data network traces — ChatGPT — DONE / HANDOFF
+
+- Reopened the NSRC Connectivity Providers Database Greenland index and followed four dated message records. These are archived 1995 technical mailing-list messages, not personal websites:
+  - 23 January 1995, “Gossip GL - Greenland with Full Internet Link”: externally reachable hosts `gw.srpo.gl`, `saarullik.srpo.gl`, `umimmak.srpo.gl`; traceroute to 192.101.148.2. https://www.nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496466:497429432.
+  - 14 February 1995, “Greenland Internet”: Yadunath Zambre (SRI) says network 192.101.148.0 was established around 1990 for the Sondrestrom radar facility at Kangerlussuaq and connected to NASA Science Internet via satellite; identifies the three srpo.gl hosts. https://www.nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496341:497430927.
+  - 1 September 1995, “Internet goes north - to Greenland”: Ivan Andersen, writing from IVAN@qdata.gl, describes Q-Data's internal network from Qaanaaq to Nanortalik, connected through Tele Greenland and UNI-C, with email and browsing access. This identifies a provider/contact, not a personal homepage or residence. https://www.nsrc.org/db/lookup/report.php?fromISO=GL&id=890202496237:497432310.
+  - 7 September 1995, “Ping from GL”: Olivier M. J. Crepin-Leblond reports Greenland's commercial full-Internet access provider and traceroutes to `kaasassuk.qdata.gl` (194.160.227.131). https://www.nsrc.org/db/lookup/report.php?fromISO=GL&id=890202495978:497435143.
+- NSRC's Greenland index lists Q-Data, Tele Greenland and ATAGU at `atagu.ki.gl`, but this is a later directory and does not date the links to 1995. The current Q-Data link returned 502. No content from the 1995 hostnames was recovered.
+- Assessment: strong contemporary network/infrastructure evidence by Jan–Feb 1995 and a local Q-Data commercial-access network by Sep 1995. Sondrestrom is an institutional research network; Q-Data is a service provider. Neither is a personal site. No personal-page candidate or national-first claim added.
+- File updated: `research/greenland.md`, commit `22556cd562349965677bbace699713838127c133`.
+- Next: inspect preserved DNS/host directories and any archived content for qdata.gl, kaasassuk.qdata.gl, srpo.gl and its three named hosts; search further IETF/NSRC messages from Ivan Andersen and Q-Data; identify any staff/customer personal homepages without treating access as publishing.
