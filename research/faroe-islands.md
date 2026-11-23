@@ -18,7 +18,7 @@ Primary contemporary source: Jogvan Martin Grastein (Netumsitingin / Fróðskapa
 
 ## Personal web ecology / earliest candidates
 
-No verified personal homepage identified. A 2008 university retrospective says the first Faroese homepage was set up at Ólavsøka 1995, but gives no operator, URL, or page type. The author Petur F. Zachariassen is likely the Petur Z who helped lead the January 1995 Internet rollout: a 1995 NSRC report names Petur Zachariassen as a technical contact, a 2005 Frøði profile gives the same `peturz` university email identity, and a 2015 university profile describes Petur Z as a pioneer of Faroese Internet access. This makes the retrospective more informed, but does not establish that Petur created the first page.
+No verified national-first personal homepage identified. FO-05 now documents a surviving Anfinn Frederiksen personal homepage: the 13 March 2007 Wayback capture names the page and shows Faroese photographs, while its timeline reports an earliest capture on 11 April 2000 (that 2000 capture remains uninspected). Its visitor counter claims “Since 08.01.1999,” which is not launch proof; the author's residence at publication is unknown. FO-03 remains a separate lead for the claimed Ólavsøka 1995 “first homepage”; no relationship between FO-03 and FO-05 is established. A 2008 university retrospective says the first Faroese homepage was set up at Ólavsøka 1995, but gives no operator, URL, or page type. The author Petur F. Zachariassen is likely the Petur Z who helped lead the January 1995 Internet rollout: a 1995 NSRC report names Petur Zachariassen as a technical contact, a 2005 Frøði profile gives the same `peturz` university email identity, and a 2015 university profile describes Petur Z as a pioneer of Faroese Internet access. This makes the retrospective more informed, but does not establish that Petur created the first page.
 
 A contemporary 1996 Ariadne article by John Kirriemuir identifies the Faroese National Library's institutional homepage at `http://www.sleipnir.fo/flb/flbheim.htm` and its first Faroese Internet guide at `http://www.sleipnir.fo/flb/flbint.htm`. It also links to the university research page (`http://www.sleipnir.fo/research.htm`), the general Faroe information page (`http://www.sleipnir.fo/faroe/faroe.htm`) and the library information page (`http://www.sleipnir.fo/flb/flbst.htm`). These are institutional pages, not personal homepages; the article establishes existence by 1996 but not launch dates.
 
@@ -181,29 +181,42 @@ last_checked: 2026-11-21
 
 ## 23 November 2026 — Olivant personal-homepage infrastructure and named page leads
 
-### FO-05 — Anfinn Fredriksen's Olivant aerial-photo page (candidate)
+### FO-05 — Anfinn Frederiksen's Olivant personal homepage (candidate)
 
-A Hungarian-language Faroe Islands discussion thread on Index Fórum contains a post dated **15 December 2002** linking to `http://heima.olivant.fo/~anfinn/` under the heading “Csodaszép légifotók” (“beautiful aerial photos”). This is a dated external reference to the page, not a capture of the page itself. The undated Faroese link directory ALT.FO lists the same URL as “Anfinn Fredriksen” in its “Myndir” (pictures) category. A current photography site at brattaberg.com credits photographs to Anfinn Fredriksen, but this does not independently prove that he authored the old Olivant page or resided in the Faroes in 2002.
-
-The combination of a named individual account path, a dated 2002 link reference and the local directory's name attribution supports a **candidate personal-photo page by 15 December 2002**. Author attribution is probable, not verified. The page's original content, launch date and archive capture have not been recovered. Residence at publication remains unknown; the country connection currently rests on local Olivant hosting and Faroese subject matter, not an assumption about the author's residence.
+A direct Wayback capture dated **13 March 2007** identifies the page as “Anfinn Frederiksen's homepage” and says, “Welcome to a homepage with pictures of the Faroe Islands!” The capture page's Wayback timeline reports **140 captures from 11 April 2000 to 21 July 2020**; the 11 April 2000 capture itself was not inspected, so this is the earliest archive-capture date currently reported, not a verified launch date. The page's visitor counter says “Since 08.01.1999”; this is a page statement, not reliable proof of site creation. A subpage captured 11 March 2007 is a gallery of Mykines photographs and links back to the homepage. A 2002 forum post and ALT.FO directory independently point to the same Olivant user account; the page itself names Anfinn Frederiksen, while ALT.FO spells Fredriksen. This is a candidate personal homepage associated with the Faroes through local Olivant user hosting and Faroese content. Residence at publication remains unknown; no national-first claim is made.
 
 ```yaml
 id: FO-05
 status: candidate
-person_or_project: Probable Anfinn Fredriksen (directory attribution; original page not recovered)
-title: Personal aerial-photography page on an Olivant user account
-url_original: http://heima.olivant.fo/~anfinn/
-url_archived: unknown
+person_or_project: Anfinn Frederiksen (named in archived homepage title; ALT.FO spelling variant Fredriksen)
+title: Personal homepage with Faroese photographs and a Mykines gallery
+url_original: http://heima.olivant.fo/~anfinn/index.htm
+url_archived: https://web.archive.org/web/20070313154305/http://heima.olivant.fo:80/%7Eanfinn/index.htm
 country_or_territory: Faroe Islands
 connection_basis: local-hosting
 medium: website
 activity_type: personal-expression
-operator_type: unknown
+operator_type: individual
 network_status: internet
-date_claimed: 2002-12-15 (first located external reference; not a launch date)
-date_type: inferred
+date_claimed: 2000-04-11 (earliest Wayback capture date reported; capture itself not inspected)
+date_type: first-capture
 date_precision: exact
 evidence:
+  - source_url: https://web.archive.org/web/20070313154305/http://heima.olivant.fo:80/%7Eanfinn/index.htm
+    source_type: direct Wayback capture of homepage
+    observed_date: 2007-03-13
+    supports: page title names Anfinn Frederiksen; identifies itself as a homepage with pictures of the Faroe Islands; visitor counter says “Since 08.01.1999”
+    grade: A
+  - source_url: https://web.archive.org/web/20070313154305/http://heima.olivant.fo:80/%7Eanfinn/index.htm
+    source_type: Wayback capture timeline metadata
+    observed_date: 2007-03-13
+    supports: reports 140 captures from 2000-04-11 to 2020-07-21; 2000 capture content not inspected
+    grade: A
+  - source_url: https://web.archive.org/web/20070311041954/http://heima.olivant.fo:80/%7Eanfinn/mykines.htm
+    source_type: direct Wayback capture of photo-gallery subpage
+    observed_date: 2007-03-11
+    supports: identifies the same homepage and describes pictures of the island Mykines; links back to index
+    grade: A
   - source_url: https://forum.index.hu/Article/showArticle?na_order=&na_start=268&na_step=30&t=9019233
     source_type: contemporary external discussion forum
     observed_date: 2002-12-15
@@ -217,12 +230,12 @@ evidence:
   - source_url: https://brattaberg.com/
     source_type: current photography website (accessed 2026-11-23)
     observed_date: current
-    supports: credits photographs to Anfinn Fredriksen; does not link him directly to the old Olivant URL
+    supports: credits photographs to Anfinn Fredriksen; does not independently prove the old page's account holder
     grade: C
-author_attribution: probable Anfinn Fredriksen; based on ALT.FO name-to-URL association, not an original page byline
-language: unknown
-notes: The URL is on the Olivant personal-user-page host. The forum post proves that the URL was publicly referenced by 15 December 2002, not when the page began. The modern photographer credit is corroborative context only. Author residence at publication is unknown.
-uncertainties: Original page content and capture; page launch date; author identity; residence in 2002; whether this was a homepage or a photo gallery; exact hosting account holder.
+author_attribution: Anfinn Frederiksen (named on the archived page; exact account holder probable)
+language: English (captured page text)
+notes: The 2000-04-11 date is Wayback timeline metadata only; that capture was not opened. The counter's “Since 08.01.1999” is not independently verified as a site launch date. Country attribution rests on Olivant local user hosting and Faroese subject matter; author residence at publication is unknown.
+uncertainties: Content of 2000 capture; original page launch date; exact account holder; author residence in 2000; whether an earlier Faroese personal homepage existed.
 researcher: OpenAI GPT-6
 last_checked: 2026-11-23
 ```
@@ -317,6 +330,7 @@ The local directory ALT.FO also links to `http://heima.olivant.fo/~hans/`, `http
 - Confirm the Ólavsøka 1995 “first homepage” claim with primary sources (university records, contemporary press, or surviving files).
 - Search Faroese-language newspapers (Sosialurin, Dimmalætting) and local terms (heimasíða, Internet, netið) for 1995–97 launch coverage.
 - Inspect early institutional directories for personal pages or ~user directories.
+- Inspect the 11 April 2000 Wayback capture of the Anfinn Frederiksen homepage if the archive exposes the original image; verify the account holder and any evidence of the author's residence at publication.
 - Check for any pre-1995 email/UUCP activity associated with Faroese researchers or the university.
 
 
