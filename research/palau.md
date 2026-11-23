@@ -1,7 +1,7 @@
 # Palau — early Internet activity, publishing and online communities
 
-**Status:** scouting; initial connectivity leads plus January 1997 directory-listed institutional and collective pages documented; no personal homepage or online community is verified.  
-**Scope:** Palau is covered as one of the 195 baseline countries. The .pw ccTLD is recorded as infrastructure only; it is not used to infer any person's nationality.\n**Last checked:** 2026-11-22
+**Status:** scouting; January 1997 institutional and collective page leads documented; Palau Visitors Authority's official domain attribution is corroborated by 2004 and 2016 audited statements; no personal homepage or online community is verified.  
+**Scope:** Palau is covered as one of the 195 baseline countries. The .pw ccTLD is recorded as infrastructure only; it is not used to infer any person's nationality.\n**Last checked:** 2026-11-23
 
 ## Internet context
 
@@ -70,13 +70,13 @@ language: unknown
 notes: The hostname is under virtual.guam.net, indicating an external host domain; physical hosting and editorial residence are unverified. This is a collective publication lead, not a personal homepage.
 uncertainties: Original content; editor/author identities; publication frequency; whether contributors were resident in Palau; earliest archive capture.
 researcher: OpenAI GPT-6
-last_checked: 2026-11-22
+last_checked: 2026-11-23
 ```
 
 ```yaml
 id: PW-08
 status: lead
-person_or_project: Palau Visitors Authority (directory attribution; not independently confirmed)
+person_or_project: Palau Visitors Authority (PVA; official domain attribution corroborated by 2004/2016 audited statements)
 title: Palau Visitors Authority, Republic of Palau
 url_original: http://www.visit-palau.com
 url_archived: unknown
@@ -84,7 +84,7 @@ country_or_territory: Palau
 connection_basis: other
 medium: website
 activity_type: publishing
-operator_type: institutional
+operator_type: government
 network_status: internet
 date_claimed: 1997-01 (contemporary directory listing; launch date unknown)
 date_type: inferred
@@ -95,10 +95,20 @@ evidence:
     observed_date: 1997-01
     supports: lists “Palau Visitors Authority, Republic of Palau” and its URL
     grade: B
-author_attribution: institutional attribution in directory; no individual author identified
+  - source_url: https://www.palauopa.org/pdf/single-audits/FY%202004/PVA%202004/PvaFS2004.pdf
+    source_type: Palau Visitors Authority audited financial statements, FY 2004/2003
+    observed_date: 2005-05-30
+    supports: identifies PVA as a component unit of the Republic of Palau, describes it as the country's tourism authority, and lists pva@palaunet.com and http://www.visit-palau.com
+    grade: B
+  - source_url: https://www.palauopa.org/pdf/single-audits/FY%202016/PVA-2016-Final-FS.PDF
+    source_type: Palau Visitors Authority audited financial statements, FY 2016/2015
+    observed_date: 2017-06-19
+    supports: identifies PVA as a component unit of the Republic of Palau and lists pva@visit-palau.com and www.visit-palau.com
+    grade: B
+author_attribution: institutional attribution in the 1997 directory; later official audits confirm the same domain as PVA's website; no individual author identified
 language: unknown
-notes: The directory title suggests an official tourism authority page, but the page itself was not recovered and official operator status is not independently verified. Host location is unknown. Not a personal homepage.
-uncertainties: Original content; exact operator; official status; launch date; hosting location; archive captures.
+notes: The January 1997 directory attributes this URL to PVA. Official audited statements for FY 2004 and FY 2016 identify www.visit-palau.com as PVA's website/contact and describe PVA as a component unit of the Republic of Palau and the country's tourism authority. This corroborates the official operator/domain by 2004/2016 and supports, but does not prove, continuity from the 1997 listing. Original 1997 page content and hosting location remain unknown. Not a personal homepage.
+uncertainties: Original 1997 content; first publication/launch date; whether the operator/domain was unchanged from the directory date; hosting location; archive captures.
 researcher: OpenAI GPT-6
 last_checked: 2026-11-22
 ```
@@ -350,3 +360,5 @@ These are low-yield search results, not evidence that such activity did not exis
 5. Search local newspaper archives and Palauan-language sources for personal pages, community sites, e-mail lists, Usenet, IRC, Gopher, FTP, and connected BBS/FidoNet activity.
 
 - Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (Palau entries on printed p. 118 / PDF p. 5): https://files.eric.ed.gov/fulltext/ED437020.pdf
+- Palau Visitors Authority, *Financial Statements and Independent Auditors' Report, Years Ended September 30, 2004 and 2003* (Deloitte & Touche, 30 May 2005): https://www.palauopa.org/pdf/single-audits/FY%202004/PVA%202004/PvaFS2004.pdf
+- Palau Visitors Authority, *Financial Statements and Independent Auditors' Report, Years Ended September 30, 2016 and 2015* (Deloitte & Touche, 19 June 2017): https://www.palauopa.org/pdf/single-audits/FY%202016/PVA-2016-Final-FS.PDF
