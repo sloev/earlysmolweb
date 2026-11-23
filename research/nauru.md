@@ -1,8 +1,8 @@
 # Nauru
 
-**Status:** evidence review; 1995 institutional network lead and 1998 ISP candidate; 1997 externally hosted Nauru country-page lead; no personal-page candidate yet.
+**Status:** evidence review; 1995 institutional network and 1998 ISP candidates; 1997 externally hosted Nauru country-page lead now cross-referenced by later government and agency sources; no personal-page candidate yet.
 **Priority:** high (small-island, under-documented).
-**Last checked:** 2026-11-22
+**Last checked:** 2026-11-23
 
 ## Internet context
 
@@ -136,12 +136,22 @@ evidence:
     observed_date: 1997-01
     supports: identifies the title “Nauru Page, Republic of Nauru” and gives the original URL
     grade: B
+  - source_url: https://idahodocs.contentdm.oclc.org/digital/api/collection/p16293coll6/id/245290/download
+    source_type: Organization of American States / University of Idaho comparative tourism-agency study
+    observed_date: 1998
+    supports: identifies tbc.gov.bc.ca as the website of Tourism British Columbia and describes the agency as a Crown Corporation; it does not describe the Nauru subpage
+    grade: C
+  - source_url: https://dirco1.azurewebsites.net/foreign/bilateral/nauru.html
+    source_type: South African Department of Foreign Affairs country profile
+    observed_date: 2021-06-21 (page copyright © 2003)
+    supports: links directly to the exact Nauru Page URL as further information on Nauru
+    grade: C
 author_attribution: unknown; Mark C. Goniwiecha authored the directory article, not necessarily the page
 language: unknown (directory is English)
-notes: Apparently hosted under a British Columbia government subdomain; exact operator, content and hosting are unverified. The path includes cwgames but does not establish the page's purpose or sponsorship.
+notes: The hostname tbc.gov.bc.ca is identified in a 1998 OAS study as Tourism British Columbia's website; the agency is described as a Crown Corporation. A South African government country profile (copyright © 2003; last updated 2021-06-21) links to this exact Nauru URL as further information. These are host-domain and later directory cross-checks only: the exact subpage content, operator, purpose and sponsorship remain unverified. The path includes cwgames but does not establish a Commonwealth Games connection. Not evidence of a Nauruan government or personal site.
 uncertainties: Original page content; operator; official vs independent country profile; launch date; archive captures; author and hosting location.
 researcher: OpenAI GPT-6
-last_checked: 2026-11-22
+last_checked: 2026-11-23
 ```
 
 ## Personal web ecology / earliest candidates
@@ -172,3 +182,5 @@ No personal homepages or individual online publications identified yet. Early se
 **Last checked:** 2026-11-20
 
 - Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (Nauru Page URL listed on printed p. 118 / PDF p. 5): https://files.eric.ed.gov/fulltext/ED437020.pdf
+- Stephen N. Edwards, William J. McLaughlin and Sam H. Ham, *Comparative Study of Ecotourism Policy in the Americas* (1998), British Columbia agency profile: https://idahodocs.contentdm.oclc.org/digital/api/collection/p16293coll6/id/245290/download
+- South African Department of Foreign Affairs, “Republic of Nauru” country profile (copyright © 2003; last updated 21 June 2021): https://dirco1.azurewebsites.net/foreign/bilateral/nauru.html
