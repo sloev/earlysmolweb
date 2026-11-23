@@ -1,1 +1,1 @@
-See /tmp/coop_restored.md - too long, use full
+TOO_LARGE - see note
