@@ -461,3 +461,13 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 - This coordination log is appended separately.
 
 **Unresolved / next actions:** recover the Olivant `~sonjacob` private-homepage directory and inspect captures of `~anfinn`, `~hans`, `~mykines` and `~dholm`; request Faroese Web Archive access for 1995–2002 .fo and Olivant material; recover the original Nauru Page capture and identify its purpose; recover the 1997 Palau Visitors Authority and FullMoon pages; continue searching for an RMI Online capture and operator. Micronesia and Kiribati were checked for coordination context but no new claim was added in this pass. No personal-page earliest claim was made and no country was marked exhausted.
+
+
+## 2026-11-23 — Scheduled daily pass — Faroe/Pacific and queue audit
+
+- Agent: ChatGPT scheduled research run.
+- Repository/branch: `sloev/earlysmolweb`, `main`; verified `main` exists and startup files/methods/log were read.
+- No new defensible country/territory claim was promoted in this pass. The active handoff remains the Faroe Islands personal-homepage ecosystem and Pacific archive recovery; no speculative edits were made to research notes.
+- Negative/bounded result: current source routes did not expose a primary capture sufficient to upgrade the Faroe 1995 lead or the Pacific 1997 directory leads.
+- Next handoff: continue with Faroese Web Archive/Netarkivet access routes and exact Pacific URL recovery; preserve category distinctions and uncertainty.
+- Status: log-only handoff; no research-file change.
