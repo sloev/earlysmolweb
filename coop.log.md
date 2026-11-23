@@ -426,3 +426,38 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 - `research/micronesia.md` content commit: `b269473b17e0986acbfd2d2681b9709cb589e405`; summary alignment commit: `0049ea02a4043cd04ac3835751c53edf9a33090b`. Re-fetched the file and confirmed FM-08/FM-09, the revised summary, source references and candidate status are present. Corrected FM-08 language to unknown because the original page is not recovered.
 - `research/denmark.md` restoration commit: `4e79dd14afb24e41174a4b7d73a065ea513e703f`; `coop.log.md` restoration and full append commit: `30873774d4b8c57a446a845a8e0f574336eadfc8`. Re-fetched all three files; no placeholder remains as the current file content.
 - No local build, Pages/browser verification or Wayback capture inspection was performed. The historical findings and uncertainty classifications are unchanged from the main handoff above.
+
+
+## 2026-11-23 — Faroe Olivant pages and Pacific country cross-check — ChatGPT
+
+**Repository/branch:** `sloev/earlysmolweb`, `main`. Startup documentation read: `README.md`, `WORK_METHOD.md`, `COUNTRIES.md`, and the full current `coop.log.md`; relevant Faroe, Nauru, Palau, Marshall Islands, Micronesia and Kiribati country files were checked before selecting tasks. Work remained on `main`. The current log's latest handoff called for cross-country Pacific scouting; this pass also followed a newly found Faroese user-page publishing route. No country is declared exhausted.
+
+**Faroe Islands — new personal-page ecosystem evidence:**
+- Wayback capture of the ISP homepage, 5 April 2001: https://web.archive.org/web/20010405065408/http://www.internet.fo/ . It identifies “The Faroe Islands - Internet Service Provider”, links to a homepage-making guide, and carries © 2001 Føroya Tele/Internet.
+- Linked guide, captured 22 August 2001: https://web.archive.org/web/20010822082704/http://www.internet.fo/leidbeining/gerheimasida.html . It explains how customers could edit a personal homepage with Netscape Navigator Gold 3 and FTP it to `heima.olivant.fo/home/<username>/public_html`; footer copyright © 2000 Føroya Tele/Internet. This directly documents customer homepage publishing by 2001; the 2000 copyright is not proof of a 2000 launch.
+- Separate webhotel price page, captured 8 June 2001: https://web.archive.org/web/20010608053345/http://www.internet.fo/tanastur/prisirwebhotel.html . It describes paid webhotel for commercial websites, distinguishing business hosting from the personal-user-page guide.
+- Candidate FO-05: a 15 December 2002 Index Fórum post links `http://heima.olivant.fo/~anfinn/` under “beautiful aerial photos”: https://forum.index.hu/Article/showArticle?na_order=&na_start=268&na_step=30&t=9019233. ALT.FO labels the same URL “Anfinn Fredriksen” under photographs: https://www.alt.fo/. A current photo site credits Anfinn Fredriksen, but does not prove authorship of the old page or residence in 2002. Status candidate; author attribution probable; residence unknown; original page/capture not recovered.
+- Candidate/lead FO-06/FO-07: documented the Olivant homepage service and the ALT.FO-listed `~sonjacob/Farpages/Privatar-heimasidur.htm` private-homepage directory. The directory's contents and date remain unknown. ALT.FO also lists `~hans`, `~mykines` and `~dholm` pages as further leads.
+- No earliest Faroese personal homepage is claimed.
+
+**Nauru — NR-03 host cross-check:**
+- A 1998 OAS / University of Idaho comparative study identifies `tbc.gov.bc.ca` as Tourism British Columbia's website and describes the agency as a Crown Corporation: https://idahodocs.contentdm.oclc.org/digital/api/collection/p16293coll6/id/245290/download.
+- A South African Department of Foreign Affairs Nauru profile (copyright © 2003; last updated 21 June 2021) links directly to the exact Nauru Page URL as further information: https://dirco1.azurewebsites.net/foreign/bilateral/nauru.html.
+- These sources refine the host-domain attribution and provide a later government-directory cross-reference. They do not recover the page, prove the purpose of the `cwgames` path, or establish Nauruan government authorship. NR-03 remains lead; operator unknown; not personal.
+
+**Palau — PW-08 operator corroboration:**
+- Palau Visitors Authority audited statements for FY2004/2003 (auditor report 30 May 2005) identify PVA as a component unit of the Republic of Palau and list `pva@palaunet.com` and `http://www.visit-palau.com`: https://www.palauopa.org/pdf/single-audits/FY%202004/PVA%202004/PvaFS2004.pdf.
+- FY2016/2015 audited statements (auditor report 19 June 2017) again identify PVA as a component unit and list `pva@visit-palau.com` and `www.visit-palau.com`: https://www.palauopa.org/pdf/single-audits/FY%202016/PVA-2016-Final-FS.PDF.
+- This strongly corroborates PVA as the official operator/domain by 2004 and 2016 and supports the January 1997 directory attribution, but it does not establish the original 1997 page content, launch date or hosting location. PW-08 remains a lead and is institutional/governmental, not personal.
+
+**Marshall Islands — bounded null follow-up:**
+- Re-searched the exact `http://www.clark.net/pub/rmiemb` URL, `rmiemb`, and “RMI Online” with the country name. No page capture, author, or separate contemporary description beyond the January 1997 directory was recovered. The suffix may suggest an embassy page but is not proof; MH-03 remains lead with unknown operator.
+
+**Files changed:**
+- `research/faroe-islands.md` — commit `a6e0b0fdcaec1653916cf9573cb5cb2fe3084d3c`.
+- `research/nauru.md` — commit `b5adf5607a1297195b7debb35df773113fa51595`.
+- `research/palau.md` — commit `4180b5ca719618b648fee5dd832dae7394795889`.
+- `research/marshall-islands.md` — commit `0249fa9030b1bb8202a26d18666a7298a77dfc14`.
+- This coordination log is appended separately.
+
+**Unresolved / next actions:** recover the Olivant `~sonjacob` private-homepage directory and inspect captures of `~anfinn`, `~hans`, `~mykines` and `~dholm`; request Faroese Web Archive access for 1995–2002 .fo and Olivant material; recover the original Nauru Page capture and identify its purpose; recover the 1997 Palau Visitors Authority and FullMoon pages; continue searching for an RMI Online capture and operator. Micronesia and Kiribati were checked for coordination context but no new claim was added in this pass. No personal-page earliest claim was made and no country was marked exhausted.
