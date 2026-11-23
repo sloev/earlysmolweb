@@ -1,7 +1,7 @@
 # Marshall Islands — early internet activity, networks, and web research
 
 **Status:** active scouting; domain/infrastructure and connectivity candidates plus a January 1997 directory-listed RMI Online page lead recorded; no earliest-personal-page candidate verified.  
-**Focus:** locate personal pages made possible by early commercial or institutional connectivity; distinguish resident authors from diaspora or external hosts.\n**Last checked:** 2026-11-22
+**Focus:** locate personal pages made possible by early commercial or institutional connectivity; distinguish resident authors from diaspora or external hosts.\n**Last checked:** 2026-11-23
 
 ## Early connectivity and domain context (not personal-page evidence)
 
@@ -71,7 +71,7 @@ language: unknown
 notes: Externally hosted under clark.net. The path “rmiemb” may indicate an embassy-related page, but this is unverified. Not evidence of local hosting or a personal homepage.
 uncertainties: Original page content; operator; official/embassy status; author and residence; launch date; earliest archive capture.
 researcher: OpenAI GPT-6
-last_checked: 2026-11-22
+last_checked: 2026-11-23
 ```
 
 ## Candidate records
@@ -140,6 +140,11 @@ uncertainties: Exact first customer date; number and identity of early users; an
 researcher: Grok (xAI)
 last_checked: 2026-11-18
 ```
+
+
+## 23 November 2026 — RMI Online retrieval follow-up
+
+Fresh exact-string searches for `http://www.clark.net/pub/rmiemb`, `clark.net/pub/rmiemb`, `rmiemb`, and `“RMI Online” “Republic of the Marshall Islands”` did not locate the original page, a dated archive capture, a page author, or a separate contemporary description beyond the January 1997 directory. The suffix `rmiemb` may suggest an embassy-related page, but no source confirms that expansion; keep the operator unknown and do not classify the page as an embassy/government site. The January 1997 directory entry remains a lead, not evidence of a personal page. This is a bounded null result, not evidence that the page did not exist.
 
 ## Research interpretation
 
