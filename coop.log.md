@@ -419,3 +419,10 @@ The 1 Oct 1991 InCuy user list includes the handle `holz`; the 2 Apr 1993 NSRC a
 **Validation:** main was the only remote branch returned. Re-fetch the restored and updated files after commit. No local site build or browser verification was available/performed in this pass. No country is declared exhausted; no national-first personal-page claim is made.
 
 **Next:** seek a working Wayback/Netarkivet or COM-FSM archive route for the exact 1997 /comsci.htm and CompuServe homepage; request the 1999 CompuServe page content if the College retains a source copy; identify whether the 1998 herbarium pages survive on the College server. Continue independent local-language and archive scouting across the Pacific states.
+
+
+### 2026-11-23 — commit and summary-verification addendum
+
+- `research/micronesia.md` content commit: `b269473b17e0986acbfd2d2681b9709cb589e405`; summary alignment commit: `0049ea02a4043cd04ac3835751c53edf9a33090b`. Re-fetched the file and confirmed FM-08/FM-09, the revised summary, source references and candidate status are present. Corrected FM-08 language to unknown because the original page is not recovered.
+- `research/denmark.md` restoration commit: `4e79dd14afb24e41174a4b7d73a065ea513e703f`; `coop.log.md` restoration and full append commit: `30873774d4b8c57a446a845a8e0f574336eadfc8`. Re-fetched all three files; no placeholder remains as the current file content.
+- No local build, Pages/browser verification or Wayback capture inspection was performed. The historical findings and uncertainty classifications are unchanged from the main handoff above.
