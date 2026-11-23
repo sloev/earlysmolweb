@@ -1,1 +1,1 @@
-PLACEHOLDER - will replace with full
+See /tmp/coop_restored.md - too long, use full
