@@ -2,7 +2,7 @@
 
 **Status:** infrastructure candidates documented; probable institutional National Library web presence by 1996 with direct 1998 captures; institutional Sosialurin online daily from September 1997; first-homepage claim remains a lead. No verified personal homepage yet.
 **Priority:** first wave (separate research jurisdiction within the Kingdom of Denmark).
-**Last checked:** 2026-11-22
+**Last checked:** 2026-11-23
 
 ## Internet context
 
@@ -176,6 +176,138 @@ uncertainties: Exact publication month, page launch date, original page contents
 researcher: OpenAI GPT-6
 last_checked: 2026-11-21
 ```
+
+
+
+## 23 November 2026 — Olivant personal-homepage infrastructure and named page leads
+
+### FO-05 — Anfinn Fredriksen's Olivant aerial-photo page (candidate)
+
+A Hungarian-language Faroe Islands discussion thread on Index Fórum contains a post dated **15 December 2002** linking to `http://heima.olivant.fo/~anfinn/` under the heading “Csodaszép légifotók” (“beautiful aerial photos”). This is a dated external reference to the page, not a capture of the page itself. The undated Faroese link directory ALT.FO lists the same URL as “Anfinn Fredriksen” in its “Myndir” (pictures) category. A current photography site at brattaberg.com credits photographs to Anfinn Fredriksen, but this does not independently prove that he authored the old Olivant page or resided in the Faroes in 2002.
+
+The combination of a named individual account path, a dated 2002 link reference and the local directory's name attribution supports a **candidate personal-photo page by 15 December 2002**. Author attribution is probable, not verified. The page's original content, launch date and archive capture have not been recovered. Residence at publication remains unknown; the country connection currently rests on local Olivant hosting and Faroese subject matter, not an assumption about the author's residence.
+
+```yaml
+id: FO-05
+status: candidate
+person_or_project: Probable Anfinn Fredriksen (directory attribution; original page not recovered)
+title: Personal aerial-photography page on an Olivant user account
+url_original: http://heima.olivant.fo/~anfinn/
+url_archived: unknown
+country_or_territory: Faroe Islands
+connection_basis: local-hosting
+medium: website
+activity_type: personal-expression
+operator_type: unknown
+network_status: internet
+date_claimed: 2002-12-15 (first located external reference; not a launch date)
+date_type: inferred
+date_precision: exact
+evidence:
+  - source_url: https://forum.index.hu/Article/showArticle?na_order=&na_start=268&na_step=30&t=9019233
+    source_type: contemporary external discussion forum
+    observed_date: 2002-12-15
+    supports: links the exact Olivant user URL under “Csodaszép légifotók” among Faroese websites
+    grade: B
+  - source_url: https://www.alt.fo/
+    source_type: Faroese link directory (undated; accessed 2026-11-23)
+    observed_date: unknown
+    supports: labels the same URL “Anfinn Fredriksen” in the “Myndir” category
+    grade: C
+  - source_url: https://brattaberg.com/
+    source_type: current photography website (accessed 2026-11-23)
+    observed_date: current
+    supports: credits photographs to Anfinn Fredriksen; does not link him directly to the old Olivant URL
+    grade: C
+author_attribution: probable Anfinn Fredriksen; based on ALT.FO name-to-URL association, not an original page byline
+language: unknown
+notes: The URL is on the Olivant personal-user-page host. The forum post proves that the URL was publicly referenced by 15 December 2002, not when the page began. The modern photographer credit is corroborative context only. Author residence at publication is unknown.
+uncertainties: Original page content and capture; page launch date; author identity; residence in 2002; whether this was a homepage or a photo gallery; exact hosting account holder.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-23
+```
+
+### FO-06 — Føroya Tele/Internet (Olivant) self-service homepage publishing (candidate service record)
+
+The Wayback capture of the `www.internet.fo` homepage dated **5 April 2001** identifies the provider as “The Faroe Islands - Internet Service Provider”, links to a guide titled “Hvussu gerði eg eina heimasíðu” (“How do I make a homepage”), and carries the footer copyright “© 2001 Føroya Tele/Internet”. The linked guide, captured **22 August 2001**, is titled “Leiðbeining - Ger tína egnu heimasíðu” (“Guide — Make your own homepage”). It tells customers how to edit their own page with Netscape Navigator Gold 3 and upload it by FTP to `ftp://heima.olivant.fo/home/<username>/public_html`; its footer is “© 2000 Føroya Tele/Internet”. A separate webhotel price page captured **8 June 2001** describes paid hosting for commercial websites, distinguishing that business service from the personal-user-page instructions.
+
+This directly documents a customer-operated homepage service by 2001. The guide's 2000 copyright is a clue, not proof that the service began in 2000. This is ISP infrastructure, not a personal website or evidence of the first customer page.
+
+```yaml
+id: FO-06
+status: candidate
+person_or_project: Føroya Tele/Internet (Olivant)
+title: Self-service customer homepage publishing and hosting
+url_original: http://www.internet.fo/leidbeining/gerheimasida.html
+url_archived: https://web.archive.org/web/20010822082704/http://www.internet.fo/leidbeining/gerheimasida.html
+country_or_territory: Faroe Islands
+connection_basis: local-hosting
+medium: website
+activity_type: service
+operator_type: commercial
+network_status: internet
+date_claimed: 2001-04-05 (provider homepage advertises the guide by this capture)
+date_type: first-capture
+date_precision: exact
+evidence:
+  - source_url: https://web.archive.org/web/20010405065408/http://www.internet.fo/
+    source_type: Wayback capture of ISP homepage
+    observed_date: 2001-04-05
+    supports: identifies the Faroe Islands Internet Service Provider, lists the homepage-making guide, and shows © 2001 Føroya Tele/Internet
+    grade: A
+  - source_url: https://web.archive.org/web/20010822082704/http://www.internet.fo/leidbeining/gerheimasida.html
+    source_type: Wayback capture of ISP user guide
+    observed_date: 2001-08-22
+    supports: gives instructions for creating and FTP-uploading a personal page to heima.olivant.fo/home/<username>/public_html; footer copyright © 2000 Føroya Tele/Internet
+    grade: A
+  - source_url: https://web.archive.org/web/20010608053345/http://www.internet.fo/tanastur/prisirwebhotel.html
+    source_type: Wayback capture of ISP webhotel service page
+    observed_date: 2001-06-08
+    supports: describes a separate paid webhotel service for commercial websites
+    grade: A
+author_attribution: Føroya Tele/Internet as service operator; no individual page author
+language: Faroese
+notes: This is provider infrastructure and a publishing service, not a personal site. The 2000 copyright does not establish the service's launch date. The guide is captured in August 2001, while the provider homepage already advertises it in April 2001.
+uncertainties: Actual service launch date; number and identity of early customer pages; first individual page; whether earlier user-page captures survive.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-23
+```
+
+### FO-07 — “Privatar-heimasidur” private-homepage directory (lead)
+
+ALT.FO lists `http://heima.olivant.fo/~sonjacob/Farpages/Privatar-heimasidur.htm` under “Føroya best umtøktu heimasíður” (most visited Faroese homepages) and labels it “Privatar-heimasidur” (“private homepages”). The original page is not accessible through this route, and the directory is undated. It may preserve links to multiple individual Olivant pages, so it is a high-value discovery route, not yet evidence for any particular site's date or author.
+
+```yaml
+id: FO-07
+status: lead
+person_or_project: Unknown maintainer; Olivant account path ~sonjacob
+title: Privatar-heimasidur (private homepages directory)
+url_original: http://heima.olivant.fo/~sonjacob/Farpages/Privatar-heimasidur.htm
+url_archived: unknown
+country_or_territory: Faroe Islands
+connection_basis: local-hosting
+medium: website
+activity_type: publishing
+operator_type: unknown
+network_status: internet
+date_claimed: unknown
+date_type: inferred
+date_precision: unknown
+evidence:
+  - source_url: https://www.alt.fo/
+    source_type: Faroese link directory (undated; accessed 2026-11-23)
+    observed_date: unknown
+    supports: lists the exact URL and labels it “Privatar-heimasidur”
+    grade: C
+author_attribution: unknown
+language: Faroese
+notes: The title suggests a directory of private homepages, but its contents have not been recovered. ALT.FO also lists other Olivant user pages, including ~hans, ~mykines and ~dholm; these are separate leads, not dated page evidence.
+uncertainties: Directory creation date; maintainer identity; contents; dates and authors of linked pages; authors' residence at publication.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-23
+```
+
+The local directory ALT.FO also links to `http://heima.olivant.fo/~hans/`, `http://heima.olivant.fo/~mykines/indexfo.htm` and `http://heima.olivant.fo/~dholm/foroyski.htm`. These remain undated leads. The next pass should recover the `~sonjacob` directory and sample user pages through the Faroese National Library Web Archive or Internet Archive captures, then identify each author and residence separately.
 
 ## Gaps and next leads
 
