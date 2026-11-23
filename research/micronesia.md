@@ -47,7 +47,7 @@ Mark C. Goniwiecha's “Guam & Micronesia in Cyberspace,” *Journal of the Paci
 - **Ponape Agriculture and Trade School, Pohnpei, FSM** — http://pats.edu
 - **Chuuk Visitors Bureau, Chuuk, FSM** — http://www.divetravel.com/c-chuuk.html
 
-The article's list mixes personal pages with government, academic, commercial, community and regional resources. The titles above support a country/place association, but do not establish the author's residence, local hosting, or exact operator. The College of Micronesia CompuServe path is the most promising individual-hosted lead; it remains unclassified until the page is recovered.
+The article's list mixes personal pages with government, academic, commercial, community and regional resources. The titles above support a country/place association, but do not establish the author's residence, local hosting, or exact operator. The College of Micronesia CompuServe path is the most promising individual-hosted lead. A 1999 COM-FSM report and later College records make Dana Lee Ling the probable account holder, but the 1997 /comsci.htm page itself remains unclassified until recovered.
 
 Source: Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, printed pp. 119–120 / PDF pp. 3–5, ERIC ED 437 020: https://files.eric.ed.gov/fulltext/ED437020.pdf (accessed 22 November 2026).
 
@@ -257,7 +257,7 @@ evidence:
     supports: lists Dana LeeLing among National Campus employees with 15 years of service
     grade: B
 author_attribution: Dana Lee Ling (probable account holder; original page not recovered)
-language: English (report and profile; original page language unknown)
+language: unknown
 notes: The 1999 report is a contemporary institutional trace, not the homepage itself. The 2008 staff record and current faculty profile corroborate the account-holder identification but do not prove residence at the exact publication date. The reported date is only a latest-by evidence date.
 uncertainties: Original homepage content; launch date; earliest archive capture; exact residence at publication; whether the page mixed personal and professional content.
 researcher: OpenAI GPT-6
@@ -368,7 +368,8 @@ last_checked: 2026-11-17
 
 ## Research interpretation
 
-- The 1995 domain delegation and 1996–97 dial-up/IP milestones establish a clear window for possible personal expression, but no named individual personal homepage has yet been identified.
+- A candidate Dana Lee Ling CompuServe personal homepage is evidenced by a COM-FSM report last edited 27 March 2000. The original page, its first publication date and the author's exact residence at publication remain unknown; FM-04's 1997 /comsci.htm page is a separate, still-unclassified URL.
+- The Fall 1998 student herbarium project and the Botany site moved from GeoCities to the College server by March 2000 are separate academic/student-publishing leads, not personal homepages.
 - `www.telecom.fm` and `www.fm` are institutional/provider hosts, not personal pages; they are useful discovery leads for any linked user directories or early pages.
 - Search for terms such as “home page”, “personal page”, “my page”, local names, and early `.fm` user paths; also check external hosts used by FSM residents.
 - Distinguish resident authors from diaspora or temporary external hosting.
@@ -380,7 +381,7 @@ last_checked: 2026-11-17
 4. Locate any pre-1996 email/UUCP or academic network activity.
 5. Continue parallel Pacific scouting and first-wave items.
 
-**Personal-homepage status:** none verified. Infrastructure and commercial dial-up window opens 1996.
+**Personal-homepage status:** candidate (FM-08, Dana Lee Ling CompuServe homepage evidenced by 27 March 2000; original page and launch date unknown). No earliest personal page is verified. Infrastructure and commercial dial-up window opens 1996.
 
 - Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (FSM-associated entries on printed pp. 119–120 / PDF pp. 3–5): https://files.eric.ed.gov/fulltext/ED437020.pdf
 - COM-FSM, “MSS September 1999 Monthly Report” (last edited 27 March 2000): https://archive.comfsm.fm/~dleeling/t3/monthly_199909.html
