@@ -1,7 +1,7 @@
 # Federated States of Micronesia — early internet activity, networks, and web research
 
-**Status:** active; connectivity candidates plus January 1997 directory-listed government, educational and individual-hosted page leads recorded; no earliest-personal-page candidate verified.  
-**Focus:** locate personal pages made possible by early commercial dial-up and institutional connectivity in the mid-to-late 1990s; distinguish resident authors from diaspora or external hosts.\n**Last checked:** 2026-11-22
+**Status:** active; connectivity candidates and January 1997 directory leads documented; a candidate Dana Lee Ling CompuServe personal homepage is evidenced by March 2000, but no earliest-personal-page claim is verified.  
+**Focus:** locate personal pages made possible by early commercial dial-up and institutional connectivity in the mid-to-late 1990s; distinguish resident authors from diaspora or external hosts.\n**Last checked:** 2026-11-23
 
 ## Early connectivity and ISP context (not personal-page evidence)
 
@@ -86,7 +86,7 @@ last_checked: 2026-11-22
 ```yaml
 id: FM-04
 status: lead
-person_or_project: Unknown operator associated with College of Micronesia, Pohnpei
+person_or_project: Dana Lee Ling (probable account holder; specific page author not directly verified)
 title: College of Micronesia page on a CompuServe personal-homepage path
 url_original: http://ourworld.compuserve.com/homepages/danaleeling/comsci.htm
 url_archived: unknown
@@ -103,14 +103,24 @@ evidence:
   - source_url: https://files.eric.ed.gov/fulltext/ED437020.pdf
     source_type: contemporary Internet-resources directory in Journal of the Pacific Society
     observed_date: 1997-01
-    supports: lists “College of Micronesia, Pohnpei, FSM” and a CompuServe homepages URL
+    supports: lists “College of Micronesia, Pohnpei, FSM” and the exact CompuServe URL
     grade: B
-author_attribution: unknown; URL path contains “danaleeling” but no person identity is independently established
+  - source_url: https://archive.comfsm.fm/~dleeling/t3/monthly_199909.html
+    source_type: COM-FSM Mathematics and Science Support monthly report (September 1999; last edited 2000-03-27)
+    observed_date: 2000-03-27
+    supports: confirms the matching CompuServe account root and describes “Lee Ling home”; says the math web pages remained on CompuServe
+    grade: B
+  - source_url: https://archive.comfsm.fm/~dleeling/leeling.html
+    source_type: COM-FSM faculty profile maintained in the College archive
+    observed_date: 2026-11-23
+    supports: identifies Dana Lee Ling and records her College of Micronesia-FSM employment from 1993 onward
+    grade: C
+author_attribution: Dana Lee Ling is the probable account holder; the original /comsci.htm author and page role are not verified
 language: unknown
-notes: The URL path suggests an individual CompuServe account, making this a promising student/staff/personal-page lead. The directory's College of Micronesia label does not prove that the page was an official college site or that its author lived in Pohnpei.
-uncertainties: Page content; author identity and residence; whether author was a student/staff member; page genre; launch date; earliest capture.
+notes: The matching account slug and later College profile strongly identify the account holder, but the 1997 page itself has not been recovered. The College directory label does not prove that /comsci.htm was official, personal, or authored by Dana. Her College employment is a local institutional connection; residence in Pohnpei at the publication date is not independently proven.
+uncertainties: Original page content; whether /comsci.htm was a course, staff, student or personal page; exact authorship; residence at publication; launch date; earliest capture.
 researcher: OpenAI GPT-6
-last_checked: 2026-11-22
+last_checked: 2026-11-23
 ```
 
 ```yaml
@@ -203,6 +213,92 @@ researcher: OpenAI GPT-6
 last_checked: 2026-11-22
 ```
 
+
+## Dana Lee Ling — CompuServe homepage and student web-publishing evidence
+
+The January 1997 directory's College of Micronesia entry points to an individual CompuServe account (danaleeling). A later COM-FSM Mathematics and Science Support monthly report for September 1999, last edited 27 March 2000, records that the mathematics web pages remained on CompuServe and includes a meta-refresh target to http://ourworld.compuserve.com/homepages/danaleeling; the report links the destination as “Lee Ling home”. This is contemporary evidence that a personal homepage was available by 27 March 2000, not its launch date or a surviving copy of the page.
+
+The College's archived faculty profile identifies Dana Lee Ling and records employment at the College of Micronesia-FSM from April 1993 onward, including the National, Pohnpei and Kosrae campuses. A 28 May 2008 President's Update independently lists Dana LeeLing among National Campus staff with 15 years of service. The exact username, the 1999 “Lee Ling home” reference and the later College records make Dana Lee Ling the probable account holder. The evidence does not establish that she lived in Pohnpei on the date the 1997 page appeared; the country connection is her documented local institutional employment, not nationality or assumed residence.
+
+A separate academic lead appears in the same profile: Dana says she designed a Fall 1998 project in which students created online herbarium pages using scanners, digital cameras and basic web-page software. The September 1999 report says the botany website had moved from GeoCities to the College server. This is student/institutional web publishing, not a personal homepage, and no original student pages have yet been recovered.
+
+**Assessment:** FM-04 remains a lead because /comsci.htm is unrecovered and its page type/author are unknown. FM-08 is a candidate personal homepage by March 2000; FM-09 is a candidate student herbarium website. No first or earliest personal-page claim is established.
+
+```yaml
+id: FM-08
+status: candidate
+person_or_project: Dana Lee Ling
+title: Dana Lee Ling personal homepage on CompuServe
+url_original: http://ourworld.compuserve.com/homepages/danaleeling
+url_archived: unknown
+country_or_territory: Federated States of Micronesia
+connection_basis: other (local COM-FSM employment; residence at publication not independently proven)
+medium: website
+activity_type: personal-expression
+operator_type: individual
+network_status: internet
+date_claimed: 2000-03-27 (latest-by evidence date; not launch date)
+date_type: inferred
+date_precision: exact
+evidence:
+  - source_url: https://archive.comfsm.fm/~dleeling/t3/monthly_199909.html
+    source_type: COM-FSM Mathematics and Science Support monthly report, September 1999; last edited 2000-03-27
+    observed_date: 2000-03-27
+    supports: meta-refresh target to the exact CompuServe homepage path and link text “Lee Ling home”
+    grade: B
+  - source_url: https://archive.comfsm.fm/~dleeling/leeling.html
+    source_type: COM-FSM faculty profile maintained in the College archive
+    observed_date: 2026-11-23
+    supports: identifies Dana Lee Ling and documents College employment beginning April 1993, including work at Pohnpei campus
+    grade: C
+  - source_url: https://www.comfsm.fm/news/archives/update310.html
+    source_type: COM-FSM President's Update memorandum, 28 May 2008
+    observed_date: 2008-05-28
+    supports: lists Dana LeeLing among National Campus employees with 15 years of service
+    grade: B
+author_attribution: Dana Lee Ling (probable account holder; original page not recovered)
+language: English (report and profile; original page language unknown)
+notes: The 1999 report is a contemporary institutional trace, not the homepage itself. The 2008 staff record and current faculty profile corroborate the account-holder identification but do not prove residence at the exact publication date. The reported date is only a latest-by evidence date.
+uncertainties: Original homepage content; launch date; earliest archive capture; exact residence at publication; whether the page mixed personal and professional content.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-23
+```
+
+```yaml
+id: FM-09
+status: candidate
+person_or_project: College of Micronesia-FSM student herbarium pages
+title: Student-created online herbarium pages and Botany website
+url_original: unknown
+url_archived: unknown
+country_or_territory: Federated States of Micronesia
+connection_basis: other (local academic activity; physical hosting location uncertain)
+medium: website
+activity_type: publishing
+operator_type: academic
+network_status: internet
+date_claimed: 1998 (Fall 1998 project, retrospectively described)
+date_type: creation
+date_precision: year
+evidence:
+  - source_url: https://archive.comfsm.fm/~dleeling/leeling.html
+    source_type: COM-FSM faculty profile maintained in the College archive
+    observed_date: 2026-11-23
+    supports: describes a Fall 1998 project in which students created online herbarium pages using scanners, digital cameras and basic web-page software
+    grade: C
+  - source_url: https://archive.comfsm.fm/~dleeling/t3/monthly_199909.html
+    source_type: COM-FSM Mathematics and Science Support monthly report, September 1999; last edited 2000-03-27
+    observed_date: 2000-03-27
+    supports: states that the botany website had been moved from GeoCities to the College server and page conversion was ongoing
+    grade: B
+author_attribution: COM-FSM students under Dana Lee Ling's project; individual student authors not identified
+language: unknown
+notes: Educational/institutional student publishing, not a personal homepage. The 1998 date is retrospective; the 1999 report confirms a Botany website existed by March 2000 but does not prove every page was student-authored or that it first appeared in 1998.
+uncertainties: Original URLs and captures; student authors; page content; first publication date; hosting dates.
+researcher: OpenAI GPT-6
+last_checked: 2026-11-23
+```
+
 ## Structured candidates
 
 ```yaml
@@ -287,3 +383,6 @@ last_checked: 2026-11-17
 **Personal-homepage status:** none verified. Infrastructure and commercial dial-up window opens 1996.
 
 - Mark C. Goniwiecha, “Guam & Micronesia in Cyberspace,” *Journal of the Pacific Society*, January 1997, ERIC ED 437 020 (FSM-associated entries on printed pp. 119–120 / PDF pp. 3–5): https://files.eric.ed.gov/fulltext/ED437020.pdf
+- COM-FSM, “MSS September 1999 Monthly Report” (last edited 27 March 2000): https://archive.comfsm.fm/~dleeling/t3/monthly_199909.html
+- COM-FSM, “Dana Lee Ling” faculty profile (archived College page): https://archive.comfsm.fm/~dleeling/leeling.html
+- COM-FSM President, “President's Update 310” (28 May 2008): https://www.comfsm.fm/news/archives/update310.html
