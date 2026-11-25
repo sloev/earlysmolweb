@@ -83,3 +83,11 @@
 - Result: No new defensible country/territory claim was promoted. The current Faroe restore note was checked; the referenced historical blob was not available through the connected GitHub ref lookup, so no speculative reconstruction was made.
 - Files: this log only.
 - Next: recover the correct historical Faroe file contents from an accessible main-branch commit/ref, then append the Ariadne 1996 evidence without overwriting canonical content.
+
+## 2026-11-25 — Agent: ChatGPT (scheduled pass)
+
+- Branch: main; main HEAD was inspected before work.
+- Read current README, AGENTS.md, WORK_METHOD.md and relevant current research/handoff state.
+- No new defensible country/territory claim was promoted in this pass. The Faroe Islands restore/Ariadne handoff remains the active evidence task; no additional primary/contemporary source sufficient for upgrade was found during this bounded pass.
+- No research file was rewritten or reconstructed from an inaccessible blob. This preserves canonical source history and avoids speculative edits.
+- Status: null result recorded; next handoff is to continue Faroese archive/press/Netarkivet recovery and keep the 1995 homepage lead explicitly unverified.
