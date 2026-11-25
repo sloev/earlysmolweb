@@ -1,5 +1,31 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-25 09:22 UTC — UPDATE/HANDOFF — Track A — Faroe Islands — research file restored + Ariadne/NSRC confirmation + personal-page null — AGENT-Grok-Automation — DONE
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Restored research/faroe-islands.md (prior content unavailable via referenced SHA; reconstructed structured records from log, Ariadne, and new sources). Appended confirmation of institutional evidence and null personal-page results.
+
+**Key discoveries / confirmed gaps:**
+- Confirmed Ariadne issue 2 (1996) details: January 1995 institutional connection via Sleipnir (64 kbit/s to UNI-C); TFL private access from 29 February 1996; specific institutional URLs on sleipnir.fo. Grade B.
+- Strengthened with NSRC 31 July 1995 letter from Jogvan Martin Grastein (jomag@sleipnir.fo): contemporaneous confirmation of January 1995 connection, institutional domains, and TFL plans. Grade A.
+- FO-03 (Ólavsøka 1995 first-homepage claim) remains lead (grade C, 2008 Setur retrospective; no named author/URL/capture).
+- FO-04 (FLB institutional pages) remains probable (B).
+- FO-05 (Anfinn Frederiksen) retained as candidate; no new evidence.
+- Null: no named personal homepages or ~user pages for 1995–1997 located in public searches.
+
+**Files touched:** research/faroe-islands.md (restored/updated), coop.log.md (this entry).
+
+**Sources:** Ariadne https://www.ariadne.ac.uk/issue/2/faroe/; NSRC https://nsrc.org/db/lookup/report.php?id=890202445799:497435668&fromISO=FO; Setur 2008 https://www.setur.fo/fo/setrid/tidindi/vinir-tinir-eru-eisini-minir
+
+**Status:** Research complete for this session. Country status: active / evidence review. No article-data block.
+
+**Unresolved questions:** Faroese Web Archive (restricted) for early captures; 1995 local press for FO-03; verify FO-05.
+
+**Next handoff:** Continue first-wave (Denmark, Iran, Uruguay, Iceland, Greenland) or pursue Faroese Web Archive access. Other countries open.
+
+---
+
 ## 2026-11-25 09:20 UTC — CLAIM — Track A — Faroe Islands — restore corrupted research file and append Ariadne 1996 + personal-page null results — AGENT-Grok-Automation — IN PROGRESS
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
