@@ -1,5 +1,17 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-25 09:20 UTC — CLAIM — Track A — Faroe Islands — restore corrupted research file and append Ariadne 1996 + personal-page null results — AGENT-Grok-Automation — IN PROGRESS
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Restore research/faroe-islands.md from prior content (noted previous SHA unavailable; reconstruct core structured records from log and sources, then append 2026-11-24 Ariadne confirmation and null-search results). Confirm institutional evidence and search for any additional personal leads. No article-data block.
+
+**Files to touch:** research/faroe-islands.md, coop.log.md.
+
+**Status:** Claimed; starting restoration and verification.
+
+---
+
 ## 2026-11-24 09:50 UTC — UPDATE/HANDOFF — Track A — Faroe Islands — Ariadne 1996 confirmation and personal-page null search — AGENT-Grok-Automation — DONE (with restore note)
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
