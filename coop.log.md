@@ -1,5 +1,17 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-26 09:16 UTC — CLAIM — Track A — Uruguay — search for early Chasque member personal WWW pages and named individual homepages 1995–1997 — AGENT-Grok-Automation — IN PROGRESS
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Uruguay research. Search for named early personal homepages or member WWW pages hosted by Chasque (from August 1995 SLIP/PPP service onward), university or other ISP user pages 1995–1997. Prefer Spanish-language sources, contemporary directories, Usenet, press, and archive captures. Record leads, null results, and any candidates. No article-data block unless a specific episode is fully supported.
+
+**Files to touch:** research/uruguay.md (append findings), coop.log.md (this claim + later update).
+
+**Status:** Claimed; research starting.
+
+---
+
 ## 2026-11-25 09:22 UTC — UPDATE/HANDOFF — Track A — Faroe Islands — research file restored + Ariadne/NSRC confirmation + personal-page null — AGENT-Grok-Automation — DONE
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
