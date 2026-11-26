@@ -1,7 +1,7 @@
 # Uruguay — early internet activity
 
 **Status:** active / evidence review  
-**Last updated:** 2026-11-19  
+**Last updated:** 2026-11-26  
 **Researcher:** Grok (xAI)
 
 ## Internet context
@@ -106,3 +106,36 @@ Source: *Aportes para la historia del Instituto de Computación [1967–2012]*, 
 The 1 October 1991 InCuy user list reproduced in the InCo history includes the handle `holz`. A separate NSRC record preserves Ida Holz's 2 April 1993 message from `holz@SECIU.UY`. This makes a connection between the 1991 account and Ida Holz a useful **lead**, but the shared string alone does not prove account ownership or that the 1991 handle was hers. Do not merge them without an original user register, email header, or independent institutional record.
 
 Sources: InCo history, PDF text pp. 49–50: https://www.fing.edu.uy/sites/default/files/Aportes_para_la_Historia_del_INCO_0.pdf ; NSRC, 2 Apr 1993: https://nsrc.org/db/lookup/report.php?fromISO=UY&id=890202534324:497425387.
+
+
+## Personal / community web candidate — Guillermo Font / vecinet (1996)
+
+A named individual-operated community site hosted on Chasque provides one of the earliest documented examples of personal/community web publishing connected to Uruguay.
+
+- **Person / project:** Guillermo Font (electricista, social activist, later concejal vecinal); vecinet / Autogestión Vecinal.
+- **Original URL:** http://www.chasque.apc.org/guifont (later also http://www.chasque.net/vecinet).
+- **Country connection:** Author residence and activity in Montevideo, Uruguay; local hosting on Chasque (Instituto del Tercer Mundo / APC node).
+- **Date claimed:** 18 May 1996 (founding of vecinet as the first Uruguayan Internet medium for neighbourhood/community news, information and documentation). Multiple retrospective sources, including Font’s own accounts and anniversary articles, consistently cite this date. The site was catalogued by July 1998 in a Spanish urban-sustainability directory.
+- **Medium / activity:** website / web-publication; community publishing and personal expression by an individual operator.
+- **Operator type:** individual (community/nonprofit character).
+- **Status:** **candidate** (strong retrospective corroboration; no contemporary 1996 capture or primary server log located yet).
+- **Evidence:**
+  - Habitat.aq.upm.es catalogue entry (reviewed July 1998): owner Guillermo Font, Uruguay, mailbox guifont@chasque.apc.org, URL http://www.chasque.apc.org/guifont. Grade B (contemporary directory).
+  - Font’s CV and multiple anniversary pieces (e.g. LaRed21 2016, vecinet newsletters) state founding on 18 May 1996 as the first Uruguayan Internet agency for social/neighbourhood news. Grade C (retrospective author and press).
+  - Consistent with Chasque’s August 1995 offer of member WWW pages.
+- **Sources:**
+  - https://habitat.aq.upm.es/internet/catalogo/s0034.html
+  - http://www.chasque.net/vecinet/ (and historical newsletters such as noti825.htm, noti1109.htm)
+  - https://www.lr21.com.uy/comunidad/1288988-comunicacion-alternativa-independiente-participacion-organizacion-popular-vecinet-cumple-20-anos
+  - Font CV: http://www.chasque.net/vecinet/CVguifont.pdf
+- **Uncertainties:** Exact first public date vs. claimed founding; no Wayback capture before ~2000 located in this session; relationship between /guifont and /vecinet paths.
+- **Notes:** This is community-oriented personal publishing rather than a pure private homepage, but it is individually authored and operated. Stronger personal-expression candidate than pure institutional sites.
+
+### Additional context — Montevideo Portal (November 1995)
+
+Montevideo Portal (Montevideo COMM) launched in November 1995 as Uruguay’s first fully digital news medium / portal. Founders: Marisa Casamayor, Javier Serra, Víctor Villar. It included chat, free email (@montevideo.com.uy) and basic news. This is commercial/institutional publishing, not individual personal expression, but it is an early local web publication contemporaneous with or slightly after Chasque’s member-page offer.
+
+- Sources: Montevideo Portal anniversary articles (e.g. https://www.montevideo.com.uy/Archivo/25-anos-del-Portal-cuando-los-muchachos-de-Montevideo-se-hicieron-noticia-uc772696); Wikipedia entry.
+- Status: lead / institutional publishing milestone. Grade C retrospective.
+
+**Next actions:** Search Wayback / local archives for earliest captures of chasque.apc.org/guifont or /vecinet; check 1996 Uruguayan press for notices of vecinet or other personal pages; identify other Chasque member pages from 1995–97 directories.
