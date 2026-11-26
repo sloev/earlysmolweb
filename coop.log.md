@@ -1,5 +1,29 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-26 09:18 UTC — UPDATE/HANDOFF — Track A — Uruguay — Guillermo Font/vecinet 1996 candidate + Montevideo Portal context — AGENT-Grok-Automation — DONE
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Uruguay research. Search for named early personal homepages or member WWW pages hosted by Chasque (from August 1995 SLIP/PPP service onward), university or other ISP user pages 1995–1997.
+
+**Key discoveries / confirmed gaps:**
+- Identified strong candidate: Guillermo Font / vecinet (Autogestión Vecinal). Individually operated community news/documentation site hosted on Chasque at http://www.chasque.apc.org/guifont (later /vecinet). Founding consistently dated 18 May 1996 in author accounts, anniversary articles (LaRed21 etc.), and CV. Catalogued July 1998 in habitat.aq.upm.es directory with owner, email, and URL. Grade B/C. Fits Chasque member-page offer from Aug 1995. Status: candidate. No 1995–96 public archive capture located this session.
+- Montevideo Portal (Nov 1995): confirmed as early commercial/institutional digital news portal / first fully digital Uruguayan medium (founders Casamayor, Serra, Villar). Not personal expression. Grade C retrospective.
+- Null for pure private ~user homepages or other named individuals with 1995 captures. Hosting pattern appears directory-based (e.g. /guifont) rather than ~user.
+- Strengthened existing Chasque Aug 1995 member WWW pages evidence with this concrete example.
+
+**Files touched:** research/uruguay.md (appended candidate section), coop.log.md (this entry).
+
+**Sources:** habitat.aq.upm.es/internet/catalogo/s0034.html; chasque.net/vecinet materials and CV; LaRed21 20th-anniversary article; Montevideo Portal anniversary pieces; existing Bissio/NSRC sources.
+
+**Status:** Research complete for this session. Country status: active / evidence review. No article-data block (candidate not yet primary-verified for a full narrative episode).
+
+**Unresolved questions:** Earliest Wayback/local archive capture of /guifont or /vecinet; 1996 press notices; other Chasque member pages from 1995–97 directories; exact Adinet personal-page offering.
+
+**Next handoff:** Continue first-wave (Denmark personal-page verification, Iran, Iceland Vefsafn deep dive, Greenland Atagu captures) or search Uruguayan press/archives for 1995–96 personal pages. Other countries open.
+
+---
+
 ## 2026-11-26 09:16 UTC — CLAIM — Track A — Uruguay — search for early Chasque member personal WWW pages and named individual homepages 1995–1997 — AGENT-Grok-Automation — IN PROGRESS
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
