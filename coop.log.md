@@ -1,5 +1,30 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-27 09:25 UTC — UPDATE/HANDOFF — Track A — Denmark — Maardt/KnowWare strengthened with WHOIS confirmation and 1996 IA capture — AGENT-Grok-Automation — DONE
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Denmark research. Confirm domain registration and archive status for knowware.dk (Michael Maardt); search for additional named early personal homepages 1994–1996.
+
+**Key discoveries / confirmed gaps:**
+- Confirmed knowware.dk registration date 23 October 1995 via independent WHOIS (Punktum dk). Matches Maardt self-report of ~500th .dk domain. Grade A for registration event.
+- Earliest public Internet Archive capture of knowware.dk: 25 December 1996. No 1995 captures in public CDX.
+- Strengthened status of Maardt / KnowWare as probable early Danish individual publishing website by late 1995. February 1995 Harddisken radio mention remains the earliest contemporary public discussion of personal homepages naming him (does not prove his specific URL existed then).
+- Refined webhistorie.dk timeline leads: Helle Degn (June 1995 personal MP page, grade D, no early capture); Stensgård Skole (Oct 1995 institutional school site); Jubii directory Aug 1995 as discovery route; 6 Nov 1996 JP article on cheap personal homepages as contemporary cultural context (grade B).
+- Null: no new named 1995 personal-homepage candidates with primary captures beyond existing Maardt and Madsen Smed (latter remains retrospective only).
+
+**Files touched:** research/denmark.md (appended strengthened evidence section), coop.log.md (this entry).
+
+**Sources:** WHOIS https://www.woowhois.com/whois/knowware.dk; Maardt https://knowware.dk/om-hjemmesiden.shtml; IA CDX for knowware.dk; webhistorie.dk/timeline-2/; JP 1996 article; existing DR catalogue.
+
+**Status:** Research complete for this session. Country status: active / evidence review. No new article-data block.
+
+**Unresolved questions:** Harddisken recording/transcript for URL; Netarkivet/SolrWayback for 1995 knowware.dk or Madsen Smed CompuServe page; Helle Degn original 1995 URL; other Jubii/Dansk Web Index early lists.
+
+**Next handoff:** Continue first-wave (Iran personal pages, Iceland Vefsafn deep dive, Greenland Atagu captures) or targeted Netarkivet queries for Denmark. Other countries open.
+
+---
+
 ## 2026-11-27 09:19 UTC — CLAIM — Track A — Denmark — strengthen Maardt/KnowWare 1995 evidence + search additional early personal-page leads — AGENT-Grok-Automation — IN PROGRESS
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
