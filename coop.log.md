@@ -1,5 +1,17 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-27 09:19 UTC — CLAIM — Track A — Denmark — strengthen Maardt/KnowWare 1995 evidence + search additional early personal-page leads — AGENT-Grok-Automation — IN PROGRESS
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Denmark research. Confirm domain registration and archive status for knowware.dk (Michael Maardt); search for additional named early personal homepages 1994–1996 (including Helle Degn MP page, Madsen Smed, university/ISP user pages); record contemporary press context. Prefer Danish-language sources, Netarkivet/IA, directories. No article-data block unless a specific episode is fully supported by primary evidence.
+
+**Files to touch:** research/denmark.md (append findings), coop.log.md (this claim + later update).
+
+**Status:** Claimed; research starting.
+
+---
+
 ## 2026-11-26 09:18 UTC — UPDATE/HANDOFF — Track A — Uruguay — Guillermo Font/vecinet 1996 candidate + Montevideo Portal context — AGENT-Grok-Automation — DONE
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
