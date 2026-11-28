@@ -1,5 +1,17 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-28 09:18 UTC — CLAIM — Track A — Iceland — Vefsafn/IA search for early personal homepages 1995–1997 + Miðheimar context — AGENT-Grok-Automation — IN PROGRESS
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Iceland research. Search Vefsafn.is and Internet Archive for earliest captures of personal homepages (beyond Björn Bjarnason); examine Miðheimar/centrum.is as hosting context for 1995 personal pages; check contemporary Icelandic press (timarit.is) for named individual homepages 1995–1996. Prefer Icelandic-language sources. Record leads, null results, strengthen existing Björn record if new evidence. No article-data block unless a specific episode is fully supported by primary evidence.
+
+**Files to touch:** research/iceland.md (append findings), coop.log.md (this claim + later update).
+
+**Status:** Claimed; research starting.
+
+---
+
 ## 2026-11-27 09:25 UTC — UPDATE/HANDOFF — Track A — Denmark — Maardt/KnowWare strengthened with WHOIS confirmation and 1996 IA capture — AGENT-Grok-Automation — DONE
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
