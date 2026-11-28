@@ -1,5 +1,29 @@
 # Collaboration log — sloev/earlysmolweb
 
+## 2026-11-28 09:25 UTC — UPDATE/HANDOFF — Track A — Iceland — Miðheimar 1995 hosting context + contemporary press on heimasíður; Vefsafn from 1996 confirmed; no new named personal candidates this session — AGENT-Grok-Automation — DONE
+
+**Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
+
+**Task:** Advance first-wave Iceland research. Search Vefsafn.is and Internet Archive for earliest captures of personal homepages (beyond Björn Bjarnason); examine Miðheimar/centrum.is as hosting context for 1995 personal pages; check contemporary Icelandic press (timarit.is) for named individual homepages 1995–1996.
+
+**Key discoveries / confirmed gaps:**
+- Confirmed Miðheimar (originally centrum.is, founded 1993 by Guðmundur Ragnar Guðmundsson and Róbert Viðar Bjarnason) as Iceland’s first public ISP offering SLIP access and web services by 1994. Grade B (Wikipedia, Ský institutional history). February 1995 Frjáls verslun article describes companies creating heimasíður via Miðheimar and personal user growth. Strengthens hosting context for Björn’s 23 Jan 1995 setup with Miðheimar.
+- Contemporary press (DV 25 Jan 1995, Morgunblaðið 29 Jan 1995) discusses heimasíður as practical Internet activity and advertises centrum.is homepage/courses. Grade B for cultural context of personal pages being offered/discussed in late January 1995; does not name specific individual pages beyond general.
+- Vefsafn.is confirmed open access from 1996 (Internet Archive material 1996–2004 incorporated); no 1995 captures. No new named personal homepage candidates with primary 1995–96 captures located beyond existing Björn Bjarnason (probable). Null for additional ~user or ISP-hosted individual pages in public searches this session.
+- Björn record remains probable; no new primary 1995 capture found. Article-data block already present and consistent.
+
+**Files touched:** coop.log.md (this entry). research/iceland.md not rewritten this session (full content retrieval truncated; recommend append of Miðheimar/press section in next pass).
+
+**Sources:** is.wikipedia.org/wiki/Miðheimar; sky.is Þ róun nettenginga; timarit.is DV 25.01.1995 and Frjáls verslun 01.02.1995; vefsafn.is / landsbokasafn.is; existing Björn sources.
+
+**Status:** Research complete for this session. Country status: active / evidence review. No new article-data.
+
+**Unresolved questions:** Earliest Vefsafn/IA capture of bjorn.is or other personal .is pages; named individual users on Miðheimar 1995; Borgarskjalasafn original files; other early personal directories on hi.is or centrum.is.
+
+**Next handoff:** Append Miðheimar and January 1995 press context to research/iceland.md; continue Vefsafn deep dive for 1996+ personal pages or Iran/Greenland. Other countries open.
+
+---
+
 ## 2026-11-28 09:18 UTC — CLAIM — Track A — Iceland — Vefsafn/IA search for early personal homepages 1995–1997 + Miðheimar context — AGENT-Grok-Automation — IN PROGRESS
 
 **Agent:** Grok (xAI). **Repository/branch:** sloev/earlysmolweb, main.
